@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T09:41:11+00:00",
+  "updated": "2026-08-10T13:23:42+00:00",
   "items": [
     {
       "cat": "lancamento",
@@ -20,6 +20,110 @@
       "signal": 5,
       "hook": "\"Marca aí: 6 de agosto\" com tom de contagem regressiva — ótimo pra short curto que pede pra salvar/lembrar. Deixa claro que é especulação.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "date": "10/08/2026",
+      "publishedAt": "2026-08-10T12:52:40+00:00",
+      "headline": "GTA 6 vai permitir trocar de carro principal igual no RDR2?",
+      "desc": "A Rockstar pode adaptar o sistema de 'sela' de Red Dead Redemption 2 para veículos no GTA 6, permitindo mudar seu carro fixo conforme a história avança. As artes conceituais com muscle cars recorrentes dão força a essa teoria.",
+      "signal": 4,
+      "hook": "E se você pudesse registrar qualquer carro como seu veículo oficial no GTA 6, exatamente como funcionavam os cavalos no Red Dead 2?",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vkk063/can_we_switch_saddle_to_other_cars_like_rdr2/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "date": "10/08/2026",
+      "publishedAt": "2026-08-10T11:35:37+00:00",
+      "headline": "Atores do Jason e do Cal em GTA 6 foram praticamente confirmados!",
+      "desc": "O ator Bobby Moynihan começou a seguir Dylan Rourke no Instagram, alimentando fortes rumores na comunidade. Os dois são apontados como os dubladores e atores de captura dos personagens Jason e Cal.",
+      "signal": 4,
+      "hook": "Descobriram quem são os atores reais por trás do Jason e do Cal em GTA 6 por causa de um detalhe bobo no Instagram!",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vkib9w/jason_and_cal_actors_are_pretty_much_confirmed/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "date": "10/08/2026",
+      "publishedAt": "2026-08-10T11:04:25+00:00",
+      "headline": "GTA 6 corre risco sério de ser banido na Austrália?",
+      "desc": "A classificação indicativa australiana baniu recentemente jogos que usam certas substâncias como itens de cura no gameplay. Como GTA 6 promete mecânicas bastante realistas, a comunidade teme sanções por lá.",
+      "signal": 4,
+      "hook": "O GTA 6 pode ser simplesmente BANIDO de um país inteiro por causa de um detalhe no sistema de cura do jogo!",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vkhpoo/australia_ban/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "date": "10/08/2026",
+      "publishedAt": "2026-08-10T11:01:32+00:00",
+      "headline": "A comunidade de GTA 6 tá coringando completamente no Reddit",
+      "desc": "Os fãs no subreddit de GTA 6 estão criando memes insanos sobre qualquer micro-detalhe ou falta de notícias do jogo. A ansiedade geral transformou os fóruns num grande hospício de teorias.",
+      "signal": 4,
+      "hook": "Olha o estado em que tá a cabeça dos fãs de GTA 6 no Reddit enquanto a Rockstar não lança o próximo trailer!",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vkhnry/this_sub_atm/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "date": "10/08/2026",
+      "publishedAt": "2026-08-10T10:21:55+00:00",
+      "headline": "Jornalista francês busca 'investigadores' da comunidade de GTA 6 para documentário",
+      "desc": "Um produtor do jornal Le Parisien está produzindo uma grande reportagem sobre os fãs que dissecam cada frame dos trailers do jogo. O projeto foca em como a comunidade mantém a franquia viva via teorias e GTA RP.",
+      "signal": 4,
+      "hook": "Aquela galera que analisa até a sombra da folha no trailer de GTA 6 virou tema de um documentário na França!",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vkgy0l/french_journalist_looking_for_deep_dive_fans_who/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "date": "10/08/2026",
+      "publishedAt": "2026-08-10T09:54:07+00:00",
+      "headline": "A contagem regressiva pro GTA 6 tá deixando todo mundo louco!",
+      "desc": "A comunidade no Reddit comemorou ao perceber que estamos cada vez mais próximos das datas estratégicas da Rockstar. O sentimento de 'estamos quase lá' domina as redes sociais dos gamers.",
+      "signal": 4,
+      "hook": "Falta menos do que você imagina! A comunidade calculou a data e a gente tá muito perto de ver mais do GTA 6!",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vkgftl/boys_were_almost_there/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "date": "09/08/2026",
+      "publishedAt": "2026-08-09T19:00:01+00:00",
+      "headline": "Meme do idoso esperando GTA 6 viraliza nas redes",
+      "desc": "Um vídeo bem-humorado mostrando um avô esperando pacientemente o lançamento de GTA 6 tomou as redes sociais. A brincadeira reflete os mais de 10 anos de espera desde o GTA 5.",
+      "signal": 4,
+      "hook": "Será que dá tempo do seu avô jogar GTA 6 com você? Dá uma olhada nesse meme que viralizou na comunidade!",
+      "url": "https://youtube.com/watch?v=oitX_tQej0Q"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "date": "09/08/2026",
+      "publishedAt": "2026-08-09T16:17:30+00:00",
+      "headline": "Meme: coisas absurdas que vão acontecer antes de GTA 6 ser lançado",
+      "desc": "Vídeos zombando que até jogadores de futebol vão virar presidentes antes da Rockstar lançar o jogo tomaram a internet. A demora virou piada recorrente no mundo dos eSports e dos games.",
+      "signal": 4,
+      "hook": "A galera tá inventando que até jogador de futebol vai virar presidente antes do GTA 6 sair... e o pior é que tá engraçado demais!",
+      "url": "https://youtube.com/watch?v=NXJACZljsh8"
     },
     {
       "cat": "viral",
@@ -401,101 +505,6 @@
       "signal": 4,
       "hook": "Curiosidade rápida: 'GTA 6: data confirmada, mas desempenho no PS5 preocupa' — bom pra fechar um vídeo ou virar corte solto.",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xSHA4bXp1ZFJwR0lnRFN6U05Qd3NvSFhCeTAtZXRTM2pCTTBfb0Q5MVNwdVNQM1VLUnZFSlNmTXEzUk9yQXMtM1NBbjNJbTkxNF9TN3dVYkVlV01uU0hfNWFKR1JHbDgtdGU0aA?oc=5"
-    },
-    {
-      "cat": "vendas",
-      "tagLabel": "Vendas & Preço",
-      "date": "30/06/2026",
-      "headline": "Já é o mais vendido da PS Store globalmente",
-      "desc": "Reservas abriram em 25 de junho e o jogo virou o mais vendido da loja da PlayStation em praticamente todo o mundo.",
-      "signal": 4,
-      "hook": "\"Ninguém nem jogou ainda e já é recorde de vendas\" — bom gancho de choque com número forte na primeira frase.",
-      "url": null
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "date": "30/06/2026",
-      "headline": "Rumor de versão para Nintendo Switch 2",
-      "desc": "Insiders reafirmam que Rockstar, Nintendo e Take-Two estariam negociando uma versão do jogo pro Switch 2.",
-      "signal": 4,
-      "hook": "\"GTA 6 pode vir pro Switch 2?\" como pergunta de abertura — boa pra puxar comentários de quem duvida ser possível tecnicamente.",
-      "url": null
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "date": "06/07/2026",
-      "headline": "Novo sistema de transporte inspirado na Miami real",
-      "desc": "Detalhes do segundo trailer e vazamentos anteriores sugerem um jeito novo de se locomover pela Vice City, baseado em Miami de verdade.",
-      "signal": 4,
-      "hook": "Comparar print do trailer lado a lado com foto real de Miami — formato \"achei a referência real\" costuma performar bem.",
-      "url": null
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "date": "10/08/2026",
-      "publishedAt": "2026-08-10T03:37:13+00:00",
-      "headline": "Driving around",
-      "desc": "The most exciting thing I am thinking about is honestly just driving around. I wanna try out all the cars, see how different they feel, cruise around the map, listen to the radio and just explore. I feel like I’m gonna spend so much time not even doing missions, just driving arou",
-      "signal": 3,
-      "hook": "Mostra o clipe/post que tá bombando ('Driving around') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vk9w15/driving_around/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "date": "10/08/2026",
-      "publishedAt": "2026-08-10T03:29:22+00:00",
-      "headline": "Cheers to 100 days until GTA 6 releases. We're so close",
-      "desc": "Post em alta no r/GTA6 — ver fonte.",
-      "signal": 3,
-      "hook": "Mostra o clipe/post que tá bombando ('Cheers to 100 days until GTA 6 releases. We're so close') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vk9qgb/cheers_to_100_days_until_gta_6_releases_were_so/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "date": "10/08/2026",
-      "publishedAt": "2026-08-10T02:36:09+00:00",
-      "headline": "Would you like critical injured euphoria physics to be in gta 6?",
-      "desc": "Post em alta no r/GTA6 — ver fonte.",
-      "signal": 3,
-      "hook": "Mostra o clipe/post que tá bombando ('Would you like critical injured euphoria physics to be in gta 6?') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vk8nio/would_you_like_critical_injured_euphoria_physics/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "date": "10/08/2026",
-      "publishedAt": "2026-08-10T00:00:07+00:00",
-      "headline": "GTA6 is 100 Days away!",
-      "desc": "Post em alta no r/GTA6 — ver fonte.",
-      "signal": 3,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA6 is 100 Days away!') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vk5bjf/gta6_is_100_days_away/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "date": "09/08/2026",
-      "publishedAt": "2026-08-09T23:59:04+00:00",
-      "headline": "GTA 6 will finally release in 100 days",
-      "desc": "We are 100 days out from the release of the most anticipated entertainment product of all time. That basically almost 2400 hours, we are getting very close.",
-      "signal": 3,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 will finally release in 100 days') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vk5aoi/gta_6_will_finally_release_in_100_days/"
     }
   ]
 }
