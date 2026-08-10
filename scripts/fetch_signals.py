@@ -24,7 +24,7 @@ import statistics
 
 DATA_FILE = os.path.join(os.path.dirname(__file__), "..", "data.json")
 DATA_FILE = os.path.abspath(DATA_FILE)
-MAX_ITEMS = 40
+MAX_ITEMS = 60
 LOOKBACK_HOURS = 72
 UA = "vigia-gta6-bot/1.0 (+https://github.com/)"
 CHANNEL_BASELINE_FILE = os.path.join(os.path.dirname(__file__), "..", "channel_baselines.json")
@@ -34,14 +34,35 @@ HOT_TOP_N = 6
 BASELINE_MAX_AGE_HOURS = 24
 BASELINE_MIN_SAMPLE = 3
 OUTLIER_CHANNEL_MULTIPLIER = 2
+MIN_NEWS = 10
+MIN_VIDEO_LONGO = 10
+MIN_VIDEO_CURTO = 10
 
-NEWS_QUERIES = [
-    "GTA 6",
-    "GTA VI Rockstar",
-    "GTA 6 leak OR rumor",
-    "GTA 6 Take-Two",
-    "Rockstar Games union OR crunch",
-    "GTA 6 preço OR price OR sales",
+NEWS_LOCALES = [
+    ("pt", "pt-BR", "BR", "BR:pt-419", [
+        "GTA 6",
+        "GTA VI Rockstar",
+        "GTA 6 leak OR rumor",
+        "GTA 6 Take-Two",
+        "Rockstar Games union OR crunch",
+        "GTA 6 preço OR price OR sales",
+    ]),
+    ("en", "en-US", "US", "US:en", [
+        "GTA 6",
+        "GTA VI Rockstar",
+        "GTA 6 leak OR rumor",
+        "GTA 6 Take-Two",
+        "Rockstar Games union OR crunch",
+        "GTA 6 price OR sales OR delay",
+    ]),
+    ("es", "es-419", "MX", "MX:es-419", [
+        "GTA 6",
+        "GTA VI Rockstar",
+        "GTA 6 filtracion OR rumor",
+        "GTA 6 Take-Two",
+        "Rockstar Games sindicato OR huelga",
+        "GTA 6 precio OR retraso",
+    ]),
 ]
 
 CATEGORY_RULES = [
@@ -131,30 +152,37 @@ def score_item(recency_hours, engagement, keyword_bonus, outlier=False):
 def fetch_news():
     items = []
     cutoff = datetime.now(timezone.utc) - timedelta(hours=LOOKBACK_HOURS)
-    for q in NEWS_QUERIES:
-        url = f"https://news.google.com/rss/search?q={urllib.parse.quote(q)}&hl=pt-BR&gl=BR&ceid=BR:pt-419"
-        try:
-            feed = feedparser.parse(url)
-        except Exception as e:
-            print(f"[news] falhou '{q}': {e}", file=sys.stderr)
-            continue
-        for entry in feed.entries[:12]:
+    for lang, hl, gl, ceid, queries in NEWS_LOCALES:
+        lang_count = 0
+        for q in queries:
+            url = f"https://news.google.com/rss/search?q={urllib.parse.quote(q)}&hl={hl}&gl={gl}&ceid={ceid}"
             try:
-                published = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
-            except Exception:
-                published = datetime.now(timezone.utc)
-            if published < cutoff:
+                feed = feedparser.parse(url)
+            except Exception as e:
+                print(f"[news] falhou '{q}' ({lang}): {e}", file=sys.stderr)
                 continue
-            title = re.sub(r"\s*-\s*[^-]+$", "", entry.title)  # tira " - Fonte" do fim
-            items.append({
-                "source": "news",
-                "headline": title,
-                "desc": getattr(entry, "summary", "")[:280],
-                "url": entry.link,
-                "published": published,
-                "engagement": 0,
-                "keyword_bonus": 1 if re.search(r"confirm|official|oficial", title.lower()) else 0,
-            })
+            if not feed.entries:
+                print(f"[news] '{q}' ({lang}) voltou sem entradas — status={getattr(feed, 'status', '?')} bozo={getattr(feed, 'bozo', 0)} bozo_exception={getattr(feed, 'bozo_exception', None)}", file=sys.stderr)
+            for entry in feed.entries[:12]:
+                try:
+                    published = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
+                except Exception:
+                    published = datetime.now(timezone.utc)
+                if published < cutoff:
+                    continue
+                title = re.sub(r"\s*-\s*[^-]+$", "", entry.title)  # tira " - Fonte" do fim
+                items.append({
+                    "source": "news",
+                    "newsLang": lang,
+                    "headline": title,
+                    "desc": getattr(entry, "summary", "")[:280],
+                    "url": entry.link,
+                    "published": published,
+                    "engagement": 0,
+                    "keyword_bonus": 1 if re.search(r"confirm|official|oficial", title.lower()) else 0,
+                })
+                lang_count += 1
+        print(f"[news] {lang}: {lang_count} itens dentro da janela de {LOOKBACK_HOURS}h", file=sys.stderr)
     return items
 
 
@@ -479,6 +507,22 @@ def compute_outliers(items, key, baselines, check_hot=True):
         it["outlier"] = is_hot or is_channel_outlier
 
 
+def _apply_language_safety(classified, rewritten):
+    """Se a reescrita por IA não rodou com sucesso nessa rodada, uma notícia
+    que não é originalmente em português ficaria exibida no idioma original
+    — descarta em vez de mostrar errado (mesma filosofia do resumo diário:
+    silêncio é preferível a exibir algo incorreto). newsLang é sempre um
+    campo interno: nunca deve sobrar no item retornado."""
+    if not rewritten:
+        classified = [
+            it for it in classified
+            if not (it["source"] == "news" and it.get("newsLang") not in (None, "pt"))
+        ]
+    for it in classified:
+        it.pop("newsLang", None)
+    return classified
+
+
 def build_items(existing_items, baselines):
     raw = fetch_news() + fetch_reddit() + fetch_youtube()
     raw.sort(key=lambda x: x["published"], reverse=True)
@@ -512,6 +556,7 @@ def build_items(existing_items, baselines):
             "videoType": it.get("videoType"),
             "channelId": it.get("channelId"),
             "outlier": outlier,
+            "newsLang": it.get("newsLang"),
             "date": it["published"].strftime("%d/%m/%Y"),
             "publishedAt": it["published"].isoformat(timespec="seconds"),
             "headline": it["headline"].strip(),
@@ -529,6 +574,8 @@ def build_items(existing_items, baselines):
             orig["headline"] = new.get("headline", orig["headline"])
             orig["desc"] = new.get("desc", orig["desc"])
             orig["hook"] = new.get("hook", orig["hook"])
+
+    classified = _apply_language_safety(classified, rewritten)
 
     return classified
 
@@ -596,6 +643,48 @@ def recheck_youtube_items(existing_items, key, baselines):
         it["signal"] = score_item(recency_hours, stats["views"], 0, outlier=it["outlier"])
 
 
+def _trim_with_quotas(combined, max_items):
+    """Protege por categoria de alto sinal (comportamento já existente) E por
+    cota mínima de tipo de conteúdo (notícias, vídeo longo, vídeo curto) — sem
+    a cota de tipo, o engajamento sintético do Reddit expulsa sistematicamente
+    notícias e vídeos do corte, porque eles nunca têm engagement tão alto.
+    Nunca força a existir mais itens de um tipo do que realmente há
+    candidatos disponíveis. Reddit não tem cota fixa — preenche o restante do
+    espaço naturalmente."""
+    if len(combined) <= max_items:
+        return combined
+
+    def _top_n(predicate, n):
+        matching = sorted((it for it in combined if predicate(it)), key=lambda x: x["signal"], reverse=True)
+        return matching[:n]
+
+    cat_protected = [it for it in combined if it["cat"] in ("lancamento", "trabalhista", "vendas") and it["signal"] >= 5]
+    news_protected = _top_n(lambda it: it.get("source") == "news", MIN_NEWS)
+    longo_protected = _top_n(lambda it: it.get("source") == "youtube" and it.get("videoType") == "longo", MIN_VIDEO_LONGO)
+    curto_protected = _top_n(lambda it: it.get("source") == "youtube" and it.get("videoType") == "curto", MIN_VIDEO_CURTO)
+
+    protected = []
+    seen_urls = set()
+    # Ordem importa: as cotas de tipo (news/longo/curto) entram primeiro, e a
+    # proteção de categoria (sem limite de tamanho) entra por último. Cada
+    # cota de tipo é limitada a 10 itens (no máximo 30 no total, bem abaixo de
+    # MAX_ITEMS), enquanto cat_protected pode crescer sem limite. Como o corte
+    # final é (protected + rest)[:max_items], se o conjunto protegido
+    # combinado ultrapassar max_items, é a proteção de categoria (não
+    # limitada) que deve ser truncada — nunca as cotas de tipo garantidas.
+    for group in (news_protected, longo_protected, curto_protected, cat_protected):
+        for it in group:
+            url = it.get("url")
+            if url in seen_urls:
+                continue
+            seen_urls.add(url)
+            protected.append(it)
+
+    rest = [it for it in combined if it.get("url") not in seen_urls]
+    rest.sort(key=lambda x: x["signal"], reverse=True)
+    return (protected + rest)[:max_items]
+
+
 def main():
     existing = load_existing()
     existing_items = existing.get("items", [])
@@ -609,13 +698,7 @@ def main():
     save_channel_baselines(baselines)
 
     combined = new_items + existing_items
-    # nunca derruba itens de alto sinal em categorias-chave; corta o resto se passar do limite
-    if len(combined) > MAX_ITEMS:
-        protected = [it for it in combined if it["cat"] in ("lancamento", "trabalhista", "vendas") and it["signal"] >= 5]
-        rest = [it for it in combined if it not in protected]
-        rest.sort(key=lambda x: x["signal"], reverse=True)
-        combined = protected + rest
-        combined = combined[:MAX_ITEMS]
+    combined = _trim_with_quotas(combined, MAX_ITEMS)
 
     out = {
         "updated": datetime.now(timezone.utc).astimezone().isoformat(timespec="seconds"),
