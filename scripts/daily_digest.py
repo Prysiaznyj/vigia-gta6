@@ -1,15 +1,16 @@
 #!/usr/bin/env python3
 """
-VIGIA // GTA VI — resumo diário via Notion + Telegram.
+VIGIA // GTA VI — resumo diário via Telegram.
 
 Roda 1x/dia via GitHub Actions (cron). Lê o data.json já gerado pelo
 fetch_signals.py (não importa nem modifica esse script), seleciona os
-sinais fortes das últimas 24h e manda pro Notion (arquivo buscável) e
-Telegram (empurrão pra pessoa agir no dia).
+sinais fortes das últimas 24h e manda um empurrão curado pro Telegram —
+o arquivo completo de tudo que a ferramenta encontra fica por conta do
+arquivamento no Notion que já roda a cada varredura de 4h, direto no
+fetch_signals.py (não é responsabilidade deste script).
 
-Todas as credenciais são opcionais — sem NOTION_TOKEN/NOTION_DATABASE_ID
-pula o Notion, sem TELEGRAM_BOT_TOKEN/TELEGRAM_CHAT_ID pula o Telegram,
-sem nenhuma das duas o script sai sem fazer nada.
+TELEGRAM_BOT_TOKEN/TELEGRAM_CHAT_ID são opcionais — sem elas o script sai
+sem fazer nada.
 """
 import json
 import os
@@ -99,41 +100,6 @@ def select_digest_items(items, sent):
     return [it for _, it in candidates[:MAX_ITEMS]]
 
 
-NOTION_API_BASE = "https://api.notion.com/v1"
-NOTION_VERSION = "2022-06-28"
-
-
-def send_to_notion(item, token, database_id):
-    """Cria uma linha na database do Notion pro item. Retorna True em
-    sucesso, False em falha — nunca lança, quem chama decide o que fazer."""
-    try:
-        r = requests.post(
-            f"{NOTION_API_BASE}/pages",
-            headers={
-                "Authorization": f"Bearer {token}",
-                "Notion-Version": NOTION_VERSION,
-                "Content-Type": "application/json",
-            },
-            json={
-                "parent": {"database_id": database_id},
-                "properties": {
-                    "Headline": {"title": [{"text": {"content": item.get("headline", "")[:2000]}}]},
-                    "Categoria": {"select": {"name": item.get("tagLabel") or item.get("cat") or "Outro"}},
-                    "Sinal": {"number": item.get("signal", 0)},
-                    "Data": {"date": {"start": item.get("publishedAt") or datetime.now(timezone.utc).isoformat(timespec="seconds")}},
-                    "Gancho": {"rich_text": [{"text": {"content": item.get("hook", "")[:2000]}}]},
-                    "Link": {"url": item.get("url") or None},
-                },
-            },
-            timeout=15,
-        )
-        r.raise_for_status()
-        return True
-    except Exception as e:
-        print(f"[digest] falhou escrever no Notion pra '{item.get('headline', '')[:50]}': {e}", file=sys.stderr)
-        return False
-
-
 TELEGRAM_API_BASE = "https://api.telegram.org"
 
 
@@ -191,36 +157,20 @@ def main():
         save_sent(sent)
         return
 
-    notion_token = os.environ.get("NOTION_TOKEN")
-    notion_db = os.environ.get("NOTION_DATABASE_ID")
     telegram_token = os.environ.get("TELEGRAM_BOT_TOKEN")
     telegram_chat_ids = os.environ.get("TELEGRAM_CHAT_ID", "")
 
-    notion_tried = notion_ok = False
-    telegram_tried = telegram_ok = False
+    if not (telegram_token and telegram_chat_ids):
+        print("[digest] TELEGRAM_BOT_TOKEN/TELEGRAM_CHAT_ID não definidos, nada a fazer.", file=sys.stderr)
+        return
 
-    if notion_token and notion_db:
-        notion_tried = True
-        notion_results = [send_to_notion(item, notion_token, notion_db) for item in selected]
-        notion_ok = all(notion_results)
-    else:
-        print("[digest] NOTION_TOKEN/NOTION_DATABASE_ID não definidos, pulando Notion.", file=sys.stderr)
+    message = build_telegram_message(selected)
+    telegram_ok = send_to_telegram(message, telegram_token, telegram_chat_ids.split(","))
 
-    if telegram_token and telegram_chat_ids:
-        message = build_telegram_message(selected)
-        telegram_tried = True
-        telegram_ok = send_to_telegram(message, telegram_token, telegram_chat_ids.split(","))
-    else:
-        print("[digest] TELEGRAM_BOT_TOKEN/TELEGRAM_CHAT_ID não definidos, pulando Telegram.", file=sys.stderr)
-
-    if (notion_tried or telegram_tried) and not (notion_ok or telegram_ok):
-        print("[digest] TODOS os canais configurados falharam — nada foi entregue. Itens NÃO marcados como enviados (tentativa de novo na próxima rodada).", file=sys.stderr)
+    if not telegram_ok:
+        print("[digest] Telegram falhou — nada foi entregue. Itens NÃO marcados como enviados (tentativa de novo na próxima rodada).", file=sys.stderr)
         sys.exit(1)
 
-    # Marca como enviado assim que SELECIONADO pra rodada (e pelo menos um canal
-    # teve sucesso, ou nenhum canal estava configurado), independente de os dois
-    # canais terem tido sucesso individualmente — é só uma trava anti-duplicata
-    # pra janela de 24h sobreposta entre dias, não um retry completo.
     now_iso = datetime.now(timezone.utc).isoformat(timespec="seconds")
     for item in selected:
         sent[item["url"]] = now_iso

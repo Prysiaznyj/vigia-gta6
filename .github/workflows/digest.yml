@@ -1,8 +1,12 @@
 name: Resumo diário VIGIA GTA VI
 
 on:
-  schedule:
-    - cron: "30 0 * * *"
+  # cron diário pausado após o port pra produção (vigia-gta6), pra não duplicar
+  # o resumo/mensagem — reativar só se este repo de teste voltar a ser o único
+  # rodando a feature. Disparo manual (workflow_dispatch) continua disponível
+  # pra testes futuros.
+  # schedule:
+  #   - cron: "30 0 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -25,8 +29,6 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
-          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
         run: python scripts/daily_digest.py
 
       - name: Commitar digest_sent.json se mudou

@@ -30,6 +30,12 @@ LOOKBACK_HOURS = 72
 UA = "vigia-gta6-bot/1.0 (+https://github.com/)"
 CHANNEL_BASELINE_FILE = os.path.join(os.path.dirname(__file__), "..", "channel_baselines.json")
 CHANNEL_BASELINE_FILE = os.path.abspath(CHANNEL_BASELINE_FILE)
+NOTION_ARCHIVE_FILE = os.path.join(os.path.dirname(__file__), "..", "notion_archived.json")
+NOTION_ARCHIVE_FILE = os.path.abspath(NOTION_ARCHIVE_FILE)
+NOTION_ARCHIVE_RETENTION_DAYS = 5
+NOTION_API_BASE = "https://api.notion.com/v1"
+NOTION_VERSION = "2022-06-28"
+NOTION_SOURCE_LABEL = {"news": "Notícia", "reddit": "Reddit", "youtube": "YouTube"}
 HOT_WINDOW_HOURS = 4
 HOT_TOP_N = 6
 BASELINE_MAX_AGE_HOURS = 24
@@ -650,6 +656,76 @@ def recheck_youtube_items(existing_items, key, baselines):
         it["signal"] = score_item(recency_hours, stats["views"], 0, outlier=it["outlier"])
 
 
+def load_notion_archived():
+    if not os.path.exists(NOTION_ARCHIVE_FILE):
+        return {}
+    try:
+        with open(NOTION_ARCHIVE_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except Exception as e:
+        print(f"[notion] falhou ler {NOTION_ARCHIVE_FILE}, começando do zero: {e}", file=sys.stderr)
+        return {}
+    return data if isinstance(data, dict) else {}
+
+
+def save_notion_archived(archived):
+    with open(NOTION_ARCHIVE_FILE, "w", encoding="utf-8") as f:
+        json.dump(archived, f, ensure_ascii=False, indent=2)
+
+
+def prune_notion_archived(archived):
+    """Remove entradas com mais de NOTION_ARCHIVE_RETENTION_DAYS dias — item
+    que já saiu da janela de busca (LOOKBACK_HOURS) nunca mais pode
+    reaparecer como 'novo', então não precisa ficar guardado pra sempre."""
+    cutoff = datetime.now(timezone.utc) - timedelta(days=NOTION_ARCHIVE_RETENTION_DAYS)
+    kept = {}
+    for url, archived_at in archived.items():
+        try:
+            if datetime.fromisoformat(archived_at) >= cutoff:
+                kept[url] = archived_at
+        except Exception:
+            continue
+    return kept
+
+
+def archive_to_notion(new_items, archived, token, database_id):
+    """Escreve no Notion todo item de new_items que ainda não foi arquivado
+    (controle por URL em 'archived', atualizado in place). Uma falha
+    isolada loga em stderr e segue pro próximo item — não aborta a rodada.
+    Item só é marcado como arquivado em caso de sucesso, pra tentar de novo
+    na próxima rodada se a escrita falhar."""
+    for item in new_items:
+        url = item.get("url")
+        if not url or url in archived:
+            continue
+        try:
+            r = requests.post(
+                f"{NOTION_API_BASE}/pages",
+                headers={
+                    "Authorization": f"Bearer {token}",
+                    "Notion-Version": NOTION_VERSION,
+                    "Content-Type": "application/json",
+                },
+                json={
+                    "parent": {"database_id": database_id},
+                    "properties": {
+                        "Headline": {"title": [{"text": {"content": item.get("headline", "")[:2000]}}]},
+                        "Categoria": {"select": {"name": item.get("tagLabel") or item.get("cat") or "Outro"}},
+                        "Sinal": {"number": item.get("signal", 0)},
+                        "Data": {"date": {"start": item.get("publishedAt") or datetime.now(timezone.utc).isoformat(timespec="seconds")}},
+                        "Gancho": {"rich_text": [{"text": {"content": item.get("hook", "")[:2000]}}]},
+                        "Link": {"url": url},
+                        "Fonte": {"select": {"name": NOTION_SOURCE_LABEL.get(item.get("source"), "Outro")}},
+                    },
+                },
+                timeout=15,
+            )
+            r.raise_for_status()
+            archived[url] = datetime.now(timezone.utc).isoformat(timespec="seconds")
+        except Exception as e:
+            print(f"[notion] falhou arquivar '{item.get('headline', '')[:50]}': {e}", file=sys.stderr)
+
+
 def _trim_with_quotas(combined, max_items):
     """Protege por categoria de alto sinal (comportamento já existente) E por
     cota mínima de tipo de conteúdo (notícias, vídeo longo, vídeo curto) — sem
@@ -703,6 +779,15 @@ def main():
 
     new_items = build_items(existing_items, baselines)
     save_channel_baselines(baselines)
+
+    notion_token = os.environ.get("NOTION_TOKEN")
+    notion_db = os.environ.get("NOTION_DATABASE_ID")
+    if notion_token and notion_db:
+        archived = prune_notion_archived(load_notion_archived())
+        archive_to_notion(new_items, archived, notion_token, notion_db)
+        save_notion_archived(archived)
+    else:
+        print("[notion] NOTION_TOKEN/NOTION_DATABASE_ID não definidos, pulando arquivamento.", file=sys.stderr)
 
     combined = new_items + existing_items
     combined = _trim_with_quotas(combined, MAX_ITEMS)
