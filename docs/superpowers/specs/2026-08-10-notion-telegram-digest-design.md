@@ -35,8 +35,12 @@ Rodando 1x/dia, a partir do `data.json` já existente:
 
 ## Timing
 
-Workflow novo e separado (não mexe no `sweep.yml` existente): cron `0 0 * * *`
-(00:00 UTC = 21h de Brasília), mais `workflow_dispatch` pra disparo manual/teste.
+Workflow novo e separado (não mexe no `sweep.yml` existente): cron `30 0 * * *`
+(00:30 UTC = ~21h30 de Brasília), mais `workflow_dispatch` pra disparo manual/teste.
+O horário é deslocado 30 minutos do tick `0 0 * * *` compartilhado com o
+`sweep.yml` (que roda a cada 4h) especificamente pra evitar que os dois
+workflows disputem o mesmo `git push` na mesma janela e um deles seja
+rejeitado por non-fast-forward.
 
 ## Notion
 
