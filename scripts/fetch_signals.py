@@ -171,12 +171,14 @@ def fetch_news():
                     published = datetime.now(timezone.utc)
                 if published < cutoff:
                     continue
+                source_match = re.search(r"\s*-\s*([^-]+)$", entry.title)
+                source_name = source_match.group(1).strip() if source_match else "Google News"
                 title = re.sub(r"\s*-\s*[^-]+$", "", entry.title)  # tira " - Fonte" do fim
                 items.append({
                     "source": "news",
                     "newsLang": lang,
                     "headline": title,
-                    "desc": _strip_html(getattr(entry, "summary", ""))[:280],
+                    "desc": f"Fonte: {source_name}",
                     "url": entry.link,
                     "published": published,
                     "engagement": 0,
