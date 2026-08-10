@@ -293,15 +293,17 @@ def maybe_rewrite_with_claude(raw_items):
 
 def maybe_rewrite_with_gemini(raw_items):
     """Alternativa gratuita ao Claude: usa o free tier do Gemini (Google AI Studio) se
-    GEMINI_API_KEY existir. Modelo gemini-2.5-flash tem tier grátis (sem cartão) com
-    limite de ~10 req/min e algumas centenas de req/dia — sobra pra rodar de 4 em 4h.
+    GEMINI_API_KEY existir. Usa o alias "gemini-flash-latest" (não uma versão fixa como
+    gemini-2.0-flash ou gemini-2.5-flash): contas novas do Google AI Studio ficam com cota
+    zerada nos modelos antigos e alguns modelos fixos são descontinuados pra novos usuários
+    (erro 404). O alias sempre aponta pro flash atual, que tem free tier ativo.
     Mesma regra do Claude: cada implantação usa a sua própria chave."""
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key or not raw_items:
         return None
     try:
         r = requests.post(
-            f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}",
+            f"https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent?key={api_key}",
             headers={"content-type": "application/json"},
             json={"contents": [{"parts": [{"text": _rewrite_prompt(raw_items)}]}]},
             timeout=60,
