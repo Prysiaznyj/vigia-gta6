@@ -74,7 +74,10 @@ def _trim_with_quotas(combined, max_items):
 
     protected = []
     seen_urls = set()
-    for group in (cat_protected, news_protected, longo_protected, curto_protected):
+    # cotas de tipo primeiro: se o total protegido estourar max_items, é a
+    # proteção por categoria (sem limite de tamanho) que perde espaço na
+    # fatia final — nunca as cotas garantidas de notícia/vídeo.
+    for group in (news_protected, longo_protected, curto_protected, cat_protected):
         for it in group:
             url = it.get("url")
             if url in seen_urls:
