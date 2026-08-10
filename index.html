@@ -202,6 +202,15 @@
   .tag.curiosidade{color:#8fff9e;}
   .tag.viral{color:#b98bff;}
 
+  .outlier-badge{
+    display:inline-block;
+    font-family:'JetBrains Mono', monospace;
+    font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:0.6px;
+    padding:3px 8px; margin-left:8px;
+    background:linear-gradient(90deg, var(--pink), var(--gold));
+    color:#0a0518;
+  }
+
   .date{font-family:'JetBrains Mono', monospace; font-size:10px; color:var(--ink-dim);}
 
   .headline{font-size:15px; font-weight:700; line-height:1.4; margin:0 0 8px;}
@@ -281,6 +290,7 @@
       <option value="video">Vídeos (todos)</option>
       <option value="video_longo">Vídeos longos</option>
       <option value="video_curto">Vídeos curtos (shorts)</option>
+      <option value="outliers">Outliers 🔥</option>
     </select>
   </div>
   <div class="grid" id="grid"></div>
@@ -312,6 +322,7 @@ const SOURCE_FILTERS = {
   video: d => d.source === 'youtube',
   video_longo: d => d.source === 'youtube' && d.videoType === 'longo',
   video_curto: d => d.source === 'youtube' && d.videoType === 'curto',
+  outliers: d => d.outlier === true,
 };
 
 function renderTicker(){
@@ -338,10 +349,11 @@ function cardHTML(d){
   const meta = catMeta[d.cat] || catMeta.curiosidade;
   const bars = Array.from({length:5}, (_,i) => `<div class="bar ${i < d.signal ? 'on' : ''}"></div>`).join('');
   const sourceLink = d.url ? `<a class="source-link" href="${d.url}" target="_blank" rel="noopener">ver fonte →</a>` : '';
+  const outlierBadge = d.outlier ? '<span class="outlier-badge">OUTLIER 🔥</span>' : '';
   return `
     <div class="card">
       <div class="card-top">
-        <span class="tag ${meta.class}">${meta.label}</span>
+        <span class="tag ${meta.class}">${meta.label}</span>${outlierBadge}
         <span class="date">${d.date}</span>
       </div>
       <p class="headline">${d.headline}</p>

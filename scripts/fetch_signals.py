@@ -20,12 +20,20 @@ from datetime import datetime, timedelta, timezone
 
 import feedparser
 import requests
+import statistics
 
 DATA_FILE = os.path.join(os.path.dirname(__file__), "..", "data.json")
 DATA_FILE = os.path.abspath(DATA_FILE)
 MAX_ITEMS = 40
 LOOKBACK_HOURS = 72
 UA = "vigia-gta6-bot/1.0 (+https://github.com/)"
+CHANNEL_BASELINE_FILE = os.path.join(os.path.dirname(__file__), "..", "channel_baselines.json")
+CHANNEL_BASELINE_FILE = os.path.abspath(CHANNEL_BASELINE_FILE)
+HOT_WINDOW_HOURS = 4
+HOT_TOP_N = 6
+BASELINE_MAX_AGE_HOURS = 24
+BASELINE_MIN_SAMPLE = 3
+OUTLIER_CHANNEL_MULTIPLIER = 2
 
 NEWS_QUERIES = [
     "GTA 6",
@@ -65,8 +73,15 @@ HOOK_TEMPLATES = {
 def load_existing():
     if not os.path.exists(DATA_FILE):
         return {"updated": "", "items": []}
-    with open(DATA_FILE, "r", encoding="utf-8") as f:
-        return json.load(f)
+    try:
+        with open(DATA_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except Exception as e:
+        print(f"[data] falhou ler {DATA_FILE}, começando do zero: {e}", file=sys.stderr)
+        return {"updated": "", "items": []}
+    if not isinstance(data, dict) or "items" not in data:
+        return {"updated": "", "items": []}
+    return data
 
 
 def normalize(text):
@@ -97,7 +112,7 @@ def classify(text):
     return None  # decidido depois pela origem (reddit/youtube -> viral, senão curiosidade)
 
 
-def score_item(recency_hours, engagement, keyword_bonus):
+def score_item(recency_hours, engagement, keyword_bonus, outlier=False):
     s = 1
     if recency_hours <= 6:
         s += 2
@@ -108,6 +123,8 @@ def score_item(recency_hours, engagement, keyword_bonus):
     elif engagement >= 500:
         s += 1
     s += keyword_bonus
+    if outlier:
+        s += 2
     return max(1, min(5, s))
 
 
@@ -192,6 +209,101 @@ def _parse_iso8601_duration(text):
     return h * 3600 + mnt * 60 + s
 
 
+def load_channel_baselines():
+    if not os.path.exists(CHANNEL_BASELINE_FILE):
+        return {}
+    try:
+        with open(CHANNEL_BASELINE_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except Exception as e:
+        print(f"[baseline] falhou ler {CHANNEL_BASELINE_FILE}, começando do zero: {e}", file=sys.stderr)
+        return {}
+    return data if isinstance(data, dict) else {}
+
+
+def save_channel_baselines(baselines):
+    with open(CHANNEL_BASELINE_FILE, "w", encoding="utf-8") as f:
+        json.dump(baselines, f, ensure_ascii=False, indent=2)
+
+
+def fetch_channel_recent_views(channel_id, key):
+    """Busca views dos últimos uploads de um canal. Retorna lista de ints
+    (lista vazia se o canal não existir ou qualquer chamada falhar)."""
+    if not channel_id:
+        return []
+    try:
+        r = requests.get(
+            "https://www.googleapis.com/youtube/v3/channels",
+            params={"part": "contentDetails", "id": channel_id, "key": key},
+            timeout=15,
+        )
+        r.raise_for_status()
+        items = r.json().get("items", [])
+        if not items:
+            return []
+        uploads_playlist = items[0]["contentDetails"]["relatedPlaylists"]["uploads"]
+    except Exception as e:
+        print(f"[baseline] falhou channels.list pra {channel_id}: {e}", file=sys.stderr)
+        return []
+
+    try:
+        r2 = requests.get(
+            "https://www.googleapis.com/youtube/v3/playlistItems",
+            params={"part": "contentDetails", "playlistId": uploads_playlist, "maxResults": 15, "key": key},
+            timeout=15,
+        )
+        r2.raise_for_status()
+        video_ids = [it["contentDetails"]["videoId"] for it in r2.json().get("items", [])]
+    except Exception as e:
+        print(f"[baseline] falhou playlistItems pra {channel_id}: {e}", file=sys.stderr)
+        return []
+
+    if not video_ids:
+        return []
+
+    try:
+        r3 = requests.get(
+            "https://www.googleapis.com/youtube/v3/videos",
+            params={"part": "statistics", "id": ",".join(video_ids), "key": key},
+            timeout=15,
+        )
+        r3.raise_for_status()
+        return [int(v.get("statistics", {}).get("viewCount", 0)) for v in r3.json().get("items", [])]
+    except Exception as e:
+        print(f"[baseline] falhou videos.list pra {channel_id}: {e}", file=sys.stderr)
+        return []
+
+
+def get_channel_baseline(channel_id, key, baselines):
+    """Retorna (medianaViews, tamanhoAmostra). Usa cache se tiver menos de
+    BASELINE_MAX_AGE_HOURS; senão recalcula e atualiza `baselines` in place.
+    Retorna (None, amostra) se não houver amostra suficiente."""
+    if not channel_id:
+        return None, 0
+
+    entry = baselines.get(channel_id)
+    if entry:
+        try:
+            computed_at = datetime.fromisoformat(entry["calculadoEm"])
+            age_hours = (datetime.now(timezone.utc) - computed_at).total_seconds() / 3600
+            if age_hours < BASELINE_MAX_AGE_HOURS:
+                return entry.get("medianViews"), entry.get("amostra", 0)
+        except Exception as e:
+            # Corrupted, missing, or timezone-naive calculadoEm — treat as stale, recompute below
+            print(f"[baseline] cache inválido pra {channel_id}: {e}", file=sys.stderr)
+
+    views = fetch_channel_recent_views(channel_id, key)
+    # Cacheia tanto sucesso quanto amostra insuficiente/falha, com o mesmo TTL de
+    # 24h — evita rebuscar o mesmo canal pequeno/com falha a cada item, toda rodada.
+    median_views = statistics.median(views) if len(views) >= BASELINE_MIN_SAMPLE else None
+    baselines[channel_id] = {
+        "medianViews": median_views,
+        "amostra": len(views),
+        "calculadoEm": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+    }
+    return median_views, len(views)
+
+
 def fetch_youtube():
     key = os.environ.get("YOUTUBE_API_KEY")
     if not key:
@@ -252,6 +364,7 @@ def fetch_youtube():
         items.append({
             "source": "youtube",
             "videoType": video_type,
+            "channelId": snippet.get("channelId"),
             "headline": snippet.get("title", ""),
             "desc": (snippet.get("description") or "")[:280] or f"Vídeo em alta sobre GTA 6 ({views} views).",
             "url": f"https://youtube.com/watch?v={vid}",
@@ -341,12 +454,36 @@ def maybe_rewrite_with_gemini(raw_items):
     return None
 
 
-def build_items():
+def compute_outliers(items, key, baselines, check_hot=True):
+    """Marca item['outlier'] = True/False em cada item (in place). Cada item
+    precisa ter as chaves 'url', 'engagement' (views), 'channelId', 'published'
+    (datetime). Critério 1: entre os top HOT_TOP_N por views publicados nas
+    últimas HOT_WINDOW_HOURS horas (só avaliado se check_hot=True — itens
+    re-checados de rodadas anteriores nunca são elegíveis pra esse critério,
+    só pra novos itens recém-buscados). Critério 2: views >= OUTLIER_CHANNEL_MULTIPLIER
+    vezes a mediana do canal (se houver amostra suficiente)."""
+    hot_urls = set()
+    if check_hot:
+        now = datetime.now(timezone.utc)
+        hot_candidates = sorted(
+            (it for it in items if (now - it["published"]).total_seconds() / 3600 <= HOT_WINDOW_HOURS),
+            key=lambda it: it["engagement"],
+            reverse=True,
+        )[:HOT_TOP_N]
+        hot_urls = {it["url"] for it in hot_candidates}
+
+    for it in items:
+        is_hot = it["url"] in hot_urls
+        median_views, _sample = get_channel_baseline(it.get("channelId"), key, baselines)
+        is_channel_outlier = bool(median_views) and it["engagement"] >= median_views * OUTLIER_CHANNEL_MULTIPLIER
+        it["outlier"] = is_hot or is_channel_outlier
+
+
+def build_items(existing_items, baselines):
     raw = fetch_news() + fetch_reddit() + fetch_youtube()
     raw.sort(key=lambda x: x["published"], reverse=True)
 
-    existing = load_existing()
-    seen_tokens = [normalize(it["headline"]) for it in existing.get("items", [])]
+    seen_tokens = [normalize(it["headline"]) for it in existing_items]
 
     deduped = []
     for it in raw:
@@ -355,18 +492,26 @@ def build_items():
         seen_tokens.append(normalize(it["headline"]))
         deduped.append(it)
 
+    key = os.environ.get("YOUTUBE_API_KEY")
+    youtube_deduped = [it for it in deduped if it["source"] == "youtube"]
+    if youtube_deduped and key:
+        compute_outliers(youtube_deduped, key, baselines)
+
     classified = []
     for it in deduped:
         cat = classify(it["headline"] + " " + it["desc"])
         if not cat:
             cat = "viral" if it["source"] in ("reddit", "youtube") else "curiosidade"
         recency_hours = (datetime.now(timezone.utc) - it["published"]).total_seconds() / 3600
-        signal = score_item(recency_hours, it["engagement"], it["keyword_bonus"])
+        outlier = it.get("outlier", False)
+        signal = score_item(recency_hours, it["engagement"], it["keyword_bonus"], outlier=outlier)
         classified.append({
             "cat": cat,
             "tagLabel": CAT_TAG_LABEL[cat],
             "source": it["source"],
             "videoType": it.get("videoType"),
+            "channelId": it.get("channelId"),
+            "outlier": outlier,
             "date": it["published"].strftime("%d/%m/%Y"),
             "publishedAt": it["published"].isoformat(timespec="seconds"),
             "headline": it["headline"].strip(),
@@ -388,11 +533,82 @@ def build_items():
     return classified
 
 
+def _extract_video_id(url):
+    m = re.search(r"[?&]v=([\w-]+)", url or "")
+    return m.group(1) if m else None
+
+
+def recheck_youtube_items(existing_items, key, baselines):
+    """Rebusca views/duração atuais dos itens source=='youtube' já salvos e
+    recalcula videoType/outlier/signal com dado fresco. Se a chamada à API
+    falhar inteira, não altera nada (itens ficam como estavam)."""
+    yt_items = [it for it in existing_items if it.get("source") == "youtube"]
+    if not yt_items or not key:
+        return
+
+    video_ids = [_extract_video_id(it["url"]) for it in yt_items]
+    id_to_item = {vid: it for vid, it in zip(video_ids, yt_items) if vid}
+    if not id_to_item:
+        return
+
+    try:
+        r = requests.get(
+            "https://www.googleapis.com/youtube/v3/videos",
+            params={"part": "statistics,contentDetails", "id": ",".join(id_to_item.keys()), "key": key},
+            timeout=15,
+        )
+        r.raise_for_status()
+        results = r.json().get("items", [])
+    except Exception as e:
+        print(f"[youtube recheck] falhou, mantendo itens como estavam: {e}", file=sys.stderr)
+        return
+
+    fresh_stats = {}
+    for v in results:
+        views = int(v.get("statistics", {}).get("viewCount", 0))
+        duration_s = _parse_iso8601_duration(v.get("contentDetails", {}).get("duration", ""))
+        fresh_stats[v["id"]] = {
+            "views": views,
+            "videoType": "curto" if duration_s <= 180 else "longo",
+        }
+
+    outlier_inputs = []
+    for vid, it in id_to_item.items():
+        stats = fresh_stats.get(vid)
+        if not stats:
+            continue
+        outlier_inputs.append({
+            "url": it["url"],
+            "engagement": stats["views"],
+            "channelId": it.get("channelId"),
+            "published": datetime.fromisoformat(it["publishedAt"]),
+        })
+    compute_outliers(outlier_inputs, key, baselines, check_hot=False)
+    outlier_by_url = {oi["url"]: oi["outlier"] for oi in outlier_inputs}
+
+    for vid, it in id_to_item.items():
+        stats = fresh_stats.get(vid)
+        if not stats:
+            continue
+        it["videoType"] = stats["videoType"]
+        it["outlier"] = outlier_by_url.get(it["url"], False)
+        recency_hours = (datetime.now(timezone.utc) - datetime.fromisoformat(it["publishedAt"])).total_seconds() / 3600
+        it["signal"] = score_item(recency_hours, stats["views"], 0, outlier=it["outlier"])
+
+
 def main():
     existing = load_existing()
-    new_items = build_items()
+    existing_items = existing.get("items", [])
+    baselines = load_channel_baselines()
 
-    combined = new_items + existing.get("items", [])
+    key = os.environ.get("YOUTUBE_API_KEY")
+    if key:
+        recheck_youtube_items(existing_items, key, baselines)
+
+    new_items = build_items(existing_items, baselines)
+    save_channel_baselines(baselines)
+
+    combined = new_items + existing_items
     # nunca derruba itens de alto sinal em categorias-chave; corta o resto se passar do limite
     if len(combined) > MAX_ITEMS:
         protected = [it for it in combined if it["cat"] in ("lancamento", "trabalhista", "vendas") and it["signal"] >= 5]

@@ -33,6 +33,6 @@ jobs:
         run: |
           git config user.name "vigia-bot"
           git config user.email "vigia-bot@users.noreply.github.com"
-          git add data.json
+          git add data.json channel_baselines.json
           git diff --cached --quiet || git commit -m "sweep: atualiza sinais $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
