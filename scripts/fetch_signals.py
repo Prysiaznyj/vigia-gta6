@@ -10,6 +10,7 @@ Se ANTHROPIC_API_KEY estiver definida, usa a API da Anthropic pra reescrever
 headline/desc/hook no tom do canal (mesmo estilo dos cards feitos à mão).
 Sem a chave, usa um gerador de hook por template — mais cru, mas funcional.
 """
+import html
 import json
 import os
 import re
@@ -175,7 +176,7 @@ def fetch_news():
                     "source": "news",
                     "newsLang": lang,
                     "headline": title,
-                    "desc": getattr(entry, "summary", "")[:280],
+                    "desc": _strip_html(getattr(entry, "summary", ""))[:280],
                     "url": entry.link,
                     "published": published,
                     "engagement": 0,
@@ -186,11 +187,15 @@ def fetch_news():
     return items
 
 
+def _strip_html(raw):
+    text = re.sub(r"<[^>]+>", " ", raw or "")
+    text = html.unescape(text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
 def _clean_reddit_summary(html):
-    text = re.sub(r"<[^>]+>", " ", html or "")
-    text = re.sub(r"submitted by.*$", "", text, flags=re.DOTALL)
-    text = re.sub(r"&#32;|&amp;|\s+", " ", text).strip()
-    return text
+    text = re.sub(r"submitted by.*$", "", html or "", flags=re.DOTALL)
+    return _strip_html(text)
 
 
 def fetch_reddit():

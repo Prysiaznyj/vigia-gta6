@@ -345,26 +345,32 @@ function renderFilters(){
   });
 }
 
+function escapeHTML(text){
+  const div = document.createElement('div');
+  div.textContent = text == null ? '' : String(text);
+  return div.innerHTML;
+}
+
 function cardHTML(d){
   const meta = catMeta[d.cat] || catMeta.curiosidade;
   const bars = Array.from({length:5}, (_,i) => `<div class="bar ${i < d.signal ? 'on' : ''}"></div>`).join('');
-  const sourceLink = d.url ? `<a class="source-link" href="${d.url}" target="_blank" rel="noopener">ver fonte →</a>` : '';
+  const sourceLink = d.url ? `<a class="source-link" href="${escapeHTML(d.url)}" target="_blank" rel="noopener">ver fonte →</a>` : '';
   const outlierBadge = d.outlier ? '<span class="outlier-badge">OUTLIER 🔥</span>' : '';
   return `
     <div class="card">
       <div class="card-top">
-        <span class="tag ${meta.class}">${meta.label}</span>${outlierBadge}
-        <span class="date">${d.date}</span>
+        <span class="tag ${meta.class}">${escapeHTML(meta.label)}</span>${outlierBadge}
+        <span class="date">${escapeHTML(d.date)}</span>
       </div>
-      <p class="headline">${d.headline}</p>
-      <p class="desc">${d.desc}</p>
+      <p class="headline">${escapeHTML(d.headline)}</p>
+      <p class="desc">${escapeHTML(d.desc)}</p>
       <div class="signal">
         <span class="signal-label">potencial pra short</span>
         <div class="bars">${bars}</div>
       </div>
       <div class="hook">
         <span class="hook-label">gancho sugerido</span>
-        <p class="hook-text">${d.hook}</p>
+        <p class="hook-text">${escapeHTML(d.hook)}</p>
       </div>
       ${sourceLink}
     </div>
