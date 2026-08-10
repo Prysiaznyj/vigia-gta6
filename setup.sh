@@ -67,8 +67,11 @@ fi
 if [ -n "${ANTHROPIC_API_KEY:-}" ]; then
   gh secret set ANTHROPIC_API_KEY --body "$ANTHROPIC_API_KEY" --repo "$OWNER/$REPO_NAME"
   echo "Secret ANTHROPIC_API_KEY configurada."
+elif [ -n "${GEMINI_API_KEY:-}" ]; then
+  gh secret set GEMINI_API_KEY --body "$GEMINI_API_KEY" --repo "$OWNER/$REPO_NAME"
+  echo "Secret GEMINI_API_KEY configurada (free tier do Gemini)."
 else
-  echo "Sem ANTHROPIC_API_KEY no ambiente — pulei esse secret (ganchos ficam no modo template)."
+  echo "Sem ANTHROPIC_API_KEY nem GEMINI_API_KEY no ambiente — pulei (ganchos ficam no modo template, de graça)."
 fi
 
 sleep 3

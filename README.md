@@ -13,8 +13,19 @@ rodar nada — é só abrir o link.
   US$100+/mês). Não entrou no v1. Se topar pagar, dá pra plugar depois.
 - **TikTok** — não existe API pública de busca/trending confiável. Não entrou no v1.
 - **Reescrita no tom do canal** (headline/desc/hook mais afiados, no estilo que eu escrevi à mão) —
-  opcional, usa a API da Anthropic se você configurar a chave. Sem ela, o robô usa um gancho por
-  template (mais cru, mas funciona).
+  três modos, o robô tenta nessa ordem:
+  1. `ANTHROPIC_API_KEY` configurada → usa a API da Anthropic (paga por uso, a melhor qualidade).
+  2. Sem ela, mas com `GEMINI_API_KEY` configurada → usa o **free tier do Gemini**
+     (gemini-2.5-flash), de graça, sem cartão de crédito, dá conta tranquilo do volume de uma
+     varredura a cada 4h. É a opção recomendada se quiser ficar de graça sem ficar no modo cru.
+     Gere a chave em aistudio.google.com/apikey (é só logar com conta Google).
+  3. Sem nenhuma das duas → modo template, cru mas de graça e sem configurar nada (é o que está
+     rodando agora).
+- **Cada implantação usa a própria chave.** Isso não é uma chave central minha nem sua compartilhada
+  — é uma secret configurada NO REPOSITÓRIO do GitHub de quem estiver rodando aquela cópia. Se
+  outra pessoa clonar esse projeto pro canal dela, ela cria a conta dela na Anthropic/Google, gera
+  a própria chave e configura como secret no repo dela. Não tem custo nem acesso cruzado entre
+  implantações diferentes.
 
 ## Opção rápida: `setup.sh`
 
@@ -47,9 +58,12 @@ Se não estiver logado no `gh`, o script pede `gh auth login` (abre o navegador,
    ative "YouTube Data API v3" → Credentials → Create API Key. Depois, no repositório:
    Settings → Secrets and variables → Actions → New repository secret →
    nome `YOUTUBE_API_KEY`, valor a chave.
-5. **(Opcional) Anthropic API key**, pra reescrita no tom do canal: console.anthropic.com →
-   gere uma chave → mesmo caminho acima, secret `ANTHROPIC_API_KEY`. Isso gasta uns centavos de
-   crédito a cada varredura (é uma chamada de API paga por uso, não sua assinatura do Claude).
+5. **(Opcional) Reescrita no tom do canal** — escolha uma:
+   - Anthropic (paga por uso, melhor qualidade): console.anthropic.com → gere uma chave →
+     secret `ANTHROPIC_API_KEY`.
+   - Gemini (de graça, free tier): aistudio.google.com/apikey → gere uma chave → secret
+     `GEMINI_API_KEY`. Nenhuma cobrança dentro dos limites do free tier.
+   Sem nenhuma das duas, fica no modo template — de graça, mais cru.
 6. **Teste na hora**: aba Actions do repositório → "Varredura VIGIA GTA VI" → Run workflow.
    Depois de rodar, dá refresh no site e confere se os cards mudaram.
 

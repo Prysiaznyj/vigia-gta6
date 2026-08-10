@@ -237,23 +237,38 @@ def fetch_youtube():
     return items
 
 
-def maybe_rewrite_with_claude(raw_items):
-    """Se ANTHROPIC_API_KEY existir, reescreve headline/desc/hook no tom do canal."""
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
-    if not api_key or not raw_items:
-        return None
+def _rewrite_prompt(raw_items):
     prompt_items = [
         {"headline": it["headline"], "desc": it["desc"], "cat": it["cat"]}
         for it in raw_items
     ]
-    prompt = (
+    return (
         "Você escreve pro canal de conteúdo 'Sem Missão', focado em GTA 6. "
         "Reescreva cada item abaixo em PT-BR, tom direto de criador, nada corporativo. "
         "Para cada item retorne: headline (uma frase chamativa), desc (1-2 frases factuais), "
         "hook (sugestão concreta de gancho pra abrir um vídeo curto sobre o assunto). "
-        "Responda em JSON: lista de objetos com headline, desc, hook, na MESMA ORDEM da entrada.\n\n"
+        "Responda SÓ com JSON: lista de objetos com headline, desc, hook, na MESMA ORDEM da entrada, "
+        "sem texto antes ou depois.\n\n"
         f"ITENS:\n{json.dumps(prompt_items, ensure_ascii=False, indent=2)}"
     )
+
+
+def _parse_rewrite_response(text, expected_len):
+    match = re.search(r"\[.*\]", text, re.DOTALL)
+    rewritten = json.loads(match.group(0)) if match else None
+    if rewritten and len(rewritten) == expected_len:
+        return rewritten
+    return None
+
+
+def maybe_rewrite_with_claude(raw_items):
+    """Se ANTHROPIC_API_KEY existir, reescreve headline/desc/hook no tom do canal.
+    Chave paga por uso (console.anthropic.com) — cada implantação deste repo usa a SUA
+    própria chave, configurada como secret NO REPO de quem estiver rodando. Nunca é
+    compartilhada entre implantações diferentes."""
+    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    if not api_key or not raw_items:
+        return None
     try:
         r = requests.post(
             "https://api.anthropic.com/v1/messages",
@@ -265,18 +280,37 @@ def maybe_rewrite_with_claude(raw_items):
             json={
                 "model": "claude-sonnet-5",
                 "max_tokens": 4000,
-                "messages": [{"role": "user", "content": prompt}],
+                "messages": [{"role": "user", "content": _rewrite_prompt(raw_items)}],
             },
             timeout=60,
         )
         r.raise_for_status()
-        text = r.json()["content"][0]["text"]
-        match = re.search(r"\[.*\]", text, re.DOTALL)
-        rewritten = json.loads(match.group(0)) if match else None
-        if rewritten and len(rewritten) == len(raw_items):
-            return rewritten
+        return _parse_rewrite_response(r.json()["content"][0]["text"], len(raw_items))
     except Exception as e:
         print(f"[claude rewrite] falhou, usando fallback: {e}", file=sys.stderr)
+    return None
+
+
+def maybe_rewrite_with_gemini(raw_items):
+    """Alternativa gratuita ao Claude: usa o free tier do Gemini (Google AI Studio) se
+    GEMINI_API_KEY existir. Modelo gemini-2.5-flash tem tier grátis (sem cartão) com
+    limite de ~10 req/min e algumas centenas de req/dia — sobra pra rodar de 4 em 4h.
+    Mesma regra do Claude: cada implantação usa a sua própria chave."""
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key or not raw_items:
+        return None
+    try:
+        r = requests.post(
+            f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={api_key}",
+            headers={"content-type": "application/json"},
+            json={"contents": [{"parts": [{"text": _rewrite_prompt(raw_items)}]}]},
+            timeout=60,
+        )
+        r.raise_for_status()
+        text = r.json()["candidates"][0]["content"]["parts"][0]["text"]
+        return _parse_rewrite_response(text, len(raw_items))
+    except Exception as e:
+        print(f"[gemini rewrite] falhou, usando fallback: {e}", file=sys.stderr)
     return None
 
 
@@ -312,8 +346,9 @@ def build_items():
             "url": it["url"],
         })
 
-    # tenta melhorar texto com Claude, se configurado
-    rewritten = maybe_rewrite_with_claude(classified)
+    # tenta melhorar texto: Claude primeiro (se configurado), senão Gemini grátis (se
+    # configurado), senão fica no template mesmo — sem custo nenhum.
+    rewritten = maybe_rewrite_with_claude(classified) or maybe_rewrite_with_gemini(classified)
     if rewritten:
         for orig, new in zip(classified, rewritten):
             orig["headline"] = new.get("headline", orig["headline"])
