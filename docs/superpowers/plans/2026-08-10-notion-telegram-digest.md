@@ -151,7 +151,7 @@ items = [
 sent = {}
 selected = d.select_digest_items(items, sent)
 print('selecionados:', [it['url'] for it in selected])
-assert [it['url'] for it in selected] == ['a', 'e', 'f'], 'esperado a,e,f (sinal 5, mais recentes primeiro)'
+assert [it['url'] for it in selected] == ['e', 'a', 'f'], 'esperado e,a,f (sinal 5, mais recentes primeiro: e=1h, a=2h, f=4h atrás)'
 
 # já enviado não repete
 sent2 = {'a': now.isoformat(timespec='seconds')}
