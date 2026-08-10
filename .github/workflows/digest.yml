@@ -1,0 +1,39 @@
+name: Resumo diário VIGIA GTA VI
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Rodar resumo diário
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+        run: python scripts/daily_digest.py
+
+      - name: Commitar digest_sent.json se mudou
+        run: |
+          git config user.name "vigia-bot"
+          git config user.email "vigia-bot@users.noreply.github.com"
+          git add digest_sent.json
+          git diff --cached --quiet || git commit -m "digest: atualiza itens já enviados $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase
+          git push

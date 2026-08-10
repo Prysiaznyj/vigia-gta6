@@ -74,6 +74,55 @@ else
   echo "Sem ANTHROPIC_API_KEY nem GEMINI_API_KEY no ambiente — pulei (ganchos ficam no modo template, de graça)."
 fi
 
+echo ""
+echo "--- Resumo diário (Telegram + Notion) — opcional ---"
+read -r -p "Configurar agora? (s/N) " CONFIGURE_DIGEST || true
+if [ "$CONFIGURE_DIGEST" = "s" ] || [ "$CONFIGURE_DIGEST" = "S" ]; then
+  echo ""
+  echo "Telegram:"
+  echo "1. Abra https://t.me/BotFather no Telegram, mande /newbot e siga as instruções."
+  echo "2. Copie o token que ele te der (formato tipo 123456:ABC-DEF...)."
+  read -r -p "Cole o TELEGRAM_BOT_TOKEN (ou Enter pra pular): " TELEGRAM_BOT_TOKEN || true
+  if [ -n "$TELEGRAM_BOT_TOKEN" ]; then
+    echo "3. Cada pessoa que vai receber o resumo deve mandar /start pro bot criado."
+    echo "4. Depois, abra no navegador: https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/getUpdates"
+    echo "   e ache o \"chat\":{\"id\":...} de cada pessoa."
+    read -r -p "Cole os chat_ids separados por vírgula (ou Enter pra pular): " TELEGRAM_CHAT_ID || true
+  fi
+  echo ""
+  echo "Notion:"
+  echo "1. Abra https://www.notion.so/my-integrations e crie uma integração nova."
+  echo "2. Copie o \"Internal Integration Secret\"."
+  read -rs -p "Cole o NOTION_TOKEN (ou Enter pra pular): " NOTION_TOKEN || true
+  echo ""
+  if [ -n "$NOTION_TOKEN" ]; then
+    echo "3. Crie uma database no Notion com as colunas: Headline (title), Categoria (select),"
+    echo "   Sinal (number), Data (date), Gancho (text), Link (url)."
+    echo "4. Compartilhe essa database com a integração (\"...\" no canto > Add connections)."
+    echo "5. Copie o ID da database da URL (os 32 caracteres depois do nome da página, antes de \"?v=\")."
+    read -r -p "Cole o NOTION_DATABASE_ID (ou Enter pra pular): " NOTION_DATABASE_ID || true
+  fi
+
+  if [ -n "${TELEGRAM_BOT_TOKEN:-}" ]; then
+    gh secret set TELEGRAM_BOT_TOKEN --body "$TELEGRAM_BOT_TOKEN" --repo "$OWNER/$REPO_NAME"
+    echo "Secret TELEGRAM_BOT_TOKEN configurada."
+  fi
+  if [ -n "${TELEGRAM_CHAT_ID:-}" ]; then
+    gh secret set TELEGRAM_CHAT_ID --body "$TELEGRAM_CHAT_ID" --repo "$OWNER/$REPO_NAME"
+    echo "Secret TELEGRAM_CHAT_ID configurada."
+  fi
+  if [ -n "${NOTION_TOKEN:-}" ]; then
+    gh secret set NOTION_TOKEN --body "$NOTION_TOKEN" --repo "$OWNER/$REPO_NAME"
+    echo "Secret NOTION_TOKEN configurada."
+  fi
+  if [ -n "${NOTION_DATABASE_ID:-}" ]; then
+    gh secret set NOTION_DATABASE_ID --body "$NOTION_DATABASE_ID" --repo "$OWNER/$REPO_NAME"
+    echo "Secret NOTION_DATABASE_ID configurada."
+  fi
+else
+  echo "Pulei a configuração do resumo diário — roda o setup.sh de novo quando quiser configurar."
+fi
+
 sleep 3
 gh workflow run sweep.yml --repo "$OWNER/$REPO_NAME" 2>/dev/null \
   && echo "Primeira varredura disparada." \
