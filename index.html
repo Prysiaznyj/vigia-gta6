@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>VIGIA // GTA VI</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Space+Grotesk:wght@400;500;700&family=JetBrains+Mono:wght@400;600&display=swap');
+
+  :root{
+    --bg-0:#0a0518;
+    --bg-1:#140a2e;
+    --pink:#ff2e93;
+    --cyan:#00e5ff;
+    --gold:#ffb000;
+    --ink:#f2ecf8;
+    --ink-dim:#a89bc4;
+    --line:rgba(242,236,248,0.12);
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:
+      radial-gradient(ellipse at 20% -10%, rgba(255,46,147,0.18), transparent 45%),
+      radial-gradient(ellipse at 90% 10%, rgba(0,229,255,0.14), transparent 40%),
+      var(--bg-0);
+    color:var(--ink);
+    font-family:'Space Grotesk', sans-serif;
+    min-height:100vh;
+    overflow-x:hidden;
+  }
+
+  body::before{
+    content:"";
+    position:fixed; inset:0;
+    background:repeating-linear-gradient(
+      to bottom,
+      rgba(255,255,255,0.025) 0px,
+      rgba(255,255,255,0.025) 1px,
+      transparent 2px,
+      transparent 4px
+    );
+    pointer-events:none;
+    z-index:50;
+  }
+
+  .radar-sweep{
+    position:fixed; top:0; left:0; width:100%; height:3px;
+    background:linear-gradient(90deg, transparent, var(--cyan), transparent);
+    box-shadow:0 0 12px 2px var(--cyan);
+    animation:sweep 4.5s linear infinite;
+    z-index:40;
+    opacity:0.85;
+  }
+  @keyframes sweep{
+    0%{top:0;}
+    100%{top:100%;}
+  }
+
+  header{
+    padding:28px 24px 18px;
+    border-bottom:1px solid var(--line);
+    position:sticky; top:0;
+    background:rgba(10,5,24,0.88);
+    backdrop-filter:blur(6px);
+    z-index:30;
+  }
+  .top-row{
+    display:flex; align-items:center; justify-content:space-between;
+    flex-wrap:wrap; gap:10px;
+    max-width:1080px; margin:0 auto;
+  }
+  .brand{
+    display:flex; align-items:center; gap:12px;
+  }
+  .brand h1{
+    font-family:'Audiowide', sans-serif;
+    font-size:22px; letter-spacing:1.5px; margin:0;
+    color:var(--ink);
+    text-shadow:0 0 14px rgba(255,46,147,0.5);
+  }
+  .brand h1 span{color:var(--pink);}
+  .status{
+    display:flex; align-items:center; gap:8px;
+    font-family:'JetBrains Mono', monospace;
+    font-size:11px; letter-spacing:1px; color:var(--cyan);
+    text-transform:uppercase;
+  }
+  .dot{
+    width:8px; height:8px; border-radius:50%;
+    background:var(--cyan);
+    box-shadow:0 0 8px 2px var(--cyan);
+    animation:blink 1.6s ease-in-out infinite;
+  }
+  @keyframes blink{
+    0%,100%{opacity:1;} 50%{opacity:0.25;}
+  }
+  .updated{
+    font-family:'JetBrains Mono', monospace;
+    font-size:11px; color:var(--ink-dim);
+    max-width:1080px; margin:10px auto 0;
+  }
+
+  .ticker-wrap{
+    max-width:1080px; margin:16px auto 0;
+    overflow:hidden;
+    border-top:1px solid var(--line);
+    border-bottom:1px solid var(--line);
+    padding:8px 0;
+  }
+  .ticker{
+    display:flex; gap:48px; white-space:nowrap;
+    animation:ticker 32s linear infinite;
+    font-family:'JetBrains Mono', monospace;
+    font-size:12px; color:var(--gold);
+  }
+  @keyframes ticker{
+    0%{transform:translateX(0);}
+    100%{transform:translateX(-50%);}
+  }
+
+  main{max-width:1080px; margin:0 auto; padding:24px;}
+
+  .filters{
+    display:flex; gap:8px; flex-wrap:wrap; margin-bottom:22px;
+  }
+  .chip{
+    font-family:'JetBrains Mono', monospace;
+    font-size:11px; text-transform:uppercase; letter-spacing:0.5px;
+    padding:7px 13px; border-radius:2px;
+    border:1px solid var(--line);
+    background:rgba(255,255,255,0.03);
+    color:var(--ink-dim);
+    cursor:pointer;
+    transition:all .15s ease;
+  }
+  .chip:hover{border-color:var(--cyan); color:var(--cyan);}
+  .chip.active{
+    background:var(--pink); color:#0a0518; border-color:var(--pink);
+    font-weight:600;
+  }
+
+  .grid{
+    display:grid; grid-template-columns:repeat(auto-fill, minmax(310px,1fr));
+    gap:16px;
+  }
+  .card{
+    border:1px solid var(--line);
+    background:linear-gradient(180deg, rgba(255,255,255,0.035), rgba(255,255,255,0.01));
+    padding:18px 18px 16px;
+    position:relative;
+    transition:transform .15s ease, border-color .15s ease;
+  }
+  .card:hover{transform:translateY(-2px); border-color:rgba(0,229,255,0.4);}
+  .card-top{
+    display:flex; justify-content:space-between; align-items:flex-start;
+    margin-bottom:10px; gap:8px;
+  }
+  .tag{
+    font-family:'JetBrains Mono', monospace;
+    font-size:10px; text-transform:uppercase; letter-spacing:0.6px;
+    padding:3px 8px; border:1px solid currentColor;
+  }
+  .tag.lancamento{color:var(--gold);}
+  .tag.trabalhista{color:#ff6b6b;}
+  .tag.vendas{color:var(--cyan);}
+  .tag.boatos{color:var(--pink);}
+  .tag.curiosidade{color:#8fff9e;}
+  .tag.viral{color:#b98bff;}
+
+  .date{font-family:'JetBrains Mono', monospace; font-size:10px; color:var(--ink-dim);}
+
+  .headline{font-size:15px; font-weight:700; line-height:1.4; margin:0 0 8px;}
+  .desc{font-size:13px; color:var(--ink-dim); line-height:1.5; margin:0 0 14px;}
+
+  .signal{
+    display:flex; align-items:center; gap:6px; margin-bottom:12px;
+  }
+  .signal-label{font-family:'JetBrains Mono', monospace; font-size:9px; color:var(--ink-dim); text-transform:uppercase;}
+  .bars{display:flex; gap:3px;}
+  .bar{width:14px; height:5px; background:var(--line);}
+  .bar.on{background:var(--gold); box-shadow:0 0 6px rgba(255,176,0,0.6);}
+
+  .hook{
+    border-top:1px dashed var(--line);
+    padding-top:12px; margin-top:4px;
+  }
+  .hook-label{
+    font-family:'JetBrains Mono', monospace; font-size:9px;
+    color:var(--cyan); text-transform:uppercase; letter-spacing:0.6px;
+    margin-bottom:6px; display:block;
+  }
+  .hook-text{font-size:13px; color:var(--ink); line-height:1.45; font-style:italic;}
+
+  .source-link{
+    display:inline-block; margin-top:10px;
+    font-family:'JetBrains Mono', monospace; font-size:10px;
+    color:var(--cyan); text-decoration:none; letter-spacing:0.4px;
+  }
+  .source-link:hover{text-decoration:underline;}
+
+  .empty, .error{
+    font-family:'JetBrains Mono', monospace; font-size:12px; color:var(--ink-dim);
+    padding:40px 0; text-align:center;
+  }
+  .error{color:#ff6b6b;}
+
+  footer{
+    max-width:1080px; margin:10px auto 40px; padding:0 24px;
+    font-family:'JetBrains Mono', monospace; font-size:11px; color:var(--ink-dim);
+    line-height:1.6;
+  }
+  footer a{color:var(--cyan);}
+
+  @media (prefers-reduced-motion: reduce){
+    .radar-sweep, .ticker, .dot{animation:none;}
+  }
+</style>
+</head>
+<body>
+
+<div class="radar-sweep"></div>
+
+<header>
+  <div class="top-row">
+    <div class="brand">
+      <h1>VIGIA <span>//</span> GTA VI</h1>
+    </div>
+    <div class="status"><span class="dot"></span> monitorando sinais</div>
+  </div>
+  <div class="updated" id="updated">carregando última varredura...</div>
+  <div class="ticker-wrap">
+    <div class="ticker" id="ticker"></div>
+  </div>
+</header>
+
+<main>
+  <div class="filters" id="filters"></div>
+  <div class="grid" id="grid"></div>
+</main>
+
+<footer>
+  Varredura automática a cada 4h via GitHub Actions — notícias, Reddit, YouTube e (se configurado) reescrita no tom
+  do canal via Claude. Ninguém precisa pedir pra rodar: o robô puxa sozinho e este arquivo só lê o resultado mais recente
+  em <code>data.json</code>. Sugestões de gancho são pontos de partida, ajusta pro seu tom.
+</footer>
+
+<script>
+const catMeta = {
+  lancamento:{label:'Lançamento', class:'lancamento'},
+  trabalhista:{label:'Trabalhista', class:'trabalhista'},
+  vendas:{label:'Vendas & Preço', class:'vendas'},
+  boatos:{label:'Boatos', class:'boatos'},
+  curiosidade:{label:'Curiosidade', class:'curiosidade'},
+  viral:{label:'Viral', class:'viral'},
+};
+
+let data = [];
+let activeFilter = 'todos';
+
+function renderTicker(){
+  if(!data.length) return;
+  const items = data.map(d => d.headline.toUpperCase());
+  const full = [...items, ...items].join('   ★   ');
+  document.getElementById('ticker').textContent = full;
+}
+
+function renderFilters(){
+  const cats = ['todos', ...Object.keys(catMeta)];
+  const wrap = document.getElementById('filters');
+  wrap.innerHTML = '';
+  cats.forEach(c => {
+    const btn = document.createElement('div');
+    btn.className = 'chip' + (c === activeFilter ? ' active' : '');
+    btn.textContent = c === 'todos' ? 'Todos os sinais' : catMeta[c].label;
+    btn.onclick = () => { activeFilter = c; renderFilters(); renderGrid(); };
+    wrap.appendChild(btn);
+  });
+}
+
+function renderGrid(){
+  const grid = document.getElementById('grid');
+  grid.innerHTML = '';
+  const list = activeFilter === 'todos' ? data : data.filter(d => d.cat === activeFilter);
+  if(!list.length){
+    grid.innerHTML = '<div class="empty">nenhum sinal nessa categoria ainda.</div>';
+    return;
+  }
+  list.forEach(d => {
+    const meta = catMeta[d.cat] || catMeta.curiosidade;
+    const card = document.createElement('div');
+    card.className = 'card';
+    const bars = Array.from({length:5}, (_,i) => `<div class="bar ${i < d.signal ? 'on' : ''}"></div>`).join('');
+    const sourceLink = d.url ? `<a class="source-link" href="${d.url}" target="_blank" rel="noopener">ver fonte →</a>` : '';
+    card.innerHTML = `
+      <div class="card-top">
+        <span class="tag ${meta.class}">${meta.label}</span>
+        <span class="date">${d.date}</span>
+      </div>
+      <p class="headline">${d.headline}</p>
+      <p class="desc">${d.desc}</p>
+      <div class="signal">
+        <span class="signal-label">potencial pra short</span>
+        <div class="bars">${bars}</div>
+      </div>
+      <div class="hook">
+        <span class="hook-label">gancho sugerido</span>
+        <p class="hook-text">${d.hook}</p>
+      </div>
+      ${sourceLink}
+    `;
+    grid.appendChild(card);
+  });
+}
+
+function formatUpdated(iso){
+  try{
+    const d = new Date(iso);
+    return d.toLocaleString('pt-BR', { dateStyle:'short', timeStyle:'short' });
+  }catch(e){ return iso; }
+}
+
+async function load(){
+  try{
+    const res = await fetch('./data.json', { cache: 'no-store' });
+    if(!res.ok) throw new Error('status ' + res.status);
+    const json = await res.json();
+    data = json.items || [];
+    document.getElementById('updated').textContent =
+      `última varredura: ${formatUpdated(json.updated)} · lançamento oficial confirmado: 19/11/2026`;
+    renderTicker();
+    renderFilters();
+    renderGrid();
+  }catch(e){
+    document.getElementById('updated').textContent = 'não foi possível carregar data.json';
+    document.getElementById('grid').innerHTML = `<div class="error">Falha ao carregar sinais: ${e.message}</div>`;
+  }
+}
+
+load();
+</script>
+
+</body>
+</html>

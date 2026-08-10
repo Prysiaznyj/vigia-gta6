@@ -1,0 +1,37 @@
+name: Varredura VIGIA GTA VI
+
+on:
+  schedule:
+    # a cada 4 horas — cobre as 24h do dia sozinho
+    - cron: "0 */4 * * *"
+  workflow_dispatch: {}  # botão "Run workflow" no GitHub pra testar na hora
+
+permissions:
+  contents: write
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Rodar varredura
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/fetch_signals.py
+
+      - name: Commitar data.json se mudou
+        run: |
+          git config user.name "vigia-bot"
+          git config user.email "vigia-bot@users.noreply.github.com"
+          git add data.json
+          git diff --cached --quiet || git commit -m "sweep: atualiza sinais $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

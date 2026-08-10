@@ -1,0 +1,101 @@
+{
+  "updated": "2026-08-09T00:00:00-03:00",
+  "items": [
+    {
+      "cat": "lancamento", "tagLabel": "Lançamento", "date": "06/11/2025",
+      "headline": "Data oficial confirmada: 19 de novembro de 2026",
+      "desc": "Rockstar adiou de novo, seis meses após a data original de 26 de maio, alegando querer mais tempo de polimento.",
+      "signal": 5,
+      "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
+      "url": null
+    },
+    {
+      "cat": "trabalhista", "tagLabel": "Trabalhista", "date": "22/07/2026",
+      "headline": "Sindicato dos trabalhadores da Rockstar cobra reconhecimento",
+      "desc": "Grupo diz que a primeira reunião com a diretoria foi produtiva e agora pressiona por reconhecimento formal antes do lançamento.",
+      "signal": 3,
+      "hook": "Ângulo \"o preço por trás do jogo\": bastidores de crunch enquanto o hype só cresce. Bom pra quem gosta de conteúdo mais investigativo.",
+      "url": null
+    },
+    {
+      "cat": "vendas", "tagLabel": "Vendas & Preço", "date": "30/06/2026",
+      "headline": "Já é o mais vendido da PS Store globalmente",
+      "desc": "Reservas abriram em 25 de junho e o jogo virou o mais vendido da loja da PlayStation em praticamente todo o mundo.",
+      "signal": 4,
+      "hook": "\"Ninguém nem jogou ainda e já é recorde de vendas\" — bom gancho de choque com número forte na primeira frase.",
+      "url": null
+    },
+    {
+      "cat": "boatos", "tagLabel": "Boatos", "date": "30/06/2026",
+      "headline": "Rumor de versão para Nintendo Switch 2",
+      "desc": "Insiders reafirmam que Rockstar, Nintendo e Take-Two estariam negociando uma versão do jogo pro Switch 2.",
+      "signal": 4,
+      "hook": "\"GTA 6 pode vir pro Switch 2?\" como pergunta de abertura — boa pra puxar comentários de quem duvida ser possível tecnicamente.",
+      "url": null
+    },
+    {
+      "cat": "boatos", "tagLabel": "Boatos", "date": "30/06/2026",
+      "headline": "Dúvida sobre 60fps na geração atual",
+      "desc": "Analistas acham \"extremamente desafiador\" rodar a 60fps nos consoles atuais; Rockstar não confirmou modo de performance.",
+      "signal": 3,
+      "hook": "Comparar com outros jogos que prometeram 60fps e entregaram menos — gancho técnico pra público mais hardcore.",
+      "url": null
+    },
+    {
+      "cat": "boatos", "tagLabel": "Boatos", "date": "06/07/2026",
+      "headline": "Novo sistema de transporte inspirado na Miami real",
+      "desc": "Detalhes do segundo trailer e vazamentos anteriores sugerem um jeito novo de se locomover pela Vice City, baseado em Miami de verdade.",
+      "signal": 4,
+      "hook": "Comparar print do trailer lado a lado com foto real de Miami — formato \"achei a referência real\" costuma performar bem.",
+      "url": null
+    },
+    {
+      "cat": "boatos", "tagLabel": "Boatos", "date": "26/07/2026",
+      "headline": "Insider aposta em revelação nova em 6 de agosto",
+      "desc": "Data ligada à teleconferência de resultados da Take-Two em 7 de agosto, mas o próprio insider admite que é só palpite, não confirmação.",
+      "signal": 5,
+      "hook": "\"Marca aí: 6 de agosto\" com tom de contagem regressiva — ótimo pra short curto que pede pra salvar/lembrar. Deixa claro que é especulação.",
+      "url": null
+    },
+    {
+      "cat": "curiosidade", "tagLabel": "Curiosidade", "date": "26/07/2026",
+      "headline": "Não existe \"collector's edition\" oficial",
+      "desc": "Rockstar vende só duas versões do jogo; qualquer anúncio de edição de colecionador por fora é golpe.",
+      "signal": 3,
+      "hook": "Formato \"alerta de golpe\": útil como conteúdo de utilidade pública, gera compartilhamento de quem quer proteger amigos.",
+      "url": null
+    },
+    {
+      "cat": "vendas", "tagLabel": "Vendas & Preço", "date": "23/07/2026",
+      "headline": "Edição Ultimate custa menos que a concorrência",
+      "desc": "Os 99,99 dólares da Ultimate Edition ficam abaixo dos 149,99 dólares cobrados pelas versões mais caras de NBA 2K27 e EA Sports FC 27.",
+      "signal": 3,
+      "hook": "Comparação direta de preço em cartela dividida — formato \"isso é caro ou barato?\" gera debate nos comentários.",
+      "url": null
+    },
+    {
+      "cat": "curiosidade", "tagLabel": "Curiosidade", "date": "23/07/2026",
+      "headline": "Streamer zera GTA V numa maratona de 48h",
+      "desc": "Jynxzi terminou GTA V numa maratona de 48 horas enquanto esperava o lançamento do 6.",
+      "signal": 2,
+      "hook": "Clipe de reação + \"e você, ia aguentar 48h de maratona?\" como CTA de enquete.",
+      "url": null
+    },
+    {
+      "cat": "boatos", "tagLabel": "Boatos", "date": "22/07/2026",
+      "headline": "Ex-produtor fala sobre ideias do GTA V reaparecendo",
+      "desc": "Ex-produtor da Rockstar diz que conceitos do GTA V podem voltar no 6, mas só se forem reconstruídos do zero.",
+      "signal": 2,
+      "hook": "\"O que pode voltar do GTA V?\" — bom gancho de nostalgia pra quem cresceu jogando o anterior.",
+      "url": null
+    },
+    {
+      "cat": "boatos", "tagLabel": "Boatos", "date": "22/07/2026",
+      "headline": "Vazamento na loja da Xbox sugere divisão de conteúdo",
+      "desc": "Entradas datamined mostram o jogo dividido em Story, Upgrade pra Ultimate Edition, Vintage Pack e Extra, sugerindo possível conteúdo online separado.",
+      "signal": 3,
+      "hook": "\"O que cada pacote inclui\" em formato de tabela rápida — funciona bem como short informativo direto.",
+      "url": null
+    }
+  ]
+}
