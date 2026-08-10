@@ -1,6 +1,46 @@
 {
-  "updated": "2026-08-10T01:27:53+00:00",
+  "updated": "2026-08-10T03:55:20+00:00",
   "items": [
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "date": "06/11/2025",
+      "headline": "Data oficial confirmada: 19 de novembro de 2026",
+      "desc": "Rockstar adiou de novo, seis meses após a data original de 26 de maio, alegando querer mais tempo de polimento.",
+      "signal": 5,
+      "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
+      "url": null
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "date": "26/07/2026",
+      "headline": "Insider aposta em revelação nova em 6 de agosto",
+      "desc": "Data ligada à teleconferência de resultados da Take-Two em 7 de agosto, mas o próprio insider admite que é só palpite, não confirmação.",
+      "signal": 5,
+      "hook": "\"Marca aí: 6 de agosto\" com tom de contagem regressiva — ótimo pra short curto que pede pra salvar/lembrar. Deixa claro que é especulação.",
+      "url": null
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "date": "10/08/2026",
+      "headline": "ROCKSTAR CONFIRMA NOVO VÍDEO DE GTA 6! SAIBA A DATA!",
+      "desc": "A Rockstar oficializou que teremos um novo trailer ou material em vídeo de GTA 6 muito em breve. A comunidade do Sem Missão já tá surtando pra ver a gameplay real desse projeto.",
+      "signal": 4,
+      "hook": "Se segura na cadeira porque a Rockstar acabou de confirmar a data do próximo vídeo do GTA 6!",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQW5CTHB1SVBhTENlVjBaM1FRamw0MVpJZUhqbG1ydW1ZT3QxOVQyQ1VJeGc0LVBJZWVLS0dJUnExX1JiejRMcTlCNExpVERYVHJtNTVGbXhiRkJmT0dyZEFOdEdkSjJkel93TndCSE8wa0JGLTd0SHkwVjZlWTF6WGVINUxsc01tdFNobm1od2tHMktRZ180czJYRmJUY1U?oc=5"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "date": "09/08/2026",
+      "headline": "E ESSE NOVO TRAILER DO GTA 6? TÁ TODO MUNDO COMENTANDO!",
+      "desc": "Rumores e canais da gringa voltaram a surtar com possíveis teasers e novos trailers do GTA 6 nesta semana. A máquina de teorias sobre o jogo não para um segundo.",
+      "signal": 4,
+      "hook": "Será que vazou mais um trailer de GTA 6 ou a gringa tá surtando à toa de novo?",
+      "url": "https://youtube.com/watch?v=64uq44kn-tY"
+    },
     {
       "cat": "curiosidade",
       "tagLabel": "Curiosidade",
@@ -10,6 +50,196 @@
       "signal": 4,
       "hook": "Curiosidade rápida: 'GTA 6: data confirmada, mas desempenho no PS5 preocupa' — bom pra fechar um vídeo ou virar corte solto.",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xSHA4bXp1ZFJwR0lnRFN6U05Qd3NvSFhCeTAtZXRTM2pCTTBfb0Q5MVNwdVNQM1VLUnZFSlNmTXEzUk9yQXMtM1NBbjNJbTkxNF9TN3dVYkVlV01uU0hfNWFKR1JHbDgtdGU0aA?oc=5"
+    },
+    {
+      "cat": "vendas",
+      "tagLabel": "Vendas & Preço",
+      "date": "30/06/2026",
+      "headline": "Já é o mais vendido da PS Store globalmente",
+      "desc": "Reservas abriram em 25 de junho e o jogo virou o mais vendido da loja da PlayStation em praticamente todo o mundo.",
+      "signal": 4,
+      "hook": "\"Ninguém nem jogou ainda e já é recorde de vendas\" — bom gancho de choque com número forte na primeira frase.",
+      "url": null
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "date": "30/06/2026",
+      "headline": "Rumor de versão para Nintendo Switch 2",
+      "desc": "Insiders reafirmam que Rockstar, Nintendo e Take-Two estariam negociando uma versão do jogo pro Switch 2.",
+      "signal": 4,
+      "hook": "\"GTA 6 pode vir pro Switch 2?\" como pergunta de abertura — boa pra puxar comentários de quem duvida ser possível tecnicamente.",
+      "url": null
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "date": "06/07/2026",
+      "headline": "Novo sistema de transporte inspirado na Miami real",
+      "desc": "Detalhes do segundo trailer e vazamentos anteriores sugerem um jeito novo de se locomover pela Vice City, baseado em Miami de verdade.",
+      "signal": 4,
+      "hook": "Comparar print do trailer lado a lado com foto real de Miami — formato \"achei a referência real\" costuma performar bem.",
+      "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "date": "09/08/2026",
+      "headline": "GTA 5 VS GTA 6: QUEM LEVA A MELHOR NESSE DUELO?",
+      "desc": "Uma edição viral colocou o trio clássico de GTA 5 lado a lado com os novos protagonistas Jason e Lucia. O salto gráfico e de animação do novo jogo impressionou a comunidade.",
+      "signal": 3,
+      "hook": "Michael, Trevor e Franklin aguentam o tranco contra o Jason e a Lucia no GTA 6?",
+      "url": "https://youtube.com/watch?v=JJQBcFuJcBE"
+    },
+    {
+      "cat": "vendas",
+      "tagLabel": "Vendas & Preço",
+      "date": "09/08/2026",
+      "headline": "GTA 6 A 100 DÓLARES? STREAMERS DEFENDEM O PREÇO DO JOGO!",
+      "desc": "Grandes streamers gringos debateram o possível preço salgado do GTA 6 e disseram que o jogo vale cada centavo pelo tamanho do projeto. A discussão sobre o valor tá pegando fogo na internet.",
+      "signal": 3,
+      "hook": "Você pagaria 500 reais no GTA 6? Esses streamers juram que o jogo vale isso tudo!",
+      "url": "https://youtube.com/watch?v=JW-Rv3xqMb4"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "date": "08/08/2026",
+      "headline": "O MEDO DE NÃO VIVER ATÉ O LANÇAMENTO DO GTA 6 VIROU MEME!",
+      "desc": "Um vídeo divertido mostrando a preocupação de conseguir chegar vivo até o dia do lançamento do GTA 6 viralizou nas redes. A ansiedade da galera já passou de todos os limites.",
+      "signal": 3,
+      "hook": "Esse idoso tá fazendo de tudo pra sobreviver até o dia do lançamento do GTA 6!",
+      "url": "https://youtube.com/watch?v=s6c7hClqzeA"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "date": "08/08/2026",
+      "headline": "OS GRÁFICOS DO GTA 6 TÃO UMA OBRA DE ARTE!",
+      "desc": "Um vídeo mesclando a trilha sonora no piano com os visuais de Vice City bateu meio milhão de visualizações rapidamente. O nível de detalhes visuais e sonoros do jogo tá deixando todo mundo de boca aberta.",
+      "signal": 3,
+      "hook": "Olha o nível desses gráficos do GTA 6 com essa trilha... parece até de mentira!",
+      "url": "https://youtube.com/watch?v=Whmg-9QIqeg"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "date": "08/08/2026",
+      "headline": "ESPERANDO O GTA 6 ATÉ FICAR VELHO! O MEME É REAL",
+      "desc": "Mais um meme viralizou mostrando a espera paciente pelo novo jogo da Rockstar. O longo tempo de espera entre o GTA 5 e o 6 continua sendo a maior piada da internet.",
+      "signal": 3,
+      "hook": "Marque aquele seu amigo que vai estar exatamente assim quando o GTA 6 finalmente sair!",
+      "url": "https://youtube.com/watch?v=mqfykAtow3Q"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "date": "08/08/2026",
+      "headline": "GTA 6 EXCLUSIVO NA NETFLIX? O RUMOR BIZARRO QUE SURTOU A INTERNET!",
+      "desc": "Um boato maluco de que o GTA 6 teria algum tipo de exclusividade com a Netflix movimentou a comunidade gamer. Criadores de conteúdo correram pra desmentir essa história absurda.",
+      "signal": 3,
+      "hook": "Já imaginou precisar assinar a Netflix pra conseguir jogar o novo GTA 6?",
+      "url": "https://youtube.com/watch?v=ILtQtKuH84Q"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "date": "07/08/2026",
+      "headline": "PAGAR PRA VER O TRAILER DO GTA 6? A RECLAMAÇÃO DOS FÃS!",
+      "desc": "Criadores estão revoltados com os boatos de monetização e conteúdos pagos em torno do anúncio do jogo. A comunidade tá caindo matando em cima de qualquer ideia de cobrança antecipada.",
+      "signal": 3,
+      "hook": "Eles piraram? Tá circulando um papo de que queriam cobrar só pra mostrar a gameplay do GTA 6!",
+      "url": "https://youtube.com/watch?v=PUdVV0-Ed8s"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "date": "07/08/2026",
+      "headline": "CHEFE DA TAKE-TWO FALA DE GAMEPLAY E FIM DOS DISCOS NO GTA 6!",
+      "desc": "O chefão da Take-Two respondeu polêmicas sobre o lançamento digital e deu pistas sobre os próximos anúncios de gameplay do GTA 6. As declarações acenderam o alerta da comunidade.",
+      "signal": 3,
+      "hook": "Mídia física no GTA 6 já era? O dono da Take-Two abriu o jogo sobre isso!",
+      "url": "https://youtube.com/watch?v=XD9Kd-MkXzo"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "date": "07/08/2026",
+      "headline": "FÃ DE GTA 6 É PEGO NO FLAGRA PROCURANDO DETALHES INUSITADOS!",
+      "desc": "Um meme viralizou mostrando um jogador analisando em câmera lenta cada frame do trailer do GTA 6 em busca de easter eggs. O fã de GTA definitivamente não deixa passar nada.",
+      "signal": 3,
+      "hook": "Você também é o tipo de maluco que para o trailer do GTA 6 em frame por frame pra achar segredos?",
+      "url": "https://youtube.com/watch?v=Gd-4OMhpKls"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "date": "07/08/2026",
+      "headline": "TESTOU O GTA 6 ANTES DA HORA? A HISTÓRIA VIRAL QUE TÁ DANDO O QUE FALAR!",
+      "desc": "Vídeos com histórias exageradas e teorias sobre testar o GTA 6 na surdina estão estourando em visualizações. A sede por qualquer vazamento do jogo tá gerando contos inacreditáveis.",
+      "signal": 3,
+      "hook": "O cara jurou que jogou GTA 6 na casa do amigo e que agora tá sendo caçado pela Rockstar!",
+      "url": "https://youtube.com/watch?v=XUYyD8NjsyY"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "date": "07/08/2026",
+      "headline": "GTA 6 VIROU TEMA ATÉ EM TALK SHOWS INTERNACIONAIS!",
+      "desc": "A febre por GTA 6 chegou em níveis insanos, virando pauta em podcasts e programas de entretenimento do mundo todo. Todo mundo quer se aproveitar do hype do jogo pra ganhar audiência.",
+      "signal": 3,
+      "hook": "Não tem pra onde fugir, até programa de TV gringo tá usando o nome do GTA 6 pra engajar!",
+      "url": "https://youtube.com/watch?v=CH7qqEtWPOg"
+    },
+    {
+      "cat": "trabalhista",
+      "tagLabel": "Trabalhista",
+      "date": "22/07/2026",
+      "headline": "Sindicato dos trabalhadores da Rockstar cobra reconhecimento",
+      "desc": "Grupo diz que a primeira reunião com a diretoria foi produtiva e agora pressiona por reconhecimento formal antes do lançamento.",
+      "signal": 3,
+      "hook": "Ângulo \"o preço por trás do jogo\": bastidores de crunch enquanto o hype só cresce. Bom pra quem gosta de conteúdo mais investigativo.",
+      "url": null
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "date": "30/06/2026",
+      "headline": "Dúvida sobre 60fps na geração atual",
+      "desc": "Analistas acham \"extremamente desafiador\" rodar a 60fps nos consoles atuais; Rockstar não confirmou modo de performance.",
+      "signal": 3,
+      "hook": "Comparar com outros jogos que prometeram 60fps e entregaram menos — gancho técnico pra público mais hardcore.",
+      "url": null
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "date": "26/07/2026",
+      "headline": "Não existe \"collector's edition\" oficial",
+      "desc": "Rockstar vende só duas versões do jogo; qualquer anúncio de edição de colecionador por fora é golpe.",
+      "signal": 3,
+      "hook": "Formato \"alerta de golpe\": útil como conteúdo de utilidade pública, gera compartilhamento de quem quer proteger amigos.",
+      "url": null
+    },
+    {
+      "cat": "vendas",
+      "tagLabel": "Vendas & Preço",
+      "date": "23/07/2026",
+      "headline": "Edição Ultimate custa menos que a concorrência",
+      "desc": "Os 99,99 dólares da Ultimate Edition ficam abaixo dos 149,99 dólares cobrados pelas versões mais caras de NBA 2K27 e EA Sports FC 27.",
+      "signal": 3,
+      "hook": "Comparação direta de preço em cartela dividida — formato \"isso é caro ou barato?\" gera debate nos comentários.",
+      "url": null
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "date": "22/07/2026",
+      "headline": "Vazamento na loja da Xbox sugere divisão de conteúdo",
+      "desc": "Entradas datamined mostram o jogo dividido em Story, Upgrade pra Ultimate Edition, Vintage Pack e Extra, sugerindo possível conteúdo online separado.",
+      "signal": 3,
+      "hook": "\"O que cada pacote inclui\" em formato de tabela rápida — funciona bem como short informativo direto.",
+      "url": null
     },
     {
       "cat": "curiosidade",
@@ -74,6 +304,46 @@
     {
       "cat": "curiosidade",
       "tagLabel": "Curiosidade",
+      "date": "23/07/2026",
+      "headline": "Streamer zera GTA V numa maratona de 48h",
+      "desc": "Jynxzi terminou GTA V numa maratona de 48 horas enquanto esperava o lançamento do 6.",
+      "signal": 2,
+      "hook": "Clipe de reação + \"e você, ia aguentar 48h de maratona?\" como CTA de enquete.",
+      "url": null
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "date": "22/07/2026",
+      "headline": "Ex-produtor fala sobre ideias do GTA V reaparecendo",
+      "desc": "Ex-produtor da Rockstar diz que conceitos do GTA V podem voltar no 6, mas só se forem reconstruídos do zero.",
+      "signal": 2,
+      "hook": "\"O que pode voltar do GTA V?\" — bom gancho de nostalgia pra quem cresceu jogando o anterior.",
+      "url": null
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "date": "07/08/2026",
+      "headline": "GTA 6 SÓ DIGITAL? TAKE-TWO COMPARA JOGO FÍSICO A DISCO DE VINIL!",
+      "desc": "O CEO da Take-Two defendeu a migração para jogos digitais, afirmando que as mídias físicas vão virar itens de colecionador. A declaração gerou muita polêmica sobre como será a venda do GTA 6.",
+      "signal": 1,
+      "hook": "O CEO da Take-Two falou que mídia física é coisa do passado. Será o fim do disco no GTA 6?",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPVkVDUzVTRktrWkFEb0FDLWZ5UFRLUGxUc01vN094dFlrQnI0c0NRNk9kdG54VWtjV3ZPOU5kSmNGQUpXTGw3bV9NVVRydDVHeTZWLWp1dHhSVzRpay1TWnZRUGtNTEl0TmEzYjNlTmw1S1pvbUNoZUFLVnpfWE9MT2tLOWRkaWVPT2hncDN1MEdPakttWEVuWTFjZzdESFZvSUdmYWk2SUZtS0FyWUFzSHBTdExvUk96T3VQRkFsS0t3Nk1PenZNMUoxLXNYVHZFUUFjMEZlZ1AwMGlrLUFWUFoyRnIzSzl4Zmx6WlhIV01VOGlVOXVfU0luckNZR25sWTRqVXNwZFV3UnRDblJSV0pR?oc=5"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "date": "07/08/2026",
+      "headline": "INTERESSE NO GTA 6 BATE RECORDES HISTÓRICOS ANTES DA HORA!",
+      "desc": "O interesse e a busca por informações do GTA 6 atingiram marcas astronômicas nas redes sociais antes mesmo do próximo anúncio oficial. O hype tá gerando números nunca antes vistos na indústria.",
+      "signal": 1,
+      "hook": "O GTA 6 tá quebrando todos os recordes da internet sem nem ter saído oficialmente em pré-venda!",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTUo2MFFxbDM5ZmZGeEdRYUtBV3lJQ0k3UXI4WlIyVkNTUl9QQ2xHa2xKU2dCczdfOEdHT3BING1XWVVwcEtnMkpYZm9oQ2xfSjl0RzdWNEt4ckRqbmMxWVlYWHZBa19FUkR3eWhUQWhPUk1HX2QzdEx2WnNrNEdvak9NVURpNi0xTFJlTnF0STJQOHBJTXhvS2dfQQ?oc=5"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
       "date": "08/08/2026",
       "headline": "Jornalista diz que Rockstar não falará sobre GTA VI Online por um bom tempo",
       "desc": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOZGZ0OERoTTh0MTR6UFpRczlsUEdxcHhLY04yZ18tQUVzbUE5bnZvSFh2TEVGa1AtRmJiS3pfNGd2RW13SzV4UEhfbkFUMEItc24tVXptZTFLcnlmYmpLaW5oQ3J3cDA5LTZJVjNaa2J0Wnp5dUl1SW5EcnVKVllBODRuVWFPb25UZlVRSWg1SkRpMUpHMFlFb1AyRUp6ajjSAaQBQVVfeXFMT0",
@@ -130,246 +400,6 @@
       "signal": 1,
       "hook": "Número na cara logo na primeira frase: 'O CEO da Take-Two não descarta o lançamento do GTA 6 em disco, defende o preço de US$ 80 e o lançamento exclusivamente digital' — formato \"isso é muito ou pouco?\".",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOa3BpMkMzQXRqOXhzZDFrVDhZVzdxRTA0NEZpeGxhSHl0UEtqMkFZYnJkT3VkUGdvdmFJWnNhdEV2cW5YV1ZpU2c5Z0xjQ0FMTUlOajYwbUE3T1pzUnVyOEVfenpvUnVkcVkyQU96WVVVc2hCR3BNelRUY0FYMS1VOE9RODU0Nkc0N0txcTNYU3B2aURPbG5MY2s0MkZVaVdCeDFyZXVXVTdPSDBCWG9Mc1VXR25UcTh1VXc0V2YyUTFKZVFCWG5sSzcxeVJmTU16cDhocmtTUTdYRS16dF9rajVBSVRsdG9EZFFId1AtcktHTUxyYWVMakZ0VEZiakE?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "date": "07/08/2026",
-      "headline": "Líder da Take-Two explica a parceria com a Netflix para mostrar GTA 6",
-      "desc": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPVVI5RTJRSkdCYTAxVWpmZ256TEhULXYyUFhhbndOOVo5aVN2M3EySEZ5SDQ4c1dLTkJyZVU0dk84emtJa2JpNnFqb01KeW5WX3I0TURRSnpFMlVvUFR1YkNDWTJPZXNZX0JLNGVSRm9BSFpZeU1WX1FmZkRtU25obmV1RzJNVUdtbERrSVBzNGRad1JDWV9YSHV3?oc=5\" target=\"_blank\"",
-      "signal": 1,
-      "hook": "Curiosidade rápida: 'Líder da Take-Two explica a parceria com a Netflix para mostrar GTA 6' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVVI5RTJRSkdCYTAxVWpmZ256TEhULXYyUFhhbndOOVo5aVN2M3EySEZ5SDQ4c1dLTkJyZVU0dk84emtJa2JpNnFqb01KeW5WX3I0TURRSnpFMlVvUFR1YkNDWTJPZXNZX0JLNGVSRm9BSFpZeU1WX1FmZkRtU25obmV1RzJNVUdtbERrSVBzNGRad1JDWV9YSHV3?oc=5"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "date": "07/08/2026",
-      "headline": "Rockstar odeia o PC? Entenda por que GTA 6 não será lançado para computadores no lançamento",
-      "desc": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNRGFsaV8yVVdmTkREWUM4NmNlN3VjR3VnS09CVklJUnhTS0d6ME12czlnU09CZTFDS1RFN2xMeHRqSnduU0d5Si04aFhpS251UUZPRDVBRVBwT3FqU3ZJa1VPRlZVV0RkeFllUE1FVkhGSkRTUVlaZEFoX3dqbV9YYXBrbi01S2Y1eW9zRS1YZ2pBal9YNHVIbUVVNkNwVkNYZF9KQXQxZ0tFeH",
-      "signal": 1,
-      "hook": "Abre direto com 'Rockstar odeia o PC? Entenda por que GTA 6 não será lançado para computadores no lançamento' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRGFsaV8yVVdmTkREWUM4NmNlN3VjR3VnS09CVklJUnhTS0d6ME12czlnU09CZTFDS1RFN2xMeHRqSnduU0d5Si04aFhpS251UUZPRDVBRVBwT3FqU3ZJa1VPRlZVV0RkeFllUE1FVkhGSkRTUVlaZEFoX3dqbV9YYXBrbi01S2Y1eW9zRS1YZ2pBal9YNHVIbUVVNkNwVkNYZF9KQXQxZ0tFeHZGaVHSAbMBQVVfeXFMTjA2R3dkV0VzaXBndlRwTWlrbTVXNnBTNWVkT3VzYjRKZHdCdkR6ei1ZMHYzUG9IWTBqb0NaR0dGaTJmTHZla2x2X05rRGtrd2pzYlF3aXJ0cGlKSVlPTFg2M2tFeUFGOF84djE3dGQ0WndKMUItMUdDSm5KTVRpbENvUWhyZkE4RFJjTWxfTzFTTDM3N240RHhvMHlHZWdSYXAxc0tlbC1XNHAxaFMxQ3hTWDA?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "date": "07/08/2026",
-      "headline": "Take-Two defende estratégia de marketing de GTA 6 na Netflix",
-      "desc": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBsaEVGYzJueDM4N1FkSDhBVkJNYzlSNXo5LUxydko1MmttOTRXRy1MLXJLNDcwRGFGelEyNDFna0lMR3lBcUVEZndQWG02RHZGX1J5S1oyNDdaRl9FRnItN3dpWXFqc2RKc1I4R1djWjFSaGhjX0E?oc=5\" target=\"_blank\">Take-Two defende estratégia de marketing de GTA",
-      "signal": 1,
-      "hook": "Curiosidade rápida: 'Take-Two defende estratégia de marketing de GTA 6 na Netflix' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsaEVGYzJueDM4N1FkSDhBVkJNYzlSNXo5LUxydko1MmttOTRXRy1MLXJLNDcwRGFGelEyNDFna0lMR3lBcUVEZndQWG02RHZGX1J5S1oyNDdaRl9FRnItN3dpWXFqc2RKc1I4R1djWjFSaGhjX0E?oc=5"
-    },
-    {
-      "cat": "vendas",
-      "tagLabel": "Vendas & Preço",
-      "date": "07/08/2026",
-      "headline": "Take-Two encerra ano fiscal com US$ 6,72 bilhões em vendas impulsionadas por GTA VI",
-      "desc": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSmFuY0dfbno1ZzdZQmg2UUIyVWVYMlAwaTJ2UVp0QjlTemRBMlBOQzYzZktOSEtfTnZ2RjhaTGxvcTBZQ1FaLWdxaTBGX2FnM211TW1PNlc4cWxsZ1lSODdKRFk1WWFad0RTV2dtMmhkeXU4VFFhQk1oOGVHZzhmNlh4cnlYVno5LTZvVjFOY05RQXlXWjk4cWJkZE43elZ1eGx1Yy10amVNa0",
-      "signal": 1,
-      "hook": "Número na cara logo na primeira frase: 'Take-Two encerra ano fiscal com US$ 6,72 bilhões em vendas impulsionadas por GTA VI' — formato \"isso é muito ou pouco?\".",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSmFuY0dfbno1ZzdZQmg2UUIyVWVYMlAwaTJ2UVp0QjlTemRBMlBOQzYzZktOSEtfTnZ2RjhaTGxvcTBZQ1FaLWdxaTBGX2FnM211TW1PNlc4cWxsZ1lSODdKRFk1WWFad0RTV2dtMmhkeXU4VFFhQk1oOGVHZzhmNlh4cnlYVno5LTZvVjFOY05RQXlXWjk4cWJkZE43elZ1eGx1Yy10amVNa0FDSzFtUkVyS2t0R0h2R2VhdVdrRUlYZ3JyNlFubA?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "date": "07/08/2026",
-      "headline": "Para ver GTA VI primeiro, fã terá que pagar assinatura da Netflix",
-      "desc": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbGp3eUNTd05tX3lZeEQweEROS0tXZ1VaQkdHa2NNUDQwWk1tZEJLNzVRVHNmR29najAzdGVqM2R1dVlRX20yd0ZzNGs5RzdENTRoUlcxbkp2WGtRYU9WTWtoVUFkbmlxVVhzS3RmRXZfbHIzWS1KeEJFR1FYZkxfUDZNbzFiVl9BRGktZ1lkY0FGYzZVckh1YnMydHNXLWt3TV9tVzNqSm0za3",
-      "signal": 1,
-      "hook": "Curiosidade rápida: 'Para ver GTA VI primeiro, fã terá que pagar assinatura da Netflix' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbGp3eUNTd05tX3lZeEQweEROS0tXZ1VaQkdHa2NNUDQwWk1tZEJLNzVRVHNmR29najAzdGVqM2R1dVlRX20yd0ZzNGs5RzdENTRoUlcxbkp2WGtRYU9WTWtoVUFkbmlxVVhzS3RmRXZfbHIzWS1KeEJFR1FYZkxfUDZNbzFiVl9BRGktZ1lkY0FGYzZVckh1YnMydHNXLWt3TV9tVzNqSm0za3AwWG1sU2lTQnJ0Y3ZN0gG-AUFVX3lxTFBCY0ZYdmstUm9IRVdwdUZibHhkOWJmU05FNU1BdlVOM1dDM1JCQkw4M2ZyaExVSEhPUVNadDhsbFZNMlFYemZ5MUE3V0JFeWdhQVZJcnE3QlB5ekRsXzRHTVk2MEdwaWlpUWFiQ3BMVGtmREpMZWlVOU1Mb0NXV08tdXNCeGdXR0tPZ3VhWmo4cUI4N3RpOEN1WGxoTUJiem9SQkRUdWFLR1Y4MHF3TjYzRU1LUkpfLTRHTkRQUGc?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "date": "07/08/2026",
-      "headline": "Netflix anuncia “GTA VI: Um Olhar Estendido” para agosto e aumenta expectativa pelo novo capítulo da franquia",
-      "desc": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTzQ2Q3duazdiQ1pweDR1Z1dXU2RiVm9DVi10eHR2eEVqZVJ1YjJVRTBTbDl1akFzN19ScWgydWZhUnNtemppY3lsRklacDJWM05jWUR0QnhFVmtGNFFuZTNnT1pVbjhSSGpjdkQ0VVFFMVhVZDdCalhnMkhjSlM4QVBrS09UUHU4ZXpVTFF0eVlqUmNsaGNWRktiTXhGZVB2el9GTld2aDNXZW",
-      "signal": 1,
-      "hook": "Curiosidade rápida: 'Netflix anuncia “GTA VI: Um Olhar Estendido” para agosto e aumenta expectativa pelo novo capítulo da franquia' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTzQ2Q3duazdiQ1pweDR1Z1dXU2RiVm9DVi10eHR2eEVqZVJ1YjJVRTBTbDl1akFzN19ScWgydWZhUnNtemppY3lsRklacDJWM05jWUR0QnhFVmtGNFFuZTNnT1pVbjhSSGpjdkQ0VVFFMVhVZDdCalhnMkhjSlM4QVBrS09UUHU4ZXpVTFF0eVlqUmNsaGNWRktiTXhGZVB2el9GTld2aDNXZWRsU1gtb2oxUWhqbUh2Nlh2cjhGVHVONGZteml5bDNjYlYzX3RtUm5WUzlB?oc=5"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "date": "07/08/2026",
-      "headline": "CEO da Take-Two não descarta a possibilidade de GTA 6 em mídia física no futuro e insiste que a decisão não teve nada a ver com preocupações com vazamentos",
-      "desc": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUi1yMXEtaENmYmRPMDZqcUJBeVBMZlNsNU1obmhoMUpVd0plUWljZDJCZlJ4aUVKVTNTdjNqNlJfUUJiQUFoczFjbFFVbzRqRzlNcnJJaUU4MHZGMnAybUlyMW5UUjJ6aHFqMG4tdlI2TTdHQ0Vuc3p5NDJ4VXhvSWhkMVoydm5lUFVNOFcyRFVSVEVqc3Y0NmdJcjVReDFBbGJuY1dyQ2NHRy",
-      "signal": 1,
-      "hook": "Pergunta de abertura: 'CEO da Take-Two não descarta a possibilidade de GTA 6 em mídia física no futuro e insiste que a decisão não teve nada a ver com preocupações com vazamentos?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUi1yMXEtaENmYmRPMDZqcUJBeVBMZlNsNU1obmhoMUpVd0plUWljZDJCZlJ4aUVKVTNTdjNqNlJfUUJiQUFoczFjbFFVbzRqRzlNcnJJaUU4MHZGMnAybUlyMW5UUjJ6aHFqMG4tdlI2TTdHQ0Vuc3p5NDJ4VXhvSWhkMVoydm5lUFVNOFcyRFVSVEVqc3Y0NmdJcjVReDFBbGJuY1dyQ2NHRy15OVEtSS16dGloZWlNakduNVJSUERoTW15cFhqSjNUNWRZQmJhN1l3SEFib1M2VjNkNV9V?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "date": "07/08/2026",
-      "headline": "Rockstar emite péssima notícia para quem estava esperando o GTA 6 neste ano",
-      "desc": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQbkF6T3JpZHJ5WGhBWExKeHU2RWNmekpZd05SNVpidjNZSy1GTVlwVlRibnBXajE1Mm9fN1VjblFmZzI0N3BiYVhSTEVYRU1pT2RlYk1aWEhGeWczT1VudmR4dE9YWU9JUzRZbHV2U0xQTGszSmhWaHFEb3ZrR3lwa2VOb0hkMVg1cktDSHZBak1mNHh4cDhtOTJxSjhPLU04MVpuWlBWYXliQ1",
-      "signal": 1,
-      "hook": "Curiosidade rápida: 'Rockstar emite péssima notícia para quem estava esperando o GTA 6 neste ano' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbkF6T3JpZHJ5WGhBWExKeHU2RWNmekpZd05SNVpidjNZSy1GTVlwVlRibnBXajE1Mm9fN1VjblFmZzI0N3BiYVhSTEVYRU1pT2RlYk1aWEhGeWczT1VudmR4dE9YWU9JUzRZbHV2U0xQTGszSmhWaHFEb3ZrR3lwa2VOb0hkMVg1cktDSHZBak1mNHh4cDhtOTJxSjhPLU04MVpuWlBWYXliQ1BBZFNYUjFB?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "date": "07/08/2026",
-      "headline": "Preços de GTA 6 representam \"custo-benefício incrível\", diz CEO da Take-Two",
-      "desc": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxOQjZNWFR3dkxGTlpmT3JyQ0t6S1djWlNXeTFTQ21wTElKc0x0S2FKN2c0Sl9GMFBJejJtTTZ1cXJKemt2UXE1LVJUbHhVSFRmcnJ0RkVIOHY2YmNPakhrRHZ1bXlQRVFJeHNWTldCb3hReTg0ZGlIUWNacHkxTkh1cFJuZnlmOWc0V05ZZzJnb01FRE5INXNYWkt5eUNPOXp3X2xNVjEwY3JpU3",
-      "signal": 1,
-      "hook": "Curiosidade rápida: 'Preços de GTA 6 representam \"custo-benefício incrível\", diz CEO da Take-Two' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOQjZNWFR3dkxGTlpmT3JyQ0t6S1djWlNXeTFTQ21wTElKc0x0S2FKN2c0Sl9GMFBJejJtTTZ1cXJKemt2UXE1LVJUbHhVSFRmcnJ0RkVIOHY2YmNPakhrRHZ1bXlQRVFJeHNWTldCb3hReTg0ZGlIUWNacHkxTkh1cFJuZnlmOWc0V05ZZzJnb01FRE5INXNYWkt5eUNPOXp3X2xNVjEwY3JpU3E2M3ViYlkyeS01dTB3RDdSYjF3UUh3M1B2N1YxYXAtcjFmVTVkY0ZMSzdpZnNydkN5cWlDaHJocHFBa1pBN1doSU95d18tTVNOc2dvZkR2U3EwY01LMTJ3?oc=5"
-    },
-    {
-      "cat": "vendas",
-      "tagLabel": "Vendas & Preço",
-      "date": "07/08/2026",
-      "headline": "CEO da Take-Two defende preço de GTA 6 e afirma que a Rockstar entrega mais do que promete",
-      "desc": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ2g4ZzlydEZxUk55ODFabWtDWUkzNHROZk9LYVVJSFdLU0F0ZGJWVzZMRGJVV3ltS0hhMm1faXVRQXNhd0JENjJFUEdveTV5RVVjeFVDektnU2NhbUR4bDB1ZHVuLUtFN2pQYWlScUV3bVBpUC0xZklPRm5kLXBhSkdnaGZnUHRZSENvQzRsalhrVlhzcjNlWkhKNEZzSXpwSEVVN3ZIMmYzUW",
-      "signal": 1,
-      "hook": "Número na cara logo na primeira frase: 'CEO da Take-Two defende preço de GTA 6 e afirma que a Rockstar entrega mais do que promete' — formato \"isso é muito ou pouco?\".",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ2g4ZzlydEZxUk55ODFabWtDWUkzNHROZk9LYVVJSFdLU0F0ZGJWVzZMRGJVV3ltS0hhMm1faXVRQXNhd0JENjJFUEdveTV5RVVjeFVDektnU2NhbUR4bDB1ZHVuLUtFN2pQYWlScUV3bVBpUC0xZklPRm5kLXBhSkdnaGZnUHRZSENvQzRsalhrVlhzcjNlWkhKNEZzSXpwSEVVN3ZIMmYzUWV0SDdfX3hIb2tSVkNZdEc5LXhn?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "date": "07/08/2026",
-      "headline": "“Os preços não acompanharam a inflação”: presidente da Take-Two insiste que Rockstar acertou nos preços das edições Standard e Ultimate de GTA 6",
-      "desc": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSXdwR2VyYV9PU2dNTEh1eTVJeHNKbTU4QUhKQW9KNjlnT1RPc0lLSVR4cjBZa2VPSlJBUThDamdBbHgxcDIxc0VjdWt6eWJXXzg1NGhJRS1IaXJ4cHF1cmtUTlExVURyZHU2cXcxejlGeW84UzlaNHRqTTlTRjlwYzhYWUlDcG55RlJmRF8xYUc5bHRmbzJNR0tVODFLV3JtejBqVXJCZUJlMU",
-      "signal": 1,
-      "hook": "Curiosidade rápida: '“Os preços não acompanharam a inflação”: presidente da Take-Two insiste que Rockstar acertou nos preços das edições Standard e Ultimate de GTA 6' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSXdwR2VyYV9PU2dNTEh1eTVJeHNKbTU4QUhKQW9KNjlnT1RPc0lLSVR4cjBZa2VPSlJBUThDamdBbHgxcDIxc0VjdWt6eWJXXzg1NGhJRS1IaXJ4cHF1cmtUTlExVURyZHU2cXcxejlGeW84UzlaNHRqTTlTRjlwYzhYWUlDcG55RlJmRF8xYUc5bHRmbzJNR0tVODFLV3JtejBqVXJCZUJlMUVTVUNPS0pKdW1fUDFJVFQ4RDF6alJRVU11c2w3S2dtU0p3SFhUT0xzRU82d0VkaHhDdXlR?oc=5"
-    },
-    {
-      "cat": "vendas",
-      "tagLabel": "Vendas & Preço",
-      "date": "07/08/2026",
-      "headline": "Empresa por trás de ‘GTA 6’ fatura R$ 7 bilhões no trimestre, impulsionada pelas pré-vendas do jogo",
-      "desc": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQTFNOYXZ2Z19tYi1NRkh6cHVTMFp1SWY5bDhoSTVod2xQTDAySWxQWXpEMFFQcUdUay1RdFh0cXRZcXZUbHhFc2JOLThfM0d4aThtY0Q3aXdZcnh5aDZDd0tRa3l0OUdkNkVMbGV1MU1veDViRVZfZzhfdHllSmswS2w0bFNUT09Rdjk5Q2JVQ3ZXT2JCUldBYjJsbHd6UHM5YWRwN3d5cTlnem",
-      "signal": 1,
-      "hook": "Número na cara logo na primeira frase: 'Empresa por trás de ‘GTA 6’ fatura R$ 7 bilhões no trimestre, impulsionada pelas pré-vendas do jogo' — formato \"isso é muito ou pouco?\".",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTFNOYXZ2Z19tYi1NRkh6cHVTMFp1SWY5bDhoSTVod2xQTDAySWxQWXpEMFFQcUdUay1RdFh0cXRZcXZUbHhFc2JOLThfM0d4aThtY0Q3aXdZcnh5aDZDd0tRa3l0OUdkNkVMbGV1MU1veDViRVZfZzhfdHllSmswS2w0bFNUT09Rdjk5Q2JVQ3ZXT2JCUldBYjJsbHd6UHM5YWRwN3d5cTlnemllSVo0TDRzWkc4cnQ2NkZmMUFzNThDNUV2bWpjWFFINXV4a1E?oc=5"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "date": "06/11/2025",
-      "headline": "Data oficial confirmada: 19 de novembro de 2026",
-      "desc": "Rockstar adiou de novo, seis meses após a data original de 26 de maio, alegando querer mais tempo de polimento.",
-      "signal": 5,
-      "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
-      "url": null
-    },
-    {
-      "cat": "trabalhista",
-      "tagLabel": "Trabalhista",
-      "date": "22/07/2026",
-      "headline": "Sindicato dos trabalhadores da Rockstar cobra reconhecimento",
-      "desc": "Grupo diz que a primeira reunião com a diretoria foi produtiva e agora pressiona por reconhecimento formal antes do lançamento.",
-      "signal": 3,
-      "hook": "Ângulo \"o preço por trás do jogo\": bastidores de crunch enquanto o hype só cresce. Bom pra quem gosta de conteúdo mais investigativo.",
-      "url": null
-    },
-    {
-      "cat": "vendas",
-      "tagLabel": "Vendas & Preço",
-      "date": "30/06/2026",
-      "headline": "Já é o mais vendido da PS Store globalmente",
-      "desc": "Reservas abriram em 25 de junho e o jogo virou o mais vendido da loja da PlayStation em praticamente todo o mundo.",
-      "signal": 4,
-      "hook": "\"Ninguém nem jogou ainda e já é recorde de vendas\" — bom gancho de choque com número forte na primeira frase.",
-      "url": null
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "date": "30/06/2026",
-      "headline": "Rumor de versão para Nintendo Switch 2",
-      "desc": "Insiders reafirmam que Rockstar, Nintendo e Take-Two estariam negociando uma versão do jogo pro Switch 2.",
-      "signal": 4,
-      "hook": "\"GTA 6 pode vir pro Switch 2?\" como pergunta de abertura — boa pra puxar comentários de quem duvida ser possível tecnicamente.",
-      "url": null
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "date": "30/06/2026",
-      "headline": "Dúvida sobre 60fps na geração atual",
-      "desc": "Analistas acham \"extremamente desafiador\" rodar a 60fps nos consoles atuais; Rockstar não confirmou modo de performance.",
-      "signal": 3,
-      "hook": "Comparar com outros jogos que prometeram 60fps e entregaram menos — gancho técnico pra público mais hardcore.",
-      "url": null
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "date": "06/07/2026",
-      "headline": "Novo sistema de transporte inspirado na Miami real",
-      "desc": "Detalhes do segundo trailer e vazamentos anteriores sugerem um jeito novo de se locomover pela Vice City, baseado em Miami de verdade.",
-      "signal": 4,
-      "hook": "Comparar print do trailer lado a lado com foto real de Miami — formato \"achei a referência real\" costuma performar bem.",
-      "url": null
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "date": "26/07/2026",
-      "headline": "Insider aposta em revelação nova em 6 de agosto",
-      "desc": "Data ligada à teleconferência de resultados da Take-Two em 7 de agosto, mas o próprio insider admite que é só palpite, não confirmação.",
-      "signal": 5,
-      "hook": "\"Marca aí: 6 de agosto\" com tom de contagem regressiva — ótimo pra short curto que pede pra salvar/lembrar. Deixa claro que é especulação.",
-      "url": null
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "date": "26/07/2026",
-      "headline": "Não existe \"collector's edition\" oficial",
-      "desc": "Rockstar vende só duas versões do jogo; qualquer anúncio de edição de colecionador por fora é golpe.",
-      "signal": 3,
-      "hook": "Formato \"alerta de golpe\": útil como conteúdo de utilidade pública, gera compartilhamento de quem quer proteger amigos.",
-      "url": null
-    },
-    {
-      "cat": "vendas",
-      "tagLabel": "Vendas & Preço",
-      "date": "23/07/2026",
-      "headline": "Edição Ultimate custa menos que a concorrência",
-      "desc": "Os 99,99 dólares da Ultimate Edition ficam abaixo dos 149,99 dólares cobrados pelas versões mais caras de NBA 2K27 e EA Sports FC 27.",
-      "signal": 3,
-      "hook": "Comparação direta de preço em cartela dividida — formato \"isso é caro ou barato?\" gera debate nos comentários.",
-      "url": null
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "date": "23/07/2026",
-      "headline": "Streamer zera GTA V numa maratona de 48h",
-      "desc": "Jynxzi terminou GTA V numa maratona de 48 horas enquanto esperava o lançamento do 6.",
-      "signal": 2,
-      "hook": "Clipe de reação + \"e você, ia aguentar 48h de maratona?\" como CTA de enquete.",
-      "url": null
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "date": "22/07/2026",
-      "headline": "Ex-produtor fala sobre ideias do GTA V reaparecendo",
-      "desc": "Ex-produtor da Rockstar diz que conceitos do GTA V podem voltar no 6, mas só se forem reconstruídos do zero.",
-      "signal": 2,
-      "hook": "\"O que pode voltar do GTA V?\" — bom gancho de nostalgia pra quem cresceu jogando o anterior.",
-      "url": null
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "date": "22/07/2026",
-      "headline": "Vazamento na loja da Xbox sugere divisão de conteúdo",
-      "desc": "Entradas datamined mostram o jogo dividido em Story, Upgrade pra Ultimate Edition, Vintage Pack e Extra, sugerindo possível conteúdo online separado.",
-      "signal": 3,
-      "hook": "\"O que cada pacote inclui\" em formato de tabela rápida — funciona bem como short informativo direto.",
-      "url": null
     }
   ]
 }
