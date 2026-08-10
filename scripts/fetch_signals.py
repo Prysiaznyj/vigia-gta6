@@ -141,35 +141,55 @@ def fetch_news():
     return items
 
 
+def _clean_reddit_summary(html):
+    text = re.sub(r"<[^>]+>", " ", html or "")
+    text = re.sub(r"submitted by.*$", "", text, flags=re.DOTALL)
+    text = re.sub(r"&#32;|&amp;|\s+", " ", text).strip()
+    return text
+
+
 def fetch_reddit():
+    """Os endpoints JSON do Reddit (.json, oauth.reddit.com) bloqueiam com 403
+    requisições vindas de IPs de datacenter (caso do GitHub Actions). O feed
+    RSS/Atom (.rss) responde normal, sem autenticação — só não traz contagem de
+    upvotes/comentários, então usamos a posição no ranking "hot" como proxy de
+    engajamento (o Reddit já ordena essa listagem por popularidade)."""
     items = []
     cutoff = datetime.now(timezone.utc) - timedelta(hours=LOOKBACK_HOURS)
-    for listing in ("hot", "new"):
-        url = f"https://www.reddit.com/r/GTA6/{listing}.json?limit=20"
+    for listing, ranked in (("", True), ("new/", False)):
+        url = f"https://www.reddit.com/r/GTA6/{listing}.rss?limit=20"
         try:
-            r = requests.get(url, headers={"User-Agent": UA}, timeout=15)
-            r.raise_for_status()
-            posts = r.json()["data"]["children"]
+            feed = feedparser.parse(url, agent=UA)
+            if feed.get("status") != 200 or not feed.entries:
+                raise ValueError(f"status={feed.get('status')}")
         except Exception as e:
-            print(f"[reddit] falhou '{listing}': {e}", file=sys.stderr)
+            print(f"[reddit] falhou '{listing or 'hot'}': {e}", file=sys.stderr)
             continue
-        for p in posts:
-            d = p["data"]
-            published = datetime.fromtimestamp(d["created_utc"], tz=timezone.utc)
+        for rank, entry in enumerate(feed.entries):
+            try:
+                published = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
+            except Exception:
+                published = datetime.now(timezone.utc)
             if published < cutoff:
                 continue
-            score = d.get("score", 0)
-            comments = d.get("num_comments", 0)
             items.append({
                 "source": "reddit",
-                "headline": d.get("title", ""),
-                "desc": (d.get("selftext") or "")[:280] or f"Post em alta no r/GTA6 ({score} upvotes, {comments} comentários).",
-                "url": f"https://reddit.com{d.get('permalink', '')}",
+                "headline": entry.get("title", ""),
+                "desc": _clean_reddit_summary(entry.get("summary", ""))[:280] or "Post em alta no r/GTA6 — ver fonte.",
+                "url": entry.get("link", ""),
                 "published": published,
-                "engagement": score + comments * 3,
+                "engagement": max(0, 5000 - rank * 250) if ranked else 0,
                 "keyword_bonus": 0,
             })
     return items
+
+
+def _parse_iso8601_duration(text):
+    m = re.match(r"^PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?$", text or "")
+    if not m:
+        return 0
+    h, mnt, s = (int(g) if g else 0 for g in m.groups())
+    return h * 3600 + mnt * 60 + s
 
 
 def fetch_youtube():
@@ -202,16 +222,18 @@ def fetch_youtube():
 
     video_ids = [it["id"]["videoId"] for it in results if it.get("id", {}).get("videoId")]
     stats = {}
+    durations = {}
     if video_ids:
         try:
             r2 = requests.get(
                 "https://www.googleapis.com/youtube/v3/videos",
-                params={"part": "statistics", "id": ",".join(video_ids), "key": key},
+                params={"part": "statistics,contentDetails", "id": ",".join(video_ids), "key": key},
                 timeout=15,
             )
             r2.raise_for_status()
             for v in r2.json().get("items", []):
                 stats[v["id"]] = int(v.get("statistics", {}).get("viewCount", 0))
+                durations[v["id"]] = _parse_iso8601_duration(v.get("contentDetails", {}).get("duration", ""))
         except Exception as e:
             print(f"[youtube stats] falhou: {e}", file=sys.stderr)
 
@@ -225,8 +247,11 @@ def fetch_youtube():
         except Exception:
             published = datetime.now(timezone.utc)
         views = stats.get(vid, 0)
+        # Shorts oficialmente vão até 3 min (180s); abaixo disso classifica como "curto".
+        video_type = "curto" if durations.get(vid, 9999) <= 180 else "longo"
         items.append({
             "source": "youtube",
+            "videoType": video_type,
             "headline": snippet.get("title", ""),
             "desc": (snippet.get("description") or "")[:280] or f"Vídeo em alta sobre GTA 6 ({views} views).",
             "url": f"https://youtube.com/watch?v={vid}",
@@ -340,7 +365,10 @@ def build_items():
         classified.append({
             "cat": cat,
             "tagLabel": CAT_TAG_LABEL[cat],
+            "source": it["source"],
+            "videoType": it.get("videoType"),
             "date": it["published"].strftime("%d/%m/%Y"),
+            "publishedAt": it["published"].isoformat(timespec="seconds"),
             "headline": it["headline"].strip(),
             "desc": it["desc"].strip() or "Sem descrição disponível — ver fonte.",
             "signal": signal,

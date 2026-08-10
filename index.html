@@ -122,8 +122,38 @@
   main{max-width:1080px; margin:0 auto; padding:24px;}
 
   .filters{
-    display:flex; gap:8px; flex-wrap:wrap; margin-bottom:22px;
+    display:flex; gap:8px; flex-wrap:wrap; margin-bottom:14px;
   }
+
+  .sort-row{
+    display:flex; align-items:center; gap:10px; margin-bottom:22px;
+  }
+  .sort-row label{
+    font-family:'JetBrains Mono', monospace;
+    font-size:11px; text-transform:uppercase; letter-spacing:0.5px;
+    color:var(--ink-dim);
+  }
+  .sort-row select{
+    font-family:'JetBrains Mono', monospace;
+    font-size:12px;
+    padding:7px 10px;
+    background:rgba(255,255,255,0.03);
+    color:var(--ink);
+    border:1px solid var(--line);
+    border-radius:2px;
+    cursor:pointer;
+  }
+  .sort-row select:hover, .sort-row select:focus{border-color:var(--cyan); outline:none;}
+
+  .day-header{
+    grid-column:1 / -1;
+    font-family:'JetBrains Mono', monospace;
+    font-size:11px; text-transform:uppercase; letter-spacing:1px;
+    color:var(--gold);
+    border-bottom:1px dashed var(--line);
+    padding-bottom:6px; margin-top:8px;
+  }
+  .day-header:first-child{margin-top:0;}
   .chip{
     font-family:'JetBrains Mono', monospace;
     font-size:11px; text-transform:uppercase; letter-spacing:0.5px;
@@ -236,6 +266,19 @@
 
 <main>
   <div class="filters" id="filters"></div>
+  <div class="sort-row">
+    <label for="sortMode">organizar por</label>
+    <select id="sortMode">
+      <option value="recente">Mais recente</option>
+      <option value="relevancia">Maior relevância</option>
+      <option value="dia">Agrupar por dia</option>
+      <option value="noticias">Notícias escritas</option>
+      <option value="reddit">Posts do Reddit</option>
+      <option value="video">Vídeos (todos)</option>
+      <option value="video_longo">Vídeos longos</option>
+      <option value="video_curto">Vídeos curtos (shorts)</option>
+    </select>
+  </div>
   <div class="grid" id="grid"></div>
 </main>
 
@@ -257,6 +300,15 @@ const catMeta = {
 
 let data = [];
 let activeFilter = 'todos';
+let sortMode = 'recente';
+
+const SOURCE_FILTERS = {
+  noticias: d => d.source === 'news',
+  reddit: d => d.source === 'reddit',
+  video: d => d.source === 'youtube',
+  video_longo: d => d.source === 'youtube' && d.videoType === 'longo',
+  video_curto: d => d.source === 'youtube' && d.videoType === 'curto',
+};
 
 function renderTicker(){
   if(!data.length) return;
@@ -278,21 +330,12 @@ function renderFilters(){
   });
 }
 
-function renderGrid(){
-  const grid = document.getElementById('grid');
-  grid.innerHTML = '';
-  const list = activeFilter === 'todos' ? data : data.filter(d => d.cat === activeFilter);
-  if(!list.length){
-    grid.innerHTML = '<div class="empty">nenhum sinal nessa categoria ainda.</div>';
-    return;
-  }
-  list.forEach(d => {
-    const meta = catMeta[d.cat] || catMeta.curiosidade;
-    const card = document.createElement('div');
-    card.className = 'card';
-    const bars = Array.from({length:5}, (_,i) => `<div class="bar ${i < d.signal ? 'on' : ''}"></div>`).join('');
-    const sourceLink = d.url ? `<a class="source-link" href="${d.url}" target="_blank" rel="noopener">ver fonte →</a>` : '';
-    card.innerHTML = `
+function cardHTML(d){
+  const meta = catMeta[d.cat] || catMeta.curiosidade;
+  const bars = Array.from({length:5}, (_,i) => `<div class="bar ${i < d.signal ? 'on' : ''}"></div>`).join('');
+  const sourceLink = d.url ? `<a class="source-link" href="${d.url}" target="_blank" rel="noopener">ver fonte →</a>` : '';
+  return `
+    <div class="card">
       <div class="card-top">
         <span class="tag ${meta.class}">${meta.label}</span>
         <span class="date">${d.date}</span>
@@ -308,9 +351,41 @@ function renderGrid(){
         <p class="hook-text">${d.hook}</p>
       </div>
       ${sourceLink}
-    `;
-    grid.appendChild(card);
+    </div>
+  `;
+}
+
+function renderGrid(){
+  const grid = document.getElementById('grid');
+  grid.innerHTML = '';
+
+  let list = activeFilter === 'todos' ? data : data.filter(d => d.cat === activeFilter);
+  const sourceFilter = SOURCE_FILTERS[sortMode];
+  if(sourceFilter) list = list.filter(sourceFilter);
+
+  if(!list.length){
+    grid.innerHTML = '<div class="empty">nenhum sinal por aqui ainda — tenta outro filtro.</div>';
+    return;
+  }
+
+  list = [...list].sort((a, b) => {
+    if(sortMode === 'relevancia' && b.signal !== a.signal) return b.signal - a.signal;
+    return new Date(b.publishedAt || 0) - new Date(a.publishedAt || 0);
   });
+
+  if(sortMode === 'dia'){
+    let lastDate = null;
+    list.forEach(d => {
+      if(d.date !== lastDate){
+        lastDate = d.date;
+        grid.insertAdjacentHTML('beforeend', `<div class="day-header">${d.date}</div>`);
+      }
+      grid.insertAdjacentHTML('beforeend', cardHTML(d));
+    });
+    return;
+  }
+
+  grid.insertAdjacentHTML('beforeend', list.map(cardHTML).join(''));
 }
 
 function formatUpdated(iso){
@@ -336,6 +411,11 @@ async function load(){
     document.getElementById('grid').innerHTML = `<div class="error">Falha ao carregar sinais: ${e.message}</div>`;
   }
 }
+
+document.getElementById('sortMode').addEventListener('change', (e) => {
+  sortMode = e.target.value;
+  renderGrid();
+});
 
 load();
 </script>
