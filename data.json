@@ -1,6 +1,36 @@
 {
-  "updated": "2026-08-11T09:07:50+00:00",
+  "updated": "2026-08-11T13:21:21+00:00",
   "items": [
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "11/08/2026",
+      "publishedAt": "2026-08-11T12:09:00+00:00",
+      "headline": "Afinal, GTA 6 vai ser lançado em disco em algum momento?",
+      "desc": "Fonte: Canaltech",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'Afinal, GTA 6 vai ser lançado em disco em algum momento?' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdzNNWjc5R3Y2NDJHeWcyMEJyem1xX3ZuNEpmMUpSRkh2bGdJNzQtcGJ0ZmRyTUFwT1EwM09pYnZhWHRUcDEyUFRpRExEWFVIbFJvakRzRmlZLTVYdTdVQVpzeGhTWlBISnJvLVJPLWZSdTY4U20xa0RWQXU4cm1kSWx6QWZ5b0lWeDFqVVJVbw?oc=5"
+    },
+    {
+      "cat": "vendas",
+      "tagLabel": "Vendas & Preço",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "11/08/2026",
+      "publishedAt": "2026-08-11T10:48:36+00:00",
+      "headline": "A Take-Two podia ter vendido o GTA VI mais caro, mas optou por oferecer uma melhor relação qualidade-preço",
+      "desc": "Fonte: Instant Gaming News",
+      "signal": 3,
+      "hook": "Número na cara logo na primeira frase: 'A Take-Two podia ter vendido o GTA VI mais caro, mas optou por oferecer uma melhor relação qualidade-preço' — formato \"isso é muito ou pouco?\".",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQNE1YY2FBaHFxSWY2bU1VVm1aVW5WVngxeHFpeWtqal9obTZlbENWWm1ITFd1WmdBWWxDQkh6aEVmQ1FIOEF4aTBIY1hRU0VETGZicmVNdlRUZnBhSlBuWDFUcGhLaU1nTXN6b1dYNTlLTG5qNVRweUJVRGRwcGhRQ3F1VUtYNUxQaHpnTG0xakhMQWJEdno5QzBQbmxISVVuNnBpYWhieVdiZGVEU2Y3Qm8yeXZ1S21yZU96VURLaDBYUk8xVEpjOVJ2dWRaX055Y0pOa29OQ1cyVGl5OW9BTEF0SXNrLUVwcmEyQU5vLTgtZjFKVGFUN1NEY2x5Q0ZvamJRNWJUT0k1TWlZb2hiVWRrNU5pR3JqeHpldG5HRVZ5dXlr?oc=5"
+    },
     {
       "cat": "curiosidade",
       "tagLabel": "Curiosidade",
@@ -120,36 +150,6 @@
       "signal": 3,
       "hook": "Curiosidade rápida: 'Com estreia para novembro, GTA VI não terá grandes novidades' — bom pra fechar um vídeo ou virar corte solto.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNVJGZUV1MlFIWHVOek5lWFdCWGtJeTJncmFndDFqelJJUlB5NkRqM1dSWGtKWWJjd2ZYaE5IcjFsWFJibWctbksxM3M3Qms5Y2NjSGZJaHpkcEJvcGlKRmxMV2pnY3V1cUdmM0dXSkVhY0lIOXh3UWxKT3R4UGZaMWk5Wmhxak82RDQxVUNpMXo3MVlTQjJZQmsyVm9zUTBpcXJ5djFaUVotcUFySi05aXRWVW3SAboBQVVfeXFMT1JLOEFJRTVBM3lNeTYyLTYzdE9LX2FaTHQ2OWo5UzVid3ZIbjF4S21XNFctbWUwYmpFLTB2SWd4SE9XbkxGZHgxQTJFTnVraXhxRWxGT1prMDBXQzFNR01Cd1d2UXgyaG9rYU10R2tuaGd1S0piRndFOFJZYUhYc2p0a0hOeDJEYWV2bWI5WFVfZ3k3ZmVfS3FQNUpNMkUzTlVHS2dmSXpXV1JEeW11aG5fcHNNNGJfTzhR?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "10/08/2026",
-      "publishedAt": "2026-08-10T20:30:00+00:00",
-      "headline": "EXCLUSIVO CNBC: CEO da Take-Two diz que novo jogo da franquia GTA vai superar as expectativas",
-      "desc": "Fonte: Times Brasil | CNBC",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'EXCLUSIVO CNBC: CEO da Take-Two diz que novo jogo da franquia GTA vai superar as expectativas' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT285X3N1eEdCRlQ1ZFZhQ0E5eGFpemhBSmliaXdveVZ1bkFIWmRWTmYtVF9XV3pvNnBlYzdQN0gxRGNrZzR6eUN3QmVQQU53dzVIZzZUSm5MSWhFSXJEMDRVZmRvYkZaRjFMcmwxb2lVVWNZS055ekYxXzJTN3VIdnhJZXZrWlp2NGM5OUgzUEZBMDAzU3RJa3hIOFk2WVZuLXN3?oc=5"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "10/08/2026",
-      "publishedAt": "2026-08-10T20:06:50+00:00",
-      "headline": "GTA 6 dispara nas pré-encomendas e ganhará trailer com gameplay na Netflix",
-      "desc": "Fonte: fastcompanybrasil.com",
-      "signal": 3,
-      "hook": "Abre direto com 'GTA 6 dispara nas pré-encomendas e ganhará trailer com gameplay na Netflix' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdVljOE9OQzg2cDVyZXpnZFFVZlV5YlNMUm1MMWI1WnFvR1JoTlRFUkRzVWdfYm5sa3hTRVI0U0oxQ1lNcUlXRE5uZXRRTzY3SFVVUFlXLW5CbzJSMml5bFhmYmZZX2IzN1FIVGt2Ump3Z3V0RVE0TVhhaC1yZk4tMEo4OXpIcEJoVU9XbXpRYW50QVNPM0dWV09mWHVZUXM?oc=5"
     },
     {
       "cat": "viral",
@@ -370,6 +370,36 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "11/08/2026",
+      "publishedAt": "2026-08-11T11:46:33+00:00",
+      "headline": "Do you think GTA 6's map will be fully visible from the beginning, or \"discoverable\" like GTA 5's map?",
+      "desc": "I was thinking about this recently, and it honestly doesn't make much sense that the GTA 5 map is completely blank until you physically explore an area. Like... are there no maps in 2013 Los Santos?? I understand it's for gameplay purposes and I honestly don't have any issue with",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('Do you think GTA 6's map will be fully visible from the beginning, or \"discoverable\" like GTA 5's map?') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vlf5s8/do_you_think_gta_6s_map_will_be_fully_visible/"
+    },
+    {
+      "cat": "vendas",
+      "tagLabel": "Vendas & Preço",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "11/08/2026",
+      "publishedAt": "2026-08-11T10:28:36+00:00",
+      "headline": "Will all cars in GTA 6 have specific years?",
+      "desc": "I've noticed that the cars from the preorder exclusive all have specific years. This makes me wonder, will all the cars be like this now? Or at least ones we can buy online?",
+      "signal": 4,
+      "hook": "Número na cara logo na primeira frase: 'Will all cars in GTA 6 have specific years?' — formato \"isso é muito ou pouco?\".",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vldo41/will_all_cars_in_gta_6_have_specific_years/"
     },
     {
       "cat": "viral",
@@ -865,36 +895,6 @@
       "signal": 4,
       "hook": "Parece mentira, mas se liga em quantos dias faltam pro lançamento oficial de GTA 6!",
       "url": "https://www.reddit.com/r/GTA6/comments/1vkld88/trailer_2_was_over_400_days_ago_gta_6_releases_in/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "10/08/2026",
-      "publishedAt": "2026-08-10T12:52:40+00:00",
-      "headline": "GTA 6 vai ter o sistema de 'cavalo principal' de Red Dead 2 só que com carros?",
-      "desc": "Uma teoria sugere que em GTA 6 poderemos transferir pertences e personalizar um 'carro principal' fixo, assim como a cela nos cavalos de RDR2. Isso traria um nível de apego e realismo nunca visto nos veículos.",
-      "signal": 4,
-      "hook": "Já pensou se você puder trocar de carro em GTA 6 do mesmo jeito que trocava de cavalo no Red Dead 2?",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vkk063/can_we_switch_saddle_to_other_cars_like_rdr2/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "10/08/2026",
-      "publishedAt": "2026-08-10T11:35:37+00:00",
-      "headline": "Atores do Jason e do Cal em GTA 6 foram praticamente confirmados na vida real!",
-      "desc": "Fãs atentos descobriram interações no Instagram entre os dubladores especulados para os personagens Jason e Cal. As aparências e vozes batem quase perfeitamente com os vazamentos.",
-      "signal": 4,
-      "hook": "A comunidade investigou e achou os possíveis atores reais de Jason e Cal em GTA 6!",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vkib9w/jason_and_cal_actors_are_pretty_much_confirmed/"
     }
   ]
 }
