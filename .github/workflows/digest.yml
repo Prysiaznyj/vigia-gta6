@@ -1,12 +1,8 @@
 name: Resumo diário VIGIA GTA VI
 
 on:
-  # cron diário pausado após o port pra produção (vigia-gta6), pra não duplicar
-  # o resumo/mensagem — reativar só se este repo de teste voltar a ser o único
-  # rodando a feature. Disparo manual (workflow_dispatch) continua disponível
-  # pra testes futuros.
-  # schedule:
-  #   - cron: "30 0 * * *"
+  schedule:
+    - cron: "30 0 * * *"
   workflow_dispatch: {}
 
 permissions:
