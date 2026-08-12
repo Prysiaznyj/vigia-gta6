@@ -1,6 +1,21 @@
 {
-  "updated": "2026-08-12T13:24:25+00:00",
+  "updated": "2026-08-12T17:03:54+00:00",
   "items": [
+    {
+      "cat": "vendas",
+      "tagLabel": "Vendas & Preço",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "12/08/2026",
+      "publishedAt": "2026-08-12T13:16:40+00:00",
+      "headline": "GTA 6 deverá manter o preço de lançamento nos próximos tempos",
+      "desc": "Fonte: Geekinout",
+      "signal": 3,
+      "hook": "Número na cara logo na primeira frase: 'GTA 6 deverá manter o preço de lançamento nos próximos tempos' — formato \"isso é muito ou pouco?\".",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONFBXZXhETmp1Q0RHa3dHVjJkRXV6d0ZVYWE0dVYtRkphVjB3RlZnM2JaUGFYUGwyRFVHcjRvNUNva1FuNlNlZV8zZFdXMjZyZGx3NW9rZ1ROUzQwVXRYanZyZzZNc1NhVTlzWmJHbjhOLUFqZ0dPdHNGU3QzSlByRm5pWF9rajFNSjRoVlVENVZjOGdR?oc=5"
+    },
     {
       "cat": "boatos",
       "tagLabel": "Boatos",
@@ -135,21 +150,6 @@
       "signal": 3,
       "hook": "Apareceu o menor preço histórico do GTA 6 na pré-venda do PS5, mas tem um truque que você precisa saber...",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbVZtcmp4WWw0VU5JU25QUWVsZFNvZHZBazM5R0hCNkl6ZWtDeFl3cHIwRTdPeEVZMXZkUVNsN1N6SkwyTXE5N0ZFZkw0Q3ZOZFNTSS0yQmlKMjFXaW4tdjR2Qlp4R1hTaXVRdFB3RGotTXprNkVnU1NXam9EcU0tcEVBS1VyTXM4R3c3Q1hCTnlBOWFkUVhvY0JVQkM1dGRXU0tUeXEwU05mdw?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "11/08/2026",
-      "publishedAt": "2026-08-11T18:16:19+00:00",
-      "headline": "Preço fixo por anos: GTA 6 não entra em liquidação tão cedo",
-      "desc": "A Take-Two reiterou que não faz sentido dar desconto em um produto com tanta demanda e alto valor de produção logo no começo.",
-      "signal": 3,
-      "hook": "Quer economizar no GTA 6? A Take-Two já avisou: o preço vai ficar lá no alto por um LONGO tempo.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTdxM2N3bTBWZkxRNnhoQV9mWVM4aG01YjJ1X2FiWGhCNlpOOEJlX3cyNDdlUnNPenVTUW53U0lyWmRlVEFBcVJmYWE4TkcwS1VUT3dmMzNtWXdzMlk2NTRCOUJIT1VNZENPc1pqNTVkcGlkc3RTRlpiTHVHQURzUHRIbVRybUN4Yzd6aXBaWFVLdw?oc=5"
     },
     {
       "cat": "viral",
@@ -306,6 +306,36 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCJ8QyGIEw_Pah3_6pieVgrw",
+      "outlier": true,
+      "date": "11/08/2026",
+      "publishedAt": "2026-08-11T15:33:50+00:00",
+      "headline": "Got Cool Aunty&#39;s Gang before GTA 6🌚🔥|Credit - @korban_bank_emok| #funny #dance #enjoy #aunty #cool",
+      "desc": "Vídeo em alta sobre GTA 6 (1291263 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Got Cool Aunty&#39;s Gang before GTA 6🌚🔥|Credit - @korban_bank_emok| #funny #dance #enjoy #aunty #cool') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=HdER-uJRomc"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCwKHygfd3opN04saX8qGRjQ",
+      "outlier": true,
+      "date": "10/08/2026",
+      "publishedAt": "2026-08-10T10:08:33+00:00",
+      "headline": "GTA6 Ep. 9",
+      "desc": "Vídeo em alta sobre GTA 6 (674612 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA6 Ep. 9') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=ujEMRxG5xPM"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UC2P27LKR28JcfIe5HWNpCEw",
       "outlier": true,
       "date": "11/08/2026",
@@ -422,6 +452,16 @@
       "url": "https://youtube.com/watch?v=era8INR-KKQ"
     },
     {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "date": "06/11/2025",
+      "headline": "Data oficial confirmada: 19 de novembro de 2026",
+      "desc": "Rockstar adiou de novo, seis meses após a data original de 26 de maio, alegando querer mais tempo de polimento.",
+      "signal": 5,
+      "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
+      "url": null
+    },
+    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -452,16 +492,6 @@
       "url": "https://youtube.com/watch?v=JJQBcFuJcBE"
     },
     {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "date": "06/11/2025",
-      "headline": "Data oficial confirmada: 19 de novembro de 2026",
-      "desc": "Rockstar adiou de novo, seis meses após a data original de 26 de maio, alegando querer mais tempo de polimento.",
-      "signal": 5,
-      "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
-      "url": null
-    },
-    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -490,6 +520,51 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Bro Still Waiting for GTA 6 🎮😭') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=mqfykAtow3Q"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "12/08/2026",
+      "publishedAt": "2026-08-12T14:09:04+00:00",
+      "headline": "Out of everything we've seen, this frame excites me the most.",
+      "desc": "As long as the beach is this packed I'm happy. This is LEAPS beyond what any other game has achieved considering how advanced the NPC's are. And ofc it'd be so fun driving around here ifykwim",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('Out of everything we've seen, this frame excites me the most.') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vmf6yi/out_of_everything_weve_seen_this_frame_excites_me/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "12/08/2026",
+      "publishedAt": "2026-08-12T13:51:42+00:00",
+      "headline": "Rockstar has earned our trust. Why all the GTA 6 doubt?",
+      "desc": "Rockstar have been making some of the best games in the world for nearly three decades. Almost every game they’ve released has not only sold exceptionally well, but has been a genuine masterpiece that pushed the boundaries of what games could be. So why is everyone suddenly doubt",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('Rockstar has earned our trust. Why all the GTA 6 doubt?') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vmer7m/rockstar_has_earned_our_trust_why_all_the_gta_6/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "12/08/2026",
+      "publishedAt": "2026-08-12T11:55:49+00:00",
+      "headline": "Maybe, maybe not",
+      "desc": "Post em alta no r/GTA6 — ver fonte.",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('Maybe, maybe not') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vmc0jp/maybe_maybe_not/"
     },
     {
       "cat": "viral",
@@ -580,21 +655,6 @@
       "signal": 4,
       "hook": "Mostra o clipe/post que tá bombando ('He Just Wants To Make it to GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=0v-VB7y8aDQ"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCrgNQRWHRDIKyY_WEzIAqwQ",
-      "outlier": false,
-      "date": "11/08/2026",
-      "publishedAt": "2026-08-11T16:34:05+00:00",
-      "headline": "Steven Ogg Doesn&#39;t Care About GTA 6 💀",
-      "desc": "Credits: https://www.youtube.com/@Harrison_shipp/ go check him out! Steven Ogg, the actor behind Trevor in GTA 5, reveals how ...",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('Steven Ogg Doesn&#39;t Care About GTA 6 💀') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=Cjm3DL7dWFk"
     },
     {
       "cat": "vendas",
@@ -835,66 +895,6 @@
       "signal": 4,
       "hook": "A Netflix tá levando a sério o GTA 6! Eles acabaram de colocar a prévia do jogo em uma categoria bizarra no aplicativo...",
       "url": "https://www.reddit.com/r/GTA6/comments/1vlp8wx/netflix_is_listing_the_gta_6_extended_look_under/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "11/08/2026",
-      "publishedAt": "2026-08-11T17:50:06+00:00",
-      "headline": "Estudantes estão garantindo GTA 6 com 20% de desconto lá fora!",
-      "desc": "Uma promoção especial da rede Target nos EUA permite que membros do programa estudantil garantam o jogo de 80 dólares por apenas 64.",
-      "signal": 4,
-      "hook": "Sabia que tem gringo pagando bem mais barato no GTA 6 só por ser estudante? Se liga nesse esquema...",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vlom4k/you_could_get_gta_6_for_20_off_with_student/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "11/08/2026",
-      "publishedAt": "2026-08-11T16:39:30+00:00",
-      "headline": "Vice City vai ter MAIS arranha-céus do que qualquer outro jogo!",
-      "desc": "Membros da comunidade compararam a escala da cidade no novo trailer e notaram uma quantidade absurda de prédios em relação aos jogos anteriores.",
-      "signal": 4,
-      "hook": "Você notou isso na cidade de Vice City no GTA 6? A quantidade de prédios é simplesmente surreal...",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vlmmwn/x_how_many_skyscrapers_do_you_have_vice_city_yes/"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "11/08/2026",
-      "publishedAt": "2026-08-11T15:39:34+00:00",
-      "headline": "Which mechanics do you think will make the game more immersive? What are you most looking forward to seeing, and what might disappoint you?",
-      "desc": "With just under 100 days left until the launch of GTA VI, I’m really excited, as everything points to the game being a love letter to fans of *GTA: San Andreas*—my all-time favorite. I hope they innovate by including activities like surfing, skateboarding, wingsuiting, and table",
-      "signal": 4,
-      "hook": "Abre direto com 'Which mechanics do you think will make the game more immersive? What are you most looking forward to seeing, and what might disappoint you?' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vlkz2s/which_mechanics_do_you_think_will_make_the_game/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "11/08/2026",
-      "publishedAt": "2026-08-11T15:14:19+00:00",
-      "headline": "How ppl in this Reddit be when rockstar makes the slightest change on their website",
-      "desc": "Post em alta no r/GTA6 — ver fonte.",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('How ppl in this Reddit be when rockstar makes the slightest change on their website') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vlk9je/how_ppl_in_this_reddit_be_when_rockstar_makes_the/"
     }
   ]
 }
