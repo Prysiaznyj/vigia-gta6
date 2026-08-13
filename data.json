@@ -1,6 +1,51 @@
 {
-  "updated": "2026-08-13T09:20:08+00:00",
+  "updated": "2026-08-13T13:26:31+00:00",
   "items": [
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "13/08/2026",
+      "publishedAt": "2026-08-13T12:47:47+00:00",
+      "headline": "GTA 6: Vazamento na Netflix revela formato de divulgação inédito",
+      "desc": "Fonte: Última Ficha",
+      "signal": 3,
+      "hook": "Pergunta de abertura: 'GTA 6: Vazamento na Netflix revela formato de divulgação inédito?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ScFFwbUl0ZkF5NW1RX0hWd1NOdUYyZUNHQzlxUDNLRXJ4ZlV2Z2FucEg5c2hCbzh6SnZaSTlrM0FvUmlqWVlXRGZCdHMzWWdGbldNODNoakVGQURRRnpHOG9vWldKQ0s0WlMyQi1rQkRKcUl5MTU5VmppMA?oc=5"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "13/08/2026",
+      "publishedAt": "2026-08-13T11:46:48+00:00",
+      "headline": "GTA VI tem pré-venda \"sem precedentes e impressionante\"",
+      "desc": "Fonte: DOL",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'GTA VI tem pré-venda \"sem precedentes e impressionante\"' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb1pwdlE0WDNHa1ZZYnBDQ3ZzbGRwWU9fTW9pNGhYVUV2Yjk2YXNNZm9XejhjdDJHOTBQalZvYTVrYkpBUDg0dzY4V191Y2h2cGdxMGVPcGszd1J5V0Q2WmR5MU9hblRZc1NteXpSVFRpdHdIMW5HLTBmcm1hc2JXWEQzTFpHQjdQZEJjczR4ajdvclVBeURXR3hSbHBDb3hyU1HSAaoBQVVfeXFMTWN3TUJiV3dLQXpPT3Ryd01pWmk4VENlT1hlQ1E2SEVLUVNQVm5FSklucDdGcVhhaDV0YzE0THYxVGlMTUFwdkRBRjhUVVl0dXlQbmVjZGtrUE1yVDlBZ2ZOWHE1VEhWa1JzcTBHR0I1dnVPNVFxdHNOc1p3ZlEwZndKY2ZoVVBWYzdiXzFoSVNvaTZsV3V3TnU0Nmg0dkxmV3BlRDhoXzJYU1E?oc=5"
+    },
+    {
+      "cat": "vendas",
+      "tagLabel": "Vendas & Preço",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "13/08/2026",
+      "publishedAt": "2026-08-13T08:31:42+00:00",
+      "headline": "Menor preço histórico! GTA 6 para PlayStation 5 em oferta por menos de R$ 300",
+      "desc": "Fonte: TudoCelular.com",
+      "signal": 3,
+      "hook": "Número na cara logo na primeira frase: 'Menor preço histórico! GTA 6 para PlayStation 5 em oferta por menos de R$ 300' — formato \"isso é muito ou pouco?\".",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVEtOU3dOYWFsZTNxUzBtdk53QjV0dEtqeHRTMVNwWVU5ZExYSm9MdVVBcUNqXy1YQmg0Wjk0c3d4TTJBamp1b3k2Z1JMaVdXUUZ2TUhzcXM4bW1PdXdFaVRuQ1prVGFpTzBRcEprT2RwdHAtVzlnTW9JMW1zWmthYy0yQzY5NHZGTzRqM016NVFYTXNOUjZSRHpaWjEyTGRQ?oc=5"
+    },
     {
       "cat": "curiosidade",
       "tagLabel": "Curiosidade",
@@ -105,51 +150,6 @@
       "signal": 3,
       "hook": "Pergunta de abertura: 'GTA 6 podia ter partido o mercado todo. Mas… Disse não!?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OSVZtbVhLTmg5V1AwRWc4V1BHUzl1MEdYd29CRHFSNG5MMG5QZF9VWXUxZkNoRHBnWFJOZ0NmbU1RT0JFdzZXc05ic2Nsd0d4d3NEaVVpOVVmS09xTGZwbW1PcnVSUjhiOGVVb3hFTGtsWmxpUHZmdDFoR2h4Zw?oc=5"
-    },
-    {
-      "cat": "vendas",
-      "tagLabel": "Vendas & Preço",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "11/08/2026",
-      "publishedAt": "2026-08-11T18:33:33+00:00",
-      "headline": "Edição Ultimate de GTA VI é a mais popular nas pré-vendas, confirma Take-Two",
-      "desc": "Fonte: O Vício",
-      "signal": 3,
-      "hook": "Número na cara logo na primeira frase: 'Edição Ultimate de GTA VI é a mais popular nas pré-vendas, confirma Take-Two' — formato \"isso é muito ou pouco?\".",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcktjeVFIOW94UC1keFNvcWdsbmNLclZDSmNQSGJCRnJOb1V1d2QtM0VNNE10ejlQeTBLcmc1Q2kxNkNyVHRDOW1NM0FLSlVvdGlhUW5iUHJGYjh5TkMtdUhOdTJRQ3RqbFZwak0wX05qUFNwbDV0d2ZtOHY1ZTc1aEFYX0JsRHlMMDFIaWN3MFY3cDRDMVdpZF9xSXBtV3fSAaQBQVVfeXFMTXM0UV9lbTlOZ0xFX2piSXozRmE5STFKLUNRemhKSDV2NjJFSk9zV3hIVWtzblplS2JURzBjelJlbGtrTGVsV3FPY0w0U25RWURrdnl3bG5qMmZtOEp3LTQzWTFfeWhSTEdRMEw1emkxSDlvTHB3NzlnOEMwWk9OTUNQZ1FBQzA5SllYY2lIWTBLSFZ5LXQ1MkJjVU1XM0NaemJWajA?oc=5"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "11/08/2026",
-      "publishedAt": "2026-08-11T21:10:31+00:00",
-      "headline": "GTA 6 pode ter cassinos? Veja o que é fato, rumor e o que esperar...",
-      "desc": "Fonte: Combo Infinito",
-      "signal": 3,
-      "hook": "Pergunta de abertura: 'GTA 6 pode ter cassinos? Veja o que é fato, rumor e o que esperar...?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbklHRUZmVkY3Z3RxZ3F5QkpZRHZpb3JWSEtuMkNuUXQ1SWk4V3BLWXplMDRrWmJodnFFQ3ktSzhUMTNGTXNJUFkwRnlMMDF6OWczS0J1TUlHQ0gyZlYxYV9OTEM2RTdlMVRuMWczajBNdllpak1ieml4a3N2LVZ5X2piTHkxSmc?oc=5"
-    },
-    {
-      "cat": "vendas",
-      "tagLabel": "Vendas & Preço",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "11/08/2026",
-      "publishedAt": "2026-08-11T20:40:22+00:00",
-      "headline": "GTA 6: Versão Ultimate lidera pré-vendas, apesar do preço",
-      "desc": "Fonte: Gamers & Games",
-      "signal": 3,
-      "hook": "Número na cara logo na primeira frase: 'GTA 6: Versão Ultimate lidera pré-vendas, apesar do preço' — formato \"isso é muito ou pouco?\".",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT0RXZWYyVHRoOTdwTXZFQ1lhckVlZ0VvQTI0c0NRVURBS1RTcmRxeS1wZU54WlUxcG80N0VZeHdUd3RrYXo1WGlOZWlackNoNFFqTUFFdTBsWlc5d1RaMFc3YUFSWFFLcVZrV3J6S0xpMldpczVZSElWV3RFRU9NZU1NMFUyT0tVUHVBVXV0Y2Z6Yl82NkMzLUZ3dEttRkxi0gGmAUFVX3lxTE15Zk9mZl9iMlZWTWQ1MllqOGl6Qmo2RGhmc0NoQzMtSEY4WElhY3JtaktEUklsTkpTbXY2Uy1YV3RSVGdTZnlTVV9SUjNobE5SeDJWaEh5ZWRVSFVSMnYyV1l6VGQyQXdoTXh1M1RfajFheTZ0THVTREhPRmt2X2dsMThOYzlJZ0lPRFBEeTZVVy1pV2R4TUVmYTVaZnU1U19tRzEwYkE?oc=5"
     },
     {
       "cat": "lancamento",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCnDjHWTwKYWvi-8B0gdMTZQ",
+      "outlier": true,
+      "date": "11/08/2026",
+      "publishedAt": "2026-08-11T15:30:32+00:00",
+      "headline": "PS4 Users After GTA 6 Said &quot;Not Invited&quot; 💀😭 #gta6memes # #america #usashorts #shorts #shortsfeed",
+      "desc": "PS4 Users After GTA 6 Said \"Not Invited\" #gta6memes # #america #usashorts #shorts #shortsfeed GTA 6 officially left PS4 ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('PS4 Users After GTA 6 Said &quot;Not Invited&quot; 💀😭 #gta6memes # #america #usashorts #shorts #shortsfeed') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Sy-EhG8_SOM"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCy46mwFhfJ5kZRYark-t71w",
       "outlier": true,
       "date": "10/08/2026",
@@ -437,6 +452,16 @@
       "url": "https://youtube.com/watch?v=qWluAvtzUwE"
     },
     {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "date": "06/11/2025",
+      "headline": "Data oficial confirmada: 19 de novembro de 2026",
+      "desc": "Rockstar adiou de novo, seis meses após a data original de 26 de maio, alegando querer mais tempo de polimento.",
+      "signal": 5,
+      "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
+      "url": null
+    },
+    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -450,16 +475,6 @@
       "signal": 5,
       "hook": "O GTA 6 tá caro demais ou vale qualquer preço? Esse streamer deu o papo mais reto da história!",
       "url": "https://youtube.com/watch?v=4wZTpvLx8k8"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "date": "06/11/2025",
-      "headline": "Data oficial confirmada: 19 de novembro de 2026",
-      "desc": "Rockstar adiou de novo, seis meses após a data original de 26 de maio, alegando querer mais tempo de polimento.",
-      "signal": 5,
-      "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
-      "url": null
     },
     {
       "cat": "viral",
@@ -580,6 +595,36 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Vai Me Obrigar a Fazer ISSO! 💀 #memes #humor #funnymemes') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=Hmp3ahm4nxM"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "13/08/2026",
+      "publishedAt": "2026-08-13T12:37:36+00:00",
+      "headline": "We are almost there, gentlemen",
+      "desc": "Post em alta no r/GTA6 — ver fonte.",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('We are almost there, gentlemen') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vn9iyt/we_are_almost_there_gentlemen/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "13/08/2026",
+      "publishedAt": "2026-08-13T11:00:21+00:00",
+      "headline": "Netflix page in Portugal for GTA 6 showed what looks like episode placeholders… (already removed)",
+      "desc": "Post em alta no r/GTA6 — ver fonte.",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('Netflix page in Portugal for GTA 6 showed what looks like episode placeholders… (already removed)') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vn7if8/netflix_page_in_portugal_for_gta_6_showed_what/"
     },
     {
       "cat": "viral",
@@ -850,51 +895,6 @@
       "signal": 4,
       "hook": "Mostra o clipe/post que tá bombando ('The Weather System in GTA 6 shouldn't just be better Volumetric Clouds and sound effects, there should be areas where it's raining and other areas where it's sunny at the same time') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://www.reddit.com/r/GTA6/comments/1vmdf39/the_weather_system_in_gta_6_shouldnt_just_be/"
-    },
-    {
-      "cat": "vendas",
-      "tagLabel": "Vendas & Preço",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "12/08/2026",
-      "publishedAt": "2026-08-12T11:45:31+00:00",
-      "headline": "Exactly 3 Months away from Preloading",
-      "desc": "For those of us who have (or will) preordered GTA VI, we're exactly 3 months away (Nov 12, 2026) from being able to preload GTA VI onto our PS5's and Xbox Series X/S'. Just thought it was interesting to note since we've recently just hit the double digits in days remaining.",
-      "signal": 4,
-      "hook": "Número na cara logo na primeira frase: 'Exactly 3 Months away from Preloading' — formato \"isso é muito ou pouco?\".",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vmbszn/exactly_3_months_away_from_preloading/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "12/08/2026",
-      "publishedAt": "2026-08-12T11:06:58+00:00",
-      "headline": "gta 6 trailed voiced by me",
-      "desc": "lmao i tried voice acting and singing. I think its probably better then the official one. rockstar hire me for gta 6 marketing please!",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('gta 6 trailed voiced by me') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vmb1qf/gta_6_trailed_voiced_by_me/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "12/08/2026",
-      "publishedAt": "2026-08-12T09:08:56+00:00",
-      "headline": "Genuine question to y’all",
-      "desc": "How do you feel about two airports being a stone’s throw away from one another? If The main function is to avoid flyings as a means of fast travel to make the map feel bigger then sure why not, it definitely works… However since we might be in the smuggling business it would make",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('Genuine question to y’all') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vm8wds/genuine_question_to_yall/"
     }
   ]
 }
