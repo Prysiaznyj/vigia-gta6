@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T02:29:49+00:00",
+  "updated": "2026-08-13T05:45:37+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCy46mwFhfJ5kZRYark-t71w",
+      "outlier": true,
+      "date": "10/08/2026",
+      "publishedAt": "2026-08-10T13:23:57+00:00",
+      "headline": "This Reveal Steals the Show Before GTA 6 | The First Descendant #thefirstdescendant #ps5pro #shorts",
+      "desc": "Vídeo em alta sobre GTA 6 (238421 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('This Reveal Steals the Show Before GTA 6 | The First Descendant #thefirstdescendant #ps5pro #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=eBdWnuVktO4"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCkq8pLPNfKICwiL_pUnVSpA",
       "outlier": true,
       "date": "11/08/2026",
@@ -437,6 +452,16 @@
       "url": "https://youtube.com/watch?v=4wZTpvLx8k8"
     },
     {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "date": "06/11/2025",
+      "headline": "Data oficial confirmada: 19 de novembro de 2026",
+      "desc": "Rockstar adiou de novo, seis meses após a data original de 26 de maio, alegando querer mais tempo de polimento.",
+      "signal": 5,
+      "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
+      "url": null
+    },
+    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -450,16 +475,6 @@
       "signal": 5,
       "hook": "O que acontece se o Michael e o Franklin esquecerem do aniversário do Trevor? Se liga nessa zoeira!",
       "url": "https://youtube.com/watch?v=Rz050R9Z-Tw"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "date": "06/11/2025",
-      "headline": "Data oficial confirmada: 19 de novembro de 2026",
-      "desc": "Rockstar adiou de novo, seis meses após a data original de 26 de maio, alegando querer mais tempo de polimento.",
-      "signal": 5,
-      "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
-      "url": null
     },
     {
       "cat": "viral",
@@ -550,6 +565,36 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Bro Still Waiting for GTA 6 🎮😭') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=mqfykAtow3Q"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "13/08/2026",
+      "publishedAt": "2026-08-13T03:26:45+00:00",
+      "headline": "I'd love for a calm game startup after GTA V & RDR 2's loud intros.",
+      "desc": "Post em alta no r/GTA6 — ver fonte.",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('I'd love for a calm game startup after GTA V & RDR 2's loud intros.') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vmzenh/id_love_for_a_calm_game_startup_after_gta_v_rdr/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC4t3rLg0-xrIcaMRTyEQd8w",
+      "outlier": false,
+      "date": "12/08/2026",
+      "publishedAt": "2026-08-12T14:35:08+00:00",
+      "headline": "GTA 6 Vai Me Obrigar a Fazer ISSO! 💀 #memes #humor #funnymemes",
+      "desc": "Este vídeo apresenta um meme de humor relacionado ao tamanho estimado de GTA 6. A situação brinca com a ideia de ter que ...",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Vai Me Obrigar a Fazer ISSO! 💀 #memes #humor #funnymemes') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Hmp3ahm4nxM"
     },
     {
       "cat": "viral",
@@ -792,21 +837,6 @@
       "url": "https://www.reddit.com/r/GTA6/comments/1vm7p2q/gta_vi_wait_progress/"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC-A2WBfHTnWkhNvehNo-MaA",
-      "outlier": false,
-      "date": "12/08/2026",
-      "publishedAt": "2026-08-12T03:04:46+00:00",
-      "headline": "He Just Wants To Make it to GTA 6",
-      "desc": "Vídeo em alta sobre GTA 6 (480979 views).",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('He Just Wants To Make it to GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=0v-VB7y8aDQ"
-    },
-    {
       "cat": "vendas",
       "tagLabel": "Vendas & Preço",
       "source": "reddit",
@@ -865,36 +895,6 @@
       "signal": 4,
       "hook": "Mostra o clipe/post que tá bombando ('Anyone else suspect “An Extended Look” will be displaying more of the environment and ecosystem Rockstar has built, more than the story?') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://www.reddit.com/r/GTA6/comments/1vm4lyz/anyone_else_suspect_an_extended_look_will_be/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "12/08/2026",
-      "publishedAt": "2026-08-12T04:48:07+00:00",
-      "headline": "GTA 6 has had over 6,000 people working on this game...",
-      "desc": "Over 10,000 if you count outsourced staff as well (estimated) To put that in perspective: GTA 5 had around 500 internal employees working on the game, and about 1,000 including outsourced teams in the credits. (GTA6 has 10x) RDR2 had 1,200 internal employees and a little over 3,0",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 has had over 6,000 people working on this game...') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vm4dwu/gta_6_has_had_over_6000_people_working_on_this/"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "12/08/2026",
-      "publishedAt": "2026-08-12T03:28:08+00:00",
-      "headline": "Netflix pirates heading to YouTube to upload the GTA trailer 6 hours early",
-      "desc": "Post em alta no r/GTA6 — ver fonte.",
-      "signal": 4,
-      "hook": "Abre direto com 'Netflix pirates heading to YouTube to upload the GTA trailer 6 hours early' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vm2tqa/netflix_pirates_heading_to_youtube_to_upload_the/"
     }
   ]
 }
