@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T20:54:21+00:00",
+  "updated": "2026-08-13T02:29:49+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -152,6 +152,21 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT0RXZWYyVHRoOTdwTXZFQ1lhckVlZ0VvQTI0c0NRVURBS1RTcmRxeS1wZU54WlUxcG80N0VZeHdUd3RrYXo1WGlOZWlackNoNFFqTUFFdTBsWlc5d1RaMFc3YUFSWFFLcVZrV3J6S0xpMldpczVZSElWV3RFRU9NZU1NMFUyT0tVUHVBVXV0Y2Z6Yl82NkMzLUZ3dEttRkxi0gGmAUFVX3lxTE15Zk9mZl9iMlZWTWQ1MllqOGl6Qmo2RGhmc0NoQzMtSEY4WElhY3JtaktEUklsTkpTbXY2Uy1YV3RSVGdTZnlTVV9SUjNobE5SeDJWaEh5ZWRVSFVSMnYyV1l6VGQyQXdoTXh1M1RfajFheTZ0THVTREhPRmt2X2dsMThOYzlJZ0lPRFBEeTZVVy1pV2R4TUVmYTVaZnU1U19tRzEwYkE?oc=5"
     },
     {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCVeqvNw1vgm57w2XsVx57zQ",
+      "outlier": true,
+      "date": "10/08/2026",
+      "publishedAt": "2026-08-10T16:15:07+00:00",
+      "headline": "GTA 6 Gameplay – 15 Minutes of Open World Vice City Gameplay (4K PS5) Stunning 4K *Concept Graphics*",
+      "desc": "Grand Theft Auto VI: An Extended Look will premiere on Netflix Thursday, August 27 at 3 p.m. ET and will also launch on the ...",
+      "signal": 5,
+      "hook": "Abre direto com 'GTA 6 Gameplay – 15 Minutes of Open World Vice City Gameplay (4K PS5) Stunning 4K *Concept Graphics*' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=mTK88IF6SUM"
+    },
+    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -287,19 +302,34 @@
       "url": "https://youtube.com/watch?v=q7RItq6erG0"
     },
     {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
+      "cat": "viral",
+      "tagLabel": "Viral",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCKQ5Jj35sjTmJigRtlCPhVQ",
-      "outlier": false,
-      "date": "09/08/2026",
-      "publishedAt": "2026-08-09T14:34:50+00:00",
-      "headline": "Evil Hulk for Secret Wars? GTA 6 Trailer? - Roastverse 180",
-      "desc": "Enjoyed The Video, Drop a 'Like' 00:00 Intro 00:45 Wonder Man Season 2 CANCELLED!!? 01:17 YOU WERE WRONG! ALL OF ...",
-      "signal": 3,
-      "hook": "Abre direto com 'Evil Hulk for Secret Wars? GTA 6 Trailer? - Roastverse 180' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=64uq44kn-tY"
+      "videoType": "curto",
+      "channelId": "UCkq8pLPNfKICwiL_pUnVSpA",
+      "outlier": true,
+      "date": "11/08/2026",
+      "publishedAt": "2026-08-11T21:17:55+00:00",
+      "headline": "Moon Turns To Blood Before GTA 6",
+      "desc": "shorts #gta6 #bloodmoon.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Moon Turns To Blood Before GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=XELX4IPbjoI"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCrgNQRWHRDIKyY_WEzIAqwQ",
+      "outlier": true,
+      "date": "11/08/2026",
+      "publishedAt": "2026-08-11T16:34:05+00:00",
+      "headline": "Steven Ogg Doesn&#39;t Care About GTA 6 💀",
+      "desc": "Credits: https://www.youtube.com/@Harrison_shipp/ go check him out! Steven Ogg, the actor behind Trevor in GTA 5, reveals how ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Steven Ogg Doesn&#39;t Care About GTA 6 💀') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Cjm3DL7dWFk"
     },
     {
       "cat": "viral",
@@ -422,6 +452,16 @@
       "url": "https://youtube.com/watch?v=Rz050R9Z-Tw"
     },
     {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "date": "06/11/2025",
+      "headline": "Data oficial confirmada: 19 de novembro de 2026",
+      "desc": "Rockstar adiou de novo, seis meses após a data original de 26 de maio, alegando querer mais tempo de polimento.",
+      "signal": 5,
+      "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
+      "url": null
+    },
+    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -450,16 +490,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('VAI PARECER O CARA DO GTA 6!!! #shorts #engraçado #comedia #fyp') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=era8INR-KKQ"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "date": "06/11/2025",
-      "headline": "Data oficial confirmada: 19 de novembro de 2026",
-      "desc": "Rockstar adiou de novo, seis meses após a data original de 26 de maio, alegando querer mais tempo de polimento.",
-      "signal": 5,
-      "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
-      "url": null
     },
     {
       "cat": "viral",
@@ -520,6 +550,51 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Bro Still Waiting for GTA 6 🎮😭') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=mqfykAtow3Q"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "13/08/2026",
+      "publishedAt": "2026-08-13T01:57:12+00:00",
+      "headline": "Haters stay hating",
+      "desc": "Post em alta no r/GTA6 — ver fonte.",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('Haters stay hating') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vmxjao/haters_stay_hating/"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "12/08/2026",
+      "publishedAt": "2026-08-12T23:07:02+00:00",
+      "headline": "Is MrBossFTW the WORST GTA6 slop channel?",
+      "desc": "https://preview.redd.it/p03x7twkz0jh1.png?width=1197&format=png&auto=webp&s=0c5827cd49f82fa9bfa944116175a0ef95bbe078 since the release of the netflix trailer last week this guy has managed to make 7, YES 7 VIDEOS about it like cmon bruh",
+      "signal": 4,
+      "hook": "Abre direto com 'Is MrBossFTW the WORST GTA6 slop channel?' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vmtnz3/is_mrbossftw_the_worst_gta6_slop_channel/"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "12/08/2026",
+      "publishedAt": "2026-08-12T21:49:43+00:00",
+      "headline": "here's trailer 2 voiced by me again",
+      "desc": "since yall liked trailer 1 I made trailer 2. ROCKSTAR PLEASE HIRE ME.",
+      "signal": 4,
+      "hook": "Abre direto com 'here's trailer 2 voiced by me again' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vmrrmi/heres_trailer_2_voiced_by_me_again/"
     },
     {
       "cat": "viral",
@@ -820,81 +895,6 @@
       "signal": 4,
       "hook": "Abre direto com 'Netflix pirates heading to YouTube to upload the GTA trailer 6 hours early' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
       "url": "https://www.reddit.com/r/GTA6/comments/1vm2tqa/netflix_pirates_heading_to_youtube_to_upload_the/"
-    },
-    {
-      "cat": "vendas",
-      "tagLabel": "Vendas & Preço",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "12/08/2026",
-      "publishedAt": "2026-08-12T03:26:20+00:00",
-      "headline": "Yes another JB Hi-Fi GTA6 post",
-      "desc": "I like the details of the money pre-order date.",
-      "signal": 4,
-      "hook": "Número na cara logo na primeira frase: 'Yes another JB Hi-Fi GTA6 post' — formato \"isso é muito ou pouco?\".",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vm2sgy/yes_another_jb_hifi_gta6_post/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "12/08/2026",
-      "publishedAt": "2026-08-12T02:34:19+00:00",
-      "headline": "Holstered weapons",
-      "desc": "Do we think they will be visible like in RDR2, but in a modern way (stuck in belt or back of pants/front of pants a more modern holster you can buy) and then larger weapons across the back? Since we know we’ll be limited to how many weapons we can have on our person. The latest r",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('Holstered weapons') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vm1q0z/holstered_weapons/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "12/08/2026",
-      "publishedAt": "2026-08-12T01:35:05+00:00",
-      "headline": "Understanding the GTA VI Logos",
-      "desc": "Main Logo: Cover art, website, announcements, stores VI Only: Usually used inside Rockstar’s websites Neon/Glowing Logos: Used in artworks Fun fact: Rockstar currently uses 3 different VI shapes. Credits: mnm345/X",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('Understanding the GTA VI Logos') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vm0fv5/understanding_the_gta_vi_logos/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "11/08/2026",
-      "publishedAt": "2026-08-11T23:41:01+00:00",
-      "headline": "What's the one thing you are hoping is revealed in the extended look the most?",
-      "desc": "Like everyone else I'm excited to see some actual gameplay as we'll be around 80 days away from release. Aside for that I'm really hoping they reveal the performance metrics. Even a balanced mode at 40FPS with lower resolution for the base PS5 would be amazing.",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('What's the one thing you are hoping is revealed in the extended look the most?') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vlxvoq/whats_the_one_thing_you_are_hoping_is_revealed_in/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "11/08/2026",
-      "publishedAt": "2026-08-11T23:06:13+00:00",
-      "headline": "We're in the double digits now...",
-      "desc": "Only 99 days till Grand Theft Auto 6... can't believe we're actually getting this game after 13 years. With all the marketing kicking off, this is actually happening finally! Probably the last major Grand Theft Auto game too, for most of us. 😌",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('We're in the double digits now...') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vlx2n3/were_in_the_double_digits_now/"
     }
   ]
 }
