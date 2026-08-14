@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T02:28:36+00:00",
+  "updated": "2026-08-14T05:42:57+00:00",
   "items": [
     {
       "cat": "boatos",
@@ -276,6 +276,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
+      "channelId": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
+      "outlier": false,
+      "date": "12/08/2026",
+      "publishedAt": "2026-08-12T23:32:07+00:00",
+      "headline": "&quot;I Want GTA 6 To Fail&quot;",
+      "desc": "Hello guys and gals, it's me Mutahar again! This time we take a look at what appears to be a growing division amongst gamers ...",
+      "signal": 3,
+      "hook": "Mostra o clipe/post que tá bombando ('&quot;I Want GTA 6 To Fail&quot;') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=gV5MDFa0bfA"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
       "channelId": "UCKvoBRFqMNqvuSvFBiNadgw",
       "outlier": false,
       "date": "12/08/2026",
@@ -290,16 +305,31 @@
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCNvzD7Z-g64bPXxGzaQaa4g",
-      "outlier": false,
-      "date": "11/08/2026",
-      "publishedAt": "2026-08-11T18:00:57+00:00",
-      "headline": "Why GTA 6 Gameplay Is Coming To NETFLIX First",
-      "desc": "Rockstar Games is officially revealing GTA 6 on Netflix on August 27th.. Let's talk about what this means. Subscribe for more: ...",
-      "signal": 3,
-      "hook": "Mostra o clipe/post que tá bombando ('Why GTA 6 Gameplay Is Coming To NETFLIX First') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=iNFBj2pr9us"
+      "videoType": "curto",
+      "channelId": "UCyuq-_XcIFJUXqOPZ33Lj5w",
+      "outlier": true,
+      "date": "13/08/2026",
+      "publishedAt": "2026-08-13T14:25:52+00:00",
+      "headline": "GTA VI One Play Music #gta #gta6",
+      "desc": "GTA VI One Play Music #gta #gta6.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA VI One Play Music #gta #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=s7gu5xDmomU"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCkBw4Pke3xb_nmeUzvmrwHA",
+      "outlier": true,
+      "date": "12/08/2026",
+      "publishedAt": "2026-08-12T19:14:31+00:00",
+      "headline": "Willyrex le enseñó a IlloJuan el GTA 6 🫣🫣 #TheWillyrex #CajasGTA #IlloJuan #Spok",
+      "desc": "Vídeo em alta sobre GTA 6 (343816 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Willyrex le enseñó a IlloJuan el GTA 6 🫣🫣 #TheWillyrex #CajasGTA #IlloJuan #Spok') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=93Qkgb6sR-k"
     },
     {
       "cat": "viral",
@@ -422,6 +452,16 @@
       "url": "https://youtube.com/watch?v=HdER-uJRomc"
     },
     {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "date": "06/11/2025",
+      "headline": "Data oficial confirmada: 19 de novembro de 2026",
+      "desc": "Rockstar adiou de novo, seis meses após a data original de 26 de maio, alegando querer mais tempo de polimento.",
+      "signal": 5,
+      "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
+      "url": null
+    },
+    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -450,16 +490,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('CHAT GPT CREÓ GTA 6 DESDE 0') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=9DgxUtztl1g"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "date": "06/11/2025",
-      "headline": "Data oficial confirmada: 19 de novembro de 2026",
-      "desc": "Rockstar adiou de novo, seis meses após a data original de 26 de maio, alegando querer mais tempo de polimento.",
-      "signal": 5,
-      "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
-      "url": null
     },
     {
       "cat": "viral",
@@ -865,36 +895,6 @@
       "signal": 4,
       "hook": "Mostra o clipe/post que tá bombando ('Only 13 More Sleeps To Go 💤') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://www.reddit.com/r/GTA6/comments/1vndamv/only_13_more_sleeps_to_go/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "13/08/2026",
-      "publishedAt": "2026-08-13T14:37:14+00:00",
-      "headline": "GTA 6 is being worked on by nearly 6 thousand developers in total",
-      "desc": "Post em alta no r/GTA6 — ver fonte.",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 is being worked on by nearly 6 thousand developers in total') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vncitr/gta_6_is_being_worked_on_by_nearly_6_thousand/"
-    },
-    {
-      "cat": "vendas",
-      "tagLabel": "Vendas & Preço",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "13/08/2026",
-      "publishedAt": "2026-08-13T13:19:53+00:00",
-      "headline": "For whoever can’t afford GTA 6 prices",
-      "desc": "I know everyone is in a different boat with cost now days. But if you start saving now these are the savings you need per day until then. Standard Edition ($79.99 base price / ~$86.39 with tax) $0.88 per day (or about $6.16 a week) Ultimate Edition ($99.99 base price / ~$107.99 w",
-      "signal": 4,
-      "hook": "Número na cara logo na primeira frase: 'For whoever can’t afford GTA 6 prices' — formato \"isso é muito ou pouco?\".",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vnaisx/for_whoever_cant_afford_gta_6_prices/"
     }
   ]
 }
