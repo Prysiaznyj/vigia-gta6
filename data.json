@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T05:42:57+00:00",
+  "updated": "2026-08-14T09:13:03+00:00",
   "items": [
     {
       "cat": "boatos",
@@ -276,6 +276,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
+      "channelId": "UCNvzD7Z-g64bPXxGzaQaa4g",
+      "outlier": false,
+      "date": "11/08/2026",
+      "publishedAt": "2026-08-11T18:00:57+00:00",
+      "headline": "Why GTA 6 Gameplay Is Coming To NETFLIX First",
+      "desc": "Rockstar Games is officially revealing GTA 6 on Netflix on August 27th.. Let's talk about what this means. Subscribe for more: ...",
+      "signal": 3,
+      "hook": "Mostra o clipe/post que tá bombando ('Why GTA 6 Gameplay Is Coming To NETFLIX First') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=iNFBj2pr9us"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
       "channelId": "UCtMVHI3AJD4Qk4hcbZnI9ZQ",
       "outlier": false,
       "date": "12/08/2026",
@@ -285,21 +300,6 @@
       "signal": 3,
       "hook": "Mostra o clipe/post que tá bombando ('&quot;I Want GTA 6 To Fail&quot;') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=gV5MDFa0bfA"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCKvoBRFqMNqvuSvFBiNadgw",
-      "outlier": false,
-      "date": "12/08/2026",
-      "publishedAt": "2026-08-12T13:35:09+00:00",
-      "headline": "He sobrevolado el *SUPUESTO* mapa de GTA 6 ✈️",
-      "desc": "Encontré un mod para Cities Skylines 2 que recrea el proyecto de mapa de GTA 6 que lleva años moldeándose por la comunidad ...",
-      "signal": 3,
-      "hook": "Mostra o clipe/post que tá bombando ('He sobrevolado el *SUPUESTO* mapa de GTA 6 ✈️') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=7M9ma1XW3I8"
     },
     {
       "cat": "viral",
@@ -664,6 +664,21 @@
       "channelId": null,
       "outlier": false,
       "date": "14/08/2026",
+      "publishedAt": "2026-08-14T05:58:36+00:00",
+      "headline": "BEST CONSOLE FOR GTA6",
+      "desc": "Post em alta no r/GTA6 — ver fonte.",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('BEST CONSOLE FOR GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vnywga/best_console_for_gta6/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "14/08/2026",
       "publishedAt": "2026-08-14T01:39:20+00:00",
       "headline": "I saw someone post a AI version of their 'ready for gta 6' room so heres a real one",
       "desc": "Post em alta no r/GTA6 — ver fonte.",
@@ -880,21 +895,6 @@
       "signal": 4,
       "hook": "Mostra o clipe/post que tá bombando ('What are y’all’s opinions on Rockstar focusing on GTA 6 as a single player experience?') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://www.reddit.com/r/GTA6/comments/1vndcum/what_are_yalls_opinions_on_rockstar_focusing_on/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "13/08/2026",
-      "publishedAt": "2026-08-13T15:05:00+00:00",
-      "headline": "Only 13 More Sleeps To Go 💤",
-      "desc": "Let’s hope it lives up to expectations…",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('Only 13 More Sleeps To Go 💤') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vndamv/only_13_more_sleeps_to_go/"
     }
   ]
 }
