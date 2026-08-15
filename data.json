@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T04:37:52+00:00",
+  "updated": "2026-08-15T08:36:56+00:00",
   "items": [
     {
       "cat": "vendas",
@@ -257,21 +257,6 @@
       "url": "https://youtube.com/watch?v=EPGzsL3hfc4"
     },
     {
-      "cat": "vendas",
-      "tagLabel": "Vendas & Preço",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
-      "outlier": true,
-      "date": "11/08/2026",
-      "publishedAt": "2026-08-11T20:03:13+00:00",
-      "headline": "A versão de 100 dólares de GTA 6 tá vendendo MAIS que a normal!",
-      "desc": "A Take-Two revelou que a edição Ultimate de 100 dólares tá superando a versão padrão nas pré-vendas. Pelo visto, os gamers decidiram abraçar o preço salgado de vez.",
-      "signal": 5,
-      "hook": "Todo mundo reclamou do preço do GTA 6, né? Mas adivinha qual versão tá vendendo mais nas pré-vendas agora...",
-      "url": "https://youtube.com/watch?v=qorZAw-3u1U"
-    },
-    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -291,15 +276,30 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
-      "channelId": "UCjkfbqVQcXyW2OfJm81og7w",
+      "channelId": "UCKvoBRFqMNqvuSvFBiNadgw",
       "outlier": false,
-      "date": "13/08/2026",
-      "publishedAt": "2026-08-13T10:15:00+00:00",
-      "headline": "Et si GTA 6 ÉTAIT NUL?",
-      "desc": "Utilisez le code SHESH pour avoir 10% de réduction sur votre commande Holy Drinks!: https://fr.holy.com/Shesh/Youtube ✎ Mes ...",
+      "date": "12/08/2026",
+      "publishedAt": "2026-08-12T13:35:09+00:00",
+      "headline": "He sobrevolado el *SUPUESTO* mapa de GTA 6 ✈️",
+      "desc": "Encontré un mod para Cities Skylines 2 que recrea el proyecto de mapa de GTA 6 que lleva años moldeándose por la comunidad ...",
       "signal": 3,
-      "hook": "Mostra o clipe/post que tá bombando ('Et si GTA 6 ÉTAIT NUL?') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=avfsRihjcuw"
+      "hook": "Mostra o clipe/post que tá bombando ('He sobrevolado el *SUPUESTO* mapa de GTA 6 ✈️') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=7M9ma1XW3I8"
+    },
+    {
+      "cat": "vendas",
+      "tagLabel": "Vendas & Preço",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+      "outlier": false,
+      "date": "11/08/2026",
+      "publishedAt": "2026-08-11T20:03:13+00:00",
+      "headline": "A versão de 100 dólares de GTA 6 tá vendendo MAIS que a normal!",
+      "desc": "A Take-Two revelou que a edição Ultimate de 100 dólares tá superando a versão padrão nas pré-vendas. Pelo visto, os gamers decidiram abraçar o preço salgado de vez.",
+      "signal": 3,
+      "hook": "Todo mundo reclamou do preço do GTA 6, né? Mas adivinha qual versão tá vendendo mais nas pré-vendas agora...",
+      "url": "https://youtube.com/watch?v=qorZAw-3u1U"
     },
     {
       "cat": "viral",
@@ -490,21 +490,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('This Reveal Steals the Show Before GTA 6 | The First Descendant #thefirstdescendant #ps5pro #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=eBdWnuVktO4"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCkq8pLPNfKICwiL_pUnVSpA",
-      "outlier": true,
-      "date": "11/08/2026",
-      "publishedAt": "2026-08-11T21:17:55+00:00",
-      "headline": "Moon Turns To Blood Before GTA 6",
-      "desc": "shorts #gta6 #bloodmoon.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Moon Turns To Blood Before GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=XELX4IPbjoI"
     },
     {
       "cat": "viral",
@@ -739,6 +724,51 @@
       "channelId": null,
       "outlier": false,
       "date": "15/08/2026",
+      "publishedAt": "2026-08-15T07:41:47+00:00",
+      "headline": "How long do you think the day and night cycle be in GTA 6 and how long do you actually want it to be?",
+      "desc": "Post em alta no r/GTA6 — ver fonte.",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('How long do you think the day and night cycle be in GTA 6 and how long do you actually want it to be?') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vowlre/how_long_do_you_think_the_day_and_night_cycle_be/"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "15/08/2026",
+      "publishedAt": "2026-08-15T06:38:11+00:00",
+      "headline": "Sony promotions end on the day of the GTA 6 trailer.",
+      "desc": "I just found it interesting that all of Sony's promotions end on the day of the new trailer. What are your theories?",
+      "signal": 4,
+      "hook": "Abre direto com 'Sony promotions end on the day of the GTA 6 trailer.' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vovi90/sony_promotions_end_on_the_day_of_the_gta_6/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "15/08/2026",
+      "publishedAt": "2026-08-15T04:24:57+00:00",
+      "headline": "IMAGINE",
+      "desc": "Post em alta no r/GTA6 — ver fonte.",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('IMAGINE') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vot3j8/imagine/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "15/08/2026",
       "publishedAt": "2026-08-15T03:01:20+00:00",
       "headline": "Leonida state police cars",
       "desc": "I really want to see how close in comparison the LHP is to their real life counterpart: the FHP",
@@ -865,36 +895,6 @@
       "signal": 4,
       "hook": "Mostra o clipe/post que tá bombando ('Jeffy Trades Tim for GTA 6 🎮😂') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=tFClqo-oGiA"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "14/08/2026",
-      "publishedAt": "2026-08-14T19:45:50+00:00",
-      "headline": "I did the thing, boys!",
-      "desc": "For the first time in my life I bought a GTA game before its release and will enjoy a GTA game on the release day! I am more than happy! In the meantime, I am playing RDR2 now for the first time! ps. Yes! I have been living under a rock(wasn’t able to afford before)",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('I did the thing, boys!') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vohg40/i_did_the_thing_boys/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "14/08/2026",
-      "publishedAt": "2026-08-14T19:45:30+00:00",
-      "headline": "Will gta6 have 3 cities besides vice city?",
-      "desc": "They are literally calling it an entire state \"leanida\" (florida) and florida state has 3 major cities and each one of these cities has airports, major hubs and infrastructures besides miami. In their previous game they only mentioned \"los santos\" which made it more specific and",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('Will gta6 have 3 cities besides vice city?') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vohfrb/will_gta6_have_3_cities_besides_vice_city/"
     }
   ]
 }
