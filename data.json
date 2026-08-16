@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T12:52:03+00:00",
+  "updated": "2026-08-16T16:32:48+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -762,6 +762,66 @@
       "url": "https://youtube.com/watch?v=mqfykAtow3Q"
     },
     {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "16/08/2026",
+      "publishedAt": "2026-08-16T15:45:57+00:00",
+      "headline": "This is the final drought, with something certain to look forward to.",
+      "desc": "Previously all the drought periods where tough because we didn't know back then what to expect and when to expect. This time we have the extended look planned for the 27th and obviously the marketing push will follow after as it will be 2 months pre launch. Reminder that Strauss",
+      "signal": 4,
+      "hook": "Abre direto com 'This is the final drought, with something certain to look forward to.' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vq0f49/this_is_the_final_drought_with_something_certain/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "16/08/2026",
+      "publishedAt": "2026-08-16T15:14:20+00:00",
+      "headline": "New boosted interest in the whole Florida/Miami part of the world",
+      "desc": "I dont know if im the only one feeling this but im from Sweden so I have really small knowledge of the history, the look, the culture and all the rest of Florida or Miami. In Sweden there havent really been an over-representation of the area on TV, not like Los Angeles or New Yor",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('New boosted interest in the whole Florida/Miami part of the world') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vpzmdv/new_boosted_interest_in_the_whole_floridamiami/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "16/08/2026",
+      "publishedAt": "2026-08-16T14:32:25+00:00",
+      "headline": "Went from Kid to Unc in a blink of an eye",
+      "desc": "Post em alta no r/GTA6 — ver fonte.",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('Went from Kid to Unc in a blink of an eye') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vpykxg/went_from_kid_to_unc_in_a_blink_of_an_eye/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "16/08/2026",
+      "publishedAt": "2026-08-16T13:17:21+00:00",
+      "headline": "Can’t wait for the night drives in Leonida listening to the successor of this gem",
+      "desc": "Post em alta no r/GTA6 — ver fonte.",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('Can’t wait for the night drives in Leonida listening to the successor of this gem') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vpwtzv/cant_wait_for_the_night_drives_in_leonida/"
+    },
+    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "reddit",
@@ -835,66 +895,6 @@
       "signal": 4,
       "hook": "Mostra o clipe/post que tá bombando ('Я ПОЛУЧИЛ РАННИЙ ДОСТУП к GTA VI! НЕ ВЕРЮ СВОИМ ГЛАЗАМ! КАК ПРЕВРАТИТЬ БИМКУ В ГТА?! (BEAM NG DRIVE)') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=f9DhQBGgCDk"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "16/08/2026",
-      "publishedAt": "2026-08-16T08:24:12+00:00",
-      "headline": "How are you guys going to style Lucia and Jason?",
-      "desc": "I'm going to make them as fat and a white trash looking as I can. I feel like that'll be the funniest way to customize them imo. My online character will probably be an elderly pimp or just look like Tony Soprano.",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('How are you guys going to style Lucia and Jason?') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vprj2i/how_are_you_guys_going_to_style_lucia_and_jason/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "16/08/2026",
-      "publishedAt": "2026-08-16T08:07:57+00:00",
-      "headline": "How YouTubers react to any GTA 6 news....",
-      "desc": "Post em alta no r/GTA6 — ver fonte.",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('How YouTubers react to any GTA 6 news....') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vpr9ai/how_youtubers_react_to_any_gta_6_news/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "16/08/2026",
-      "publishedAt": "2026-08-16T07:43:53+00:00",
-      "headline": "Literally cannot wait to just cruise at the allowed speed limit, obeying traffic laws and taking it in.",
-      "desc": "The biggest advantage over mouse and keyboard has always been that thanks to the trigger, you can dose your gas and simply drive somewhat realistically. There’s probably some huge ASMR & Immersion potential here I genuinely think it can be treated as a driving game. Not a racing",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('Literally cannot wait to just cruise at the allowed speed limit, obeying traffic laws and taking it in.') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vpquga/literally_cannot_wait_to_just_cruise_at_the/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "16/08/2026",
-      "publishedAt": "2026-08-16T07:15:15+00:00",
-      "headline": "What are you big questions about GTA 6?",
-      "desc": "https://preview.redd.it/3dy7y3cksojh1.png?width=1773&format=png&auto=webp&s=56913ea19c1a3b952665c665f3d98bce641e6513 Some big questions about GTA 6: What is North of the map? Mysteries and easter eggs Who is going to die at the end Strip club interactivity If there is Lucia Jason",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('What are you big questions about GTA 6?') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vpqcx3/what_are_you_big_questions_about_gta_6/"
     }
   ]
 }
