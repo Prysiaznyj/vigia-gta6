@@ -1,6 +1,21 @@
 {
-  "updated": "2026-08-16T16:32:48+00:00",
+  "updated": "2026-08-16T20:30:18+00:00",
   "items": [
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "16/08/2026",
+      "publishedAt": "2026-08-16T20:15:00+00:00",
+      "headline": "Jogos indies não devem ter medo de GTA 6, diz desenvolvedor",
+      "desc": "Fonte: TecMundo",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'Jogos indies não devem ter medo de GTA 6, diz desenvolvedor' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNnVmSDA4dnp5SFpGUm1MQjBQVzRFSTlEQjdleUlBUlRjNjdLaU41VUFmMGZ6cDN3b0JfT0N5U1RzM1FiSHloS3RjWWNiZXFrNE5QdzdaWDJSejdjNExNcm1Za2xESTBieThob3IzMHpZQWJmanBiamxkZkxkNUJidjRiWWJPZXU4aDRGRXAwOWVEN1NZQnVhWG9fM0NUamVsRkxxZzh3?oc=5"
+    },
     {
       "cat": "curiosidade",
       "tagLabel": "Curiosidade",
@@ -135,21 +150,6 @@
       "signal": 3,
       "hook": "Número na cara logo na primeira frase: 'Custando R$ 550, versão mais cara de GTA 6 é responsável por 90% das vendas' — formato \"isso é muito ou pouco?\".",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aelI0Q2RzVVNHQ0tEZ0ZGR3ZqS1JDRnFZQmM0RHV4bnNpMEtKXzNiMC1JLU9oXzBhR1dDcWl4ZmFyTkF0RVN1TlhtWDhuY0Q2ZVZ0VnFiamt6Zi1IX2ZLWUo1SjhMdGFRb2p4WGV2VW5pQm53enZBbnhRTUs2dw?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "14/08/2026",
-      "publishedAt": "2026-08-14T19:48:08+00:00",
-      "headline": "IA recebe missão de criar um “GTA 6” em 24 horas e entrega uma cidade inteira",
-      "desc": "Fonte: GameVicio",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'IA recebe missão de criar um “GTA 6” em 24 horas e entrega uma cidade inteira' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xN3dOcUlJU3NWakVma1NBR0FZeEdrQU1rcUlQeGFmeGtaM01rQzB5ZlBsSFZGcDNHb3lwMzJEeUhiWDdDcTVKOGNHclJBd0EzXzFJeE5Pd0RqOEh1bXFNY1p6bjNqR0YzZnBIalkyb1BCVlU3b3NEWEh30gF_QVVfeXFMTnZTRXM3V1ZEWnhIRWNEMDQ0dWdkckx6enZqN2EwYTRaRldpdEFJRkhncGVkVk4wZUdXUXpGTkxKWG4zN3ZoWVdseVpjRlRkbC1MaG9SeWZhaDBHNUotdm4xRUF1VWNZaXlMeGM0cGxid3NCMFg5Sm90NFdMNHZsTQ?oc=5"
     },
     {
       "cat": "viral",
@@ -762,6 +762,51 @@
       "url": "https://youtube.com/watch?v=mqfykAtow3Q"
     },
     {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "16/08/2026",
+      "publishedAt": "2026-08-16T19:06:51+00:00",
+      "headline": "GTA 6 is already available in Italy (kinda)",
+      "desc": "In Italy you can win a physical copy of GTA 6 in a Luna park!!!",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 is already available in Italy (kinda)') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vq5mm4/gta_6_is_already_available_in_italy_kinda/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "16/08/2026",
+      "publishedAt": "2026-08-16T18:43:47+00:00",
+      "headline": "Car variety!",
+      "desc": "I know this is grand theft auto, but still! Have you seen the car variety?! We have sedans, hatchbacks, premiums, sports cars, suvs, muscle cars, offroads, trucks, vans, bikes, motorbikes, even a supermarket thing on 4 wheels for fat people (sorry i am not american to know its na",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('Car variety!') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vq5164/car_variety/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "16/08/2026",
+      "publishedAt": "2026-08-16T18:43:18+00:00",
+      "headline": "Time Off",
+      "desc": "Good Day All, Curious to see how much time off people have booked off to play GTA VI? I’ve got 10 days off on Release Day before going back to work and a colleague said that was excessive so I’m intrigued at everyone else’s. Many thanks.",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('Time Off') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vq50qj/time_off/"
+    },
+    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "reddit",
@@ -850,51 +895,6 @@
       "signal": 4,
       "hook": "Abre direto com 'Why are the subtitles for the Teaser Trailer says \" Heat. Heat.\"?' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
       "url": "https://www.reddit.com/r/GTA6/comments/1vptghu/why_are_the_subtitles_for_the_teaser_trailer_says/"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "16/08/2026",
-      "publishedAt": "2026-08-16T08:07:46+00:00",
-      "headline": "Anyone else very surprised we haven’t had a new major leak yet and we’re now 3 months before release?",
-      "desc": "Most video games especially with a lot of hype tend to get many people finding out small details and leaks about the game. I heard rockstar got that kid put in prison after the 2022 leak, do you think that’s deterred many like him from leaking gta 6 info or do you guys just think",
-      "signal": 4,
-      "hook": "Pergunta de abertura: 'Anyone else very surprised we haven’t had a new major leak yet and we’re now 3 months before release??' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vpr971/anyone_else_very_surprised_we_havent_had_a_new/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCoBUSCBNOcUoQnAVRqv1C3A",
-      "outlier": false,
-      "date": "16/08/2026",
-      "publishedAt": "2026-08-16T06:30:04+00:00",
-      "headline": "Mereka Ngumpulin Duit Demi Gamer Ini Bisa Main GTA 6 😭🎮",
-      "desc": "subscribe! #shorts #youtubeshorts #viralshorts #gamingshorts #gaming #roblox #robloxshorts #robloxgaming #robloxindonesia ...",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('Mereka Ngumpulin Duit Demi Gamer Ini Bisa Main GTA 6 😭🎮') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=E_HjYbOlq0g"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCtWY35eYO7jI9LnCRJxBGRQ",
-      "outlier": false,
-      "date": "15/08/2026",
-      "publishedAt": "2026-08-15T18:18:49+00:00",
-      "headline": "Я ПОЛУЧИЛ РАННИЙ ДОСТУП к GTA VI! НЕ ВЕРЮ СВОИМ ГЛАЗАМ! КАК ПРЕВРАТИТЬ БИМКУ В ГТА?! (BEAM NG DRIVE)",
-      "desc": "Деловые предложения сюда: delovoy_bulkin@mail.ru WhatsApp +79917065725 Мой Канал про тачки: ...",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('Я ПОЛУЧИЛ РАННИЙ ДОСТУП к GTA VI! НЕ ВЕРЮ СВОИМ ГЛАЗАМ! КАК ПРЕВРАТИТЬ БИМКУ В ГТА?! (BEAM NG DRIVE)') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=f9DhQBGgCDk"
     }
   ]
 }
