@@ -165,9 +165,9 @@
     "calculadoEm": "2026-08-14T13:20:21+00:00"
   },
   "UCJAbkIY17zAmCTNQHH0bQoQ": {
-    "medianViews": 40558,
+    "medianViews": 33972,
     "amostra": 15,
-    "calculadoEm": "2026-08-16T16:32:21+00:00"
+    "calculadoEm": "2026-08-17T16:35:03+00:00"
   },
   "UC-A2WBfHTnWkhNvehNo-MaA": {
     "medianViews": 1110865,
@@ -295,14 +295,14 @@
     "calculadoEm": "2026-08-17T04:50:50+00:00"
   },
   "UCcIWIHIHoyQi3KKKqYZPG1w": {
-    "medianViews": 27857,
+    "medianViews": 30130,
     "amostra": 15,
-    "calculadoEm": "2026-08-16T16:32:21+00:00"
+    "calculadoEm": "2026-08-17T16:35:03+00:00"
   },
   "UCg48OIfYWyNrUAIM2CLeWLg": {
-    "medianViews": 73498,
+    "medianViews": 62862,
     "amostra": 15,
-    "calculadoEm": "2026-08-16T16:32:23+00:00"
+    "calculadoEm": "2026-08-17T16:35:06+00:00"
   },
   "UCP7wdRoZhO4y9Yf4RE0vgJw": {
     "medianViews": 459858,
@@ -378,5 +378,25 @@
     "medianViews": 301512,
     "amostra": 15,
     "calculadoEm": "2026-08-17T12:56:15+00:00"
+  },
+  "UCrmLrOJM0nGmENZcER_LUtg": {
+    "medianViews": 44202,
+    "amostra": 15,
+    "calculadoEm": "2026-08-17T16:35:20+00:00"
+  },
+  "UCV6u9pA89xDSwd8E7SViVzw": {
+    "medianViews": 3163,
+    "amostra": 15,
+    "calculadoEm": "2026-08-17T16:35:20+00:00"
+  },
+  "UCUZfhX79dQrJvAgYefiXCCA": {
+    "medianViews": 19406,
+    "amostra": 15,
+    "calculadoEm": "2026-08-17T16:35:21+00:00"
+  },
+  "UCiOkFNdJsXCOKYrHlxiwCYQ": {
+    "medianViews": 53610,
+    "amostra": 15,
+    "calculadoEm": "2026-08-17T16:35:21+00:00"
   }
 }
