@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T04:44:03+00:00",
+  "updated": "2026-08-18T08:44:54+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -152,6 +152,21 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNnVmSDA4dnp5SFpGUm1MQjBQVzRFSTlEQjdleUlBUlRjNjdLaU41VUFmMGZ6cDN3b0JfT0N5U1RzM1FiSHloS3RjWWNiZXFrNE5QdzdaWDJSejdjNExNcm1Za2xESTBieThob3IzMHpZQWJmanBiamxkZkxkNUJidjRiWWJPZXU4aDRGRXAwOWVEN1NZQnVhWG9fM0NUamVsRkxxZzh3?oc=5"
     },
     {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCmZeuRfHYowZhf6odtoaNdg",
+      "outlier": true,
+      "date": "17/08/2026",
+      "publishedAt": "2026-08-17T11:35:36+00:00",
+      "headline": "GTA6가 만든 자연재해가 온다... 쓰나미처럼 몰려오는 기대작 총정리",
+      "desc": "GTA6 #PS5 #스팀 #XSX #게임패스 #기대작 #2026년신작 0:00 자연재해 0:44 귀무자 웨이 오브 더 소드 (플스 엑박 스위치2 스팀) ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA6가 만든 자연재해가 온다... 쓰나미처럼 몰려오는 기대작 총정리') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=_56rwe2bB70"
+    },
+    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -290,16 +305,16 @@
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UC0siHv9ReVxBp3bJYWGeNAw",
+      "videoType": "curto",
+      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
       "outlier": true,
-      "date": "10/08/2026",
-      "publishedAt": "2026-08-10T19:00:07+00:00",
-      "headline": "4 mecânicas de GTA 5 que foram EVOLUÍDAS pra deixar GTA 6 ultra-realista!",
-      "desc": "Físicas de lama, água, deformação de veículos e destruição de estruturas foram completamente reformuladas na nova engine.",
+      "date": "15/08/2026",
+      "publishedAt": "2026-08-15T22:00:33+00:00",
+      "headline": "How To Improve Phones In GTA 6 #gta5 #gtav #gtaonline",
+      "desc": "There aren't cougars in missions, but there is incredible merch on my store! https://go.darkviper.au/Merch Premium quality, low ...",
       "signal": 5,
-      "hook": "Se liga nessas 4 mecânicas do GTA 5 que foram atualizadas e vão deixar o GTA 6 inacreditavelmente realista!",
-      "url": "https://youtube.com/watch?v=Wc64rhG0HkI"
+      "hook": "Mostra o clipe/post que tá bombando ('How To Improve Phones In GTA 6 #gta5 #gtav #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=5emeYR9Rl08"
     },
     {
       "cat": "viral",
@@ -437,21 +452,6 @@
       "url": "https://youtube.com/watch?v=9K2pYB7uWEQ"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCSWRC-nydil8zzfglBMF_XQ",
-      "outlier": true,
-      "date": "14/08/2026",
-      "publishedAt": "2026-08-14T16:17:05+00:00",
-      "headline": "GTA 6 Realization Hit Too Hard 🥹",
-      "desc": "This video features a humorous and emotional meme highlighting how much time has passed between GTA V in 2013 and GTA ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Realization Hit Too Hard 🥹') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=jLr8Tu6s8i4"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -490,6 +490,36 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UC0siHv9ReVxBp3bJYWGeNAw",
+      "outlier": true,
+      "date": "10/08/2026",
+      "publishedAt": "2026-08-10T19:00:07+00:00",
+      "headline": "4 mecânicas de GTA 5 que foram EVOLUÍDAS pra deixar GTA 6 ultra-realista!",
+      "desc": "Físicas de lama, água, deformação de veículos e destruição de estruturas foram completamente reformuladas na nova engine.",
+      "signal": 5,
+      "hook": "Se liga nessas 4 mecânicas do GTA 5 que foram atualizadas e vão deixar o GTA 6 inacreditavelmente realista!",
+      "url": "https://youtube.com/watch?v=Wc64rhG0HkI"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCSWRC-nydil8zzfglBMF_XQ",
+      "outlier": true,
+      "date": "14/08/2026",
+      "publishedAt": "2026-08-14T16:17:05+00:00",
+      "headline": "GTA 6 Realization Hit Too Hard 🥹",
+      "desc": "This video features a humorous and emotional meme highlighting how much time has passed between GTA V in 2013 and GTA ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Realization Hit Too Hard 🥹') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=jLr8Tu6s8i4"
     },
     {
       "cat": "viral",
@@ -766,21 +796,6 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
-      "channelId": "UCq9_TVERqIwoGwy16bVp55A",
-      "outlier": true,
-      "date": "09/08/2026",
-      "publishedAt": "2026-08-09T03:17:55+00:00",
-      "headline": "GTA V मम्मी का चॉकलेट चुरा लिया 😱 #gta5 #gta6",
-      "desc": "GTA V मम्मी का चॉकलेट चुरा लिया #gta5 #gta6.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA V मम्मी का चॉकलेट चुरा लिया 😱 #gta5 #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=xKUehaObEJ4"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
       "channelId": "UCssZAwyUwMAV38hkGq1g0_g",
       "outlier": true,
       "date": "09/08/2026",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('🔥 GTA 5 vs GTA 6 🔥 कौन है असली KING? 👑 Michael Trevor Franklin vs Jason Lucia | Fan Made GTA Edit') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=JJQBcFuJcBE"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC-FLjw6zIVQAOCrAWbqioow",
-      "outlier": true,
-      "date": "08/08/2026",
-      "publishedAt": "2026-08-08T20:30:11+00:00",
-      "headline": "He Won&#39;t Be Able to Play GTA 6",
-      "desc": "Business Contact Subscribe so you don't miss the next videos!",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('He Won&#39;t Be Able to Play GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=s6c7hClqzeA"
     }
   ]
 }
