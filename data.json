@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T20:33:44+00:00",
+  "updated": "2026-08-18T01:38:34+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -152,6 +152,21 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNnVmSDA4dnp5SFpGUm1MQjBQVzRFSTlEQjdleUlBUlRjNjdLaU41VUFmMGZ6cDN3b0JfT0N5U1RzM1FiSHloS3RjWWNiZXFrNE5QdzdaWDJSejdjNExNcm1Za2xESTBieThob3IzMHpZQWJmanBiamxkZkxkNUJidjRiWWJPZXU4aDRGRXAwOWVEN1NZQnVhWG9fM0NUamVsRkxxZzh3?oc=5"
     },
     {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCVvhlqBpNVoG-DUT3J0oZ-w",
+      "outlier": true,
+      "date": "15/08/2026",
+      "publishedAt": "2026-08-15T07:02:04+00:00",
+      "headline": "BOCORAN TRAILER 3 GTA 6 NETFLIX‼️ GAME STAR WARS BARU YANG UNIK‼️ - TAG BLAST",
+      "desc": "Kuy yang mau jalan2 ke Jepang bareng: https://www.instagram.com/fukumaru.travel?igsh=MXcydzB2aTgydWZlag== Beli PC?",
+      "signal": 5,
+      "hook": "Abre direto com 'BOCORAN TRAILER 3 GTA 6 NETFLIX‼️ GAME STAR WARS BARU YANG UNIK‼️ - TAG BLAST' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=dY-lBfuhDOc"
+    },
+    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -290,16 +305,16 @@
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCZ2iCDI1CuEVDXgQ-VVilvg",
+      "videoType": "curto",
+      "channelId": "UCLiPbjTEuGto_iRasBrfu7w",
       "outlier": true,
-      "date": "09/08/2026",
-      "publishedAt": "2026-08-09T22:40:39+00:00",
-      "headline": "ILLOJUAN REACCIONA al MAPA de GTA 6 RECREADO en CITY SKYLINES 2",
-      "desc": "ILLOJUAN REACCIONA al MAPA de GTA 6 RECREADO en CITY SKYLINES 2.",
+      "date": "15/08/2026",
+      "publishedAt": "2026-08-15T22:00:30+00:00",
+      "headline": "GTA6をPS4でプレイしちゃダメな理由",
+      "desc": "3.",
       "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('ILLOJUAN REACCIONA al MAPA de GTA 6 RECREADO en CITY SKYLINES 2') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=7wL8OlR7EB0"
+      "hook": "Mostra o clipe/post que tá bombando ('GTA6をPS4でプレイしちゃダメな理由') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=UvhGqHbjSQQ"
     },
     {
       "cat": "viral",
@@ -437,21 +452,6 @@
       "url": "https://youtube.com/watch?v=jLr8Tu6s8i4"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCcIWIHIHoyQi3KKKqYZPG1w",
-      "outlier": true,
-      "date": "14/08/2026",
-      "publishedAt": "2026-08-14T13:10:01+00:00",
-      "headline": "🔥 GTA 6 Aa Rahi Hai! 😱 | Franklin, Michael &amp; Trevor Ka Last Mission 😂#shorts #viral",
-      "desc": "GTA 6 ki news sunte hi Franklin, Michael aur Trevor tension mein aa jaate hain! Ab teenon decide karte hain ki GTA V ko hi ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('🔥 GTA 6 Aa Rahi Hai! 😱 | Franklin, Michael &amp; Trevor Ka Last Mission 😂#shorts #viral') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=dCI5Aw3vICM"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -490,6 +490,36 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCZ2iCDI1CuEVDXgQ-VVilvg",
+      "outlier": true,
+      "date": "09/08/2026",
+      "publishedAt": "2026-08-09T22:40:39+00:00",
+      "headline": "ILLOJUAN REACCIONA al MAPA de GTA 6 RECREADO en CITY SKYLINES 2",
+      "desc": "ILLOJUAN REACCIONA al MAPA de GTA 6 RECREADO en CITY SKYLINES 2.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('ILLOJUAN REACCIONA al MAPA de GTA 6 RECREADO en CITY SKYLINES 2') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=7wL8OlR7EB0"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCcIWIHIHoyQi3KKKqYZPG1w",
+      "outlier": true,
+      "date": "14/08/2026",
+      "publishedAt": "2026-08-14T13:10:01+00:00",
+      "headline": "🔥 GTA 6 Aa Rahi Hai! 😱 | Franklin, Michael &amp; Trevor Ka Last Mission 😂#shorts #viral",
+      "desc": "GTA 6 ki news sunte hi Franklin, Michael aur Trevor tension mein aa jaate hain! Ab teenon decide karte hain ki GTA V ko hi ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('🔥 GTA 6 Aa Rahi Hai! 😱 | Franklin, Michael &amp; Trevor Ka Last Mission 😂#shorts #viral') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=dCI5Aw3vICM"
     },
     {
       "cat": "viral",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('He Won&#39;t Be Able to Play GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=s6c7hClqzeA"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCurb-eJoO_8hlJlgtvlxxWA",
-      "outlier": true,
-      "date": "08/08/2026",
-      "publishedAt": "2026-08-08T10:14:50+00:00",
-      "headline": "Bro Still Waiting for GTA 6 🎮😭",
-      "desc": "This video features a humorous meme showing a grandfather patiently waiting for GTA 6, highlighting his dedication and hilarious ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Bro Still Waiting for GTA 6 🎮😭') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=mqfykAtow3Q"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "17/08/2026",
-      "publishedAt": "2026-08-17T19:51:42+00:00",
-      "headline": "GTA VI's location variety is going to be INSANE",
-      "desc": "Post em alta no r/GTA6 — ver fonte.",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA VI's location variety is going to be INSANE') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vr2uvv/gta_vis_location_variety_is_going_to_be_insane/"
     }
   ]
 }
