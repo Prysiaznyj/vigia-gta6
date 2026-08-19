@@ -1,6 +1,21 @@
 {
-  "updated": "2026-08-19T01:41:20+00:00",
+  "updated": "2026-08-19T04:43:11+00:00",
   "items": [
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "18/08/2026",
+      "publishedAt": "2026-08-18T23:23:57+00:00",
+      "headline": "Com vazamento global, desenvolvedores demitidos de GTA 6 pedem que não boicotem o game",
+      "desc": "Fonte: Drops de Jogos",
+      "signal": 3,
+      "hook": "Pergunta de abertura: 'Com vazamento global, desenvolvedores demitidos de GTA 6 pedem que não boicotem o game?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVk1JTFZyTk5LMkxYb1dfRHlPdlVPancyT3RCcWdsR19wbDE3VXhqSjNuOHdDVjRVNjBxTE96eDRXamFNMnJxeDNfSXM0bnNYR3ZkTl95MEk5dWZZTVRoRjlJVmhLZkVZeFdpNHNfTlpVYl9wTm1QU1RoRWN0eGpnTTNUdUlJUWh4NXZuSjdLaThjbkZ1dzNHaDM2ZXVpTGktaWYwQVR2ZXFzZC1fdDVPbnVLS0swS0Vjd3VMWlA2b2dsQVhDVkEzRUlyemcwWmZfel9F?oc=5"
+    },
     {
       "cat": "boatos",
       "tagLabel": "Boatos",
@@ -137,19 +152,34 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MU0lZb1h3cnpoNFJtTjY0S2xYeEpiWE90VnlOM2NCZENleEJRdnYyVllPTVRTbnN1ZkU3UWM3R2o0UU5qcWd6NDd5TTRPUUFfT3NmUGxacjZxcHd3dEY0V3gyTlMzcG03NmZXM2h1UzJYM2dkYUdLTlB2Z1V6SDTSAYQBQVVfeXFMUDVhZWZXeVlEU1VBczJwTmlBcnppQWwwWHZYLXdKRHRJb1ZXcG43T3FYaDdRVHQzSVdQWkRxOU0zMXljd21MRVF1SXJrMkREZ1NGdVNvcXNHTy1vT1FrV2xqWEpVcUxyZ2VqcktYNDAzV2oyaGpCM3ZEUFpQeWtlRGZyZTlx?oc=5"
     },
     {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UC0PMQXAwF6O6aeTpv962miA",
+      "outlier": true,
       "date": "18/08/2026",
-      "publishedAt": "2026-08-18T20:12:40+00:00",
-      "headline": "CYBERLEEK publica ‘mandamentos’ e ameaça vazar mais conteúdo de GTA 6",
-      "desc": "Fonte: nosbastidores.com.br",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'CYBERLEEK publica ‘mandamentos’ e ameaça vazar mais conteúdo de GTA 6' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWGpLZERyQm1Ld29FemlVQUxJeXpTT1BJZ1huOEhqQjI5aks5WGFHVVBsY1l5bk1uQ2dBQjJGM2NzZFVEajhiM1BIdHRrV2hTNXdaVFVkV3FrMVptVm1hSC1aLVU0dFYtR1pjNF9JMkRleTBOREZ0LVBjem9FSnRNSHBHRVN3RGJUQnBoWGkyNDhCLW1vc1JWblBFbzFhUQ?oc=5"
+      "publishedAt": "2026-08-18T21:00:15+00:00",
+      "headline": "ANOTHER GTA 6 GAMEPLAY CLIP HAS LEAKED AND IT REVEALS A TON OF DETAILS!",
+      "desc": "In today's Grand Theft Auto 6 video – ANOTHER GTA 6 GAMEPLAY CLIP HAS LEAKED AND IT REVEALS A TON OF DETAILS!",
+      "signal": 5,
+      "hook": "Pergunta de abertura: 'ANOTHER GTA 6 GAMEPLAY CLIP HAS LEAKED AND IT REVEALS A TON OF DETAILS!?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://youtube.com/watch?v=CwI42wfyvw8"
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCfB7vdi-hl4lvKUk0mkMzvg",
+      "outlier": true,
+      "date": "18/08/2026",
+      "publishedAt": "2026-08-18T17:36:36+00:00",
+      "headline": "GTA 6 Gameplay Just Leaked... (LIKE FOR REAL)",
+      "desc": "So there have been many leaks when it comes to GTA 6 gameplay, some real back in 2022, others completely AI generated today ...",
+      "signal": 5,
+      "hook": "Pergunta de abertura: 'GTA 6 Gameplay Just Leaked... (LIKE FOR REAL)?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://youtube.com/watch?v=92EKKkKols4"
     },
     {
       "cat": "viral",
@@ -270,36 +300,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('NUEVA ACTUALIZACION! SORPRESA MILLONARIA! CAYO BUG? NUEVA INFO GTA 6! REGALOS EPICOS! GTA Online') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=07OtTZlqe4A"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UC5Pi8DHUItNgbGVhjh4kVgQ",
-      "outlier": true,
-      "date": "12/08/2026",
-      "publishedAt": "2026-08-12T15:00:21+00:00",
-      "headline": "Strauss Zelnick Talks GTA 6 And Exceeding Expectations   Luke Reacts",
-      "desc": "LINKS: https://linktr.ee/lukestephens HDMI® technology powers smoother gaming with VRR, ALLM, and QFT. Check it out ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Strauss Zelnick Talks GTA 6 And Exceeding Expectations   Luke Reacts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=xacoti8GPUI"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCVeqvNw1vgm57w2XsVx57zQ",
-      "outlier": true,
-      "date": "10/08/2026",
-      "publishedAt": "2026-08-10T16:15:07+00:00",
-      "headline": "GTA 6 Gameplay – 15 Minutes of Open World Vice City Gameplay (4K PS5) Stunning 4K *Concept Graphics*",
-      "desc": "Grand Theft Auto VI: An Extended Look will premiere on Netflix Thursday, August 27 at 3 p.m. ET and will also launch on the ...",
-      "signal": 5,
-      "hook": "Abre direto com 'GTA 6 Gameplay – 15 Minutes of Open World Vice City Gameplay (4K PS5) Stunning 4K *Concept Graphics*' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=mTK88IF6SUM"
     },
     {
       "cat": "viral",
@@ -456,6 +456,21 @@
       "tagLabel": "Lançamento",
       "source": "youtube",
       "videoType": "longo",
+      "channelId": "UCVeqvNw1vgm57w2XsVx57zQ",
+      "outlier": true,
+      "date": "10/08/2026",
+      "publishedAt": "2026-08-10T16:15:07+00:00",
+      "headline": "GTA 6 Gameplay – 15 Minutes of Open World Vice City Gameplay (4K PS5) Stunning 4K *Concept Graphics*",
+      "desc": "Grand Theft Auto VI: An Extended Look will premiere on Netflix Thursday, August 27 at 3 p.m. ET and will also launch on the ...",
+      "signal": 5,
+      "hook": "Abre direto com 'GTA 6 Gameplay – 15 Minutes of Open World Vice City Gameplay (4K PS5) Stunning 4K *Concept Graphics*' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=mTK88IF6SUM"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
       "channelId": "UCWIL76lst7mXmwPlpdV5K_w",
       "outlier": true,
       "date": "09/08/2026",
@@ -490,6 +505,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UC5Pi8DHUItNgbGVhjh4kVgQ",
+      "outlier": true,
+      "date": "12/08/2026",
+      "publishedAt": "2026-08-12T15:00:21+00:00",
+      "headline": "Strauss Zelnick Talks GTA 6 And Exceeding Expectations   Luke Reacts",
+      "desc": "LINKS: https://linktr.ee/lukestephens HDMI® technology powers smoother gaming with VRR, ALLM, and QFT. Check it out ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Strauss Zelnick Talks GTA 6 And Exceeding Expectations   Luke Reacts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=xacoti8GPUI"
     },
     {
       "cat": "viral",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA6 Ep. 9') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=ujEMRxG5xPM"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC2P27LKR28JcfIe5HWNpCEw",
-      "outlier": true,
-      "date": "11/08/2026",
-      "publishedAt": "2026-08-11T15:20:05+00:00",
-      "headline": "CHAT GPT CREÓ GTA 6 DESDE 0",
-      "desc": "Vídeo em alta sobre GTA 6 (943878 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('CHAT GPT CREÓ GTA 6 DESDE 0') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=9DgxUtztl1g"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCGfEq3plmOnjxhGlVLSjrcw",
-      "outlier": true,
-      "date": "10/08/2026",
-      "publishedAt": "2026-08-10T07:33:07+00:00",
-      "headline": "Ülkelere Göre GTA 6 İçin Ne Kadar Çalışmanız Gerekiyor?",
-      "desc": "Peki yeni çıkan GTA 6'yı satın almak için ülkeler bazında ne kadar çalışmanız gerekiyor? #gta6 Beğendiyseniz, bu videoya like ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Ülkelere Göre GTA 6 İçin Ne Kadar Çalışmanız Gerekiyor?') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=4luGs6lGjz0"
     }
   ]
 }
