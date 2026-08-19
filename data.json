@@ -1,6 +1,21 @@
 {
-  "updated": "2026-08-19T04:43:11+00:00",
+  "updated": "2026-08-19T08:47:22+00:00",
   "items": [
+    {
+      "cat": "vendas",
+      "tagLabel": "Vendas & Preço",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "19/08/2026",
+      "publishedAt": "2026-08-19T05:34:53+00:00",
+      "headline": "PS5 Pro em 2026: preço, PSSR 2 e o que GTA 6 muda",
+      "desc": "Fonte: SpaceMoney",
+      "signal": 3,
+      "hook": "Número na cara logo na primeira frase: 'PS5 Pro em 2026: preço, PSSR 2 e o que GTA 6 muda' — formato \"isso é muito ou pouco?\".",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0QVJkQl9wcFg4dzlGRnkwN2pkMEs3cWczR013ZHRLRWlqa1h4eE9kbmVUWUdTbHFHY0RfQmFmbmNWQjdGSFFRVHUtOEZGTFJTcVFfcURDd19fZXJLVVV2aGNiNDJyMmh3QVJlenpGNFlSUWZV?oc=5"
+    },
     {
       "cat": "boatos",
       "tagLabel": "Boatos",
@@ -135,21 +150,6 @@
       "signal": 3,
       "hook": "Curiosidade rápida: 'GTA 6: conheça os lugares que inspiram Leonida, o estado fictício onde o jogo se passa' — bom pra fechar um vídeo ou virar corte solto.",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQLXQzMWFGckVIQUdmSVNwQjcxQ3hMMlNJVjZROUotc2o3bXNybk1naXRzYXZDbjlhYzNYYmVYS25LQlpBeXZHMHBvcGZRUnV5VmtfSW0tRkpNNE9FdEdjZmE5aGcxckxGd2FXZXBTc0h0WkFNclM4amZZU3JxUkdIMkxWb2N5VUdhamZqaUFzSFNFMkZibWR5UWpPemJLcC01RXlrNFFHbVV2b20zdFgxc1BCTllJbVdUTW9NQ2l6Q3BUYVhkQ1ctR2hOMTZlMUMyaVo4Z1k2c2lxUEt5akZVWHpFU1VDQnhCd1RhNlNQOHNkZw?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "18/08/2026",
-      "publishedAt": "2026-08-18T20:30:37+00:00",
-      "headline": "Novos gameplays de GTA 6 vazam na internet e começam a ser removidos pela Take-Two",
-      "desc": "Fonte: gamevicio.com",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'Novos gameplays de GTA 6 vazam na internet e começam a ser removidos pela Take-Two' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MU0lZb1h3cnpoNFJtTjY0S2xYeEpiWE90VnlOM2NCZENleEJRdnYyVllPTVRTbnN1ZkU3UWM3R2o0UU5qcWd6NDd5TTRPUUFfT3NmUGxacjZxcHd3dEY0V3gyTlMzcG03NmZXM2h1UzJYM2dkYUdLTlB2Z1V6SDTSAYQBQVVfeXFMUDVhZWZXeVlEU1VBczJwTmlBcnppQWwwWHZYLXdKRHRJb1ZXcG43T3FYaDdRVHQzSVdQWkRxOU0zMXljd21MRVF1SXJrMkREZ1NGdVNvcXNHTy1vT1FrV2xqWEpVcUxyZ2VqcktYNDAzV2oyaGpCM3ZEUFpQeWtlRGZyZTlx?oc=5"
     },
     {
       "cat": "boatos",
