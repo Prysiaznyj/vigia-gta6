@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T01:39:00+00:00",
+  "updated": "2026-08-20T04:43:55+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -45,6 +45,21 @@
       "signal": 4,
       "hook": "Imagina comprar GTA 6 pelo preço de um pastel? Quase aconteceu na PS Store!",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdUNiVTVmZ1dSR3dicUE0YVhSaEVHbkoxTndyZXJKTkI3RlFJZW5Ib1pwLS1qMzZrUjFKNVBPdEdTX1JDaC1YcWNJb3ExYnV3SGdRWG9OejVTN1FWc3ZDNDdqdFF6aEZITTRwcXRkTjlPSnFQOFJaS3V2V0ZGUDFJd3luXzRYOUZBeGRQZ1VJUmhXd2xPSjBtX3VHdDFYV0MtTTNUTXNCWEljSG95eXlRRFV3MGxXeEVSRFZBSmZoMW50bEx6eFNJTzlRa28tck5RaXd1U1FtRGVvMWpITEVqVUZOR1daSUV5YzJNQTZsR19DTnhuN0xN?oc=5"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "20/08/2026",
+      "publishedAt": "2026-08-20T01:58:00+00:00",
+      "headline": "Mais dois vídeos de gameplay do GTA 6 vazaram após as imagens divulgadas ontem, revelando novos detalhes",
+      "desc": "Fonte: Notebookcheck.info",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'Mais dois vídeos de gameplay do GTA 6 vazaram após as imagens divulgadas ontem, revelando novos detalhes' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdmtrU0RZN2RGd3BMLWs0djN6eDczeFlUOVZUMTFmTmhlcjZVV2FIZ3M1SFp1TE5VWEduaGYwNlQzZnM1Rnp1SS02Y2JMei1CS0ttT2ROZGdqVE5TejdoZE5NNk5RNEo4REllem5kZ3c4UXAweW8ybzNGVnpEZWJxLU5EMVZ6WHlqY2pLaW1aX1FacHMyaVlMRlBwUmFwd1E5RHhWYV9jSjl3d0thMy1UNGpTM09wZ3lMTjN1Z1ZIcWxIYm9LSTNRODV3ZnBYV1ZzSndaMzVJQ0tXcjJTbXl4anhuYw?oc=5"
     },
     {
       "cat": "curiosidade",
@@ -135,21 +150,6 @@
       "signal": 3,
       "hook": "Curiosidade rápida: 'Novos clipes vazados de GTA 6 mostram Vice City em ação' — bom pra fechar um vídeo ou virar corte solto.",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tQ0NHU05fcHp1UGgtQ1VVMVdqaDcxNDRtclVWZl9kbXdmaS1scGlvU3NoR3NVYXlKWTBGeTF4VmNtZFdmMWNHMmx4d3VrZFgzZHA1aTBUVnNLQXZtUE5FbFhkYmJlN0YtTHlWYQ?oc=5"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "19/08/2026",
-      "publishedAt": "2026-08-19T20:09:43+00:00",
-      "headline": "Vazador de GTA 6 solta mais vídeos e revela o motivo por trás dos ataques",
-      "desc": "Novos trechos de gameplay caíram na rede acompanhados de uma declaração do autor do vazamento. Ele afirma estar agindo como um protesto contra decisões recentes da Rockstar.",
-      "signal": 3,
-      "hook": "Você não vai acreditar na justificativa que o leaker deu pra vazar GTA 6 de novo!",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObFNvQUdJSmRXMGpZMDBRRGRKRU1Uc3FmU0NhM2tYa2htdXJwdGRRRC1KaUFITXZSQ09fQ1B2QkxHZkVCZWpwekczRFlrci1HM01DRGVDMW1ycEtkbFN0cmMxRHJEVmxJcVR0c1FNMXBXTHF3NTRRVDF5aG5YNFZBWGR3dE96WUpvWGplN3BIc0drN1pVdEVPYThzck1haDV2YlBWMWkxVW9RcnFPWHhHMEZB?oc=5"
     },
     {
       "cat": "boatos",
@@ -302,6 +302,21 @@
       "url": "https://youtube.com/watch?v=xasTAoW62JU"
     },
     {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCDf_sFInHr3xAF2BKcnPa8Q",
+      "outlier": true,
+      "date": "19/08/2026",
+      "publishedAt": "2026-08-19T02:12:21+00:00",
+      "headline": "NEW GTA 6 Leaks Are CRAZY 🔥😲 in 2026 #gta6 #leaks #fyp",
+      "desc": "NEW GTA 6 LEAKS ARE CRAZYYY #gta6 #leaks #gaming.",
+      "signal": 5,
+      "hook": "Pergunta de abertura: 'NEW GTA 6 Leaks Are CRAZY 🔥😲 in 2026 #gta6 #leaks #fyp?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://youtube.com/watch?v=n0myFl1eBgs"
+    },
+    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -437,21 +452,6 @@
       "url": "https://youtube.com/watch?v=iZJHQr47Imk"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCetXgvsTBDi4JOBzx_2kdqQ",
-      "outlier": true,
-      "date": "15/08/2026",
-      "publishedAt": "2026-08-15T01:57:43+00:00",
-      "headline": "GTA 6 Hasn’t Shown Anything",
-      "desc": "Socials: https://specular.blog/socials Discord: https://discord.gg/specular Business Inquiries: specularbusiness@gmail.com ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Hasn’t Shown Anything') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=BbM2-JLi_O0"
-    },
-    {
       "cat": "vendas",
       "tagLabel": "Vendas & Preço",
       "source": "youtube",
@@ -505,6 +505,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCetXgvsTBDi4JOBzx_2kdqQ",
+      "outlier": true,
+      "date": "15/08/2026",
+      "publishedAt": "2026-08-15T01:57:43+00:00",
+      "headline": "GTA 6 Hasn’t Shown Anything",
+      "desc": "Socials: https://specular.blog/socials Discord: https://discord.gg/specular Business Inquiries: specularbusiness@gmail.com ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Hasn’t Shown Anything') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=BbM2-JLi_O0"
     },
     {
       "cat": "viral",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Angry birds irl before GTA 6 🥀✌️') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=kNoX1skpjmc"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCnDjHWTwKYWvi-8B0gdMTZQ",
-      "outlier": true,
-      "date": "11/08/2026",
-      "publishedAt": "2026-08-11T15:30:32+00:00",
-      "headline": "PS4 Users After GTA 6 Said &quot;Not Invited&quot; 💀😭 #gta6memes # #america #usashorts #shorts #shortsfeed",
-      "desc": "PS4 Users After GTA 6 Said \"Not Invited\" #gta6memes # #america #usashorts #shorts #shortsfeed GTA 6 officially left PS4 ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('PS4 Users After GTA 6 Said &quot;Not Invited&quot; 💀😭 #gta6memes # #america #usashorts #shorts #shortsfeed') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=Sy-EhG8_SOM"
     }
   ]
 }
