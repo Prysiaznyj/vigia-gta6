@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T16:42:27+00:00",
+  "updated": "2026-08-21T20:32:51+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -77,6 +77,36 @@
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdUNiVTVmZ1dSR3dicUE0YVhSaEVHbkoxTndyZXJKTkI3RlFJZW5Ib1pwLS1qMzZrUjFKNVBPdEdTX1JDaC1YcWNJb3ExYnV3SGdRWG9OejVTN1FWc3ZDNDdqdFF6aEZITTRwcXRkTjlPSnFQOFJaS3V2V0ZGUDFJd3luXzRYOUZBeGRQZ1VJUmhXd2xPSjBtX3VHdDFYV0MtTTNUTXNCWEljSG95eXlRRFV3MGxXeEVSRFZBSmZoMW50bEx6eFNJTzlRa28tck5RaXd1U1FtRGVvMWpITEVqVUZOR1daSUV5YzJNQTZsR19DTnhuN0xN?oc=5"
     },
     {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "21/08/2026",
+      "publishedAt": "2026-08-21T20:03:42+00:00",
+      "headline": "Rockstar ainda não identificou responsável por vazamentos de GTA 6, diz site",
+      "desc": "Fonte: Omelete",
+      "signal": 3,
+      "hook": "Pergunta de abertura: 'Rockstar ainda não identificou responsável por vazamentos de GTA 6, diz site?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNajBFYlRyS3lPcjA4MUx5d2IyQmtwcUpnTmdYcXFURUZFUGxFeW9xVmUzVVo3TU1DQnAwOWFObFlUZjhwS0hZUU1yRHhCdW8zdzJRLWZERF8xbGVxREZiU3g5WTRNTG4yUkVzM183TXBnZk1fZXlPODlCZ1hORUk1ZGY5VUtTQVo5TVJYLVZ1OWpvN2Y5LWZidUpqTQ?oc=5"
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "21/08/2026",
+      "publishedAt": "2026-08-21T19:47:00+00:00",
+      "headline": "Em meio a vazamentos de GTA 6, Rockstar intima judicialmente Microsoft e Discord",
+      "desc": "Fonte: Adrenaline",
+      "signal": 3,
+      "hook": "Pergunta de abertura: 'Em meio a vazamentos de GTA 6, Rockstar intima judicialmente Microsoft e Discord?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNllpU0ZfeXRLLUQxaGR0RnQ2Q19DbjdxbXZYQXJsaVE3Wl9yTEtETkRmSFdyZHlBaTdFWWxlR1NtQlQtd1lqY1Z5RjZ6ZUxGVFZ2RUVmOUlkb1VjRlB1OUNqb3JQUEI0SGU5N080akZzRHQ4QVhHNzFwakxldjJmancxZ1JEdGZwMDZlOElQSzI5WFNxMGgtTV93a2dTaDIyYU1WZURrcXI3bmx5RHdmdmdEZ3lQTGc?oc=5"
+    },
+    {
       "cat": "curiosidade",
       "tagLabel": "Curiosidade",
       "source": "news",
@@ -84,12 +114,27 @@
       "channelId": null,
       "outlier": false,
       "date": "21/08/2026",
-      "publishedAt": "2026-08-21T15:43:48+00:00",
-      "headline": "GTA 6 teria captura completa de GPU vazada com mapa, modelos e texturas",
-      "desc": "Fonte: pclabs.com.br",
+      "publishedAt": "2026-08-21T18:54:02+00:00",
+      "headline": "GTA 6: dona da Rockstar aciona Microsoft e Discord na Justiça para identificar hacker",
+      "desc": "Fonte: Tecnoblog",
       "signal": 3,
-      "hook": "Curiosidade rápida: 'GTA 6 teria captura completa de GPU vazada com mapa, modelos e texturas' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qT1FKbDRzVnNZOVhLS3VmNm5NQVQyQjBJYXVTNXJyeUIxNERuVVBlaU1PSU1fRlVHM2xQd2lJRWRET2JGbTlydXRUTkpSTk5lMHVrOGNwRS1MdWNKaHhLcmloaExyRjU2d2VnQmk2X1B0SC1hSGRpVw?oc=5"
+      "hook": "Curiosidade rápida: 'GTA 6: dona da Rockstar aciona Microsoft e Discord na Justiça para identificar hacker' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd3dUeFpLUVlGeFBkYXBmeThOLUN0ZXpNdEpNNjRnVEV2bHBJaU93V29fcXVTMDdOYUNhZGlSSkhMRmJzVERUMHJtMEgxVTRucU9wWFJpdEtzdENhdnBqRUxSMXlDb04zZ3ZNX1JncGVGbC1sUmlOTjlDYWxhZWVWZjUxeXlrY1ZySTd6Y3M4Z3pIa0lBSzV5VUlZZkVNQzdNaFZuTENXLTN1OVlESXoteHlOY1J6VFU?oc=5"
+    },
+    {
+      "cat": "vendas",
+      "tagLabel": "Vendas & Preço",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "21/08/2026",
+      "publishedAt": "2026-08-21T18:34:00+00:00",
+      "headline": "Mercado Triplo A vai aprender lições erradas com o preço de GTA 6, afirma analista",
+      "desc": "Fonte: Adrenaline",
+      "signal": 3,
+      "hook": "Número na cara logo na primeira frase: 'Mercado Triplo A vai aprender lições erradas com o preço de GTA 6, afirma analista' — formato \"isso é muito ou pouco?\".",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ2l4cE5lY0ZYSVFTT0FNLUdRMTduNjQ2VnYwclhsWEw4UkVxVldScml3cXJNbGJxNDBkaUxyWm8xMTZoZ3MzRGFvX3NYcFd2QTNEVllhMlBUWjFvNEZXS3hsWGV0SVgwZEtyN2ZCa21ZYzYtQm1MSXkybzlwWVNTOEVjMTZadmFndnp5TVBHYXhpN01ad0lrd0hyVU1vRG1fMWxFbjlHb29iX0xDc3ZUd1FYUTFNUHZQSkE?oc=5"
     },
     {
       "cat": "boatos",
@@ -99,57 +144,12 @@
       "channelId": null,
       "outlier": false,
       "date": "21/08/2026",
-      "publishedAt": "2026-08-21T15:22:25+00:00",
-      "headline": "GTA VI vira fonte de lucro para leaker após vazamentos",
-      "desc": "Fonte: DOL",
+      "publishedAt": "2026-08-21T17:39:36+00:00",
+      "headline": "Youtuber mencionado na intimação da Take-Two sobre leak de GTA 6 nega envolvimento",
+      "desc": "Fonte: IGN Portugal",
       "signal": 3,
-      "hook": "Pergunta de abertura: 'GTA VI vira fonte de lucro para leaker após vazamentos?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOXFRUVllZE5uRGFTN1QyUk9kZk4tMzVBMlVhR1QwWkpWMFZwVUJxSmRhRWZQR0N2LWVkRE5XWjg2bi11ZDA4dlE2dkhuNDQ1dFlQWVlfcktRVlRBb3h6N0JBNXREVzRPX3lhSUtmcnpINzhuQkpDX3R5UUMyRDlMN1lJM1FyZDhxel96c29xNkVRWUdlOGxyY3U4QlZMdDNia1pN0gGrAUFVX3lxTE1MMmtBNmF5cHd6LXdFdEx3SjI1VnV3NkhSeTlsQWZTMHpaeXVlY2w2MUFuUTdhanZJTXhCNEtLZlA0bXk5Tm5KR2xtdno5RjlNOXFkaHVCbkNKTldFNWdUUUkyWV9adU1ndk1QWjUyTEZFbG9kclRYVm1SX3UtMFUtdThadzVwblNjakZVSTdEVHg0eU1rVlNxUHF3emlwODJ0NzZLUWw1aG45Zw?oc=5"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "21/08/2026",
-      "publishedAt": "2026-08-21T15:20:20+00:00",
-      "headline": "GTA 6: desenvolvedora finalmente se pronuncia sobre vazamentos antes do especial na Netflix",
-      "desc": "Fonte: TudoCelular.com",
-      "signal": 3,
-      "hook": "Pergunta de abertura: 'GTA 6: desenvolvedora finalmente se pronuncia sobre vazamentos antes do especial na Netflix?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWkpPbmhVTE5Oc3RWOV9yZ3lHWHpPdFJNN2QwLUs2TWZWLU5GLU53VWZSWDJnalZoWlMybkd3WjY0SXZHQkRDQkV2NGVuR19HcEs0X1JoOFN0NnpjSFRyS1I1Sl95TlhWb2VjVXBKMW14a21ScUhfd3BMLVpGdG1QTGtNNTBxTFJ6eXBuX2xQX3JHSEhSNks5QWdqQkhEMjNUZ0c4QzM1VGE0QQ?oc=5"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "21/08/2026",
-      "publishedAt": "2026-08-21T14:44:00+00:00",
-      "headline": "“Primeiras impressões sobre a jogabilidade arruinadas”: a Rockstar é, em parte, responsável pelos vazamentos do GTA 6?",
-      "desc": "Fonte: Notebookcheck.info",
-      "signal": 3,
-      "hook": "Pergunta de abertura: '“Primeiras impressões sobre a jogabilidade arruinadas”: a Rockstar é, em parte, responsável pelos vazamentos do GTA 6??' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPbTlvY3BLVXJhaXY3bmxSaE9xS05jc0s0U3Y4WXg1S05GSGJiT3NiQks5alpNMFJYeGJIVFhXSDQwM25fQ2U4TmphSzRJWEloZWhLOU5UYVZCQkJacncxZFZWWldUWmJ1OXlId3F4TG85ZHpkZFBta0o1dGV5X0VzS0dJdHVGZnRwQS1TSVBJR2g5MTk1cXhnSlRtX3lSM1VyZzBIZDF4cmNpbTRlNEdGd0VmcUdOeXlucktfRjk2WTN1NXk4c0EwSWtNTHdBcXdBTmFIR01KY2t5QkZGU2pGbDFBM2QxYlExZEdVLW5rQQ?oc=5"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "21/08/2026",
-      "publishedAt": "2026-08-21T14:36:36+00:00",
-      "headline": "Responsável por vazamento protesta contra GTA 6 exclusivamente digital pela Rockstar",
-      "desc": "Fonte: Drops de Jogos",
-      "signal": 3,
-      "hook": "Pergunta de abertura: 'Responsável por vazamento protesta contra GTA 6 exclusivamente digital pela Rockstar?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRFI2OEE5MzUxcDhLQnV2MExPQWVuemprUWxNTU5DUmtOYURQanJnbGNlTTkxd0JzVFNjcFBoUU43dU5nVEl6ancxOUNwQTlHanlVTE5CbTVtLWUwdEVjaHdrOEY0WVVYbk9jWUdxNW9nbzNsemgwVDF2S0phRjZvUGw1WUZIcUpBUy1FS2M0MENuQWFnQW9rNDhzZzZhYk1hMS1sZ2tlQ0JwMVFvNmcyQmFkVDdLWEZQTFh4OFhJNGs4YTk4aERVRlpFOEtqU01DN0E?oc=5"
+      "hook": "Pergunta de abertura: 'Youtuber mencionado na intimação da Take-Two sobre leak de GTA 6 nega envolvimento?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNblZCcU4xSFJVOENGX2tpY0p3TS1ZNDhqRk9IVzkwNEdUZVJPdWFOaWdCempPamc0WVZIdDdQSDRRbjM0cVpHU1FDQmNZYVJzMThIMDdLSVY3VUprM2VWR2xPeWh4QlFRV1ZIbUczTFlGVGRDUW90aEZxTmx0ZlhEcDllM29Zc0RyOTZnWjg5NUtCaUcxVm93dXVFbW5kbHpfc19EVDdPYVF0OVYtQXNlSU55VkUzc0tMTXVuUVY5YkJGc19qX1E?oc=5"
     },
     {
       "cat": "boatos",
@@ -306,6 +306,21 @@
       "tagLabel": "Boatos",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCi7wDE2ZTiR5QYYrUY5WhtA",
+      "outlier": true,
+      "date": "19/08/2026",
+      "publishedAt": "2026-08-19T22:37:13+00:00",
+      "headline": "The worst GTA 6 Leak in years..",
+      "desc": "The worst GTA 6 Leak in years.. #carterpcs #tech #gaming.",
+      "signal": 5,
+      "hook": "Pergunta de abertura: 'The worst GTA 6 Leak in years..?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://youtube.com/watch?v=Rq_KZm8wCsg"
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCvcZRsZdR2lzgeZcABkwCSA",
       "outlier": true,
       "date": "19/08/2026",
@@ -437,21 +452,6 @@
       "url": "https://youtube.com/watch?v=UvhGqHbjSQQ"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCboqh2MKjzK0cFZpX1sB-NQ",
-      "outlier": true,
-      "date": "15/08/2026",
-      "publishedAt": "2026-08-15T12:01:05+00:00",
-      "headline": "Gta 6 ൽ നിങ്ങൾ Fatty ആകുമോ!? 🤣🔥 GTA 5 ❌ GTA 6 ✅ | #shorts #gta6 #funny #games #comedy",
-      "desc": "Gta 6 ൽ നിങ്ങൾ Fatty ആകുമോ!? GTA 5 ❌ GTA 6 ✓ | #shorts #gta6 #funny #games #comedy gta 5 vs gta 6 gta 6 ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Gta 6 ൽ നിങ്ങൾ Fatty ആകുമോ!? 🤣🔥 GTA 5 ❌ GTA 6 ✅ | #shorts #gta6 #funny #games #comedy') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=aXJdNJW9gb0"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -520,6 +520,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCboqh2MKjzK0cFZpX1sB-NQ",
+      "outlier": true,
+      "date": "15/08/2026",
+      "publishedAt": "2026-08-15T12:01:05+00:00",
+      "headline": "Gta 6 ൽ നിങ്ങൾ Fatty ആകുമോ!? 🤣🔥 GTA 5 ❌ GTA 6 ✅ | #shorts #gta6 #funny #games #comedy",
+      "desc": "Gta 6 ൽ നിങ്ങൾ Fatty ആകുമോ!? GTA 5 ❌ GTA 6 ✓ | #shorts #gta6 #funny #games #comedy gta 5 vs gta 6 gta 6 ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Gta 6 ൽ നിങ്ങൾ Fatty ആകുമോ!? 🤣🔥 GTA 5 ❌ GTA 6 ✅ | #shorts #gta6 #funny #games #comedy') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=aXJdNJW9gb0"
     },
     {
       "cat": "viral",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Willyrex le enseñó a IlloJuan el GTA 6 🫣🫣 #TheWillyrex #CajasGTA #IlloJuan #Spok') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=93Qkgb6sR-k"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCjVmQP4XD2WqjYQWPIVMarA",
-      "outlier": true,
-      "date": "12/08/2026",
-      "publishedAt": "2026-08-12T23:01:43+00:00",
-      "headline": "The larpers are pissed😭 #gaming #gamingshorts #gta6 #gtaonline #gta #rockstargames #gamingvideos",
-      "desc": "Vídeo em alta sobre GTA 6 (535077 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('The larpers are pissed😭 #gaming #gamingshorts #gta6 #gtaonline #gta #rockstargames #gamingvideos') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=uodaaju9KZI"
     }
   ]
 }
