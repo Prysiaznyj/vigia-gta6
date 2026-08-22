@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T01:38:21+00:00",
+  "updated": "2026-08-22T04:42:05+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -302,6 +302,21 @@
       "url": "https://youtube.com/watch?v=xasTAoW62JU"
     },
     {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCEI4f1mtXkmVW7F7yVN2mDw",
+      "outlier": true,
+      "date": "20/08/2026",
+      "publishedAt": "2026-08-20T11:35:30+00:00",
+      "headline": "GTA 6 GAMEPLAY WURDE GELEAKT! #shorts",
+      "desc": "GTA 6 Gameplay wurde geleakt! #gta #gta6 #grandtheftauto #xbox #playstation #nintendo #console #gaming #skit #funny ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 GAMEPLAY WURDE GELEAKT! #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=ejJ8vDaLlcQ"
+    },
+    {
       "cat": "boatos",
       "tagLabel": "Boatos",
       "source": "youtube",
@@ -437,21 +452,6 @@
       "url": "https://youtube.com/watch?v=5emeYR9Rl08"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCLiPbjTEuGto_iRasBrfu7w",
-      "outlier": true,
-      "date": "15/08/2026",
-      "publishedAt": "2026-08-15T22:00:30+00:00",
-      "headline": "GTA6をPS4でプレイしちゃダメな理由",
-      "desc": "3.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA6をPS4でプレイしちゃダメな理由') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=UvhGqHbjSQQ"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -520,6 +520,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCLiPbjTEuGto_iRasBrfu7w",
+      "outlier": true,
+      "date": "15/08/2026",
+      "publishedAt": "2026-08-15T22:00:30+00:00",
+      "headline": "GTA6をPS4でプレイしちゃダメな理由",
+      "desc": "3.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA6をPS4でプレイしちゃダメな理由') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=UvhGqHbjSQQ"
     },
     {
       "cat": "viral",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA VI One Play Music #gta #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=s7gu5xDmomU"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCkBw4Pke3xb_nmeUzvmrwHA",
-      "outlier": true,
-      "date": "12/08/2026",
-      "publishedAt": "2026-08-12T19:14:31+00:00",
-      "headline": "Willyrex le enseñó a IlloJuan el GTA 6 🫣🫣 #TheWillyrex #CajasGTA #IlloJuan #Spok",
-      "desc": "Vídeo em alta sobre GTA 6 (343816 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Willyrex le enseñó a IlloJuan el GTA 6 🫣🫣 #TheWillyrex #CajasGTA #IlloJuan #Spok') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=93Qkgb6sR-k"
     }
   ]
 }
