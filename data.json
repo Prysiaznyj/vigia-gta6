@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T04:42:05+00:00",
+  "updated": "2026-08-22T08:38:12+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCZsvXT0MFV0e32x9DzB0f6A",
+      "outlier": true,
+      "date": "19/08/2026",
+      "publishedAt": "2026-08-19T16:43:59+00:00",
+      "headline": "¡DETALLES BRUTALES FILTRADOS DEL GTA VI! 🤯🚗 #shorts #gta #gtavi #rockstargames #gaming",
+      "desc": "El nuevo GTA promete ser una auténtica locura! Vuelven las 6 estrellas, reconocimiento facial policial, combustible real en los ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('¡DETALLES BRUTALES FILTRADOS DEL GTA VI! 🤯🚗 #shorts #gta #gtavi #rockstargames #gaming') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=6_JnFr9Dzp4"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCEI4f1mtXkmVW7F7yVN2mDw",
       "outlier": true,
       "date": "20/08/2026",
@@ -437,21 +452,6 @@
       "url": "https://youtube.com/watch?v=zPXsNhNFhlM"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
-      "outlier": true,
-      "date": "15/08/2026",
-      "publishedAt": "2026-08-15T22:00:33+00:00",
-      "headline": "How To Improve Phones In GTA 6 #gta5 #gtav #gtaonline",
-      "desc": "There aren't cougars in missions, but there is incredible merch on my store! https://go.darkviper.au/Merch Premium quality, low ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('How To Improve Phones In GTA 6 #gta5 #gtav #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=5emeYR9Rl08"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -526,15 +526,15 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
-      "channelId": "UCLiPbjTEuGto_iRasBrfu7w",
+      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
       "outlier": true,
       "date": "15/08/2026",
-      "publishedAt": "2026-08-15T22:00:30+00:00",
-      "headline": "GTA6をPS4でプレイしちゃダメな理由",
-      "desc": "3.",
+      "publishedAt": "2026-08-15T22:00:33+00:00",
+      "headline": "How To Improve Phones In GTA 6 #gta5 #gtav #gtaonline",
+      "desc": "There aren't cougars in missions, but there is incredible merch on my store! https://go.darkviper.au/Merch Premium quality, low ...",
       "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA6をPS4でプレイしちゃダメな理由') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=UvhGqHbjSQQ"
+      "hook": "Mostra o clipe/post que tá bombando ('How To Improve Phones In GTA 6 #gta5 #gtav #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=5emeYR9Rl08"
     },
     {
       "cat": "viral",
