@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T08:38:12+00:00",
+  "updated": "2026-08-22T12:51:46+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -83,6 +83,36 @@
       "videoType": null,
       "channelId": null,
       "outlier": false,
+      "date": "22/08/2026",
+      "publishedAt": "2026-08-22T12:18:28+00:00",
+      "headline": "GTA 6: Microsoft e Discord terão que fornecer dados sobre vazamento",
+      "desc": "Fonte: Exame",
+      "signal": 3,
+      "hook": "Pergunta de abertura: 'GTA 6: Microsoft e Discord terão que fornecer dados sobre vazamento?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSW1QNDR4XzRsbEN4d09jQV9FYlpMVk1IVzNqUlExRG9pXzRGNjIwcVVtc1dtWjltSUhzWktzQ3I4VXpxSFE4X19BemdBSjlBRzFVUUZ1aWZNWWg5c2twWGFucFhmbG1JLW5DdU1mM0FfTkFWWUN1QVF6cUt2YXFPaWlUM0RhN2xKS0V0Zk5kSXNWWjg?oc=5"
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "22/08/2026",
+      "publishedAt": "2026-08-22T11:48:15+00:00",
+      "headline": "Distribuidora de 'GTA VI' luta na Justiça para identificar autores de vazamento",
+      "desc": "Fonte: UOL Notícias",
+      "signal": 3,
+      "hook": "Pergunta de abertura: 'Distribuidora de 'GTA VI' luta na Justiça para identificar autores de vazamento?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX2ZyeFMxYnJaUERlUUhKcEgxYXRWeEgxM21KNk5TbHFUenU4R3l2TGFrb1hkb1VTV3l1NW0xWl92aWhLclUwVzZfOVVRVGw1cUhBNlFWSnBwZHYta2RjNlZPcy1xN0NJcjZkcWlSTmRSX1JwQUtBUjJJcUM5MHJ3VURFQkFKTkgwUXFHcUNpN3pkOUMtcjZidGVFVUR1S2dZb2JmRUVybklJbjlHV2UzU3F5VUh3TVkyM2xQV2ptVzN3YmFoajlJSUVLaGdZeXh0QU1wb2V1ZWE?oc=5"
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
       "date": "21/08/2026",
       "publishedAt": "2026-08-21T22:14:00+00:00",
       "headline": "GTA VI tem novo vazamento e Take-Two pede dados à Microsoft e Discord",
@@ -120,36 +150,6 @@
       "signal": 3,
       "hook": "Pergunta de abertura: 'Rockstar ainda não identificou responsável por vazamentos de GTA 6, diz site?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNajBFYlRyS3lPcjA4MUx5d2IyQmtwcUpnTmdYcXFURUZFUGxFeW9xVmUzVVo3TU1DQnAwOWFObFlUZjhwS0hZUU1yRHhCdW8zdzJRLWZERF8xbGVxREZiU3g5WTRNTG4yUkVzM183TXBnZk1fZXlPODlCZ1hORUk1ZGY5VUtTQVo5TVJYLVZ1OWpvN2Y5LWZidUpqTQ?oc=5"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "21/08/2026",
-      "publishedAt": "2026-08-21T19:47:00+00:00",
-      "headline": "Em meio a vazamentos de GTA 6, Rockstar intima judicialmente Microsoft e Discord",
-      "desc": "Fonte: Adrenaline",
-      "signal": 3,
-      "hook": "Pergunta de abertura: 'Em meio a vazamentos de GTA 6, Rockstar intima judicialmente Microsoft e Discord?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNllpU0ZfeXRLLUQxaGR0RnQ2Q19DbjdxbXZYQXJsaVE3Wl9yTEtETkRmSFdyZHlBaTdFWWxlR1NtQlQtd1lqY1Z5RjZ6ZUxGVFZ2RUVmOUlkb1VjRlB1OUNqb3JQUEI0SGU5N080akZzRHQ4QVhHNzFwakxldjJmancxZ1JEdGZwMDZlOElQSzI5WFNxMGgtTV93a2dTaDIyYU1WZURrcXI3bmx5RHdmdmdEZ3lQTGc?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "21/08/2026",
-      "publishedAt": "2026-08-21T18:54:02+00:00",
-      "headline": "GTA 6: dona da Rockstar aciona Microsoft e Discord na Justiça para identificar hacker",
-      "desc": "Fonte: Tecnoblog",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'GTA 6: dona da Rockstar aciona Microsoft e Discord na Justiça para identificar hacker' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd3dUeFpLUVlGeFBkYXBmeThOLUN0ZXpNdEpNNjRnVEV2bHBJaU93V29fcXVTMDdOYUNhZGlSSkhMRmJzVERUMHJtMEgxVTRucU9wWFJpdEtzdENhdnBqRUxSMXlDb04zZ3ZNX1JncGVGbC1sUmlOTjlDYWxhZWVWZjUxeXlrY1ZySTd6Y3M4Z3pIa0lBSzV5VUlZZkVNQzdNaFZuTENXLTN1OVlESXoteHlOY1J6VFU?oc=5"
     },
     {
       "cat": "boatos",
