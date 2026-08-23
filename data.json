@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T16:33:33+00:00",
+  "updated": "2026-08-23T20:30:38+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -99,6 +99,21 @@
       "channelId": null,
       "outlier": false,
       "date": "23/08/2026",
+      "publishedAt": "2026-08-23T20:16:50+00:00",
+      "headline": "Cerco fechou: Take-Two aciona X e YouTube na Justiça para caçar vazadores de GTA 6",
+      "desc": "Fonte: TudoCelular.com",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'Cerco fechou: Take-Two aciona X e YouTube na Justiça para caçar vazadores de GTA 6' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUUFfeUhYZUxtclRVX2x5N2pnbTU4TVNGbTdZT01jT191V2xxc3I4a1QyT2FfYlJpNV8zdjNpakhPTThRX3Y0RjFWcDU2eEtFVXhVbERYaUR1NTFNQjNoRkhvQTZzb1k2Zm1zWnhUdGpYeW9YVlNSV3g0TmFuWW1yaTdtd3V3MWpIR3pfdFk3Zk1RWEdKMGxkdGViYzc2Sk94Q2VhQg?oc=5"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "23/08/2026",
       "publishedAt": "2026-08-23T15:22:00+00:00",
       "headline": "Exército oferece 4 dias de folga para soldados jogarem GTA 6, mas faz uma exigência para liberar benefício",
       "desc": "Fonte: Diário do Comércio",
@@ -139,17 +154,32 @@
     {
       "cat": "boatos",
       "tagLabel": "Boatos",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "23/08/2026",
-      "publishedAt": "2026-08-23T12:43:58+00:00",
-      "headline": "Hackers ameaçam Rockstar Games com vazamento da versão completa de GTA VI",
-      "desc": "Fonte: O Vício",
-      "signal": 3,
-      "hook": "Pergunta de abertura: 'Hackers ameaçam Rockstar Games com vazamento da versão completa de GTA VI?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdmhTR3psX09GYU8xSmFvNE8yNi1adkp2UWsyX3VsQWltZUxXSnJFbUN5NFJMZUpGUjhHMHJ5TWljUzl0cWhabXliV1lKeUh0dlBFbWkwR2ExR1A5d2RUZzE4NDYyVEc4TVZ2aFZETVBETHdKUlR4RUFwbzJCM1h6WDF6R2ZoS0lyS0N2ekhfMjZhdkQwUDBFNWVrME_SAaIBQVVfeXFMT2thc1kyLXNPVmhIcHRTZmh3bm1OQlVOcm95d3lLbDI4VWVxNFpWUGVnN3BDUzVma2wyTFRDcG1rNzB6dEgzRHRxQU5kQzcyZ181TWwwLS1pa1VzMmZNbjI1MHk1SlVES09paTlFcERKbURhRko0eFBKWC1DZ21HWnduT1lWMUZXTTFVa0V2czJvWWF2ZVpQamNEX2x0WElTczJ3?oc=5"
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UC92iwH5d9u0CeJtCx17YT9Q",
+      "outlier": true,
+      "date": "21/08/2026",
+      "publishedAt": "2026-08-21T15:32:33+00:00",
+      "headline": "The GTA 6 Leaker’s Manifesto Just Cost Rockstar Everything",
+      "desc": "The leakers are demanding more, but will Rockstar accept it? Email: EndymionYT@hotmail.com Twitter: @EndymionYT ...",
+      "signal": 5,
+      "hook": "Pergunta de abertura: 'The GTA 6 Leaker’s Manifesto Just Cost Rockstar Everything?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://youtube.com/watch?v=7QlaZZOCqik"
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCv0xclBIBkDTPoGhwEF2AZA",
+      "outlier": true,
+      "date": "21/08/2026",
+      "publishedAt": "2026-08-21T00:40:28+00:00",
+      "headline": "Holy f*ck.. this is bad..",
+      "desc": "The GTA 6 leaks got even worse. Rockstar Games is in big trouble. SUBSCRIBE AND LIKE THE VIDEO! FOLLOW MY ...",
+      "signal": 5,
+      "hook": "Pergunta de abertura: 'Holy f*ck.. this is bad..?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://youtube.com/watch?v=Ntyt_-yKFSU"
     },
     {
       "cat": "viral",
@@ -270,36 +300,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA6가 만든 자연재해가 온다... 쓰나미처럼 몰려오는 기대작 총정리') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=_56rwe2bB70"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCVvhlqBpNVoG-DUT3J0oZ-w",
-      "outlier": true,
-      "date": "15/08/2026",
-      "publishedAt": "2026-08-15T07:02:04+00:00",
-      "headline": "BOCORAN TRAILER 3 GTA 6 NETFLIX‼️ GAME STAR WARS BARU YANG UNIK‼️ - TAG BLAST",
-      "desc": "Kuy yang mau jalan2 ke Jepang bareng: https://www.instagram.com/fukumaru.travel?igsh=MXcydzB2aTgydWZlag== Beli PC?",
-      "signal": 5,
-      "hook": "Abre direto com 'BOCORAN TRAILER 3 GTA 6 NETFLIX‼️ GAME STAR WARS BARU YANG UNIK‼️ - TAG BLAST' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=dY-lBfuhDOc"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCVeqvNw1vgm57w2XsVx57zQ",
-      "outlier": true,
-      "date": "10/08/2026",
-      "publishedAt": "2026-08-10T16:15:07+00:00",
-      "headline": "GTA 6 Gameplay – 15 Minutes of Open World Vice City Gameplay (4K PS5) Stunning 4K *Concept Graphics*",
-      "desc": "Grand Theft Auto VI: An Extended Look will premiere on Netflix Thursday, August 27 at 3 p.m. ET and will also launch on the ...",
-      "signal": 5,
-      "hook": "Abre direto com 'GTA 6 Gameplay – 15 Minutes of Open World Vice City Gameplay (4K PS5) Stunning 4K *Concept Graphics*' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=mTK88IF6SUM"
     },
     {
       "cat": "boatos",
@@ -450,6 +450,36 @@
       "signal": 5,
       "hook": "Pergunta de abertura: 'Vazaram GTA 6 e nem é tudo isso? #gta6 #vazamentos #jogos #rockstar #games?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://youtube.com/watch?v=PAfPpMlmpkI"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCVvhlqBpNVoG-DUT3J0oZ-w",
+      "outlier": true,
+      "date": "15/08/2026",
+      "publishedAt": "2026-08-15T07:02:04+00:00",
+      "headline": "BOCORAN TRAILER 3 GTA 6 NETFLIX‼️ GAME STAR WARS BARU YANG UNIK‼️ - TAG BLAST",
+      "desc": "Kuy yang mau jalan2 ke Jepang bareng: https://www.instagram.com/fukumaru.travel?igsh=MXcydzB2aTgydWZlag== Beli PC?",
+      "signal": 5,
+      "hook": "Abre direto com 'BOCORAN TRAILER 3 GTA 6 NETFLIX‼️ GAME STAR WARS BARU YANG UNIK‼️ - TAG BLAST' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=dY-lBfuhDOc"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCVeqvNw1vgm57w2XsVx57zQ",
+      "outlier": true,
+      "date": "10/08/2026",
+      "publishedAt": "2026-08-10T16:15:07+00:00",
+      "headline": "GTA 6 Gameplay – 15 Minutes of Open World Vice City Gameplay (4K PS5) Stunning 4K *Concept Graphics*",
+      "desc": "Grand Theft Auto VI: An Extended Look will premiere on Netflix Thursday, August 27 at 3 p.m. ET and will also launch on the ...",
+      "signal": 5,
+      "hook": "Abre direto com 'GTA 6 Gameplay – 15 Minutes of Open World Vice City Gameplay (4K PS5) Stunning 4K *Concept Graphics*' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=mTK88IF6SUM"
     },
     {
       "cat": "lancamento",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('ILLOJUAN REACCIONA al MAPA de GTA 6 RECREADO en CITY SKYLINES 2') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=7wL8OlR7EB0"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCcIWIHIHoyQi3KKKqYZPG1w",
-      "outlier": true,
-      "date": "14/08/2026",
-      "publishedAt": "2026-08-14T13:10:01+00:00",
-      "headline": "🔥 GTA 6 Aa Rahi Hai! 😱 | Franklin, Michael &amp; Trevor Ka Last Mission 😂#shorts #viral",
-      "desc": "GTA 6 ki news sunte hi Franklin, Michael aur Trevor tension mein aa jaate hain! Ab teenon decide karte hain ki GTA V ko hi ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('🔥 GTA 6 Aa Rahi Hai! 😱 | Franklin, Michael &amp; Trevor Ka Last Mission 😂#shorts #viral') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=dCI5Aw3vICM"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCg48OIfYWyNrUAIM2CLeWLg",
-      "outlier": true,
-      "date": "14/08/2026",
-      "publishedAt": "2026-08-14T06:30:10+00:00",
-      "headline": "GTA 6 Fan in ICU Special Request to Rockstar Games! 🙏 #shorts",
-      "desc": "Vídeo em alta sobre GTA 6 (263890 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Fan in ICU Special Request to Rockstar Games! 🙏 #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=9cIbXeW3gBg"
     }
   ]
 }
