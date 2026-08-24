@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T04:53:28+00:00",
+  "updated": "2026-08-24T08:57:02+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -92,6 +92,36 @@
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdUNiVTVmZ1dSR3dicUE0YVhSaEVHbkoxTndyZXJKTkI3RlFJZW5Ib1pwLS1qMzZrUjFKNVBPdEdTX1JDaC1YcWNJb3ExYnV3SGdRWG9OejVTN1FWc3ZDNDdqdFF6aEZITTRwcXRkTjlPSnFQOFJaS3V2V0ZGUDFJd3luXzRYOUZBeGRQZ1VJUmhXd2xPSjBtX3VHdDFYV0MtTTNUTXNCWEljSG95eXlRRFV3MGxXeEVSRFZBSmZoMW50bEx6eFNJTzlRa28tck5RaXd1U1FtRGVvMWpITEVqVUZOR1daSUV5YzJNQTZsR19DTnhuN0xN?oc=5"
     },
     {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "24/08/2026",
+      "publishedAt": "2026-08-24T06:44:00+00:00",
+      "headline": "Ex-diretor da Rockstar classifica os vazamentos sobre o GTA 6 como “nada demais”, enquanto a Take-Two dá ao Discord um prazo até 4 de setembro para revelar a identidade do CyberLeek",
+      "desc": "Fonte: Notebookcheck.info",
+      "signal": 3,
+      "hook": "Pergunta de abertura: 'Ex-diretor da Rockstar classifica os vazamentos sobre o GTA 6 como “nada demais”, enquanto a Take-Two dá ao Discord um prazo até 4 de setembro para revelar a identidade do CyberLeek?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOTmt4YVVBc0FRZlVvR3g5cE1uNm55UlA4d0Q5Q01JNEp4cmtwdmdFNnBKT0tEeDJ3MGVaUlgyOU1FTUZvSF9pTUdtaXB2WnFublRUbi0xTzZrZzRMSmFSY2FQYWd1UXNrS1RSUUJlbkNmRUlwYnRGV2JnYnFLMzBaeGdjWFpBS3U4T0dLenFtbFFEUEZxbWl0TTNfTk9OWDI1V1RuN0VfamltNGY0a1UwbzA3aFcxTEdWYXNhY2N5cExPNEpDWnV0dEdMTWtCaG1TZnhKNnp2dGdNSXQwWlNOOUJpRVBwVGhadllSRG96V0dzSlJHQ1VqYWRCQnB6cjFrdk1yTmtRQkE2VGJSLXdUeDBQbkFsYkl2VlpyakU1Ty1DSl9lQjFwcHVfbzl6bjBsVkJDOWRaWi1OVVhPRDlPUzhVSTRlcDQ?oc=5"
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "24/08/2026",
+      "publishedAt": "2026-08-24T03:20:37+00:00",
+      "headline": "GTA 6 | Rockstar vai a casa da pessoa que acertou vazamentos",
+      "desc": "Fonte: Cabana do Leitor",
+      "signal": 3,
+      "hook": "Pergunta de abertura: 'GTA 6 | Rockstar vai a casa da pessoa que acertou vazamentos?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORWVEU2FTUFpFUDRMWG41Q1M1MjhpSDhDVlBvTmtrQXB1WEtod2hpTXRqNS1vVWJVYVVwTkcteGp6S1hIN0RVcXA1ZEZYUVIwOHV4THJnekNVZVNtamhGenZRdC1oX2t3cEZhRXAtaTl4SjQ3X3M0UE5kWHRCak4wem83bi03bnkyQ0syZ0dXSm51RzQ?oc=5"
+    },
+    {
       "cat": "curiosidade",
       "tagLabel": "Curiosidade",
       "source": "news",
@@ -120,36 +150,6 @@
       "signal": 3,
       "hook": "Pergunta de abertura: 'Novos vazamentos de GTA 6 têm vídeo de avião à noite e sistema de gasolina?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT2xfbC1kYWRBZ3pUVnk4enVTazlzVzg5UDhTNGc1WDBSazVqYU5SRjhpc25BaWJuME15ZHZiajJBMFBhN2pyandPcWV5aFBqUmdwUHhuQ0l5VmJCWHozR0FDMV9zTFhJdGhlTDdIMGw5bERhazVfVDVYQ1FXRExkTTIwOV9KUk40SExvZ0dKNVp6UWpoTDU4UXVBcUVxSllhaVVBaUkzN2oyRnV1QzVjUXpxVHAtYW45b0dTai1kVjZoX0nSAdIBQVVfeXFMTUZtRjZuM0RxaG54dXRvWm53X0VBMHgxQ3RRZkhCZHkxc1hWR1FCdHZQQlBjc2N3aFJLTHBIQU1VNUtEdGtqQ1RlakpRazBhRWNIQUZud2xyY2FfYjVjWFUycy1hQ1AwVHRGLW11SjdDbTB4Z3hkRW5fTFVUOFlvamVZT29kQ1l4Z3hHRktYYUZhQkF1OGwwekFwRHNUNXFhU0FWdVNKU2pyNThZODAzOUg1UmpsSG1MSnFzMDY0NnliTV9KTUhydElTNzdvUUV4b0FR?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "23/08/2026",
-      "publishedAt": "2026-08-23T20:16:50+00:00",
-      "headline": "Cerco fechou: Take-Two aciona X e YouTube na Justiça para caçar vazadores de GTA 6",
-      "desc": "Fonte: TudoCelular.com",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'Cerco fechou: Take-Two aciona X e YouTube na Justiça para caçar vazadores de GTA 6' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUUFfeUhYZUxtclRVX2x5N2pnbTU4TVNGbTdZT01jT191V2xxc3I4a1QyT2FfYlJpNV8zdjNpakhPTThRX3Y0RjFWcDU2eEtFVXhVbERYaUR1NTFNQjNoRkhvQTZzb1k2Zm1zWnhUdGpYeW9YVlNSV3g0TmFuWW1yaTdtd3V3MWpIR3pfdFk3Zk1RWEdKMGxkdGViYzc2Sk94Q2VhQg?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "23/08/2026",
-      "publishedAt": "2026-08-23T15:22:00+00:00",
-      "headline": "Exército oferece 4 dias de folga para soldados jogarem GTA 6, mas faz uma exigência para liberar benefício",
-      "desc": "Fonte: Diário do Comércio",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'Exército oferece 4 dias de folga para soldados jogarem GTA 6, mas faz uma exigência para liberar benefício' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQalh5bzRqS2VXWGI1WlVUc2xWYlNEcnVQd0dSWUhObU1GOHpFM3BxcTRrNGcxdHZWbld0bVVjS0k3NVIzcmJvemF4MVF6bmNycUlQTk9XRjhWT3p4VFQzOG9XQ1loS3ByM2tYY2l2Y0M1T01wLVZlMWN6OTZXaUVuWHg1MENsOG5MRHpOaW5DUmFjemZ4bjBNQUNvTjAwcnBtUVFIaWF4aUxydDF3eXM0TE11bU1BaHIzckJwa1hFajl6Q1hkZWU3TFB4N3R0cVFfNGNlaVVHZHZqNzMwRllDcTNZR0VMNVhmWHIyMVBRVkxQUUdBRkNvOQ?oc=5"
     },
     {
       "cat": "boatos",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCUZfhX79dQrJvAgYefiXCCA",
+      "outlier": true,
+      "date": "23/08/2026",
+      "publishedAt": "2026-08-23T13:45:19+00:00",
+      "headline": "E SE O HACKER VAZAR A HISTÓRIA DO GTA 6? 😱😱😱",
+      "desc": "gta6 #gta6leaks #rockstar #flowgames.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('E SE O HACKER VAZAR A HISTÓRIA DO GTA 6? 😱😱😱') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=4UZViqdbDFs"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
       "outlier": true,
       "date": "23/08/2026",
@@ -437,21 +452,6 @@
       "url": "https://youtube.com/watch?v=6_JnFr9Dzp4"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCEI4f1mtXkmVW7F7yVN2mDw",
-      "outlier": true,
-      "date": "20/08/2026",
-      "publishedAt": "2026-08-20T11:35:30+00:00",
-      "headline": "GTA 6 GAMEPLAY WURDE GELEAKT! #shorts",
-      "desc": "GTA 6 Gameplay wurde geleakt! #gta #gta6 #grandtheftauto #xbox #playstation #nintendo #console #gaming #skit #funny ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 GAMEPLAY WURDE GELEAKT! #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=ejJ8vDaLlcQ"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -535,6 +535,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCEI4f1mtXkmVW7F7yVN2mDw",
+      "outlier": true,
+      "date": "20/08/2026",
+      "publishedAt": "2026-08-20T11:35:30+00:00",
+      "headline": "GTA 6 GAMEPLAY WURDE GELEAKT! #shorts",
+      "desc": "GTA 6 Gameplay wurde geleakt! #gta #gta6 #grandtheftauto #xbox #playstation #nintendo #console #gaming #skit #funny ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 GAMEPLAY WURDE GELEAKT! #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=ejJ8vDaLlcQ"
     },
     {
       "cat": "boatos",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Alemã reage ao Kenji - Quando Lançar GTA 6 😂') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=9K2pYB7uWEQ"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UC0siHv9ReVxBp3bJYWGeNAw",
-      "outlier": true,
-      "date": "10/08/2026",
-      "publishedAt": "2026-08-10T19:00:07+00:00",
-      "headline": "4 mecânicas de GTA 5 que foram EVOLUÍDAS pra deixar GTA 6 ultra-realista!",
-      "desc": "Físicas de lama, água, deformação de veículos e destruição de estruturas foram completamente reformuladas na nova engine.",
-      "signal": 5,
-      "hook": "Se liga nessas 4 mecânicas do GTA 5 que foram atualizadas e vão deixar o GTA 6 inacreditavelmente realista!",
-      "url": "https://youtube.com/watch?v=Wc64rhG0HkI"
     }
   ]
 }
