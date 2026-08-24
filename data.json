@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T13:02:31+00:00",
+  "updated": "2026-08-24T16:46:41+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -92,6 +92,51 @@
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdUNiVTVmZ1dSR3dicUE0YVhSaEVHbkoxTndyZXJKTkI3RlFJZW5Ib1pwLS1qMzZrUjFKNVBPdEdTX1JDaC1YcWNJb3ExYnV3SGdRWG9OejVTN1FWc3ZDNDdqdFF6aEZITTRwcXRkTjlPSnFQOFJaS3V2V0ZGUDFJd3luXzRYOUZBeGRQZ1VJUmhXd2xPSjBtX3VHdDFYV0MtTTNUTXNCWEljSG95eXlRRFV3MGxXeEVSRFZBSmZoMW50bEx6eFNJTzlRa28tck5RaXd1U1FtRGVvMWpITEVqVUZOR1daSUV5YzJNQTZsR19DTnhuN0xN?oc=5"
     },
     {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "24/08/2026",
+      "publishedAt": "2026-08-24T16:25:39+00:00",
+      "headline": "GTA 6 não está pronto, mas Rockstar mantém lançamento e especial",
+      "desc": "Fonte: ContilNet Notícias",
+      "signal": 3,
+      "hook": "Abre direto com 'GTA 6 não está pronto, mas Rockstar mantém lançamento e especial' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObTc2bGhRN0M0bmlPNm9kQ2RIUVI2ZHVucFBmMjVHcXk0MkdKSFI1ZkxMdlRnQWt1QjB6cEQtQXVxRktESGJ4SEk2SkdVd0pfaHJvRVhYVHRTNHUxNFJWMnJCendrcjJ2VE9tZE9BaE1pSklvdFBSZHdENmQ1algydG1rTHRaTkRTbC1hN2pDeWhRNkpXa0pXWFBubkRrYkJhZlFLT3lxcUbSAa4BQVVfeXFMTnNjQXY0Vl9FMkRlbmRXam95ZDZ4UXNzYXhHRHowX0VyN05lbEt2SldMaElxMncyaGNQbElzTENoMTROTVNxU2UwdlMtWDJMYlJwMWlzYWVoQ0VzRkFQdGlpc2MydlhZc1dsRUhwQ1c5UVFGcER1VVlFUWZPQkVYOGlwM3BEazVVaThFSDVGYU1vbUthSEVBX2lIT1RDTnlJM2sya1pTelIyaFZfWjBn?oc=5"
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "24/08/2026",
+      "publishedAt": "2026-08-24T15:55:06+00:00",
+      "headline": "Leaker de GTA 6 divulga novo vídeo de gameplay repleto de nudez e faz enquete perguntando se deve divulgar spoilers da história",
+      "desc": "Fonte: IGN Brasil",
+      "signal": 3,
+      "hook": "Pergunta de abertura: 'Leaker de GTA 6 divulga novo vídeo de gameplay repleto de nudez e faz enquete perguntando se deve divulgar spoilers da história?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeWJUc0ktN1FkSzdHZ09MR2gxRHl3ZkJ5WmpMZ3U5bTh2NEpjNENtY1dWRXFuNmMtWldBc1hOYlNHMmJXX2s4dXFiZFNzNGxxdG92STEwRWE0OENYSldyWTI0ZGFhZ0ZIRk5NajZNbWlNVEdoUTFHcmxHdkNsMTVRN1BLeW5CcUI4SnhjZGJZcWRQM1Y5bkhEQ2tiVWpQbXh3dWVzUG9zZ0JsdEFJZTMtVnhyUEpXbVJyTjJ2OHctbGYzZ1ZLUzFjM2FiUS1mNUlwUWl0NjRHX2dJTF9NeHZN?oc=5"
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "24/08/2026",
+      "publishedAt": "2026-08-24T15:32:13+00:00",
+      "headline": "Vazamentos de GTA VI aumentam o desgaste e a pressão na Rockstar",
+      "desc": "Fonte: DOL",
+      "signal": 3,
+      "hook": "Pergunta de abertura: 'Vazamentos de GTA VI aumentam o desgaste e a pressão na Rockstar?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ0hjSkdadUpLcVZWVGx0OWsxSzNIaGc3blN4cWNGVy1fN0M3U2QzaXFUQzdValRBZ1V4VWl6clpreVFCMV82OHROTXQ3NlhFQWhueEVyRFpDSnFDNVpqai1zSGVsSGlOWTNOaGIzUWgtQ0VvRlJJS3NvV1dJRUh0NGJUbXg2NGN2R2lLOVprcklPa0tndjM5WnU5eG9pWU5Ia29SZUtIX1JmTVR2VVJMZtIBuAFBVV95cUxOT0xOblV3TjZacDN3VTczTkRPRFQyWWE1Z1VuZ0FzbWNvQ3R3Mkg2cnVVT2hBYUFrbVJTWXZqczNiaERYV2JsZXV0bjdpWEpyUklLbU9KQktoRElwS0pHdTFqY3pGZ1g5MjFGLTdMU0FDOGVPSFpSZTFBRGxTb05ZYkU4WENJaXp1czdBWnZzNFVpTE50WHA3Q2RrVEU3V2c0SXdVZFNkNGRJemlGU3RSbWx3bXpRVUlp?oc=5"
+    },
+    {
       "cat": "curiosidade",
       "tagLabel": "Curiosidade",
       "source": "news",
@@ -99,57 +144,27 @@
       "channelId": null,
       "outlier": false,
       "date": "24/08/2026",
-      "publishedAt": "2026-08-24T12:38:46+00:00",
-      "headline": "GTA 6 é responsável por 20 realistamentos no exército dos EUA",
-      "desc": "Fonte: Drops de Jogos",
+      "publishedAt": "2026-08-24T14:50:00+00:00",
+      "headline": "Cyberleek diz que só vai vazar gameplay de Lucia em GTA 6 se jogadores forem na Rockstar vestidos de alho-poró",
+      "desc": "Fonte: TecMundo",
       "signal": 3,
-      "hook": "Curiosidade rápida: 'GTA 6 é responsável por 20 realistamentos no exército dos EUA' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWXNsRkl3QXRSN0dzcHZRcDA1bFVpbF9ma2hXV3hPbVQwNE1JSlZaMlJVODZ4TFZad2lyZ2NqTVN5SF9jYmpzMkQyeW5mX1RFLUdrS0E1VkVaNzNXMjdzM0RWWm5wUS1QQ0tYbHY2bHU4T3l4UWt6dHd5cjIzQXh2cGJxOXkzV2R0MDhXdTRSbG8zQ0lqakRVeGhiblpDakhKejM0RExwNWdhM29XZ3dCVVhuaGJRZ3Nq?oc=5"
+      "hook": "Curiosidade rápida: 'Cyberleek diz que só vai vazar gameplay de Lucia em GTA 6 se jogadores forem na Rockstar vestidos de alho-poró' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdjd5UmtJYXRPQ2l1eFVxaWI2OE9RcW9PdkR5V3pGcGFQVlgwWDBYOVJvVjU1c3Q2bHZvUlFnRGRiRE5Yb0tvOS03c0RtcENrZHU1eVl3WVVERzl1bzVPbWVfdVpRR3loeEtkUkNaRXp5NEhvdkt2TkdSdHh3Qi1aUzFQa1ZEazNFQnB1NFZHYW5UQi1UTzFYMEpmVWpnOUhRUnlhclNiMVlKUElqcWhuSE9WYVVEV0I5SFFtYlA0YnJJb3g2eHlYODJzWEJjS1l3X1hvc1pnTDNacFliTkxvNlRCMjRyaHpuVVNn?oc=5"
     },
     {
       "cat": "boatos",
       "tagLabel": "Boatos",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "24/08/2026",
-      "publishedAt": "2026-08-24T11:59:26+00:00",
-      "headline": "Novo vazamento de GTA 6 expõe gameplay, mapa e amplia pressão sobre a Rockstar - Ver-o",
-      "desc": "Fonte: Fato",
-      "signal": 3,
-      "hook": "Pergunta de abertura: 'Novo vazamento de GTA 6 expõe gameplay, mapa e amplia pressão sobre a Rockstar - Ver-o?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNzFXY3J2MWhXOVBqN3JRVmZiMVRYc1ctb2lQY3NTeXB6aUJBd3RkV2VITXA1bm1RRS1US2drdkRsZlRUbHdyMkJMV2w5Y2tpUHpZM1FucnQ3N2VGdWxQMERlT3BpSVlTVEdkaXBxV1ItZ3psUkhSUTBBYVk2Q205b3dTMnpZVUFuT2hrV2VncnZnMEQzTENMajlTTFNub2xCMEtyNFNzbw?oc=5"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "24/08/2026",
-      "publishedAt": "2026-08-24T10:41:15+00:00",
-      "headline": "Take-Two intima Microsoft e Discord na caça ao leaker de GTA 6",
-      "desc": "Fonte: IGN Portugal",
-      "signal": 3,
-      "hook": "Pergunta de abertura: 'Take-Two intima Microsoft e Discord na caça ao leaker de GTA 6?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUUhGMEUtQnQ2Rm9wcTFkOC1WZVhfUVRyd3dFcmJTSzBnMmhGbVRtekVqSldwb2FIOVIzYmdBQjdUcFByOXVEd3Rqd0MtbXhpcXI3NHl0Z1hYV2hMaGxvTUVjZ2NnWFB6NlBZZGxwT0tZenNtYXQ3Z3JGOXZXaUcwQXl6WmxWSXhiTG1ubkJTVnV5eHZseEdFN1RhZ3cwNlRlTEpXTFFXdndsdkk?oc=5"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "24/08/2026",
-      "publishedAt": "2026-08-24T10:26:00+00:00",
-      "headline": "Take Two intima Microsoft e Discord na justiça após vazamentos do GTA 6",
-      "desc": "Fonte: Folha PE",
-      "signal": 3,
-      "hook": "Pergunta de abertura: 'Take Two intima Microsoft e Discord na justiça após vazamentos do GTA 6?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNajhRZFl5QU9CMENkcmV2dEwtNTNtWVdGOXFuN3FoVHJsX3JfZmxnRmlrRkNfX19zWmQzczBhOGV3LWFHOENUYWxlbTN4eXNkMjBHaUxLYXRaWnV1Y0xkRVcyR0RUSVZtdmNZdjNZQXRRYzE0VUJxZjhwNzhVcEJ6QmV2VS1JWk82R1NGWHNoelY2MVpzMEZHbVppZS1qRERVT2QxTjk4Q1VMUlZHSlVQSTJ5STlvRnQtbVdLVnoyNzhqZUJ1X1NvdUg0QXdmTlI1?oc=5"
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
+      "outlier": true,
+      "date": "21/08/2026",
+      "publishedAt": "2026-08-21T21:59:45+00:00",
+      "headline": "I’m Being Investigated by Take-Two (GTA 6 Leaker)",
+      "desc": "USD GTA 6 Giveaway!** I'm giving *6 lucky people $1111 USD each* which is enough for a PS5 Pro + GTA 6, or whatever else ...",
+      "signal": 5,
+      "hook": "Pergunta de abertura: 'I’m Being Investigated by Take-Two (GTA 6 Leaker)?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://youtube.com/watch?v=e6OLy2wvHvw"
     },
     {
       "cat": "boatos",
@@ -287,19 +302,19 @@
       "url": "https://youtube.com/watch?v=KWbIY_IbJeM"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
+      "cat": "boatos",
+      "tagLabel": "Boatos",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCmZeuRfHYowZhf6odtoaNdg",
+      "videoType": "curto",
+      "channelId": "UCHQh9m3wbt1PT1VDpIpTjbg",
       "outlier": true,
-      "date": "17/08/2026",
-      "publishedAt": "2026-08-17T11:35:36+00:00",
-      "headline": "GTA6가 만든 자연재해가 온다... 쓰나미처럼 몰려오는 기대작 총정리",
-      "desc": "GTA6 #PS5 #스팀 #XSX #게임패스 #기대작 #2026년신작 0:00 자연재해 0:44 귀무자 웨이 오브 더 소드 (플스 엑박 스위치2 스팀) ...",
+      "date": "22/08/2026",
+      "publishedAt": "2026-08-22T15:00:22+00:00",
+      "headline": "O MAIOR RISCO DOS VAZAMENTOS DO GTA 6! 😱 #games #gta6 #ps5 #gta #playstation",
+      "desc": "Flow Games comenta sobre o principal problema com os recentes vazamentos de GTA 6! #games #gta6 #ps5 #gta ...",
       "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA6가 만든 자연재해가 온다... 쓰나미처럼 몰려오는 기대작 총정리') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=_56rwe2bB70"
+      "hook": "Pergunta de abertura: 'O MAIOR RISCO DOS VAZAMENTOS DO GTA 6! 😱 #games #gta6 #ps5 #gta #playstation?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://youtube.com/watch?v=l6IIFEtk8tM"
     },
     {
       "cat": "viral",
@@ -437,21 +452,6 @@
       "url": "https://youtube.com/watch?v=ojVgCjtpFmA"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCZsvXT0MFV0e32x9DzB0f6A",
-      "outlier": true,
-      "date": "19/08/2026",
-      "publishedAt": "2026-08-19T16:43:59+00:00",
-      "headline": "¡DETALLES BRUTALES FILTRADOS DEL GTA VI! 🤯🚗 #shorts #gta #gtavi #rockstargames #gaming",
-      "desc": "El nuevo GTA promete ser una auténtica locura! Vuelven las 6 estrellas, reconocimiento facial policial, combustible real en los ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('¡DETALLES BRUTALES FILTRADOS DEL GTA VI! 🤯🚗 #shorts #gta #gtavi #rockstargames #gaming') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=6_JnFr9Dzp4"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -535,6 +535,36 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCmZeuRfHYowZhf6odtoaNdg",
+      "outlier": true,
+      "date": "17/08/2026",
+      "publishedAt": "2026-08-17T11:35:36+00:00",
+      "headline": "GTA6가 만든 자연재해가 온다... 쓰나미처럼 몰려오는 기대작 총정리",
+      "desc": "GTA6 #PS5 #스팀 #XSX #게임패스 #기대작 #2026년신작 0:00 자연재해 0:44 귀무자 웨이 오브 더 소드 (플스 엑박 스위치2 스팀) ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA6가 만든 자연재해가 온다... 쓰나미처럼 몰려오는 기대작 총정리') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=_56rwe2bB70"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCZsvXT0MFV0e32x9DzB0f6A",
+      "outlier": true,
+      "date": "19/08/2026",
+      "publishedAt": "2026-08-19T16:43:59+00:00",
+      "headline": "¡DETALLES BRUTALES FILTRADOS DEL GTA VI! 🤯🚗 #shorts #gta #gtavi #rockstargames #gaming",
+      "desc": "El nuevo GTA promete ser una auténtica locura! Vuelven las 6 estrellas, reconocimiento facial policial, combustible real en los ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('¡DETALLES BRUTALES FILTRADOS DEL GTA VI! 🤯🚗 #shorts #gta #gtavi #rockstargames #gaming') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=6_JnFr9Dzp4"
     },
     {
       "cat": "viral",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Steam напрягся / Колобок и Челопук / GTA 6 и Netflix / Бойкот PS5 / Bioware продадут / Ошибка Яндекс') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=xktmvHYEwuM"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCnnzfu2z51nMUuxdOVRBjZQ",
-      "outlier": true,
-      "date": "13/08/2026",
-      "publishedAt": "2026-08-13T20:00:33+00:00",
-      "headline": "Alemã reage ao Kenji - Quando Lançar GTA 6 😂",
-      "desc": "Vídeo em alta sobre GTA 6 (553456 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Alemã reage ao Kenji - Quando Lançar GTA 6 😂') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=9K2pYB7uWEQ"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "24/08/2026",
-      "publishedAt": "2026-08-24T11:51:34+00:00",
-      "headline": "Breakdown of GTA 6 Footage Released So Far..",
-      "desc": "Post em alta no r/GTA6 — ver fonte.",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('Breakdown of GTA 6 Footage Released So Far..') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vx0m10/breakdown_of_gta_6_footage_released_so_far/"
     }
   ]
 }
