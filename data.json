@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T04:45:55+00:00",
+  "updated": "2026-08-25T08:52:02+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -537,6 +537,21 @@
       "url": null
     },
     {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "25/08/2026",
+      "publishedAt": "2026-08-25T07:19:36+00:00",
+      "headline": "More clarification and notes on future leaks, including Netflix previews",
+      "desc": "Hi all With the potential for significant story spoilers on the horizon, we will be imposing strict removal of any and all story leaks on this subreddit. That includes text discussions. Whilst many of us enjoy a sneak peak at some gameplay and graphics, a large proportion of the",
+      "signal": 5,
+      "hook": "Pergunta de abertura: 'More clarification and notes on future leaks, including Netflix previews?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1vxsr3s/more_clarification_and_notes_on_future_leaks/"
+    },
+    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -745,21 +760,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6 DE 100 DÓLARES É O QUE MAIS VENDEU E JÁ JOGAMOS WOLVERINE - #FGN #240') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=xasTAoW62JU"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV_0rVrTlROy149fVPCMLVQ",
-      "outlier": true,
-      "date": "17/08/2026",
-      "publishedAt": "2026-08-17T17:03:38+00:00",
-      "headline": "Gta gamers ki bejati😡#gta#gta5#gta6#gtagameplay#games#gameplay#gamer#freefire#roblox#minecraft",
-      "desc": "Vídeo em alta sobre GTA 6 (190118 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Gta gamers ki bejati😡#gta#gta5#gta6#gtagameplay#games#gameplay#gamer#freefire#roblox#minecraft') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=R-X3tulyQJo"
     },
     {
       "cat": "viral",
