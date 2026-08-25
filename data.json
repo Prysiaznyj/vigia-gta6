@@ -1,6 +1,21 @@
 {
-  "updated": "2026-08-25T16:46:08+00:00",
+  "updated": "2026-08-25T20:36:33+00:00",
   "items": [
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "25/08/2026",
+      "publishedAt": "2026-08-25T20:04:32+00:00",
+      "headline": "GTA de anime: Ananta ganha data de lançamento oficial após fugir da sombra de GTA 6",
+      "desc": "Fonte: Canaltech",
+      "signal": 4,
+      "hook": "Abre direto com 'GTA de anime: Ananta ganha data de lançamento oficial após fugir da sombra de GTA 6' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNWQ4TUs4MDk2R0F1cTNWSUJ2bS1LYjRHMmttVXZqZzA4UzFiQjhuN0U4dF9YWEVPODI5NkFjcUV5aWJ3NUs3c0M4VlJTTk1MYzk4Q0VRbzN5WHdwRE9nQ0M1d3BQUGNMZ0pWbWs2SU55THJhYlFfWlZBZm9MSXBzTEJROFdDd0ZPZUhnRVg0ZVNFY1JOd0FHU0IxUnl1TERGYU9fWHBlYXpaM19EOHpZSUtiN2Q?oc=5"
+    },
     {
       "cat": "curiosidade",
       "tagLabel": "Curiosidade",
@@ -92,19 +107,19 @@
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdUNiVTVmZ1dSR3dicUE0YVhSaEVHbkoxTndyZXJKTkI3RlFJZW5Ib1pwLS1qMzZrUjFKNVBPdEdTX1JDaC1YcWNJb3ExYnV3SGdRWG9OejVTN1FWc3ZDNDdqdFF6aEZITTRwcXRkTjlPSnFQOFJaS3V2V0ZGUDFJd3luXzRYOUZBeGRQZ1VJUmhXd2xPSjBtX3VHdDFYV0MtTTNUTXNCWEljSG95eXlRRFV3MGxXeEVSRFZBSmZoMW50bEx6eFNJTzlRa28tck5RaXd1U1FtRGVvMWpITEVqVUZOR1daSUV5YzJNQTZsR19DTnhuN0xN?oc=5"
     },
     {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
+      "cat": "boatos",
+      "tagLabel": "Boatos",
       "source": "news",
       "videoType": null,
       "channelId": null,
       "outlier": false,
       "date": "25/08/2026",
-      "publishedAt": "2026-08-25T16:13:00+00:00",
-      "headline": "Que horas sai o gameplay de GTA 6? Veja quando assistir na Netflix e no YouTube",
-      "desc": "Fonte: Canaltech",
+      "publishedAt": "2026-08-25T19:21:00+00:00",
+      "headline": "GTA 6: empresa intima Discord e Microsoft após vazamentos do jogo",
+      "desc": "Fonte: Portal iG",
       "signal": 3,
-      "hook": "Curiosidade rápida: 'Que horas sai o gameplay de GTA 6? Veja quando assistir na Netflix e no YouTube' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSmpScGpZV2Y3blFDdUFjd0NyWTl0LUM4dVVRdzI5YVJoMGlDVFJ3UURucmh6eW90Tk9iYTA0a01MLXhzMGxmaUFKalpQUGFCMHI5ZmdqVHVKcHJZbW9EaGQ3ZVZCcVE1WWxUUWdOdldlNV9nRW96djRuRllLUVlyWWphYWhEcVRhX1NmY3R5ZTFYNURWU0lVem9PMG5Qd1otOGRYX2tNd3Jwc2pMUllz?oc=5"
+      "hook": "Pergunta de abertura: 'GTA 6: empresa intima Discord e Microsoft após vazamentos do jogo?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYzYwZjh1ZnozVzA5blFCQ2E2b0YzcW5rckRSeWo4LV9ONWNIQ3ZrVm52NjZwTzdxVG94a2Y5Q05iY2doZWN6aENUV1dIaEZ6MHgtVFhtekhkemFNRFpBOGU4bnZUODZ6bHNPTkxaZzlhTldfSGVDVm5DSlNidGNBZl9BeDlscVFCQUZvckp4X0g1aVZ3aHVpQmJLV1M5OXExc0xudHg1aGtzcUtmUFNz0gG0AUFVX3lxTE1abTlYSExEdmpsSlVoSGtOR3hPanVjMXpOUmlXd2haV3ptSm9BUGplaWJQVnBrQXl2WHU2U245UmdTTUpxZWZNdEk5MlI1RFJxbGhndHc2aHprVkJEOHhidEZ4a3hka3diT0ZLVmlJNWxPMklGNTdsNVUyWWV5eUFSQ2toU3hfVFFsRzBTVmFLQU5pTk9qY1FGMGhRTGN2QVBTdWhhblp2UG5XaXp6ZUJ5cW9RMg?oc=5"
     },
     {
       "cat": "curiosidade",
@@ -114,12 +129,12 @@
       "channelId": null,
       "outlier": false,
       "date": "25/08/2026",
-      "publishedAt": "2026-08-25T15:53:22+00:00",
-      "headline": "Novos vídeos de GTA 6 surgem e revelam mais de Vice City",
-      "desc": "Fonte: Pichau Arena",
+      "publishedAt": "2026-08-25T17:30:44+00:00",
+      "headline": "NBA 2K27 sugere evento temático de GTA 6 em colaboração com a Rockstar Games",
+      "desc": "Fonte: IGN Brasil",
       "signal": 3,
-      "hook": "Curiosidade rápida: 'Novos vídeos de GTA 6 surgem e revelam mais de Vice City' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aMkJBSWpUWm4wYV93NE1QdU5SQ0I0OXRva0xGSlpQV1BrZHBTX0JvOEpEZ2wzVnBSbHJlYUJieGg0eklmczhIb0tvR2JzNWZnRTlNUnRHeVprQ0dtMlZab21MaEhxXzhlMDcwMWNYcmpPNVFB?oc=5"
+      "hook": "Curiosidade rápida: 'NBA 2K27 sugere evento temático de GTA 6 em colaboração com a Rockstar Games' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSUFBQnZtNjJTblprdXl2Ykw5UFFxSFUybnhfVUcxdTJnLVNOQk1reldvcldnZUZkanlkcWFpcVRYQzdoZ3ctYkRJRlE1OWpmMFppOXdTQ2hybml0WklxU2Z0MG00RW02b0U5ZmM4SlZ4TklHdFVJOFVkcnE5Z2d4TS13WmFBSmx3R3lmTWh5YW1DZ0RPNFJIcWR6VHVLaHQ2QlVKa19JWFFnREpIdTYwcnVsMUV1OGRsZG1JTDdKUQ?oc=5"
     },
     {
       "cat": "boatos",
@@ -129,27 +144,12 @@
       "channelId": null,
       "outlier": false,
       "date": "25/08/2026",
-      "publishedAt": "2026-08-25T15:52:16+00:00",
-      "headline": "GTA VI: Rockstar diz que vazamentos não chegam perto do evento",
-      "desc": "Fonte: DOL",
+      "publishedAt": "2026-08-25T15:18:23+00:00",
+      "headline": "GTA 6 novo vazamento mostra que você pode comprar até mesmo uma capinha para seu celular",
+      "desc": "Fonte: TudoCelular.com",
       "signal": 3,
-      "hook": "Pergunta de abertura: 'GTA VI: Rockstar diz que vazamentos não chegam perto do evento?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSEh2YjdZTXdYSjhIbUJ4MUM2SzR2LVJYSzZNUlVSODVVT19jeXBSd2pCRnFWd2liWjRGQXRwbGpQQ2JLRVV0T1RHWU9nY0Rjd3ljR19qYy1jamZJbU9YdWVqYkFRaV8yRmVKNm1EMjlGVktmUkRvZURBY1cyYWkyNTZyelAtNmpyOHlWTjJsOS1SVS1JcTR2RUpkTFZhdW5qZHFReWZIUi0yR1Zv0gG0AUFVX3lxTE5SRnZnUl9lWXZBVnVSOTV3M045VXd4MkN3cWxUQWxYVFFKcmtnOWk0eDZ2Y2NMNHZmTkx2T1JzUXB5d2hIQWFVYTJ5Wmx0ZWFGTkc2VzJQZWNYOGNQS2wxYzVjTG1ueVF5THVOZFNDcWhpSnVlUTMycDFjZThfa182a3lnanp1dHdUVnFwRFdQSXJzbzlQWnNRcDRHYUZobVVYOTZfcF9BYk44RkZxbUdtdlJXZg?oc=5"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "25/08/2026",
-      "publishedAt": "2026-08-25T15:40:07+00:00",
-      "headline": "Rockstar lamenta vazamento de GTA 6 após cenas de nudismo; entenda",
-      "desc": "Fonte: tmc.com.br",
-      "signal": 3,
-      "hook": "Pergunta de abertura: 'Rockstar lamenta vazamento de GTA 6 após cenas de nudismo; entenda?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONkdSbTU3SndZVGNSQlpFRUo0ZzFIbC1HZkxIYWpGRmdNWWotTU92X2Z1NDNtV1R1b2lUcXM1RGdtTVc0RXJSQ05UQUlXUUdycl93LXc0UXdtRnFlRmNHa2hJZVR0X0RscWJkbklXdVNtaFBta1pfNThWeHpYcThKQ0g3MFJZY29hb05FdQ?oc=5"
+      "hook": "Pergunta de abertura: 'GTA 6 novo vazamento mostra que você pode comprar até mesmo uma capinha para seu celular?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdHI1UDU4MGROcHB0WmFrQ1FVTzZGRUx3MXNqbjd1Z09fMklKcHZxWWtPVlZlOHhUbXBkNWJWTnNDeVRxMGN6R1dDR1FhajduRGl1ZGgxNWhvS1N3b243cDZxdkRWY3dEX2R3X201MGlhc1pUaGUyZ1JYd2xqRDI2T0dkSGdScWlvSl9iU1dvRE9hUTd3?oc=5"
     },
     {
       "cat": "boatos",
