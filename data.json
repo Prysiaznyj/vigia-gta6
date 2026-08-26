@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T04:47:17+00:00",
+  "updated": "2026-08-26T08:53:21+00:00",
   "items": [
     {
       "cat": "lancamento",
@@ -107,6 +107,21 @@
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdUNiVTVmZ1dSR3dicUE0YVhSaEVHbkoxTndyZXJKTkI3RlFJZW5Ib1pwLS1qMzZrUjFKNVBPdEdTX1JDaC1YcWNJb3ExYnV3SGdRWG9OejVTN1FWc3ZDNDdqdFF6aEZITTRwcXRkTjlPSnFQOFJaS3V2V0ZGUDFJd3luXzRYOUZBeGRQZ1VJUmhXd2xPSjBtX3VHdDFYV0MtTTNUTXNCWEljSG95eXlRRFV3MGxXeEVSRFZBSmZoMW50bEx6eFNJTzlRa28tck5RaXd1U1FtRGVvMWpITEVqVUZOR1daSUV5YzJNQTZsR19DTnhuN0xN?oc=5"
     },
     {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "26/08/2026",
+      "publishedAt": "2026-08-26T07:00:00+00:00",
+      "headline": "Gamescom começa com grandes lançamentos e trailer de 'GTA 6' no radar",
+      "desc": "Fonte: Folha de S.Paulo",
+      "signal": 3,
+      "hook": "Abre direto com 'Gamescom começa com grandes lançamentos e trailer de 'GTA 6' no radar' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTnhlcXJJdV9DRkM4SEc5UDBhR1VTUkNaS1VuRHBteGdZYnZ0NndfQ2lvSHl0T3JNR3BvazE1YTMzRlpKNmNkZy0zRTh2MG9VSmdHbnVDOE0wanZPNmZYWlB5LU5JZGR1SGUtMy1JZ29zNXJFY3drWm5JX3VOc3BHaXFWZ0hsOGhKaG42LXVTZU80QUtjRGVId0dLeXg2aVAxUWQ5Q011Yzg0cFV0V2RUb01JM2tPZw?oc=5"
+    },
+    {
       "cat": "boatos",
       "tagLabel": "Boatos",
       "source": "news",
@@ -135,21 +150,6 @@
       "signal": 3,
       "hook": "Pergunta de abertura: 'GTA 6: empresa intima Discord e Microsoft após vazamentos do jogo?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYzYwZjh1ZnozVzA5blFCQ2E2b0YzcW5rckRSeWo4LV9ONWNIQ3ZrVm52NjZwTzdxVG94a2Y5Q05iY2doZWN6aENUV1dIaEZ6MHgtVFhtekhkemFNRFpBOGU4bnZUODZ6bHNPTkxaZzlhTldfSGVDVm5DSlNidGNBZl9BeDlscVFCQUZvckp4X0g1aVZ3aHVpQmJLV1M5OXExc0xudHg1aGtzcUtmUFNz0gG0AUFVX3lxTE1abTlYSExEdmpsSlVoSGtOR3hPanVjMXpOUmlXd2haV3ptSm9BUGplaWJQVnBrQXl2WHU2U245UmdTTUpxZWZNdEk5MlI1RFJxbGhndHc2aHprVkJEOHhidEZ4a3hka3diT0ZLVmlJNWxPMklGNTdsNVUyWWV5eUFSQ2toU3hfVFFsRzBTVmFLQU5pTk9qY1FGMGhRTGN2QVBTdWhhblp2UG5XaXp6ZUJ5cW9RMg?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "25/08/2026",
-      "publishedAt": "2026-08-25T17:30:44+00:00",
-      "headline": "NBA 2K27 sugere evento temático de GTA 6 em colaboração com a Rockstar Games",
-      "desc": "Fonte: IGN Brasil",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'NBA 2K27 sugere evento temático de GTA 6 em colaboração com a Rockstar Games' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSUFBQnZtNjJTblprdXl2Ykw5UFFxSFUybnhfVUcxdTJnLVNOQk1reldvcldnZUZkanlkcWFpcVRYQzdoZ3ctYkRJRlE1OWpmMFppOXdTQ2hybml0WklxU2Z0MG00RW02b0U5ZmM4SlZ4TklHdFVJOFVkcnE5Z2d4TS13WmFBSmx3R3lmTWh5YW1DZ0RPNFJIcWR6VHVLaHQ2QlVKa19JWFFnREpIdTYwcnVsMUV1OGRsZG1JTDdKUQ?oc=5"
     },
     {
       "cat": "boatos",
@@ -210,21 +210,6 @@
       "signal": 5,
       "hook": "Pergunta de abertura: 'Holy f*ck.. this is bad..?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://youtube.com/watch?v=Ntyt_-yKFSU"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCSgW2d-IWIZKM6mHBe13YHQ",
-      "outlier": true,
-      "date": "21/08/2026",
-      "publishedAt": "2026-08-21T08:16:22+00:00",
-      "headline": "GTA V LIVE 🔥#shortsfeed #shortslive #gta #shorts #live #gta5",
-      "desc": "Welcome to the ultimate GTA V live stream where we race fast cars, explore Los Santos, and vibe with chill gameplay. If you love ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA V LIVE 🔥#shortsfeed #shortslive #gta #shorts #live #gta5') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=edan0TMRhVc"
     },
     {
       "cat": "boatos",
@@ -300,6 +285,51 @@
       "signal": 5,
       "hook": "Pergunta de abertura: 'GTA 6 Gameplay Just Leaked... (LIKE FOR REAL)?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://youtube.com/watch?v=92EKKkKols4"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCVvhlqBpNVoG-DUT3J0oZ-w",
+      "outlier": true,
+      "date": "15/08/2026",
+      "publishedAt": "2026-08-15T07:02:04+00:00",
+      "headline": "BOCORAN TRAILER 3 GTA 6 NETFLIX‼️ GAME STAR WARS BARU YANG UNIK‼️ - TAG BLAST",
+      "desc": "Kuy yang mau jalan2 ke Jepang bareng: https://www.instagram.com/fukumaru.travel?igsh=MXcydzB2aTgydWZlag== Beli PC?",
+      "signal": 5,
+      "hook": "Abre direto com 'BOCORAN TRAILER 3 GTA 6 NETFLIX‼️ GAME STAR WARS BARU YANG UNIK‼️ - TAG BLAST' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=dY-lBfuhDOc"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCFOSg71CRAJ58IPuV_-jMbw",
+      "outlier": true,
+      "date": "24/08/2026",
+      "publishedAt": "2026-08-24T20:45:23+00:00",
+      "headline": "HAN ROBADO al GTA 6!!!",
+      "desc": "Vídeo em alta sobre GTA 6 (765590 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('HAN ROBADO al GTA 6!!!') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=55HGHHs-UlY"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCvQ35id6_d0uUNUzPqAWqvg",
+      "outlier": true,
+      "date": "23/08/2026",
+      "publishedAt": "2026-08-23T09:45:12+00:00",
+      "headline": "Kai Cenat Wants To Be The First To 100% GTA 6! 😳🔥",
+      "desc": "Kai Cenat Wants To Be The First To 100% GTA 6! Subscribe For More!",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Kai Cenat Wants To Be The First To 100% GTA 6! 😳🔥') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=cgOUdDjo2Wg"
     },
     {
       "cat": "viral",
@@ -422,51 +452,6 @@
       "url": "https://youtube.com/watch?v=4UZViqdbDFs"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
-      "outlier": true,
-      "date": "23/08/2026",
-      "publishedAt": "2026-08-23T05:00:35+00:00",
-      "headline": "We Got GTA 5 Bugs In GTA 6 Before GTA 6 #gta6 #gtavi #gtaonline",
-      "desc": "USD GTA 6 Giveaway!** I'm giving *6 lucky people $1111 USD each* which is enough for a PS5 Pro + GTA 6, or whatever else ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('We Got GTA 5 Bugs In GTA 6 Before GTA 6 #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=G7-7m-ZaX4I"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCRFSF9WS_g0wqm32kjJ-jNw",
-      "outlier": true,
-      "date": "22/08/2026",
-      "publishedAt": "2026-08-22T22:43:59+00:00",
-      "headline": "GTA 6 LEAKER HAS SET DEAD MAN&#39;S SWITCH #shorts",
-      "desc": "RIP ROCKSTAR #gta6 #gta #ps5 #playstation #xboxseriesx #xbox #steam #gaming #skit #fyp #funny #shorts.",
-      "signal": 5,
-      "hook": "Pergunta de abertura: 'GTA 6 LEAKER HAS SET DEAD MAN&#39;S SWITCH #shorts?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://youtube.com/watch?v=pxR6kVxqAQI"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCVvhlqBpNVoG-DUT3J0oZ-w",
-      "outlier": true,
-      "date": "15/08/2026",
-      "publishedAt": "2026-08-15T07:02:04+00:00",
-      "headline": "BOCORAN TRAILER 3 GTA 6 NETFLIX‼️ GAME STAR WARS BARU YANG UNIK‼️ - TAG BLAST",
-      "desc": "Kuy yang mau jalan2 ke Jepang bareng: https://www.instagram.com/fukumaru.travel?igsh=MXcydzB2aTgydWZlag== Beli PC?",
-      "signal": 5,
-      "hook": "Abre direto com 'BOCORAN TRAILER 3 GTA 6 NETFLIX‼️ GAME STAR WARS BARU YANG UNIK‼️ - TAG BLAST' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=dY-lBfuhDOc"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -535,6 +520,36 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
+      "outlier": true,
+      "date": "23/08/2026",
+      "publishedAt": "2026-08-23T05:00:35+00:00",
+      "headline": "We Got GTA 5 Bugs In GTA 6 Before GTA 6 #gta6 #gtavi #gtaonline",
+      "desc": "USD GTA 6 Giveaway!** I'm giving *6 lucky people $1111 USD each* which is enough for a PS5 Pro + GTA 6, or whatever else ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('We Got GTA 5 Bugs In GTA 6 Before GTA 6 #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=G7-7m-ZaX4I"
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCRFSF9WS_g0wqm32kjJ-jNw",
+      "outlier": true,
+      "date": "22/08/2026",
+      "publishedAt": "2026-08-22T22:43:59+00:00",
+      "headline": "GTA 6 LEAKER HAS SET DEAD MAN&#39;S SWITCH #shorts",
+      "desc": "RIP ROCKSTAR #gta6 #gta #ps5 #playstation #xboxseriesx #xbox #steam #gaming #skit #fyp #funny #shorts.",
+      "signal": 5,
+      "hook": "Pergunta de abertura: 'GTA 6 LEAKER HAS SET DEAD MAN&#39;S SWITCH #shorts?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://youtube.com/watch?v=pxR6kVxqAQI"
     },
     {
       "cat": "boatos",
@@ -790,21 +805,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Travel ने बटन दबाया और पहुँच गया GTA 6 में 😱🔥 | GTA 6 Mystery Button #shorts #gta6 #gaming') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=6oxjjfNMB2U"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCUZfhX79dQrJvAgYefiXCCA",
-      "outlier": true,
-      "date": "15/08/2026",
-      "publishedAt": "2026-08-15T00:31:22+00:00",
-      "headline": "GTA 6 DE 100 DÓLARES É O QUE MAIS VENDEU E JÁ JOGAMOS WOLVERINE - #FGN #240",
-      "desc": "MANDE SUA MENSAGEM COM VOZ PERSONALIZADA! https://livepix.gg/flowgamestv O CEO da Take-Two Strauss Zelnick deu ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 DE 100 DÓLARES É O QUE MAIS VENDEU E JÁ JOGAMOS WOLVERINE - #FGN #240') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=xasTAoW62JU"
     },
     {
       "cat": "viral",
