@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T01:45:12+00:00",
+  "updated": "2026-08-26T04:47:17+00:00",
   "items": [
     {
       "cat": "lancamento",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UChYSMEBHTcIps8Y4Mt4MknQ",
+      "outlier": true,
+      "date": "25/08/2026",
+      "publishedAt": "2026-08-25T11:00:09+00:00",
+      "headline": "Rockstar&#39;s Terrifying GTA 6 Manhunt",
+      "desc": "Rockstar and Take-Two Interactive are so desperate to stop the hacker group CyberLeek from releasing more stolen files that they ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Rockstar&#39;s Terrifying GTA 6 Manhunt') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=YkfcGLtBtCE"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UC6nnck7d4ejXNO2CZwJJxeA",
       "outlier": true,
       "date": "24/08/2026",
@@ -437,21 +452,6 @@
       "url": "https://youtube.com/watch?v=pxR6kVxqAQI"
     },
     {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCrgNQRWHRDIKyY_WEzIAqwQ",
-      "outlier": true,
-      "date": "21/08/2026",
-      "publishedAt": "2026-08-21T22:17:35+00:00",
-      "headline": "Franklin&#39;s Actor Reacts To The GTA 6 Leak 👀",
-      "desc": "Shawn Fonteno, the actor behind Franklin in GTA 5, reveals his reaction to the massive GTA 6 leak. At first, he thought the leaked ...",
-      "signal": 5,
-      "hook": "Pergunta de abertura: 'Franklin&#39;s Actor Reacts To The GTA 6 Leak 👀?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://youtube.com/watch?v=ai4y_2K0ZXE"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -535,6 +535,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCrgNQRWHRDIKyY_WEzIAqwQ",
+      "outlier": true,
+      "date": "21/08/2026",
+      "publishedAt": "2026-08-21T22:17:35+00:00",
+      "headline": "Franklin&#39;s Actor Reacts To The GTA 6 Leak 👀",
+      "desc": "Shawn Fonteno, the actor behind Franklin in GTA 5, reveals his reaction to the massive GTA 6 leak. At first, he thought the leaked ...",
+      "signal": 5,
+      "hook": "Pergunta de abertura: 'Franklin&#39;s Actor Reacts To The GTA 6 Leak 👀?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://youtube.com/watch?v=ai4y_2K0ZXE"
     },
     {
       "cat": "boatos",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 5 LIVE 😱#gta5 #gtav #gta6 #gaming') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=hRXB1Af41Fs"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCGaZ3EBwVWEBfA5cHDWPiqA",
-      "outlier": true,
-      "date": "16/08/2026",
-      "publishedAt": "2026-08-16T00:39:20+00:00",
-      "headline": "🎮 Can My Audience Teach Me GTA 5?! 😳 GTA 6 Secret Easter Eggs, Chaos &amp; Maybe a Workout LIVE 💪",
-      "desc": "Join this channel to get access to perks: https://www.youtube.com/channel/UCGaZ3EBwVWEBfA5cHDWPiqA/join Can My ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('🎮 Can My Audience Teach Me GTA 5?! 😳 GTA 6 Secret Easter Eggs, Chaos &amp; Maybe a Workout LIVE 💪') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=I6W6IBuSYwA"
     }
   ]
 }
