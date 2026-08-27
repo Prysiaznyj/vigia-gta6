@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T08:46:10+00:00",
+  "updated": "2026-08-27T22:08:12+00:00",
   "items": [
     {
       "cat": "boatos",
@@ -128,13 +128,13 @@
       "videoType": null,
       "channelId": null,
       "outlier": false,
-      "date": "26/08/2026",
-      "publishedAt": "2026-08-26T20:31:32+00:00",
-      "headline": "Rockstar detalha como jogador fará troca entre Jason e Lucia em GTA 6",
+      "date": "27/08/2026",
+      "publishedAt": "2026-08-27T21:43:03+00:00",
+      "headline": "80 horas de GTA 6? Chefe da Rockstar aponta maior duração da franquia",
       "desc": "Fonte: Canaltech",
       "signal": 3,
-      "hook": "Curiosidade rápida: 'Rockstar detalha como jogador fará troca entre Jason e Lucia em GTA 6' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS0tsQnNXYWUxMmZ1dWFWSy02dS1kUkJEVHV5YXJWS2RZWEZoU3htanhpWnc0OXl2dXNkMnhZY0xrb0ZHN2RvcW5rUlhhRGktTm4wNDJ3YjBqUnBpNURvbVkzTDluUXNJSHZyUUN6S3gyR0lJRkJHb1ZEenlpZVA0Xzh5M3oyY0dtLXZWaVBvbzJvQXA5Z04xdGdJWWVyZC1sSWpv?oc=5"
+      "hook": "Curiosidade rápida: '80 horas de GTA 6? Chefe da Rockstar aponta maior duração da franquia' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSGNrZkVBRzk2VnRESFlzOHFaVXdXVlB6a0hXeHd0aGtIVS04bHNXbWNjcXd2NlhXdVdfMlNwQkRkTkxxN250NkdmMEtJSXdSb19wSkQ0ZE5aQWJNVktTbEk5X1BmNmplZHVSeEpKSjRNQjlQSDZCdDE2VVFkbmJYY2h0cXRvdk41ckJoMGhpNDJXd052TWZDOXJBNzAxTk1Wa1E?oc=5"
     },
     {
       "cat": "curiosidade",
@@ -143,13 +143,28 @@
       "videoType": null,
       "channelId": null,
       "outlier": false,
-      "date": "26/08/2026",
-      "publishedAt": "2026-08-26T20:18:35+00:00",
-      "headline": "Que horas estreia ‘Grand Theft Auto VI: Um Olhar Estendido’ na Netflix",
-      "desc": "Fonte: Rolling Stone Brasil",
+      "date": "27/08/2026",
+      "publishedAt": "2026-08-27T21:24:00+00:00",
+      "headline": "GTA 6 vai rodar em 30 fps nos consoles \"por enquanto\"; entenda",
+      "desc": "Fonte: Omelete",
       "signal": 3,
-      "hook": "Curiosidade rápida: 'Que horas estreia ‘Grand Theft Auto VI: Um Olhar Estendido’ na Netflix' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRUxJbWlTYk11TmwxSGJkLWdEOGZBMHpYZG9RZ2tINVFNX0NiUmZtMEtpdjN0QzYtakZXcnhNYWhrbFg0ZG5QUjZSZlNMb1RNel9XV0h4N2lXeWtiVDNNZzROVDltWXM5SVdEN1BxbU8yUTBoSEVwZjU4Rm5QaUdfbXB3dnRHMTBfd0VYTXM2NUNsdVMyaXc1blJFNmhnOHpDLUFqUGk2TmFsUQ?oc=5"
+      "hook": "Curiosidade rápida: 'GTA 6 vai rodar em 30 fps nos consoles \"por enquanto\"; entenda' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWkdsaTIwRHRySGpZYjNFRzZnREZhZzNlNmNtZkdHWmZQX1Y1akNwaHByalY0RnMxamxfd2pxWWFjQUpkWEtNbVFrNjhzcndUYUc5ZTJlTTNGeUxmSlNlRU85SWZEYjBwWHFJOVdkd09nYjZ0dUNkNFViRTlFckZkZHNzMDZxTGlpeXdGXzhJU1Y4Wk02cTNr?oc=5"
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCu5GsoYfPniC64xNLHNF2rQ",
+      "outlier": true,
+      "date": "25/08/2026",
+      "publishedAt": "2026-08-25T23:26:25+00:00",
+      "headline": "CYBERLEEK TODAY LEAKED GTA 6 All Clips Full Videos Leaks Gameplay - No Commentary #gta6leaks",
+      "desc": "Vídeo em alta sobre GTA 6 (769001 views).",
+      "signal": 5,
+      "hook": "Pergunta de abertura: 'CYBERLEEK TODAY LEAKED GTA 6 All Clips Full Videos Leaks Gameplay - No Commentary #gta6leaks?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://youtube.com/watch?v=hdDrx9fRAhI"
     },
     {
       "cat": "viral",
@@ -165,21 +180,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('EU FUI na Rockstar, por causa do GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=asZaamVJs-I"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UC95U4CxzoOG6rX_rRxW4z9Q",
-      "outlier": true,
-      "date": "26/08/2026",
-      "publishedAt": "2026-08-26T13:44:36+00:00",
-      "headline": "The 15th GTA 6 Leak Just Dropped And Rockstar Broke Their SILENCE...",
-      "desc": "Another GTA 6 leak dropped, showing a full night police chase through Stockyard, and Rockstar finally broke their silence with a ...",
-      "signal": 5,
-      "hook": "Pergunta de abertura: 'The 15th GTA 6 Leak Just Dropped And Rockstar Broke Their SILENCE...?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://youtube.com/watch?v=CLVcGt-erOI"
     },
     {
       "cat": "viral",
@@ -302,6 +302,36 @@
       "url": "https://youtube.com/watch?v=GK17S7Pz1Cs"
     },
     {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCUZfhX79dQrJvAgYefiXCCA",
+      "outlier": true,
+      "date": "27/08/2026",
+      "publishedAt": "2026-08-27T13:36:39+00:00",
+      "headline": "GTA 6, o NOVO TRAILER, Extended Look Oficial",
+      "desc": "MANDE SUA MENSAGEM COM VOZ PERSONALIZADA! https://livepix.gg/flowgamestv Confira com o Flow Games o Olhar ...",
+      "signal": 5,
+      "hook": "Abre direto com 'GTA 6, o NOVO TRAILER, Extended Look Oficial' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=Q3UCebTDBy8"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
+      "outlier": true,
+      "date": "26/08/2026",
+      "publishedAt": "2026-08-26T18:00:12+00:00",
+      "headline": "GTA 6: EXTENDED LOOK - LIVE REACTION &amp; BREAKDOWN! (I Was Invited to Rockstar)",
+      "desc": "Twitch: https://www.twitch.tv/tgg_gta Get Official (Signed by the Voice Actors) GTA 5 Merch: https://tidd.ly/49654es Get SIGNED ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: EXTENDED LOOK - LIVE REACTION &amp; BREAKDOWN! (I Was Invited to Rockstar)') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=BTfzszKgRKc"
+    },
+    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -422,36 +452,6 @@
       "url": "https://youtube.com/watch?v=cgOUdDjo2Wg"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UChYSMEBHTcIps8Y4Mt4MknQ",
-      "outlier": true,
-      "date": "25/08/2026",
-      "publishedAt": "2026-08-25T11:00:09+00:00",
-      "headline": "Rockstar&#39;s Terrifying GTA 6 Manhunt",
-      "desc": "Rockstar and Take-Two Interactive are so desperate to stop the hacker group CyberLeek from releasing more stolen files that they ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Rockstar&#39;s Terrifying GTA 6 Manhunt') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=YkfcGLtBtCE"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCwwRzW41YdhO2O0klNkttUA",
-      "outlier": true,
-      "date": "22/08/2026",
-      "publishedAt": "2026-08-22T21:27:17+00:00",
-      "headline": "GTA6 LEAKED!",
-      "desc": "Vídeo em alta sobre GTA 6 (896848 views).",
-      "signal": 5,
-      "hook": "Pergunta de abertura: 'GTA6 LEAKED!?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://youtube.com/watch?v=6130nGBZoRU"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -535,6 +535,51 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "27/08/2026",
+      "publishedAt": "2026-08-27T19:00:18+00:00",
+      "headline": "Claim Your Extended Look OG Flair HERE!",
+      "desc": "For the next 24 hours only you can claim the Extended Look OG limited time flair designed by u/BCGeorge . Thanks so much, it's awesome! - https://preview.redd.it/4sd582gzrylh1.png?width=1280&format=png&auto=webp&s=928985ee40e051792ef8034772e8b8cb8db39550 - All you have to do to c",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Claim Your Extended Look OG Flair HERE!') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1w031go/claim_your_extended_look_og_flair_here/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UChYSMEBHTcIps8Y4Mt4MknQ",
+      "outlier": true,
+      "date": "25/08/2026",
+      "publishedAt": "2026-08-25T11:00:09+00:00",
+      "headline": "Rockstar&#39;s Terrifying GTA 6 Manhunt",
+      "desc": "Rockstar and Take-Two Interactive are so desperate to stop the hacker group CyberLeek from releasing more stolen files that they ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Rockstar&#39;s Terrifying GTA 6 Manhunt') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=YkfcGLtBtCE"
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCwwRzW41YdhO2O0klNkttUA",
+      "outlier": true,
+      "date": "22/08/2026",
+      "publishedAt": "2026-08-22T21:27:17+00:00",
+      "headline": "GTA6 LEAKED!",
+      "desc": "Vídeo em alta sobre GTA 6 (896848 views).",
+      "signal": 5,
+      "hook": "Pergunta de abertura: 'GTA6 LEAKED!?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://youtube.com/watch?v=6130nGBZoRU"
     },
     {
       "cat": "boatos",
@@ -850,51 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA6가 만든 자연재해가 온다... 쓰나미처럼 몰려오는 기대작 총정리') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=_56rwe2bB70"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCZsvXT0MFV0e32x9DzB0f6A",
-      "outlier": true,
-      "date": "19/08/2026",
-      "publishedAt": "2026-08-19T16:43:59+00:00",
-      "headline": "¡DETALLES BRUTALES FILTRADOS DEL GTA VI! 🤯🚗 #shorts #gta #gtavi #rockstargames #gaming",
-      "desc": "El nuevo GTA promete ser una auténtica locura! Vuelven las 6 estrellas, reconocimiento facial policial, combustible real en los ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('¡DETALLES BRUTALES FILTRADOS DEL GTA VI! 🤯🚗 #shorts #gta #gtavi #rockstargames #gaming') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=6_JnFr9Dzp4"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCEI4f1mtXkmVW7F7yVN2mDw",
-      "outlier": true,
-      "date": "20/08/2026",
-      "publishedAt": "2026-08-20T11:35:30+00:00",
-      "headline": "GTA 6 GAMEPLAY WURDE GELEAKT! #shorts",
-      "desc": "GTA 6 Gameplay wurde geleakt! #gta #gta6 #grandtheftauto #xbox #playstation #nintendo #console #gaming #skit #funny ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 GAMEPLAY WURDE GELEAKT! #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=ejJ8vDaLlcQ"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCi7wDE2ZTiR5QYYrUY5WhtA",
-      "outlier": true,
-      "date": "19/08/2026",
-      "publishedAt": "2026-08-19T22:37:13+00:00",
-      "headline": "The worst GTA 6 Leak in years..",
-      "desc": "The worst GTA 6 Leak in years.. #carterpcs #tech #gaming.",
-      "signal": 5,
-      "hook": "Pergunta de abertura: 'The worst GTA 6 Leak in years..?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://youtube.com/watch?v=Rq_KZm8wCsg"
     }
   ]
 }
