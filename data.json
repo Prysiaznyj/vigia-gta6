@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T22:08:12+00:00",
+  "updated": "2026-08-28T10:58:54+00:00",
   "items": [
     {
       "cat": "boatos",
@@ -152,6 +152,36 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWkdsaTIwRHRySGpZYjNFRzZnREZhZzNlNmNtZkdHWmZQX1Y1akNwaHByalY0RnMxamxfd2pxWWFjQUpkWEtNbVFrNjhzcndUYUc5ZTJlTTNGeUxmSlNlRU85SWZEYjBwWHFJOVdkd09nYjZ0dUNkNFViRTlFckZkZHNzMDZxTGlpeXdGXzhJU1Y4Wk02cTNr?oc=5"
     },
     {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCQeRaTukNYft1_6AZPACnog",
+      "outlier": true,
+      "date": "27/08/2026",
+      "publishedAt": "2026-08-27T19:50:01+00:00",
+      "headline": "GTA 6 trailer just broke the internet..",
+      "desc": "Asmongold watches Grand Theft Auto VI: An Extended Look, the new GTA 6 gameplay reveal that dropped on Netflix. His full ...",
+      "signal": 5,
+      "hook": "Abre direto com 'GTA 6 trailer just broke the internet..' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=yV9RVJgTbx8"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
+      "outlier": true,
+      "date": "27/08/2026",
+      "publishedAt": "2026-08-27T19:30:30+00:00",
+      "headline": "I Saw 3 Hours of GTA 6 at Rockstar North - First Impressions (Exclusive Info)",
+      "desc": "0:00 Yes, This is Real 1:20 Inside Rockstar North 2:51 The Big Takeaway 5:29 Criminal Profile (Not Honor) 7:59 Relationships ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('I Saw 3 Hours of GTA 6 at Rockstar North - First Impressions (Exclusive Info)') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Mfx1B_LBSV0"
+    },
+    {
       "cat": "boatos",
       "tagLabel": "Boatos",
       "source": "youtube",
@@ -270,66 +300,6 @@
       "signal": 5,
       "hook": "Pergunta de abertura: 'GTA 6 LEAK - New Mechanics and Gameplay Explained?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://youtube.com/watch?v=nf2SW2NE6_8"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UC5gRfhdgMnVB3k2jtYTVs8w",
-      "outlier": true,
-      "date": "18/08/2026",
-      "publishedAt": "2026-08-18T20:45:03+00:00",
-      "headline": "ROCKSTAR was HACKED! - New GTA 6 Gameplay Leaked",
-      "desc": "New GTA 6 Gameplay Leaked after Rockstar HACKED with New 2026 GTA 6 Gameplay Footage being LEAKED & Official GTA 6 ...",
-      "signal": 5,
-      "hook": "Pergunta de abertura: 'ROCKSTAR was HACKED! - New GTA 6 Gameplay Leaked?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://youtube.com/watch?v=AAVkz6sCec0"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCu1JULG6VBu7gUhJRWW6ncQ",
-      "outlier": true,
-      "date": "18/08/2026",
-      "publishedAt": "2026-08-18T23:31:27+00:00",
-      "headline": "PLANTÃO GTA 6: VAZOU GAMEPLAY DE GTA 6 E ISSO É BIZARRO, ROCKSTAR DERRUBANDO TUDO!!",
-      "desc": "Cross atualizando voces sobre os VAZAMENTOS recentes de gameplay do GTA 6, náo teremos imagens ou colocaremos nada ...",
-      "signal": 5,
-      "hook": "Pergunta de abertura: 'PLANTÃO GTA 6: VAZOU GAMEPLAY DE GTA 6 E ISSO É BIZARRO, ROCKSTAR DERRUBANDO TUDO!!?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://youtube.com/watch?v=GK17S7Pz1Cs"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCUZfhX79dQrJvAgYefiXCCA",
-      "outlier": true,
-      "date": "27/08/2026",
-      "publishedAt": "2026-08-27T13:36:39+00:00",
-      "headline": "GTA 6, o NOVO TRAILER, Extended Look Oficial",
-      "desc": "MANDE SUA MENSAGEM COM VOZ PERSONALIZADA! https://livepix.gg/flowgamestv Confira com o Flow Games o Olhar ...",
-      "signal": 5,
-      "hook": "Abre direto com 'GTA 6, o NOVO TRAILER, Extended Look Oficial' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=Q3UCebTDBy8"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
-      "outlier": true,
-      "date": "26/08/2026",
-      "publishedAt": "2026-08-26T18:00:12+00:00",
-      "headline": "GTA 6: EXTENDED LOOK - LIVE REACTION &amp; BREAKDOWN! (I Was Invited to Rockstar)",
-      "desc": "Twitch: https://www.twitch.tv/tgg_gta Get Official (Signed by the Voice Actors) GTA 5 Merch: https://tidd.ly/49654es Get SIGNED ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: EXTENDED LOOK - LIVE REACTION &amp; BREAKDOWN! (I Was Invited to Rockstar)') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=BTfzszKgRKc"
     },
     {
       "cat": "viral",
@@ -467,6 +437,36 @@
       "url": "https://youtube.com/watch?v=iZJHQr47Imk"
     },
     {
+      "cat": "vendas",
+      "tagLabel": "Vendas & Preço",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCd889lhKgDyLyq4gFTy39AQ",
+      "outlier": true,
+      "date": "13/08/2026",
+      "publishedAt": "2026-08-13T19:45:18+00:00",
+      "headline": "Rockstar cooked with GTA6...",
+      "desc": "GTA 6 by Rockstar is going to shatter every record in the gaming industry on it's release... #meme #rockstar #gta6.",
+      "signal": 5,
+      "hook": "Número na cara logo na primeira frase: 'Rockstar cooked with GTA6...' — formato \"isso é muito ou pouco?\".",
+      "url": "https://youtube.com/watch?v=4TPsSFuHVng"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCUZfhX79dQrJvAgYefiXCCA",
+      "outlier": true,
+      "date": "27/08/2026",
+      "publishedAt": "2026-08-27T13:36:39+00:00",
+      "headline": "GTA 6, o NOVO TRAILER, Extended Look Oficial",
+      "desc": "MANDE SUA MENSAGEM COM VOZ PERSONALIZADA! https://livepix.gg/flowgamestv Confira com o Flow Games o Olhar ...",
+      "signal": 5,
+      "hook": "Abre direto com 'GTA 6, o NOVO TRAILER, Extended Look Oficial' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=Q3UCebTDBy8"
+    },
+    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -497,21 +497,6 @@
       "url": "https://youtube.com/watch?v=mTK88IF6SUM"
     },
     {
-      "cat": "vendas",
-      "tagLabel": "Vendas & Preço",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCd889lhKgDyLyq4gFTy39AQ",
-      "outlier": true,
-      "date": "13/08/2026",
-      "publishedAt": "2026-08-13T19:45:18+00:00",
-      "headline": "Rockstar cooked with GTA6...",
-      "desc": "GTA 6 by Rockstar is going to shatter every record in the gaming industry on it's release... #meme #rockstar #gta6.",
-      "signal": 5,
-      "hook": "Número na cara logo na primeira frase: 'Rockstar cooked with GTA6...' — formato \"isso é muito ou pouco?\".",
-      "url": "https://youtube.com/watch?v=4TPsSFuHVng"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -535,6 +520,36 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UC5gRfhdgMnVB3k2jtYTVs8w",
+      "outlier": true,
+      "date": "18/08/2026",
+      "publishedAt": "2026-08-18T20:45:03+00:00",
+      "headline": "ROCKSTAR was HACKED! - New GTA 6 Gameplay Leaked",
+      "desc": "New GTA 6 Gameplay Leaked after Rockstar HACKED with New 2026 GTA 6 Gameplay Footage being LEAKED & Official GTA 6 ...",
+      "signal": 5,
+      "hook": "Pergunta de abertura: 'ROCKSTAR was HACKED! - New GTA 6 Gameplay Leaked?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://youtube.com/watch?v=AAVkz6sCec0"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
+      "outlier": true,
+      "date": "26/08/2026",
+      "publishedAt": "2026-08-26T18:00:12+00:00",
+      "headline": "GTA 6: EXTENDED LOOK - LIVE REACTION &amp; BREAKDOWN! (I Was Invited to Rockstar)",
+      "desc": "Twitch: https://www.twitch.tv/tgg_gta Get Official (Signed by the Voice Actors) GTA 5 Merch: https://tidd.ly/49654es Get SIGNED ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: EXTENDED LOOK - LIVE REACTION &amp; BREAKDOWN! (I Was Invited to Rockstar)') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=BTfzszKgRKc"
     },
     {
       "cat": "viral",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('TÁ CHEGANDO O GRANDE DIA! GTA 6 na Netflix') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=KWbIY_IbJeM"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCmZeuRfHYowZhf6odtoaNdg",
-      "outlier": true,
-      "date": "17/08/2026",
-      "publishedAt": "2026-08-17T11:35:36+00:00",
-      "headline": "GTA6가 만든 자연재해가 온다... 쓰나미처럼 몰려오는 기대작 총정리",
-      "desc": "GTA6 #PS5 #스팀 #XSX #게임패스 #기대작 #2026년신작 0:00 자연재해 0:44 귀무자 웨이 오브 더 소드 (플스 엑박 스위치2 스팀) ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA6가 만든 자연재해가 온다... 쓰나미처럼 몰려오는 기대작 총정리') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=_56rwe2bB70"
     }
   ]
 }
