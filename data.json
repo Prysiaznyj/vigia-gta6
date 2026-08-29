@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T22:06:52+00:00",
+  "updated": "2026-08-29T06:44:13+00:00",
   "items": [
     {
       "cat": "boatos",
@@ -129,12 +129,12 @@
       "channelId": null,
       "outlier": false,
       "date": "28/08/2026",
-      "publishedAt": "2026-08-28T19:52:19+00:00",
-      "headline": "Pré-venda de GTA 6: game está por R$ 376 em promoção exclusiva do Magalu",
-      "desc": "Fonte: TechTudo",
+      "publishedAt": "2026-08-28T12:46:10+00:00",
+      "headline": "GTA 6 roda a 30 FPS no PS5 e XBOX \"por enquanto\", confirma Rockstar",
+      "desc": "Fonte: TudoCelular.com",
       "signal": 3,
-      "hook": "Curiosidade rápida: 'Pré-venda de GTA 6: game está por R$ 376 em promoção exclusiva do Magalu' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQclA1SFp6TW9DZFYyUTY1clVLM29MUnZrMm5JY3RnSEpHWE9aam1pNHJwUzhQNkVsRjN2dUgzaGE1NmwzVzd5aXk0ZV9JX3RzYTFBYjZvMjR2YmxLTS03VXBiRElST0hJWDhiOXpFZmk4OHc0ZVAwSWo2ZGZxUHVhT0FKVC1uSUlzS3lmdEozbjFlaVo1Y3NKZ29IWGMwRTFtdUVFOVk2U2c0elZmWnBXOVJFY0c3YXRRNTllckxseFJnb0N3RWpZ0gHWAUFVX3lxTE9VOXU4Q2NEX0xDSXNwRmNlWVFidUx4S0VaR3VzWVBQR21mTzN0ajlTVUhCcGdKSUxIb1FmZlBoYUFKb0FZQVdPb3FYX3EyWl84WTM5TzJRMlJ0bnRPd3RWR0pSelUwSGpWZlI4ZWdJUE56bzNIdGw3VlBpS1hsaHNpalFDTWhQQXh6Wmd2UFU0eHJDZl9wSTZXcENnYlVEQ0RhcFJWQ2E5S2JRMUhhNUUxaGl5cGhMcXB0YWc4YUxxR194aU5zOXR0VVQ2ZzA4LVBHNWxHT1E?oc=5"
+      "hook": "Curiosidade rápida: 'GTA 6 roda a 30 FPS no PS5 e XBOX \"por enquanto\", confirma Rockstar' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeGN0QS1kazY5TXFhcUJpeFZsajNNNnJJSnl6UHBKdVl6aHgzcE03Y2ZCeHNxYjZuUlIwLVgwSV9feHFfR3RTYUZyb3pOYmNULTR3TkhYLVZNbE5TQzQ0UXR1a21ETW5LQVRLWGFlSXFCNmVBOGpCdlR4a29XektUQ1g3NEZ2OUgweFVDWnBLNHItU04zQWt1Z3lqSTRhZFA5cUE?oc=5"
     },
     {
       "cat": "curiosidade",
@@ -144,12 +144,27 @@
       "channelId": null,
       "outlier": false,
       "date": "28/08/2026",
-      "publishedAt": "2026-08-28T19:41:46+00:00",
-      "headline": "IMDB e Netflix apontam quem são os atores de Jason e Lucia no GTA 6",
-      "desc": "Fonte: tmc.com.br",
+      "publishedAt": "2026-08-28T12:34:04+00:00",
+      "headline": "Take-Two sobe no pré-mercado após prévia de GTA VI na Netflix e confirmação de data",
+      "desc": "Fonte: ADVFN",
       "signal": 3,
-      "hook": "Curiosidade rápida: 'IMDB e Netflix apontam quem são os atores de Jason e Lucia no GTA 6' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcHBYVnF5dmJRVXhoRHM3dVN1T1FTVkpfUTJsOEY2UTV4SE5xYWdOOTNXOTUwTW1QX0VveDAzZEJwcjVkRXVkNEQwZURaaUdYOTB5ZjY0c01kc2lOQmNEdlRQVGxiUEhVbkRLOXVTaFN0cEljWjFGSHpPWk5ud3VSRXhtYWtCQ0UtRzRz?oc=5"
+      "hook": "Curiosidade rápida: 'Take-Two sobe no pré-mercado após prévia de GTA VI na Netflix e confirmação de data' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONG5NXzdha0dSZm1UNHFXNmI2YU15VXE3NXJvbWJzMmdaTE96cUVZR0k2d0Z6dElmTUlSRUpvOE8zb1Yza3BHdlVXWXBQNHF4QkQ3Y19OUXpqM0YtcHoxbnp2dEpBNF9IdWg1QWtFNTBfdGRuVkp4MWJwR2o5OHN6UV94OGhqd3JITlAwSjdBQQ?oc=5"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
+      "outlier": true,
+      "date": "28/08/2026",
+      "publishedAt": "2026-08-28T10:23:38+00:00",
+      "headline": "GTA 6: Every New Gameplay Feature &amp; Mechanic YOU MISSED",
+      "desc": "0:00 – Intro 0:23 – What makes this breakdown different (Rob Nelson quotes/context) 0:59 – Opening mission & Booby Ike 1:17 ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: Every New Gameplay Feature &amp; Mechanic YOU MISSED') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=4Z_4yqWGRjQ"
     },
     {
       "cat": "viral",
@@ -285,21 +300,6 @@
       "signal": 5,
       "hook": "Pergunta de abertura: 'The GTA 6 Leaker’s Manifesto Just Cost Rockstar Everything?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://youtube.com/watch?v=7QlaZZOCqik"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCv0xclBIBkDTPoGhwEF2AZA",
-      "outlier": true,
-      "date": "21/08/2026",
-      "publishedAt": "2026-08-21T00:40:28+00:00",
-      "headline": "Holy f*ck.. this is bad..",
-      "desc": "The GTA 6 leaks got even worse. Rockstar Games is in big trouble. SUBSCRIBE AND LIKE THE VIDEO! FOLLOW MY ...",
-      "signal": 5,
-      "hook": "Pergunta de abertura: 'Holy f*ck.. this is bad..?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://youtube.com/watch?v=Ntyt_-yKFSU"
     },
     {
       "cat": "viral",
@@ -520,6 +520,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCv0xclBIBkDTPoGhwEF2AZA",
+      "outlier": true,
+      "date": "21/08/2026",
+      "publishedAt": "2026-08-21T00:40:28+00:00",
+      "headline": "Holy f*ck.. this is bad..",
+      "desc": "The GTA 6 leaks got even worse. Rockstar Games is in big trouble. SUBSCRIBE AND LIKE THE VIDEO! FOLLOW MY ...",
+      "signal": 5,
+      "hook": "Pergunta de abertura: 'Holy f*ck.. this is bad..?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://youtube.com/watch?v=Ntyt_-yKFSU"
     },
     {
       "cat": "boatos",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('HACKERS JÁ ESTÃO JOGANDO GTA 6 😱 #ps5 #davyjones #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=ojVgCjtpFmA"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "24/08/2026",
-      "publishedAt": "2026-08-24T18:46:38+00:00",
-      "headline": "Further Clarification Regarding the Rules for the 2026 Leaks",
-      "desc": "As you know we strictly prohibit posting any of the leaks, including videos, pictures, or links to the leaked materials. We allow discussions of what is in them because it actually pertains to the game itself and there is no way to avoid them. We are enforcing a strict spoiler po",
-      "signal": 5,
-      "hook": "Pergunta de abertura: 'Further Clarification Regarding the Rules for the 2026 Leaks?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1vxbmh4/further_clarification_regarding_the_rules_for_the/"
     }
   ]
 }
