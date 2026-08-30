@@ -1,6 +1,21 @@
 {
-  "updated": "2026-08-30T13:43:56+00:00",
+  "updated": "2026-08-30T19:15:42+00:00",
   "items": [
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "30/08/2026",
+      "publishedAt": "2026-08-30T18:40:45+00:00",
+      "headline": "Desenvolvimento de GTA VI começou há 11 anos, confirma executivo da Rockstar",
+      "desc": "Fonte: O Vício",
+      "signal": 4,
+      "hook": "Curiosidade rápida: 'Desenvolvimento de GTA VI começou há 11 anos, confirma executivo da Rockstar' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVGI0OXhsNkxVTGV3RGcwS0xVY3hGYVZqdTJsLWFZZDRweTExZnhtazRKdkJmOHR4ZFpHMzZrS2JOdmsyQ3NVUXhocEdsUS1sSEFuZjBUNjZNUUdpRlpDeTl2SVNuWEVoRFJuLXliYld4VWtaNjY0N1RVci01bi1hNmp3bkxmTWNvZGlwZTZha0JlRnpxRFZEYTNtSHp2OHfSAaQBQVVfeXFMTTEzR0ZTb2FPRHhiUmNJUmVqeEFIa0lwdkdBTUZRZVBEZVJBQk1Rbng1cmxaTDZzQlhja3pBUVVXaFludnZuQzNIZ3Y5ZlZJZXhnc2NiRkJWX1FLVVp6ZS1rRkNhWVFUTmkwT01Cb25qeHUycnZ1dmRsWlFYQUlMLTRJS0YweVJONDZ4dk10Q0pTN3l1UmNTNmwyblAwZFRzNmQ1UFo?oc=5"
+    },
     {
       "cat": "boatos",
       "tagLabel": "Boatos",
@@ -129,27 +144,12 @@
       "channelId": null,
       "outlier": false,
       "date": "30/08/2026",
-      "publishedAt": "2026-08-30T09:15:00+00:00",
-      "headline": "Entenda por que GTA VI já é o maior produto da história do Entrenimento",
-      "desc": "Fonte: Bonde",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'Entenda por que GTA VI já é o maior produto da história do Entrenimento' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOFlHLXZQSldhWkxTM0oyVDBLMDFFZ0hvcmxDa2R4RVhyUzNOd1NPMDJfX1ZLS2Nwa0Z1bVl3RDhjaVowWUxvTl9yRFhuSGJqWDlvZGx2a2FuaFZoUURzRTdTc3VBNE90T0NjVndQZEY2dG9HcTlPdF9yN2JiNFg4QzBRZDBpNmM5dGpsa016Tmh6RkZIcnlrQklDSGV1RFRSSU51dGpSb3BsZ3hpZ1hZbQ?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "29/08/2026",
-      "publishedAt": "2026-08-29T18:30:01+00:00",
-      "headline": "Por que GTA 6 pode demorar mais que qualquer outro jogo para chegar ao PC?",
+      "publishedAt": "2026-08-30T18:30:01+00:00",
+      "headline": "Quais serão as especificações para rodar GTA 6 em um PC gamer?",
       "desc": "Fonte: Canaltech",
       "signal": 3,
-      "hook": "Curiosidade rápida: 'Por que GTA 6 pode demorar mais que qualquer outro jogo para chegar ao PC?' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQUd2VzVjU3lXVWE1QjVHSmxRa285SkRueTA3ZGc5SEFITVVzOTJTWU4zMXNWR1NMMkJRRTMwTUY4VVVCcVFVdjI2SFVGMDFkSmYxSXZYcS1kbTZOd2xXajVxNkRxejZ6STdwT3I1YkR6R1VqSjZ4eGIyUWFGVWQyOWVB?oc=5"
+      "hook": "Curiosidade rápida: 'Quais serão as especificações para rodar GTA 6 em um PC gamer?' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUUtzSWpyNC04eXpNUElHYjhiY0NwWGEwWUUzcmEtdTUxV05MQUl2UGVYOTBqZndVVFl6Y3k1Qm0ydkx2OEFjWHc1dXprQU4tcE1lNGViZm5sREUyMTQtZGc5SWFiMkJwdFF2NmI3LWNIRGkxenFobkdNUkM1aTZsaA?oc=5"
     },
     {
       "cat": "viral",
@@ -300,6 +300,21 @@
       "signal": 5,
       "hook": "Pergunta de abertura: 'The GTA 6 Leaker Just Triggered a Doom Switch &amp; Rockstar has Responded?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://youtube.com/watch?v=8VlaOV2J5CY"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCwJJxcke-uBJcLJ58HqrdSw",
+      "outlier": true,
+      "date": "27/08/2026",
+      "publishedAt": "2026-08-27T20:53:35+00:00",
+      "headline": "Kai Cenat Got Hyped For 6 Stars In Gta 6! 😭🔥",
+      "desc": "Kai Cenat Got Hyped For 6 Stars In Gta 6! #kaicenat #gta6 #shorts.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Kai Cenat Got Hyped For 6 Stars In Gta 6! 😭🔥') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=97i9zSJsKSs"
     },
     {
       "cat": "viral",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Pergunta de abertura: 'More clarification and notes on future leaks, including Netflix previews?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://www.reddit.com/r/GTA6/comments/1vxsr3s/more_clarification_and_notes_on_future_leaks/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC3P8KEAnq3VTn2wWEwJH-4Q",
-      "outlier": true,
-      "date": "21/08/2026",
-      "publishedAt": "2026-08-21T09:48:08+00:00",
-      "headline": "GTA 6 СЛИЛИ ЗА ТРИ МЕСЯЦА ДО РЕЛИЗА",
-      "desc": "gta6 #игры #rockstar #технологии #новости У самой ожидаемой игры в истории огромные проблемы. У человека в ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 СЛИЛИ ЗА ТРИ МЕСЯЦА ДО РЕЛИЗА') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=rGnzGSCOnuk"
     }
   ]
 }
