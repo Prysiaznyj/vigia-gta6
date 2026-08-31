@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T16:04:03+00:00",
+  "updated": "2026-08-31T23:42:35+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -144,12 +144,12 @@
       "channelId": null,
       "outlier": false,
       "date": "31/08/2026",
-      "publishedAt": "2026-08-31T15:59:16+00:00",
-      "headline": "GTA 6: Como o especial da Netflix favoreceu o PS5, da Sony, em meio à rivalidade com o Xbox?",
-      "desc": "Fonte: Exame",
+      "publishedAt": "2026-08-31T22:19:00+00:00",
+      "headline": "Pré-venda de GTA 6 explode 436% após evento na Netflix; PS5 atropela o XBOX",
+      "desc": "Fonte: Canaltech",
       "signal": 3,
-      "hook": "Curiosidade rápida: 'GTA 6: Como o especial da Netflix favoreceu o PS5, da Sony, em meio à rivalidade com o Xbox?' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM2p2aktVNXBMcHNDNkE0Vjl6OFNCU21SQ3Q4bjFvN1JqOWxqS2FaQ0lyR0NSMExKd3dxbWwtMW9QZDFwcXh5NUFDMEhvdFlkWkFXbm03LW44OWh5eU9tS1VfWDF4OVhMVjlXTGw1TGtwMk1PTUZyV1VhUk00MU5jYklQU0xoV2RBRi1FcGdnSGhHTnZzVWRCRF9nS0VTOHlZWHdJTU0xVVFJdG9qMC15YQ?oc=5"
+      "hook": "Curiosidade rápida: 'Pré-venda de GTA 6 explode 436% após evento na Netflix; PS5 atropela o XBOX' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeG5ka3dndllMeTRJcGFpZWgtNHVHYmxoa1lLRjNRY1dIdFpfZWZBd3BiaEFrRlhZWEppN0F4X2Z1V29NYWxrVGpKdVIxdnp2Qi1GRXRxSnZCMk9mVjN5bnpKQ0lKbmxRM25RaUt4Z0xPeVNEcmZwMVVOQzRLLTAzbWJqNjJxWWNXb0o4OUlCaXRMV21KSXpCaG1nSk9HVVlMXzNENTNweVE?oc=5"
     },
     {
       "cat": "viral",
@@ -302,6 +302,21 @@
       "url": "https://youtube.com/watch?v=yV9RVJgTbx8"
     },
     {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCQDVCHyeLuPu8icc53uurmQ",
+      "outlier": true,
+      "date": "29/08/2026",
+      "publishedAt": "2026-08-29T21:00:21+00:00",
+      "headline": "This Is Why GTA 6 Was Worth the 13 Year Wait #gta6 #gta #gtavi",
+      "desc": "If you like my videos Please subscribe.I appreciate all of you! SUBSCRIBE: https://www.youtube.com/c/TribbianiJoseph/videos ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('This Is Why GTA 6 Was Worth the 13 Year Wait #gta6 #gta #gtavi') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=7mbAoEUdcJ4"
+    },
+    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -437,21 +452,6 @@
       "url": "https://youtube.com/watch?v=OtrjlxuyHr0"
     },
     {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCxqtu7xpmhbJoGXdYdKay6Q",
-      "outlier": true,
-      "date": "25/08/2026",
-      "publishedAt": "2026-08-25T13:07:33+00:00",
-      "headline": "EVERYTHING SO FAR ABOUT GTA 6 LEAKS | BIGGEST GTA 6 SECRETS",
-      "desc": "GTA 6 leaks have revealed several possible gameplay details, and in this video we break down the biggest discoveries from the ...",
-      "signal": 5,
-      "hook": "Pergunta de abertura: 'EVERYTHING SO FAR ABOUT GTA 6 LEAKS | BIGGEST GTA 6 SECRETS?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://youtube.com/watch?v=LBVlWt_FJUM"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -535,6 +535,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCxqtu7xpmhbJoGXdYdKay6Q",
+      "outlier": true,
+      "date": "25/08/2026",
+      "publishedAt": "2026-08-25T13:07:33+00:00",
+      "headline": "EVERYTHING SO FAR ABOUT GTA 6 LEAKS | BIGGEST GTA 6 SECRETS",
+      "desc": "GTA 6 leaks have revealed several possible gameplay details, and in this video we break down the biggest discoveries from the ...",
+      "signal": 5,
+      "hook": "Pergunta de abertura: 'EVERYTHING SO FAR ABOUT GTA 6 LEAKS | BIGGEST GTA 6 SECRETS?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://youtube.com/watch?v=LBVlWt_FJUM"
     },
     {
       "cat": "viral",
@@ -874,27 +889,12 @@
       "channelId": null,
       "outlier": false,
       "date": "31/08/2026",
-      "publishedAt": "2026-08-31T15:24:23+00:00",
-      "headline": "Lightning weather in the distance? From the Extended Look.",
-      "desc": "Thought I spotted lightning weather, or some kinda light show, in the distance during the Extended Look.",
+      "publishedAt": "2026-08-31T19:52:22+00:00",
+      "headline": "From the new screenshots: is this a 90’s Mustang?? (Dominator)",
+      "desc": "A 96 mustang was my first car, so this got me pretty excited.",
       "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('Lightning weather in the distance? From the Extended Look.') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1w3h01n/lightning_weather_in_the_distance_from_the/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "31/08/2026",
-      "publishedAt": "2026-08-31T14:51:25+00:00",
-      "headline": "New Rockstar screenshot reveals taller mountains in the far back",
-      "desc": "Definitely hyped about those back country roads and tiny settlements and villages",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('New Rockstar screenshot reveals taller mountains in the far back') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1w3g2q0/new_rockstar_screenshot_reveals_taller_mountains/"
+      "hook": "Mostra o clipe/post que tá bombando ('From the new screenshots: is this a 90’s Mustang?? (Dominator)') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1w3ov2q/from_the_new_screenshots_is_this_a_90s_mustang/"
     }
   ]
 }
