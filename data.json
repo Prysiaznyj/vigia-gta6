@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T05:03:06+00:00",
+  "updated": "2026-08-31T16:04:03+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -137,19 +137,19 @@
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdUNiVTVmZ1dSR3dicUE0YVhSaEVHbkoxTndyZXJKTkI3RlFJZW5Ib1pwLS1qMzZrUjFKNVBPdEdTX1JDaC1YcWNJb3ExYnV3SGdRWG9OejVTN1FWc3ZDNDdqdFF6aEZITTRwcXRkTjlPSnFQOFJaS3V2V0ZGUDFJd3luXzRYOUZBeGRQZ1VJUmhXd2xPSjBtX3VHdDFYV0MtTTNUTXNCWEljSG95eXlRRFV3MGxXeEVSRFZBSmZoMW50bEx6eFNJTzlRa28tck5RaXd1U1FtRGVvMWpITEVqVUZOR1daSUV5YzJNQTZsR19DTnhuN0xN?oc=5"
     },
     {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
       "source": "news",
       "videoType": null,
       "channelId": null,
       "outlier": false,
       "date": "31/08/2026",
-      "publishedAt": "2026-08-31T00:30:00+00:00",
-      "headline": "Cyberleek: relembre os vazamentos de GTA 6 antes do trailer",
-      "desc": "Fonte: einerd.com",
+      "publishedAt": "2026-08-31T15:59:16+00:00",
+      "headline": "GTA 6: Como o especial da Netflix favoreceu o PS5, da Sony, em meio à rivalidade com o Xbox?",
+      "desc": "Fonte: Exame",
       "signal": 3,
-      "hook": "Abre direto com 'Cyberleek: relembre os vazamentos de GTA 6 antes do trailer' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiNV9kRDg2QlM1VUI2WTc3X1hUUXlOMklTcU9BbFNIZkxRZFhIZldVRGRKTjBCbGIxMXI5M04wREFpVmZ4QS1iei1iTVhUSWZCVjRaTG1BOTZFd1hfMkNBY0piXzJtZk4yeWdnQQ?oc=5"
+      "hook": "Curiosidade rápida: 'GTA 6: Como o especial da Netflix favoreceu o PS5, da Sony, em meio à rivalidade com o Xbox?' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM2p2aktVNXBMcHNDNkE0Vjl6OFNCU21SQ3Q4bjFvN1JqOWxqS2FaQ0lyR0NSMExKd3dxbWwtMW9QZDFwcXh5NUFDMEhvdFlkWkFXbm03LW44OWh5eU9tS1VfWDF4OVhMVjlXTGw1TGtwMk1PTUZyV1VhUk00MU5jYklQU0xoV2RBRi1FcGdnSGhHTnZzVWRCRF9nS0VTOHlZWHdJTU0xVVFJdG9qMC15YQ?oc=5"
     },
     {
       "cat": "viral",
@@ -302,6 +302,21 @@
       "url": "https://youtube.com/watch?v=yV9RVJgTbx8"
     },
     {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCu_QxMrsKfnKJJah2gPypMg",
+      "outlier": true,
+      "date": "28/08/2026",
+      "publishedAt": "2026-08-28T21:57:34+00:00",
+      "headline": "N3on Perfectly Recreates His Appearance In GTA 6 Trailer! 😳😭",
+      "desc": "N3on Perfectly Recreates His Appearance In GTA 6 Trailer! Subscribe For More!",
+      "signal": 5,
+      "hook": "Abre direto com 'N3on Perfectly Recreates His Appearance In GTA 6 Trailer! 😳😭' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=lj5iBdb4ycQ"
+    },
+    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -437,21 +452,6 @@
       "url": "https://youtube.com/watch?v=LBVlWt_FJUM"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCaK-V1eWvTTg866qloota3A",
-      "outlier": true,
-      "date": "24/08/2026",
-      "publishedAt": "2026-08-24T23:00:13+00:00",
-      "headline": "O GTA 6 CONTINUA SENDO VAZADO NA INTERNET! #shorts",
-      "desc": "Vídeo em alta sobre GTA 6 (904269 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('O GTA 6 CONTINUA SENDO VAZADO NA INTERNET! #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=3rafPdaJGYM"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -501,21 +501,6 @@
       "tagLabel": "Lançamento",
       "source": "youtube",
       "videoType": "longo",
-      "channelId": "UCVvhlqBpNVoG-DUT3J0oZ-w",
-      "outlier": true,
-      "date": "15/08/2026",
-      "publishedAt": "2026-08-15T07:02:04+00:00",
-      "headline": "BOCORAN TRAILER 3 GTA 6 NETFLIX‼️ GAME STAR WARS BARU YANG UNIK‼️ - TAG BLAST",
-      "desc": "Kuy yang mau jalan2 ke Jepang bareng: https://www.instagram.com/fukumaru.travel?igsh=MXcydzB2aTgydWZlag== Beli PC?",
-      "signal": 5,
-      "hook": "Abre direto com 'BOCORAN TRAILER 3 GTA 6 NETFLIX‼️ GAME STAR WARS BARU YANG UNIK‼️ - TAG BLAST' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=dY-lBfuhDOc"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "youtube",
-      "videoType": "longo",
       "channelId": "UCVeqvNw1vgm57w2XsVx57zQ",
       "outlier": true,
       "date": "10/08/2026",
@@ -550,6 +535,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCaK-V1eWvTTg866qloota3A",
+      "outlier": true,
+      "date": "24/08/2026",
+      "publishedAt": "2026-08-24T23:00:13+00:00",
+      "headline": "O GTA 6 CONTINUA SENDO VAZADO NA INTERNET! #shorts",
+      "desc": "Vídeo em alta sobre GTA 6 (904269 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('O GTA 6 CONTINUA SENDO VAZADO NA INTERNET! #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=3rafPdaJGYM"
     },
     {
       "cat": "viral",
@@ -631,21 +631,6 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
-      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
-      "outlier": true,
-      "date": "26/08/2026",
-      "publishedAt": "2026-08-26T15:00:29+00:00",
-      "headline": "EU FUI na Rockstar, por causa do GTA 6",
-      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA EU FUI na Rockstar, por causa do GTA 6 #gta6 ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('EU FUI na Rockstar, por causa do GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=asZaamVJs-I"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
       "channelId": "UC0IWRLai-BAwci_e9MylNGw",
       "outlier": true,
       "date": "24/08/2026",
@@ -685,21 +670,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('HAN ROBADO al GTA 6!!!') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=55HGHHs-UlY"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCvQ35id6_d0uUNUzPqAWqvg",
-      "outlier": true,
-      "date": "23/08/2026",
-      "publishedAt": "2026-08-23T09:45:12+00:00",
-      "headline": "Kai Cenat Wants To Be The First To 100% GTA 6! 😳🔥",
-      "desc": "Kai Cenat Wants To Be The First To 100% GTA 6! Subscribe For More!",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Kai Cenat Wants To Be The First To 100% GTA 6! 😳🔥') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=cgOUdDjo2Wg"
     },
     {
       "cat": "boatos",
@@ -895,6 +865,36 @@
       "signal": 5,
       "hook": "Pergunta de abertura: 'O MAIOR RISCO DOS VAZAMENTOS DO GTA 6! 😱 #games #gta6 #ps5 #gta #playstation?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://youtube.com/watch?v=l6IIFEtk8tM"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "31/08/2026",
+      "publishedAt": "2026-08-31T15:24:23+00:00",
+      "headline": "Lightning weather in the distance? From the Extended Look.",
+      "desc": "Thought I spotted lightning weather, or some kinda light show, in the distance during the Extended Look.",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('Lightning weather in the distance? From the Extended Look.') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1w3h01n/lightning_weather_in_the_distance_from_the/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "31/08/2026",
+      "publishedAt": "2026-08-31T14:51:25+00:00",
+      "headline": "New Rockstar screenshot reveals taller mountains in the far back",
+      "desc": "Definitely hyped about those back country roads and tiny settlements and villages",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('New Rockstar screenshot reveals taller mountains in the far back') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1w3g2q0/new_rockstar_screenshot_reveals_taller_mountains/"
     }
   ]
 }
