@@ -1,6 +1,21 @@
 {
-  "updated": "2026-09-01T19:19:44+00:00",
+  "updated": "2026-09-01T22:31:08+00:00",
   "items": [
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "01/09/2026",
+      "publishedAt": "2026-09-01T20:34:00+00:00",
+      "headline": "GTA 6 terá troca de personagens limitada em missões, confirma Rockstar",
+      "desc": "Fonte: Omelete",
+      "signal": 4,
+      "hook": "Curiosidade rápida: 'GTA 6 terá troca de personagens limitada em missões, confirma Rockstar' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQak9ldmdCMnpQZHF3ZVBRRmlfbE85Z1JzT1FnZWhsY2daanFvZFlxZ1YtWHROUFdSMmhBQ3VmNzEyMTk4Y3M4UDJfbFpiYVZSbDFYcl81NDFiZnBpWldiMGVpcTFyN0Z4Vmp0QTZkRUZDb0E4R1hlYU9TektkRzBna0d3SVdsUUhWS3c2Tw?oc=5"
+    },
     {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
@@ -135,21 +150,6 @@
       "signal": 4,
       "hook": "Vazaram GTA 6 bem na semana em que todo mundo esperava um anúncio oficial!",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNampvZE5uNllHeUU2RDJlb3NPQmJWSnVRUGdNN1ZCckdWX18wZ0tid3VFelU4SmNrVDF2OWx1eVRoNmtYbVdfemgzRGV1V3l4ODdoeUtsXzllUFNhUTFlMWNKMFNRZjZzM2NILVhKcTJVYm15bW9GTEJ2R0ZVUm1xM0ZxU0ZGZndEal9BZS04c2xXclNpV0VMb3hOQUdCbFZ4Rk9pOTlQTzk5V2hpWlNRS1FKWWtLTWlHNFY0Y1NpQdIBxAFBVV95cUxOZ19fajJ6aTEyN21Ld3c4OGJmV3hUN1pPQmZ4VXlaSGtraGtGUUE5SkprT2hZZUFuZ3JkMkdlSE5veVUzUFBmMGprOHE1cEZ1dGhkX0pveUxYNGpEYjcyQXNJeUN5RVpBRm13NVVaMjZoMy0yajNUWXhrY09mRXZmYXhpUHF5bVhCSmE5ckhESWpHMHNtTlpNbGVKQzdCRF9zODhMWEd0YmNhMTFBLVlUVzBHYW5QZG9OcG12WV9iWVJTZHdy?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "19/08/2026",
-      "publishedAt": "2026-08-19T17:49:38+00:00",
-      "headline": "Bug de preço na loja do PlayStation faz GTA 6 aparecer por valor irrisório",
-      "desc": "Usuários relataram a exibição de preços incorretos na PS Store durante atualizações de catálogo regional. O erro logo foi contido, mas os prints dominaram as redes.",
-      "signal": 4,
-      "hook": "Imagina comprar GTA 6 pelo preço de um pastel? Quase aconteceu na PS Store!",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdUNiVTVmZ1dSR3dicUE0YVhSaEVHbkoxTndyZXJKTkI3RlFJZW5Ib1pwLS1qMzZrUjFKNVBPdEdTX1JDaC1YcWNJb3ExYnV3SGdRWG9OejVTN1FWc3ZDNDdqdFF6aEZITTRwcXRkTjlPSnFQOFJaS3V2V0ZGUDFJd3luXzRYOUZBeGRQZ1VJUmhXd2xPSjBtX3VHdDFYV0MtTTNUTXNCWEljSG95eXlRRFV3MGxXeEVSRFZBSmZoMW50bEx6eFNJTzlRa28tck5RaXd1U1FtRGVvMWpITEVqVUZOR1daSUV5YzJNQTZsR19DTnhuN0xN?oc=5"
     },
     {
       "cat": "viral",
@@ -302,6 +302,36 @@
       "url": "https://youtube.com/watch?v=AsyOVBDRgtk"
     },
     {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
+      "outlier": true,
+      "date": "31/08/2026",
+      "publishedAt": "2026-08-31T15:02:43+00:00",
+      "headline": "FAZENDO COISAS DE CASAL NO GTA 6 😍❤️❤️",
+      "desc": "gta6 #davyjones #playstation Davy jones explica como vai ser a mecânica de casal e relacionamento Jason e Lucia no GTA 6.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('FAZENDO COISAS DE CASAL NO GTA 6 😍❤️❤️') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=kPqXMkJS-RE"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCOTbQteQd8Cwl5olUq6a95A",
+      "outlier": true,
+      "date": "30/08/2026",
+      "publishedAt": "2026-08-30T11:36:43+00:00",
+      "headline": "Mon premier jour dans le vice city de GTA 6 👊 #humour #sketch #gta #gta6 #rockstargames #vicecity",
+      "desc": "Vídeo em alta sobre GTA 6 (842708 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Mon premier jour dans le vice city de GTA 6 👊 #humour #sketch #gta #gta6 #rockstargames #vicecity') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=NBfnCLjVfg0"
+    },
+    {
       "cat": "boatos",
       "tagLabel": "Boatos",
       "source": "youtube",
@@ -422,36 +452,6 @@
       "url": "https://youtube.com/watch?v=Ytl9uW-mDvw"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCwJJxcke-uBJcLJ58HqrdSw",
-      "outlier": true,
-      "date": "27/08/2026",
-      "publishedAt": "2026-08-27T20:53:35+00:00",
-      "headline": "Kai Cenat Got Hyped For 6 Stars In Gta 6! 😭🔥",
-      "desc": "Kai Cenat Got Hyped For 6 Stars In Gta 6! #kaicenat #gta6 #shorts.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Kai Cenat Got Hyped For 6 Stars In Gta 6! 😭🔥') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=97i9zSJsKSs"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC1v5FJSZw5oSqxeSId2eraw",
-      "outlier": true,
-      "date": "27/08/2026",
-      "publishedAt": "2026-08-27T14:46:06+00:00",
-      "headline": "Bought GTA 6 Stock Instead of the Game 😳",
-      "desc": "Title Bought GTA 6 Stock Instead of the Game Description Instead of buying the GTA 6 game, I invested the same amount of ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Bought GTA 6 Stock Instead of the Game 😳') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=Gaps8Rs0wWc"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -550,6 +550,36 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCwJJxcke-uBJcLJ58HqrdSw",
+      "outlier": true,
+      "date": "27/08/2026",
+      "publishedAt": "2026-08-27T20:53:35+00:00",
+      "headline": "Kai Cenat Got Hyped For 6 Stars In Gta 6! 😭🔥",
+      "desc": "Kai Cenat Got Hyped For 6 Stars In Gta 6! #kaicenat #gta6 #shorts.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Kai Cenat Got Hyped For 6 Stars In Gta 6! 😭🔥') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=97i9zSJsKSs"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC1v5FJSZw5oSqxeSId2eraw",
+      "outlier": true,
+      "date": "27/08/2026",
+      "publishedAt": "2026-08-27T14:46:06+00:00",
+      "headline": "Bought GTA 6 Stock Instead of the Game 😳",
+      "desc": "Title Bought GTA 6 Stock Instead of the Game Description Instead of buying the GTA 6 game, I invested the same amount of ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Bought GTA 6 Stock Instead of the Game 😳') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Gaps8Rs0wWc"
     },
     {
       "cat": "viral",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Cyberleek Just Threatened To Nuke GTA 6 Entirely 😳') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=ZYBuUNCYNvg"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UChYSMEBHTcIps8Y4Mt4MknQ",
-      "outlier": true,
-      "date": "23/08/2026",
-      "publishedAt": "2026-08-23T21:49:28+00:00",
-      "headline": "Why Cops CAN&#39;T Arrest The GTA 6 Hackers",
-      "desc": "The hacker group CyberLeek claims to have wired the entire playable master build of GTA 6 to a daily dead man's switch.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Why Cops CAN&#39;T Arrest The GTA 6 Hackers') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=wQOO60M-3ds"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCG2wnHXnH80yJVc9jtdvpxw",
-      "outlier": true,
-      "date": "22/08/2026",
-      "publishedAt": "2026-08-22T21:59:09+00:00",
-      "headline": "El Hacker amenazando a Rockstar😯😯🎮🎮#playstation #xbox #gta6 #memes #pcgamer",
-      "desc": "videogames #videojuegos #playstation #xbox #parodia #stan18 #console #gaming #humor #memes #consolasretro #humor ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('El Hacker amenazando a Rockstar😯😯🎮🎮#playstation #xbox #gta6 #memes #pcgamer') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=ZyW6qUiTCdg"
     }
   ]
 }
