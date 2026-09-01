@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T23:42:35+00:00",
+  "updated": "2026-09-01T04:41:40+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -143,13 +143,28 @@
       "videoType": null,
       "channelId": null,
       "outlier": false,
-      "date": "31/08/2026",
-      "publishedAt": "2026-08-31T22:19:00+00:00",
-      "headline": "Pré-venda de GTA 6 explode 436% após evento na Netflix; PS5 atropela o XBOX",
-      "desc": "Fonte: Canaltech",
+      "date": "01/09/2026",
+      "publishedAt": "2026-09-01T04:01:16+00:00",
+      "headline": "11 jogos imperdíveis que chegam em setembro para jogar antes de GTA 6",
+      "desc": "Fonte: TechTudo",
       "signal": 3,
-      "hook": "Curiosidade rápida: 'Pré-venda de GTA 6 explode 436% após evento na Netflix; PS5 atropela o XBOX' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeG5ka3dndllMeTRJcGFpZWgtNHVHYmxoa1lLRjNRY1dIdFpfZWZBd3BiaEFrRlhZWEppN0F4X2Z1V29NYWxrVGpKdVIxdnp2Qi1GRXRxSnZCMk9mVjN5bnpKQ0lKbmxRM25RaUt4Z0xPeVNEcmZwMVVOQzRLLTAzbWJqNjJxWWNXb0o4OUlCaXRMV21KSXpCaG1nSk9HVVlMXzNENTNweVE?oc=5"
+      "hook": "Curiosidade rápida: '11 jogos imperdíveis que chegam em setembro para jogar antes de GTA 6' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR2tvMERpRkwzWGNRVmZndmV0NTNVOEV6Z0ZDRG1pbEw1bU56T1lFUVlacWpFRzRsUWVXblk3VE5Fc1Nld2NqS2szOUY3bXpqYjRfRVdLTEhSRzBUdHROMDdxTWhZMU52a0JRclk5NEFYeFlZYnAtR290bDZaejNNZEZvVk56bWNDeExqUlc2VUFBRGFITF9DN3Zpc3lyRWlkbjRiRjRvXzI3Xzl5RmpTYjZaamZDUDFReUJtNDRFTS1BemVu?oc=5"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
+      "outlier": true,
+      "date": "29/08/2026",
+      "publishedAt": "2026-08-29T12:32:23+00:00",
+      "headline": "GTA 6: The Police are Smarter Than Ever | Deep Dive",
+      "desc": "Get 10% off all GamerSupps products with this link - https://gamersupps.gg/tgg Did you shower today? Use Cheeky, the best soap ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: The Police are Smarter Than Ever | Deep Dive') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=tVwNy3xV-4c"
     },
     {
       "cat": "viral",
@@ -287,19 +302,19 @@
       "url": "https://youtube.com/watch?v=AsyOVBDRgtk"
     },
     {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
+      "cat": "viral",
+      "tagLabel": "Viral",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCQeRaTukNYft1_6AZPACnog",
+      "videoType": "curto",
+      "channelId": "UCTIRUAgLCuU7pihgAA3kvEA",
       "outlier": true,
-      "date": "27/08/2026",
-      "publishedAt": "2026-08-27T19:50:01+00:00",
-      "headline": "GTA 6 trailer just broke the internet..",
-      "desc": "Asmongold watches Grand Theft Auto VI: An Extended Look, the new GTA 6 gameplay reveal that dropped on Netflix. His full ...",
+      "date": "29/08/2026",
+      "publishedAt": "2026-08-29T15:25:46+00:00",
+      "headline": "GTA 6 vas sortir en 2030💀💀💀",
+      "desc": "Vídeo em alta sobre GTA 6 (1634220 views).",
       "signal": 5,
-      "hook": "Abre direto com 'GTA 6 trailer just broke the internet..' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=yV9RVJgTbx8"
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 vas sortir en 2030💀💀💀') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=rFmtpFhI5vo"
     },
     {
       "cat": "viral",
@@ -437,19 +452,19 @@
       "url": "https://youtube.com/watch?v=Gaps8Rs0wWc"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
       "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UChYSMEBHTcIps8Y4Mt4MknQ",
+      "videoType": "longo",
+      "channelId": "UCQeRaTukNYft1_6AZPACnog",
       "outlier": true,
-      "date": "26/08/2026",
-      "publishedAt": "2026-08-26T11:00:11+00:00",
-      "headline": "The Craziest GTA 6 Stunt So Far",
-      "desc": "To protest the game being digital-only, the hacker group Cyberleek demanded that fans show up to Rockstar Games dressed as ...",
+      "date": "27/08/2026",
+      "publishedAt": "2026-08-27T19:50:01+00:00",
+      "headline": "GTA 6 trailer just broke the internet..",
+      "desc": "Asmongold watches Grand Theft Auto VI: An Extended Look, the new GTA 6 gameplay reveal that dropped on Netflix. His full ...",
       "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('The Craziest GTA 6 Stunt So Far') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=OtrjlxuyHr0"
+      "hook": "Abre direto com 'GTA 6 trailer just broke the internet..' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=yV9RVJgTbx8"
     },
     {
       "cat": "lancamento",
@@ -535,6 +550,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UChYSMEBHTcIps8Y4Mt4MknQ",
+      "outlier": true,
+      "date": "26/08/2026",
+      "publishedAt": "2026-08-26T11:00:11+00:00",
+      "headline": "The Craziest GTA 6 Stunt So Far",
+      "desc": "To protest the game being digital-only, the hacker group Cyberleek demanded that fans show up to Rockstar Games dressed as ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('The Craziest GTA 6 Stunt So Far') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=OtrjlxuyHr0"
     },
     {
       "cat": "boatos",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('El Hacker amenazando a Rockstar😯😯🎮🎮#playstation #xbox #gta6 #memes #pcgamer') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=ZyW6qUiTCdg"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCHQh9m3wbt1PT1VDpIpTjbg",
-      "outlier": true,
-      "date": "22/08/2026",
-      "publishedAt": "2026-08-22T15:00:22+00:00",
-      "headline": "O MAIOR RISCO DOS VAZAMENTOS DO GTA 6! 😱 #games #gta6 #ps5 #gta #playstation",
-      "desc": "Flow Games comenta sobre o principal problema com os recentes vazamentos de GTA 6! #games #gta6 #ps5 #gta ...",
-      "signal": 5,
-      "hook": "Pergunta de abertura: 'O MAIOR RISCO DOS VAZAMENTOS DO GTA 6! 😱 #games #gta6 #ps5 #gta #playstation?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://youtube.com/watch?v=l6IIFEtk8tM"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "31/08/2026",
-      "publishedAt": "2026-08-31T19:52:22+00:00",
-      "headline": "From the new screenshots: is this a 90’s Mustang?? (Dominator)",
-      "desc": "A 96 mustang was my first car, so this got me pretty excited.",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('From the new screenshots: is this a 90’s Mustang?? (Dominator)') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1w3ov2q/from_the_new_screenshots_is_this_a_90s_mustang/"
     }
   ]
 }
