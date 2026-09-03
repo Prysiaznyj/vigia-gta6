@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T12:45:06+00:00",
+  "updated": "2026-09-03T19:14:26+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -156,6 +156,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
+      "channelId": "UCC0WT0xvcSkTPZHH33CyIuw",
+      "outlier": true,
+      "date": "31/08/2026",
+      "publishedAt": "2026-08-31T23:42:37+00:00",
+      "headline": "Tengo MUCHAS preocupaciones sobre GTA 6",
+      "desc": "Título alternativo: \"YouTuber DESATADO Fantasea Sobre GTA 6 por 22 Minutos\". En este video El Último Círculo habla sobre sus ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Tengo MUCHAS preocupaciones sobre GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=WNtvA6hOEqQ"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
       "channelId": "UC36MGPfPwOWafAXauiV4LdA",
       "outlier": true,
       "date": "01/09/2026",
@@ -285,21 +300,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Esto es GTA VI (GAMEPLAY + EXCLUSIVA)') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=3nVF2EY_iHg"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCq6VFHwMzcMXbuKyG7SQYIg",
-      "outlier": true,
-      "date": "27/08/2026",
-      "publishedAt": "2026-08-27T22:00:15+00:00",
-      "headline": "Thoughts on the GTA 6 Gameplay Reveal",
-      "desc": "Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Use Cheeky ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Thoughts on the GTA 6 Gameplay Reveal') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=b-If5Nq0log"
     },
     {
       "cat": "viral",
@@ -565,6 +565,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCq6VFHwMzcMXbuKyG7SQYIg",
+      "outlier": true,
+      "date": "27/08/2026",
+      "publishedAt": "2026-08-27T22:00:15+00:00",
+      "headline": "Thoughts on the GTA 6 Gameplay Reveal",
+      "desc": "Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Use Cheeky ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Thoughts on the GTA 6 Gameplay Reveal') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=b-If5Nq0log"
     },
     {
       "cat": "viral",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Pergunta de abertura: 'The GTA 6 Leaker Just Triggered a Doom Switch &amp; Rockstar has Responded?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://youtube.com/watch?v=8VlaOV2J5CY"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCFOSg71CRAJ58IPuV_-jMbw",
-      "outlier": true,
-      "date": "24/08/2026",
-      "publishedAt": "2026-08-24T20:45:23+00:00",
-      "headline": "HAN ROBADO al GTA 6!!!",
-      "desc": "Vídeo em alta sobre GTA 6 (765590 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('HAN ROBADO al GTA 6!!!') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=55HGHHs-UlY"
     }
   ]
 }
