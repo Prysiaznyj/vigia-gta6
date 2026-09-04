@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T18:56:23+00:00",
+  "updated": "2026-09-04T22:16:52+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCp3Dx7dFeZgnNSenA---QHA",
+      "outlier": true,
+      "date": "02/09/2026",
+      "publishedAt": "2026-09-02T15:14:46+00:00",
+      "headline": "funniest real life isn&#39;t GTA moments #rankingshorts #funniestvideo #gta #gta6",
+      "desc": "ranking the top funniest \"Life isn't GTA\" moments which one deserves #1 Disclaimer: The videos on this channel are created ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('funniest real life isn&#39;t GTA moments #rankingshorts #funniestvideo #gta #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Qafz2NBh96A"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCZ8WxJH8WhG3S-88x9rZjGA",
       "outlier": true,
       "date": "02/09/2026",
@@ -437,21 +452,6 @@
       "url": "https://youtube.com/watch?v=QmhsOOM0xuQ"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCmb0LnmFYceH7toqgmUTJDA",
-      "outlier": true,
-      "date": "01/09/2026",
-      "publishedAt": "2026-09-01T18:00:07+00:00",
-      "headline": "Los ERRORES de GTA 6 que demuestran que era GAMEPLAY REAL 🤔 #gta6 #gta #gaming #rockstargames",
-      "desc": "SUSCRÍBETE http://goo.gl/zScUYm SÍGUENOS Web: https://vandal.elespanol.com Twitter: https://twitter.com/vandalonline ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Los ERRORES de GTA 6 que demuestran que era GAMEPLAY REAL 🤔 #gta6 #gta #gaming #rockstargames') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=qyOZtDNgK24"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -565,6 +565,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCmb0LnmFYceH7toqgmUTJDA",
+      "outlier": true,
+      "date": "01/09/2026",
+      "publishedAt": "2026-09-01T18:00:07+00:00",
+      "headline": "Los ERRORES de GTA 6 que demuestran que era GAMEPLAY REAL 🤔 #gta6 #gta #gaming #rockstargames",
+      "desc": "SUSCRÍBETE http://goo.gl/zScUYm SÍGUENOS Web: https://vandal.elespanol.com Twitter: https://twitter.com/vandalonline ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Los ERRORES de GTA 6 que demuestran que era GAMEPLAY REAL 🤔 #gta6 #gta #gaming #rockstargames') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=qyOZtDNgK24"
     },
     {
       "cat": "viral",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Bought GTA 6 Stock Instead of the Game 😳') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=Gaps8Rs0wWc"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UChYSMEBHTcIps8Y4Mt4MknQ",
-      "outlier": true,
-      "date": "26/08/2026",
-      "publishedAt": "2026-08-26T11:00:11+00:00",
-      "headline": "The Craziest GTA 6 Stunt So Far",
-      "desc": "To protest the game being digital-only, the hacker group Cyberleek demanded that fans show up to Rockstar Games dressed as ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('The Craziest GTA 6 Stunt So Far') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=OtrjlxuyHr0"
     }
   ]
 }
