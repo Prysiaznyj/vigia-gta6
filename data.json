@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T22:28:35+00:00",
+  "updated": "2026-09-04T04:04:05+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -152,6 +152,21 @@
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNY3VfS0wxRzhOdFdxYUNGY2NCYzJXZ0VwUFgxWGh3dUNsRGk3aFpBMkx3QmxDUHdPaHVKNEppQUUtUmhMeVg3Z2k4d1d6WVowcExxOXpieDFTX05qN09IamRQRkZ2UnVoX01mVnhKZWkyMHJZejRSdU1MbE02N19aRzBtY1p5TC16WjUxYnZ2VXQwT2R3VVZ0dnRCOGJmTFBROTl1QVlOMUZ3RVJqaWRwUnZzWDlKaW9STUtaUkRCV3Btdmlzc1JoQXpRUFh5dnBWSkxkM0pkLUxoaGlEeTRVbGZ4aGR4TXpoNnEtWUZ2NWdJUG40NjlxWUtEUm9icGQxOWdMWFlTalNLalZZ0gGSAkFVX3lxTE9uUEhINGlfZ2RmNFVTMmlydzFvdUFtckFPQk9lMkpVU2lwSGtZdGUzd2xteWowYS01SS1kTjMxaGVYRGhhbktHQ3k5WlRIRWFqOGRtQzFpaVNpZlhVV2FPX1hSbFdYd2loa01Ba0RKQUN3bzgyY0pDWW5oaTBqRjM2eGQ1RlFUZkxacmxVUGRVcU1SdDZLNGtfS0MxM2ExUmZNb1p4SHdfeDlHTXNiZlZncmdRLUVNSG5yRW5lRk04eFEtX1Q3X3ZUSDFKZk5KaWFiRC1QRXJQU0RfUzVJQmRUNGowTVh4bXRGZnJKTGF2akluT0pNZkk5R1RpVE1nMFBldXozTEtpcDNweFdTSFpObmc?oc=5"
     },
     {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
+      "outlier": true,
+      "date": "01/09/2026",
+      "publishedAt": "2026-09-01T15:41:34+00:00",
+      "headline": "Games EduUu vendo o trailer de GTA 6 É INCRÍVEL",
+      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA PlayStation 5 Slim Digital – Pacote ASTRO BOT e Gran ...",
+      "signal": 5,
+      "hook": "Abre direto com 'Games EduUu vendo o trailer de GTA 6 É INCRÍVEL' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=W15smB_c31A"
+    },
+    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -290,16 +305,16 @@
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCXazgXDIYyWH-yXLAkcrFxw",
+      "videoType": "curto",
+      "channelId": "UC59jWhPazXYi8Ny4vake45A",
       "outlier": true,
-      "date": "27/08/2026",
-      "publishedAt": "2026-08-27T21:04:30+00:00",
-      "headline": "Esto es GTA VI (GAMEPLAY + EXCLUSIVA)",
-      "desc": "Like si la IGUANA ES REAL Mi otro canal: @elrubius Animación by @MenchoYTAN Mi Tienda: https://madkat.net/ Twitch: ...",
+      "date": "01/09/2026",
+      "publishedAt": "2026-09-01T09:28:00+00:00",
+      "headline": "GTA 6&#39;s Wanted Stars Reveal More Than You Think",
+      "desc": "Edited by: https://clips.cx Note: Video Narrated by synthetic voice.",
       "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Esto es GTA VI (GAMEPLAY + EXCLUSIVA)') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=3nVF2EY_iHg"
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6&#39;s Wanted Stars Reveal More Than You Think') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=yg79XmYh3pU"
     },
     {
       "cat": "viral",
@@ -437,21 +452,6 @@
       "url": "https://youtube.com/watch?v=-AVih2RK2HY"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
-      "outlier": true,
-      "date": "31/08/2026",
-      "publishedAt": "2026-08-31T15:02:43+00:00",
-      "headline": "FAZENDO COISAS DE CASAL NO GTA 6 😍❤️❤️",
-      "desc": "gta6 #davyjones #playstation Davy jones explica como vai ser a mecânica de casal e relacionamento Jason e Lucia no GTA 6.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('FAZENDO COISAS DE CASAL NO GTA 6 😍❤️❤️') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=kPqXMkJS-RE"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -565,6 +565,36 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCXazgXDIYyWH-yXLAkcrFxw",
+      "outlier": true,
+      "date": "27/08/2026",
+      "publishedAt": "2026-08-27T21:04:30+00:00",
+      "headline": "Esto es GTA VI (GAMEPLAY + EXCLUSIVA)",
+      "desc": "Like si la IGUANA ES REAL Mi otro canal: @elrubius Animación by @MenchoYTAN Mi Tienda: https://madkat.net/ Twitch: ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Esto es GTA VI (GAMEPLAY + EXCLUSIVA)') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=3nVF2EY_iHg"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
+      "outlier": true,
+      "date": "31/08/2026",
+      "publishedAt": "2026-08-31T15:02:43+00:00",
+      "headline": "FAZENDO COISAS DE CASAL NO GTA 6 😍❤️❤️",
+      "desc": "gta6 #davyjones #playstation Davy jones explica como vai ser a mecânica de casal e relacionamento Jason e Lucia no GTA 6.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('FAZENDO COISAS DE CASAL NO GTA 6 😍❤️❤️') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=kPqXMkJS-RE"
     },
     {
       "cat": "viral",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Is CyberLeek Stupid? #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=7msciYBeXeQ"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UC0IWRLai-BAwci_e9MylNGw",
-      "outlier": true,
-      "date": "24/08/2026",
-      "publishedAt": "2026-08-24T19:43:01+00:00",
-      "headline": "PREPPING FOR GTA 6 | NO PROMOTION",
-      "desc": "CarryMinati teams up with Techno Gamerz, known for his GTA 5 storytelling, and GamerFleet, one of Minecraft's biggest creators, ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('PREPPING FOR GTA 6 | NO PROMOTION') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=KzsStyJEDUw"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UC92iwH5d9u0CeJtCx17YT9Q",
-      "outlier": true,
-      "date": "23/08/2026",
-      "publishedAt": "2026-08-23T15:40:32+00:00",
-      "headline": "The GTA 6 Leaker Just Triggered a Doom Switch &amp; Rockstar has Responded",
-      "desc": "Rockstar is cooked Email: EndymionYT@hotmail.com Twitter: @EndymionYT Instagram: endymionn Patreon: ...",
-      "signal": 5,
-      "hook": "Pergunta de abertura: 'The GTA 6 Leaker Just Triggered a Doom Switch &amp; Rockstar has Responded?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://youtube.com/watch?v=8VlaOV2J5CY"
     }
   ]
 }
