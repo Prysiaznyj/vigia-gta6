@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T22:16:52+00:00",
+  "updated": "2026-09-05T04:00:31+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -152,6 +152,21 @@
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNY3VfS0wxRzhOdFdxYUNGY2NCYzJXZ0VwUFgxWGh3dUNsRGk3aFpBMkx3QmxDUHdPaHVKNEppQUUtUmhMeVg3Z2k4d1d6WVowcExxOXpieDFTX05qN09IamRQRkZ2UnVoX01mVnhKZWkyMHJZejRSdU1MbE02N19aRzBtY1p5TC16WjUxYnZ2VXQwT2R3VVZ0dnRCOGJmTFBROTl1QVlOMUZ3RVJqaWRwUnZzWDlKaW9STUtaUkRCV3Btdmlzc1JoQXpRUFh5dnBWSkxkM0pkLUxoaGlEeTRVbGZ4aGR4TXpoNnEtWUZ2NWdJUG40NjlxWUtEUm9icGQxOWdMWFlTalNLalZZ0gGSAkFVX3lxTE9uUEhINGlfZ2RmNFVTMmlydzFvdUFtckFPQk9lMkpVU2lwSGtZdGUzd2xteWowYS01SS1kTjMxaGVYRGhhbktHQ3k5WlRIRWFqOGRtQzFpaVNpZlhVV2FPX1hSbFdYd2loa01Ba0RKQUN3bzgyY0pDWW5oaTBqRjM2eGQ1RlFUZkxacmxVUGRVcU1SdDZLNGtfS0MxM2ExUmZNb1p4SHdfeDlHTXNiZlZncmdRLUVNSG5yRW5lRk04eFEtX1Q3X3ZUSDFKZk5KaWFiRC1QRXJQU0RfUzVJQmRUNGowTVh4bXRGZnJKTGF2akluT0pNZkk5R1RpVE1nMFBldXozTEtpcDNweFdTSFpObmc?oc=5"
     },
     {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCe4_UPAmhz2sqorGbF8oZHA",
+      "outlier": true,
+      "date": "28/08/2026",
+      "publishedAt": "2026-08-28T03:00:55+00:00",
+      "headline": "RE: The &#39;GTA 6&#39; reveal...",
+      "desc": "Sign up for Freecash here: https://t2m.io/Luke_Stephens_FC and get a $10 bonus! Start earning extra cash online, and thanks to ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('RE: The &#39;GTA 6&#39; reveal...') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=RWnkuSgmscs"
+    },
+    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -290,16 +305,31 @@
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCCEmjNPpJYhGDgaEqeeA4HA",
+      "videoType": "curto",
+      "channelId": "UCTkhZGtANjMzXpgDUE7HLUA",
       "outlier": true,
-      "date": "27/08/2026",
-      "publishedAt": "2026-08-27T22:42:04+00:00",
-      "headline": "REACCIONANDO a GTA VI Tráiler Exclusivo - TheGrefg",
-      "desc": "SUSCRÍBETE y me haces feliz! Mi otro canal MrGrefg https://www.youtube.com/@MrGrefg Sigue mis Directos en ...",
+      "date": "03/09/2026",
+      "publishedAt": "2026-09-03T08:09:09+00:00",
+      "headline": "I bring you GTA 4 with DLSS 5 before GTA 6 #ryanreviews #gta4 #dlss5 #gaming #nvidia",
+      "desc": "I bring you GTA 4 with DLSS 5 before GTA 6 #ryanreviews #gta4 #dlss5 #gaming #nvidia.",
       "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('REACCIONANDO a GTA VI Tráiler Exclusivo - TheGrefg') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=om-lsGVdfL8"
+      "hook": "Mostra o clipe/post que tá bombando ('I bring you GTA 4 with DLSS 5 before GTA 6 #ryanreviews #gta4 #dlss5 #gaming #nvidia') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=uqwaa4EZXD0"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCb6mHR7WkLmHUFLkunDwUNw",
+      "outlier": true,
+      "date": "02/09/2026",
+      "publishedAt": "2026-09-02T15:45:54+00:00",
+      "headline": "People are hating these gta 6 details #gta6 #gta5missions",
+      "desc": "People are hating these GTA 6 trailer details, but I honestly think they're fine. From Jason's random flip animation to the fridge ...",
+      "signal": 5,
+      "hook": "Abre direto com 'People are hating these gta 6 details #gta6 #gta5missions' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=_TFRnBj6Nh4"
     },
     {
       "cat": "viral",
@@ -422,36 +452,6 @@
       "url": "https://youtube.com/watch?v=gBmBiJEkOZ4"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC59jWhPazXYi8Ny4vake45A",
-      "outlier": true,
-      "date": "01/09/2026",
-      "publishedAt": "2026-09-01T09:28:00+00:00",
-      "headline": "GTA 6&#39;s Wanted Stars Reveal More Than You Think",
-      "desc": "Edited by: https://clips.cx Note: Video Narrated by synthetic voice.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6&#39;s Wanted Stars Reveal More Than You Think') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=yg79XmYh3pU"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCUZfhX79dQrJvAgYefiXCCA",
-      "outlier": true,
-      "date": "31/08/2026",
-      "publishedAt": "2026-08-31T19:49:31+00:00",
-      "headline": "DAVY JONES REVELA O NOVO SISTEMA DE KARMA DO GTA 6!",
-      "desc": "Após sua visita a Rockstar para ver a gameplay exclusiva de GTA 6, Davy Jones revela novas informações que não são ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('DAVY JONES REVELA O NOVO SISTEMA DE KARMA DO GTA 6!') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=QmhsOOM0xuQ"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -565,6 +565,51 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCCEmjNPpJYhGDgaEqeeA4HA",
+      "outlier": true,
+      "date": "27/08/2026",
+      "publishedAt": "2026-08-27T22:42:04+00:00",
+      "headline": "REACCIONANDO a GTA VI Tráiler Exclusivo - TheGrefg",
+      "desc": "SUSCRÍBETE y me haces feliz! Mi otro canal MrGrefg https://www.youtube.com/@MrGrefg Sigue mis Directos en ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('REACCIONANDO a GTA VI Tráiler Exclusivo - TheGrefg') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=om-lsGVdfL8"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC59jWhPazXYi8Ny4vake45A",
+      "outlier": true,
+      "date": "01/09/2026",
+      "publishedAt": "2026-09-01T09:28:00+00:00",
+      "headline": "GTA 6&#39;s Wanted Stars Reveal More Than You Think",
+      "desc": "Edited by: https://clips.cx Note: Video Narrated by synthetic voice.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6&#39;s Wanted Stars Reveal More Than You Think') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=yg79XmYh3pU"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCUZfhX79dQrJvAgYefiXCCA",
+      "outlier": true,
+      "date": "31/08/2026",
+      "publishedAt": "2026-08-31T19:49:31+00:00",
+      "headline": "DAVY JONES REVELA O NOVO SISTEMA DE KARMA DO GTA 6!",
+      "desc": "Após sua visita a Rockstar para ver a gameplay exclusiva de GTA 6, Davy Jones revela novas informações que não são ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('DAVY JONES REVELA O NOVO SISTEMA DE KARMA DO GTA 6!') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=QmhsOOM0xuQ"
     },
     {
       "cat": "viral",
@@ -850,51 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('В GTA 6 нашли локацию из RDR 😳 | Pop news!') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=pzaGX9-OAp8"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCjiXjv_u0vnCog-ew3BP9lg",
-      "outlier": true,
-      "date": "29/08/2026",
-      "publishedAt": "2026-08-29T07:49:14+00:00",
-      "headline": "GTA 6 Is Getting HATE Over This Fridge Animation 💀",
-      "desc": "shorts #viral #gta #gta6 #gta5 GTA 6 is getting hate over one tiny animation from the Extended Look. During a scene at Jason and ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Is Getting HATE Over This Fridge Animation 💀') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=QoDRmrtYy_M"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCwJJxcke-uBJcLJ58HqrdSw",
-      "outlier": true,
-      "date": "27/08/2026",
-      "publishedAt": "2026-08-27T20:53:35+00:00",
-      "headline": "Kai Cenat Got Hyped For 6 Stars In Gta 6! 😭🔥",
-      "desc": "Kai Cenat Got Hyped For 6 Stars In Gta 6! #kaicenat #gta6 #shorts.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Kai Cenat Got Hyped For 6 Stars In Gta 6! 😭🔥') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=97i9zSJsKSs"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC1v5FJSZw5oSqxeSId2eraw",
-      "outlier": true,
-      "date": "27/08/2026",
-      "publishedAt": "2026-08-27T14:46:06+00:00",
-      "headline": "Bought GTA 6 Stock Instead of the Game 😳",
-      "desc": "Title Bought GTA 6 Stock Instead of the Game Description Instead of buying the GTA 6 game, I invested the same amount of ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Bought GTA 6 Stock Instead of the Game 😳') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=Gaps8Rs0wWc"
     }
   ]
 }
