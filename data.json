@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T19:47:38+00:00",
+  "updated": "2026-09-07T22:43:05+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -306,6 +306,36 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCRJ4v7YE5nvri9ARLuMXaCQ",
+      "outlier": true,
+      "date": "06/09/2026",
+      "publishedAt": "2026-09-06T15:55:04+00:00",
+      "headline": "GTA 6 on THE SWITCH?!  #retrogaming #nintendo #shorts #satire",
+      "desc": "All shorts are intended as SATIRE! For true gaming facts, reviews, or opinions, please see my long-form videos or ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 on THE SWITCH?!  #retrogaming #nintendo #shorts #satire') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=XHcN_0FiIDo"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCV1JLczDYt4ViQb3ibXif-w",
+      "outlier": true,
+      "date": "05/09/2026",
+      "publishedAt": "2026-09-05T03:00:34+00:00",
+      "headline": "FINNALY PARADE LGBT ADA DI GTA 6😹 #gta6 #grandtheftauto #ps5 #games #streamer #momenkocak #gta #gtav",
+      "desc": "Hehehe Game: POU.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('FINNALY PARADE LGBT ADA DI GTA 6😹 #gta6 #grandtheftauto #ps5 #games #streamer #momenkocak #gta #gtav') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Lh-zQRfzQEU"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCgMp1SUnfYukO1SPxKgkI6w",
       "outlier": true,
       "date": "05/09/2026",
@@ -420,36 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 5 vs GTA 6: ¿De verdad todo mejoró? #gta #gta5 #gta6 #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=J8nXKjDzXSQ"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCjVmQP4XD2WqjYQWPIVMarA",
-      "outlier": true,
-      "date": "03/09/2026",
-      "publishedAt": "2026-09-03T19:42:40+00:00",
-      "headline": "Raise the controllers😭 #gaming #gamingnews #gta6 #playstation #controller",
-      "desc": "Vídeo em alta sobre GTA 6 (1287042 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Raise the controllers😭 #gaming #gamingnews #gta6 #playstation #controller') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=Vz2_0FpgDwQ"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCW9y5TPZV2RA-TK3D4NqBYA",
-      "outlier": true,
-      "date": "04/09/2026",
-      "publishedAt": "2026-09-04T18:32:24+00:00",
-      "headline": "Uncharted 4 Vs GTA 6: $100M Vs $2B Budget",
-      "desc": "Vídeo em alta sobre GTA 6 (1233787 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Uncharted 4 Vs GTA 6: $100M Vs $2B Budget') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=piBdr0Temd4"
     },
     {
       "cat": "lancamento",
@@ -580,6 +580,36 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCjVmQP4XD2WqjYQWPIVMarA",
+      "outlier": true,
+      "date": "03/09/2026",
+      "publishedAt": "2026-09-03T19:42:40+00:00",
+      "headline": "Raise the controllers😭 #gaming #gamingnews #gta6 #playstation #controller",
+      "desc": "Vídeo em alta sobre GTA 6 (1287042 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Raise the controllers😭 #gaming #gamingnews #gta6 #playstation #controller') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Vz2_0FpgDwQ"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCW9y5TPZV2RA-TK3D4NqBYA",
+      "outlier": true,
+      "date": "04/09/2026",
+      "publishedAt": "2026-09-04T18:32:24+00:00",
+      "headline": "Uncharted 4 Vs GTA 6: $100M Vs $2B Budget",
+      "desc": "Vídeo em alta sobre GTA 6 (1233787 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Uncharted 4 Vs GTA 6: $100M Vs $2B Budget') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=piBdr0Temd4"
     },
     {
       "cat": "viral",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('REACCIONANDO a GTA VI Tráiler Exclusivo - TheGrefg') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=om-lsGVdfL8"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC59jWhPazXYi8Ny4vake45A",
-      "outlier": true,
-      "date": "01/09/2026",
-      "publishedAt": "2026-09-01T09:28:00+00:00",
-      "headline": "GTA 6&#39;s Wanted Stars Reveal More Than You Think",
-      "desc": "Edited by: https://clips.cx Note: Video Narrated by synthetic voice.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6&#39;s Wanted Stars Reveal More Than You Think') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=yg79XmYh3pU"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCUZfhX79dQrJvAgYefiXCCA",
-      "outlier": true,
-      "date": "31/08/2026",
-      "publishedAt": "2026-08-31T19:49:31+00:00",
-      "headline": "DAVY JONES REVELA O NOVO SISTEMA DE KARMA DO GTA 6!",
-      "desc": "Após sua visita a Rockstar para ver a gameplay exclusiva de GTA 6, Davy Jones revela novas informações que não são ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('DAVY JONES REVELA O NOVO SISTEMA DE KARMA DO GTA 6!') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=QmhsOOM0xuQ"
     }
   ]
 }
