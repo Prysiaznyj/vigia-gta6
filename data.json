@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T04:08:23+00:00",
+  "updated": "2026-09-08T12:48:12+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -156,6 +156,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
+      "channelId": "UC-MGR1iYxWyFMA7yXoy_I3g",
+      "outlier": true,
+      "date": "07/09/2026",
+      "publishedAt": "2026-09-07T13:00:08+00:00",
+      "headline": "GTA 6: I Went Back Through The Extended Look Again...",
+      "desc": "GTA 6 is finally giving us more to talk about following the extended look. In this video, we're taking a closer look at every little ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: I Went Back Through The Extended Look Again...') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=SpMvM3TMHRM"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
       "channelId": "UCfZFwPGOpbWk0z0Fk7tU6yA",
       "outlier": true,
       "date": "05/09/2026",
@@ -290,31 +305,16 @@
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UC36MGPfPwOWafAXauiV4LdA",
-      "outlier": true,
-      "date": "01/09/2026",
-      "publishedAt": "2026-09-01T02:16:15+00:00",
-      "headline": "Rockstar Just Released MORE GTA 6 Content",
-      "desc": "Vlog channel: http://www.youtube.com/c/trevandchels Instagram: http://www.instagram.com/tmartn Twitter: ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Rockstar Just Released MORE GTA 6 Content') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=zZ1jU5CVkIQ"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
       "videoType": "curto",
-      "channelId": "UCWWv98b4hGmrpWM4P-wps7g",
-      "outlier": false,
+      "channelId": "UCCk0BPpE29f7Y351053vv1w",
+      "outlier": true,
       "date": "07/09/2026",
-      "publishedAt": "2026-09-07T22:11:00+00:00",
-      "headline": "🔴Gta6 Si Fuera Bueno... 🌀Parodia Español🌀[ Gta Animation ] #humor #meme #fandub #comedia #parodia",
-      "desc": "Video Original: https://www.youtube.com/watch?v=KwSqUO1uSog&list=PLNE5hiSUfJNvPY7HFyqnRXwdTosvbJJB9&index=1 ...",
+      "publishedAt": "2026-09-07T06:00:41+00:00",
+      "headline": "Pepsi Warns GTA 6: “Don’t Do That!” 😂",
+      "desc": "This short is about Pepsi asking Coca-Cola why it isn't in GTA 6, until Coca-Cola makes a joke about the fridge and Pepsi starts ...",
       "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('🔴Gta6 Si Fuera Bueno... 🌀Parodia Español🌀[ Gta Animation ] #humor #meme #fandub #comedia #parodia') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=PQNKuwob0Zs"
+      "hook": "Mostra o clipe/post que tá bombando ('Pepsi Warns GTA 6: “Don’t Do That!” 😂') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=MDZIcaDCgEA"
     },
     {
       "cat": "viral",
@@ -580,6 +580,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UC36MGPfPwOWafAXauiV4LdA",
+      "outlier": true,
+      "date": "01/09/2026",
+      "publishedAt": "2026-09-01T02:16:15+00:00",
+      "headline": "Rockstar Just Released MORE GTA 6 Content",
+      "desc": "Vlog channel: http://www.youtube.com/c/trevandchels Instagram: http://www.instagram.com/tmartn Twitter: ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Rockstar Just Released MORE GTA 6 Content') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=zZ1jU5CVkIQ"
     },
     {
       "cat": "viral",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Makers Went Too Far?! 😱💀 #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=nGk6ELvOW2M"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCi1Tln5CFg1yExpz8djyxjA",
-      "outlier": true,
-      "date": "01/09/2026",
-      "publishedAt": "2026-09-01T22:17:05+00:00",
-      "headline": "RDR2 es más Realista en Algunos detalles que GTA 6 #gta #rdr2",
-      "desc": "Vídeo em alta sobre GTA 6 (2061906 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('RDR2 es más Realista en Algunos detalles que GTA 6 #gta #rdr2') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=05vICm8xQ3o"
     }
   ]
 }
