@@ -1,6 +1,21 @@
 {
-  "updated": "2026-09-08T22:30:24+00:00",
+  "updated": "2026-09-09T04:15:11+00:00",
   "items": [
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "09/09/2026",
+      "publishedAt": "2026-09-09T01:00:11+00:00",
+      "headline": "Jason e Lucia de GTA VI só serão um casal se o jogador investir na relação, confirma Rockstar",
+      "desc": "Fonte: Estadão",
+      "signal": 4,
+      "hook": "Curiosidade rápida: 'Jason e Lucia de GTA VI só serão um casal se o jogador investir na relação, confirma Rockstar' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa2p5cndYWnluWGd0YmJUaFBFWkZpSXhDckljajRZazhWcDJHakJUQ0tkWkdhWXBJVlU2QWMwMHJxWUFOMkRJVFU5TzdWREN4V0NmSEd6amYxXzBOd3Y1Vm9hM2J4Z0FlSTFDcVhFc3o1c0JOajhtV2xzd3pBUVR2bWhhNVQtNEJFQmEtRDJFazVkWVVtWTFIa0h3a09uUG5tZ295dHc0enhDSXRUZkpsdGoyRDF6M2tFWXNKdFFoS3dYZnNfZzBfdE8tZmQ5ZEdTN3lnRWxiX0p3WExOYlYtM282UEc?oc=5"
+    },
     {
       "cat": "curiosidade",
       "tagLabel": "Curiosidade",
@@ -135,21 +150,6 @@
       "signal": 4,
       "hook": "Pergunta de abertura: 'Novos vazamentos de GTA 6 surgem antes da revelação oficial da Rockstar?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUW9HTGl4ZlFPQ1pZRUkxeGlUMll2b2NsX1VUWmRYNGxGdnZnMlVOVXNCaVlRZ1prTTBjOFptSTlCVVQ3V0hiLVJoYm01SW5scl9xbEZwVHFPUG1sVWxMeEF3dDBhQjF3QlVWYm1KcldQNDdfZEc1Wk53YnJnSHdzN1A1QTNrTGlCeElLT0VHandUTmhPcGhJRV92RXFqVXFQVi1kNmNBUS1xQ0NtSHRMOWxkeVU?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "19/08/2026",
-      "publishedAt": "2026-08-19T19:31:33+00:00",
-      "headline": "GTA 6 promete ser o maior jogo da história com base em patentes registradas",
-      "desc": "Documentos e patentes da Take-Two detalham inovações absurdas em física, inteligência artificial e comportamento de NPCs. A expectativa é que o game redefina o padrão da indústria.",
-      "signal": 4,
-      "hook": "As patentes secretas da Rockstar provam que GTA 6 vai humilhar qualquer outro jogo!",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNY3VfS0wxRzhOdFdxYUNGY2NCYzJXZ0VwUFgxWGh3dUNsRGk3aFpBMkx3QmxDUHdPaHVKNEppQUUtUmhMeVg3Z2k4d1d6WVowcExxOXpieDFTX05qN09IamRQRkZ2UnVoX01mVnhKZWkyMHJZejRSdU1MbE02N19aRzBtY1p5TC16WjUxYnZ2VXQwT2R3VVZ0dnRCOGJmTFBROTl1QVlOMUZ3RVJqaWRwUnZzWDlKaW9STUtaUkRCV3Btdmlzc1JoQXpRUFh5dnBWSkxkM0pkLUxoaGlEeTRVbGZ4aGR4TXpoNnEtWUZ2NWdJUG40NjlxWUtEUm9icGQxOWdMWFlTalNLalZZ0gGSAkFVX3lxTE9uUEhINGlfZ2RmNFVTMmlydzFvdUFtckFPQk9lMkpVU2lwSGtZdGUzd2xteWowYS01SS1kTjMxaGVYRGhhbktHQ3k5WlRIRWFqOGRtQzFpaVNpZlhVV2FPX1hSbFdYd2loa01Ba0RKQUN3bzgyY0pDWW5oaTBqRjM2eGQ1RlFUZkxacmxVUGRVcU1SdDZLNGtfS0MxM2ExUmZNb1p4SHdfeDlHTXNiZlZncmdRLUVNSG5yRW5lRk04eFEtX1Q3X3ZUSDFKZk5KaWFiRC1QRXJQU0RfUzVJQmRUNGowTVh4bXRGZnJKTGF2akluT0pNZkk5R1RpVE1nMFBldXozTEtpcDNweFdTSFpObmc?oc=5"
     },
     {
       "cat": "viral",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UClCFtC7ir59eUWl_2LlCbYw",
+      "outlier": true,
+      "date": "07/09/2026",
+      "publishedAt": "2026-09-07T14:55:33+00:00",
+      "headline": "Is The ‘GTA-6’ BACKFLIP That Hard?🤷🏼",
+      "desc": "Vídeo em alta sobre GTA 6 (393577 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Is The ‘GTA-6’ BACKFLIP That Hard?🤷🏼') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=GYZTDi0ZVNQ"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCNcdPIcXl50_dPhd4Qe-VrA",
       "outlier": true,
       "date": "06/09/2026",
@@ -437,21 +452,6 @@
       "url": "https://youtube.com/watch?v=uJVAiAN0ZEE"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC6yLTnMl4JGpvZ3TDGXPUQQ",
-      "outlier": true,
-      "date": "04/09/2026",
-      "publishedAt": "2026-09-04T17:10:28+00:00",
-      "headline": "Fake Fence vs GTA 6 Cops 😂🚔 #GTA6 #funny #shorts",
-      "desc": "Fake Fence vs GTA 6 Cops ‎⁨@GTA6ghorc⁩ He thought it was a real fence… The cops had NO idea what happened!",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Fake Fence vs GTA 6 Cops 😂🚔 #GTA6 #funny #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=ung-imivdJ4"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -580,6 +580,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC6yLTnMl4JGpvZ3TDGXPUQQ",
+      "outlier": true,
+      "date": "04/09/2026",
+      "publishedAt": "2026-09-04T17:10:28+00:00",
+      "headline": "Fake Fence vs GTA 6 Cops 😂🚔 #GTA6 #funny #shorts",
+      "desc": "Fake Fence vs GTA 6 Cops ‎⁨@GTA6ghorc⁩ He thought it was a real fence… The cops had NO idea what happened!",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Fake Fence vs GTA 6 Cops 😂🚔 #GTA6 #funny #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=ung-imivdJ4"
     },
     {
       "cat": "viral",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('funniest real life isn&#39;t GTA moments #rankingshorts #funniestvideo #gta #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=Qafz2NBh96A"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCZ8WxJH8WhG3S-88x9rZjGA",
-      "outlier": true,
-      "date": "02/09/2026",
-      "publishedAt": "2026-09-02T14:31:05+00:00",
-      "headline": "Bro really thought he was playing GTA 6 😭💀Real life now has cheat codes fr#viral #fyp #gta6 #ps5",
-      "desc": "Real life now has a PS5 controller Bro really thought he was playing GTA 6 in real life This has to be the most insane crash ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Bro really thought he was playing GTA 6 😭💀Real life now has cheat codes fr#viral #fyp #gta6 #ps5') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=pG2gwAEKlP0"
     }
   ]
 }
