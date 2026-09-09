@@ -1,6 +1,21 @@
 {
-  "updated": "2026-09-09T19:12:12+00:00",
+  "updated": "2026-09-09T22:25:38+00:00",
   "items": [
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "09/09/2026",
+      "publishedAt": "2026-09-09T19:25:53+00:00",
+      "headline": "Horário de lançamento de GTA 6 é confirmado! Veja como jogar antes no Brasil",
+      "desc": "Fonte: Estadão",
+      "signal": 4,
+      "hook": "Abre direto com 'Horário de lançamento de GTA 6 é confirmado! Veja como jogar antes no Brasil' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTjVhaDc3SlY5RzFycVN6YXpQR2M4Z1l2ZnBnRUYxQmFGSUstVk1fd000MVNtVWExcm9IM0lUay1GdVgzR0RqNWFyMWlHZV9ReWR0YmxidUJxeUY4QVR4Z1ZOanZhWHlxbGpyQS1idUJYbktRWXk2THBtSl8tX3BwTlZBMVJ3WEtzaUMwUmtRMmdqX2lxZk5RcGpwMHZ5TnNMUDRpdDh6bFR0V0xHdWdNY09PUTRhWTRhM2k5Y3c1Rl91Rlpm?oc=5"
+    },
     {
       "cat": "curiosidade",
       "tagLabel": "Curiosidade",
@@ -137,19 +152,19 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSmMwczZkWjg3Qk1GQmNCb3liRkQ2UFBIZEtPWHNvdzBQWjNtZ0FsNjFadHZxMGhhOHUyN2tHWjh0bjVycFNuelNYb1JMc3lzeVpMUU1XdVRTek5taG0yc3lzR29iN1NqTDRwM2V5X21xNVROYVVna1FxelVhcUdYVUhzUHp5VWxnSHFqMjdCaHp0c1B3Y2c?oc=5"
     },
     {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "20/08/2026",
-      "publishedAt": "2026-08-20T14:15:02+00:00",
-      "headline": "Novos vazamentos de GTA 6 surgem antes da revelação oficial da Rockstar",
-      "desc": "Fonte: Folha Vitória",
-      "signal": 4,
-      "hook": "Pergunta de abertura: 'Novos vazamentos de GTA 6 surgem antes da revelação oficial da Rockstar?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUW9HTGl4ZlFPQ1pZRUkxeGlUMll2b2NsX1VUWmRYNGxGdnZnMlVOVXNCaVlRZ1prTTBjOFptSTlCVVQ3V0hiLVJoYm01SW5scl9xbEZwVHFPUG1sVWxMeEF3dDBhQjF3QlVWYm1KcldQNDdfZEc1Wk53YnJnSHdzN1A1QTNrTGlCeElLT0VHandUTmhPcGhJRV92RXFqVXFQVi1kNmNBUS1xQ0NtSHRMOWxkeVU?oc=5"
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
+      "outlier": true,
+      "date": "08/09/2026",
+      "publishedAt": "2026-09-08T07:15:28+00:00",
+      "headline": "GTA 6: 35 MORE New Details - Gang Territories, Break-Ups &amp; Fat Cops",
+      "desc": "Get 10% off all GamerSupps products with this link - https://gamersupps.gg/tgg Follow me on Twitter/X: ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: 35 MORE New Details - Gang Territories, Break-Ups &amp; Fat Cops') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=81lxnmTNH_M"
     },
     {
       "cat": "viral",
@@ -285,21 +300,6 @@
       "signal": 5,
       "hook": "Abre direto com 'Games EduUu vendo o trailer de GTA 6 É INCRÍVEL' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
       "url": "https://youtube.com/watch?v=W15smB_c31A"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCC0WT0xvcSkTPZHH33CyIuw",
-      "outlier": true,
-      "date": "31/08/2026",
-      "publishedAt": "2026-08-31T23:42:37+00:00",
-      "headline": "Tengo MUCHAS preocupaciones sobre GTA 6",
-      "desc": "Título alternativo: \"YouTuber DESATADO Fantasea Sobre GTA 6 por 22 Minutos\". En este video El Último Círculo habla sobre sus ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Tengo MUCHAS preocupaciones sobre GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=WNtvA6hOEqQ"
     },
     {
       "cat": "viral",
@@ -580,6 +580,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCC0WT0xvcSkTPZHH33CyIuw",
+      "outlier": true,
+      "date": "31/08/2026",
+      "publishedAt": "2026-08-31T23:42:37+00:00",
+      "headline": "Tengo MUCHAS preocupaciones sobre GTA 6",
+      "desc": "Título alternativo: \"YouTuber DESATADO Fantasea Sobre GTA 6 por 22 Minutos\". En este video El Último Círculo habla sobre sus ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Tengo MUCHAS preocupaciones sobre GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=WNtvA6hOEqQ"
     },
     {
       "cat": "viral",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('r/gta6 Moderator Applications Open!') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://www.reddit.com/r/GTA6/comments/1w94muk/rgta6_moderator_applications_open/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCXin0u5SrVEBjn5LhOoG97A",
-      "outlier": true,
-      "date": "28/08/2026",
-      "publishedAt": "2026-08-28T10:45:32+00:00",
-      "headline": "GTA 6 AKLIMI ALDI! İLK OYNANIŞ VİDEOSUNA BAK!",
-      "desc": "GTA 6 ilk oynanış videosu karşımızda! Büyük olaylar neticesinde en sonunda GTA 6 neye benziyor gördük be kardeşim!",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 AKLIMI ALDI! İLK OYNANIŞ VİDEOSUNA BAK!') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=Be8Jwg2i718"
     }
   ]
 }
