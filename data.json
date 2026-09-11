@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T04:11:06+00:00",
+  "updated": "2026-09-11T12:45:46+00:00",
   "items": [
     {
       "cat": "lancamento",
@@ -306,6 +306,36 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCg48OIfYWyNrUAIM2CLeWLg",
+      "outlier": true,
+      "date": "10/09/2026",
+      "publishedAt": "2026-09-10T07:30:02+00:00",
+      "headline": "This will be the 1st Country to Play GTA 6! 🔥 #shorts",
+      "desc": "Vídeo em alta sobre GTA 6 (437418 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('This will be the 1st Country to Play GTA 6! 🔥 #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=1NFF9eAkQcg"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCdFnxmnPgUApyI5dtZbni2Q",
+      "outlier": true,
+      "date": "09/09/2026",
+      "publishedAt": "2026-09-09T01:45:17+00:00",
+      "headline": "Por que vocês assistem depois de comprar? #humor #casal #gta #gta6 #playstation",
+      "desc": "Vídeo em alta sobre GTA 6 (480355 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Por que vocês assistem depois de comprar? #humor #casal #gta #gta6 #playstation') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=_oybd63rXn4"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCzVXdulvpgEoI8yuFMmhxJw",
       "outlier": true,
       "date": "09/09/2026",
@@ -420,36 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('È STATO EDUCATO!😱 #gta #gta6 #viral #fyp') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=0cf8z73lg6g"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCCk0BPpE29f7Y351053vv1w",
-      "outlier": true,
-      "date": "07/09/2026",
-      "publishedAt": "2026-09-07T06:00:41+00:00",
-      "headline": "Pepsi Warns GTA 6: “Don’t Do That!” 😂",
-      "desc": "This short is about Pepsi asking Coca-Cola why it isn't in GTA 6, until Coca-Cola makes a joke about the fridge and Pepsi starts ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Pepsi Warns GTA 6: “Don’t Do That!” 😂') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=MDZIcaDCgEA"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCW9y5TPZV2RA-TK3D4NqBYA",
-      "outlier": true,
-      "date": "07/09/2026",
-      "publishedAt": "2026-09-07T01:38:30+00:00",
-      "headline": "Sims 2 Vs GTA 6: 2004 Vs 2026 WTH IS THIS????",
-      "desc": "Vídeo em alta sobre GTA 6 (2594475 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Sims 2 Vs GTA 6: 2004 Vs 2026 WTH IS THIS????') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=Ca_VuNx0G3U"
     },
     {
       "cat": "lancamento",
@@ -595,6 +595,36 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCCk0BPpE29f7Y351053vv1w",
+      "outlier": true,
+      "date": "07/09/2026",
+      "publishedAt": "2026-09-07T06:00:41+00:00",
+      "headline": "Pepsi Warns GTA 6: “Don’t Do That!” 😂",
+      "desc": "This short is about Pepsi asking Coca-Cola why it isn't in GTA 6, until Coca-Cola makes a joke about the fridge and Pepsi starts ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Pepsi Warns GTA 6: “Don’t Do That!” 😂') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=MDZIcaDCgEA"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCW9y5TPZV2RA-TK3D4NqBYA",
+      "outlier": true,
+      "date": "07/09/2026",
+      "publishedAt": "2026-09-07T01:38:30+00:00",
+      "headline": "Sims 2 Vs GTA 6: 2004 Vs 2026 WTH IS THIS????",
+      "desc": "Vídeo em alta sobre GTA 6 (2594475 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Sims 2 Vs GTA 6: 2004 Vs 2026 WTH IS THIS????') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Ca_VuNx0G3U"
     },
     {
       "cat": "viral",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6: Vehicles Work Differently Now | Exclusive Deep Dive') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=5PEKC28azRU"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCfZFwPGOpbWk0z0Fk7tU6yA",
-      "outlier": true,
-      "date": "29/08/2026",
-      "publishedAt": "2026-08-29T11:15:10+00:00",
-      "headline": "HO PROVATO GTA VI 🔥 - VI DICO TUTTO!! + INFO ESCLUSIVE",
-      "desc": "Ho provato GTA 6 per 2 ore e in questo video vi racconto che gioco sarà GTA VI!! Tutte le novità come il Criminal Profile, il nuovo ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('HO PROVATO GTA VI 🔥 - VI DICO TUTTO!! + INFO ESCLUSIVE') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=zVnbZD2nPa4"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCi7wDE2ZTiR5QYYrUY5WhtA",
-      "outlier": true,
-      "date": "04/09/2026",
-      "publishedAt": "2026-09-04T04:36:50+00:00",
-      "headline": "Why isn’t GTA 6 launching on PC??",
-      "desc": "Why isn't GTA 6 launching on PC?? #carterpcs #tech #gaming.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Why isn’t GTA 6 launching on PC??') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=POgyH6cz8IM"
     }
   ]
 }
