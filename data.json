@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T12:45:46+00:00",
+  "updated": "2026-09-11T19:05:54+00:00",
   "items": [
     {
       "cat": "lancamento",
@@ -156,6 +156,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
+      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
+      "outlier": true,
+      "date": "11/09/2026",
+      "publishedAt": "2026-09-11T03:34:12+00:00",
+      "headline": "I Made a GTA 6 Wishlist 7 Years Ago...",
+      "desc": "Get 10% off all GamerSupps products with this link - https://gamersupps.gg/tgg Follow me on Twitter/X: ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('I Made a GTA 6 Wishlist 7 Years Ago...') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=_tBxgD89SR0"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
       "channelId": "UCn7xknPbWDjGQCzBLhtubiA",
       "outlier": true,
       "date": "09/09/2026",
@@ -290,16 +305,16 @@
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCe4_UPAmhz2sqorGbF8oZHA",
+      "videoType": "curto",
+      "channelId": "UCW9y5TPZV2RA-TK3D4NqBYA",
       "outlier": true,
-      "date": "28/08/2026",
-      "publishedAt": "2026-08-28T03:00:55+00:00",
-      "headline": "RE: The &#39;GTA 6&#39; reveal...",
-      "desc": "Sign up for Freecash here: https://t2m.io/Luke_Stephens_FC and get a $10 bonus! Start earning extra cash online, and thanks to ...",
+      "date": "10/09/2026",
+      "publishedAt": "2026-09-10T18:15:05+00:00",
+      "headline": "Zelda Vs GTA 6: Water Comparison💀🤦‍♂️",
+      "desc": "Vídeo em alta sobre GTA 6 (5361922 views).",
       "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('RE: The &#39;GTA 6&#39; reveal...') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=RWnkuSgmscs"
+      "hook": "Mostra o clipe/post que tá bombando ('Zelda Vs GTA 6: Water Comparison💀🤦‍♂️') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Ug7w1NXSfTI"
     },
     {
       "cat": "viral",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Is The ‘GTA-6’ BACKFLIP That Hard?🤷🏼') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=GYZTDi0ZVNQ"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCNcdPIcXl50_dPhd4Qe-VrA",
-      "outlier": true,
-      "date": "06/09/2026",
-      "publishedAt": "2026-09-06T18:00:35+00:00",
-      "headline": "È STATO EDUCATO!😱 #gta #gta6 #viral #fyp",
-      "desc": "Vídeo em alta sobre GTA 6 (534482 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('È STATO EDUCATO!😱 #gta #gta6 #viral #fyp') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=0cf8z73lg6g"
     },
     {
       "cat": "lancamento",
@@ -595,6 +595,36 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCe4_UPAmhz2sqorGbF8oZHA",
+      "outlier": true,
+      "date": "28/08/2026",
+      "publishedAt": "2026-08-28T03:00:55+00:00",
+      "headline": "RE: The &#39;GTA 6&#39; reveal...",
+      "desc": "Sign up for Freecash here: https://t2m.io/Luke_Stephens_FC and get a $10 bonus! Start earning extra cash online, and thanks to ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('RE: The &#39;GTA 6&#39; reveal...') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=RWnkuSgmscs"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCNcdPIcXl50_dPhd4Qe-VrA",
+      "outlier": true,
+      "date": "06/09/2026",
+      "publishedAt": "2026-09-06T18:00:35+00:00",
+      "headline": "È STATO EDUCATO!😱 #gta #gta6 #viral #fyp",
+      "desc": "Vídeo em alta sobre GTA 6 (534482 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('È STATO EDUCATO!😱 #gta #gta6 #viral #fyp') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=0cf8z73lg6g"
     },
     {
       "cat": "viral",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Raise the controllers😭 #gaming #gamingnews #gta6 #playstation #controller') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=Vz2_0FpgDwQ"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCW9y5TPZV2RA-TK3D4NqBYA",
-      "outlier": true,
-      "date": "04/09/2026",
-      "publishedAt": "2026-09-04T18:32:24+00:00",
-      "headline": "Uncharted 4 Vs GTA 6: $100M Vs $2B Budget",
-      "desc": "Vídeo em alta sobre GTA 6 (1233787 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Uncharted 4 Vs GTA 6: $100M Vs $2B Budget') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=piBdr0Temd4"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
-      "outlier": true,
-      "date": "30/08/2026",
-      "publishedAt": "2026-08-30T07:12:44+00:00",
-      "headline": "GTA 6: Vehicles Work Differently Now | Exclusive Deep Dive",
-      "desc": "0:00 – Intro Chapter 1 – 0:48 – Stealing Cars & Vehicle Security Chapter 2 – 4:07 – Fences & Vehicle Security (Trackers) Chapter ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: Vehicles Work Differently Now | Exclusive Deep Dive') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=5PEKC28azRU"
     }
   ]
 }
