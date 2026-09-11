@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T22:24:17+00:00",
+  "updated": "2026-09-11T04:11:06+00:00",
   "items": [
     {
       "cat": "lancamento",
@@ -306,6 +306,36 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCzVXdulvpgEoI8yuFMmhxJw",
+      "outlier": true,
+      "date": "09/09/2026",
+      "publishedAt": "2026-09-09T13:18:22+00:00",
+      "headline": "GTA 6 BAD Features 😭",
+      "desc": "Vídeo em alta sobre GTA 6 (346139 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 BAD Features 😭') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=mi3fYmw9-HA"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
+      "outlier": true,
+      "date": "09/09/2026",
+      "publishedAt": "2026-09-09T07:59:02+00:00",
+      "headline": "GTA 6 Players are all Moving to New Zealand?",
+      "desc": "Get 10% off all GamerSupps products with this link - https://gamersupps.gg/tgg Follow me on Twitter/X: ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Players are all Moving to New Zealand?') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=o3baSuSwuf8"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UC8NDrCKZ27lPzsk8uifXgSQ",
       "outlier": true,
       "date": "08/09/2026",
@@ -420,36 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Sims 2 Vs GTA 6: 2004 Vs 2026 WTH IS THIS????') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=Ca_VuNx0G3U"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCHUoqG2HS8cG3rV0VPwa-4g",
-      "outlier": true,
-      "date": "05/09/2026",
-      "publishedAt": "2026-09-05T18:00:04+00:00",
-      "headline": "Michael Calls Out The GTA 6 Gameplay",
-      "desc": "shorts #gta #gtav #gta5 #gta6 #gtavi #grandtheftauto #rockstargames #michael #gta6shorts #gtashorts #gaming.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Michael Calls Out The GTA 6 Gameplay') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=3JwICHyFHTg"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCRJ4v7YE5nvri9ARLuMXaCQ",
-      "outlier": true,
-      "date": "06/09/2026",
-      "publishedAt": "2026-09-06T15:55:04+00:00",
-      "headline": "GTA 6 on THE SWITCH?!  #retrogaming #nintendo #shorts #satire",
-      "desc": "All shorts are intended as SATIRE! For true gaming facts, reviews, or opinions, please see my long-form videos or ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 on THE SWITCH?!  #retrogaming #nintendo #shorts #satire') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=XHcN_0FiIDo"
     },
     {
       "cat": "lancamento",
@@ -595,6 +595,36 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCHUoqG2HS8cG3rV0VPwa-4g",
+      "outlier": true,
+      "date": "05/09/2026",
+      "publishedAt": "2026-09-05T18:00:04+00:00",
+      "headline": "Michael Calls Out The GTA 6 Gameplay",
+      "desc": "shorts #gta #gtav #gta5 #gta6 #gtavi #grandtheftauto #rockstargames #michael #gta6shorts #gtashorts #gaming.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Michael Calls Out The GTA 6 Gameplay') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=3JwICHyFHTg"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCRJ4v7YE5nvri9ARLuMXaCQ",
+      "outlier": true,
+      "date": "06/09/2026",
+      "publishedAt": "2026-09-06T15:55:04+00:00",
+      "headline": "GTA 6 on THE SWITCH?!  #retrogaming #nintendo #shorts #satire",
+      "desc": "All shorts are intended as SATIRE! For true gaming facts, reviews, or opinions, please see my long-form videos or ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 on THE SWITCH?!  #retrogaming #nintendo #shorts #satire') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=XHcN_0FiIDo"
     },
     {
       "cat": "viral",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Why isn’t GTA 6 launching on PC??') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=POgyH6cz8IM"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
-      "outlier": true,
-      "date": "04/09/2026",
-      "publishedAt": "2026-09-04T04:00:30+00:00",
-      "headline": "GTA 6 Backflip Is Controlled By Players #gta6 #gtavi #gtaonline",
-      "desc": "USD GTA 6 Giveaway!** I'm giving *6 lucky people $1111 USD each* which is enough for a PS5 Pro + GTA 6, or whatever else ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Backflip Is Controlled By Players #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=PePLTefPBeM"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
-      "outlier": true,
-      "date": "04/09/2026",
-      "publishedAt": "2026-09-04T00:00:28+00:00",
-      "headline": "We Got New GTA 6 Screenshots! #gta6 #gtavi #gtaonline",
-      "desc": "USD GTA 6 Giveaway!** I'm giving *6 lucky people $1111 USD each* which is enough for a PS5 Pro + GTA 6, or whatever else ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('We Got New GTA 6 Screenshots! #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=aiET7WC8_wA"
     }
   ]
 }
