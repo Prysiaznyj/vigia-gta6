@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T18:42:09+00:00",
+  "updated": "2026-09-13T22:17:05+00:00",
   "items": [
     {
       "cat": "lancamento",
@@ -157,7 +157,7 @@
       "source": "youtube",
       "videoType": "longo",
       "channelId": "UCWRmZvwkp6oNca2wW3uFcFg",
-      "outlier": true,
+      "outlier": false,
       "date": "13/09/2026",
       "publishedAt": "2026-09-13T18:01:39+00:00",
       "headline": "GTA 5 LIVE before GTA 6",
