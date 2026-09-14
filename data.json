@@ -1,6 +1,21 @@
 {
-  "updated": "2026-09-14T14:56:29+00:00",
+  "updated": "2026-09-14T20:15:12+00:00",
   "items": [
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "14/09/2026",
+      "publishedAt": "2026-09-14T18:06:08+00:00",
+      "headline": "\"Estou muito feliz por estar envolvido\": primeiro grande membro do elenco confirma participação em GTA 6, aparentemente fugindo do roteiro da Rockstar",
+      "desc": "Fonte: IGN Brasil",
+      "signal": 4,
+      "hook": "Curiosidade rápida: '\"Estou muito feliz por estar envolvido\": primeiro grande membro do elenco confirma participação em GTA 6, aparentemente fugindo do roteiro da Rockstar' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMVZrLURuX1RYN2ZSSHNhVGZVbm1VNkZ0YVQyT25HT05UVHU3NzdaeXZuUVVoOTBLOEozWlhsSHhsVnlFNGc0QnJfN2U1RjE1UVJtS0RXVDlyVWg3clNaUHYwY3kzb0NzMDJrOWhPNndUSnhOdmpUaE1ENW95eWl3b0ExakxZRUs1Z0pfVHVneG5SZ19hci1TUm1uaTRRdDZNNzBHTnhZMjlqY3RabEV1bjFwQ0lVeDRyYldQR2pNXzV5NVJaRXFRWm9jODR1dUw0aWxpTFIyc2hYNEVBemc?oc=5"
+    },
     {
       "cat": "curiosidade",
       "tagLabel": "Curiosidade",
@@ -135,21 +150,6 @@
       "signal": 4,
       "hook": "Curiosidade rápida: 'Desenvolvimento de GTA VI começou há 11 anos, confirma executivo da Rockstar' — bom pra fechar um vídeo ou virar corte solto.",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVGI0OXhsNkxVTGV3RGcwS0xVY3hGYVZqdTJsLWFZZDRweTExZnhtazRKdkJmOHR4ZFpHMzZrS2JOdmsyQ3NVUXhocEdsUS1sSEFuZjBUNjZNUUdpRlpDeTl2SVNuWEVoRFJuLXliYld4VWtaNjY0N1RVci01bi1hNmp3bkxmTWNvZGlwZTZha0JlRnpxRFZEYTNtSHp2OHfSAaQBQVVfeXFMTTEzR0ZTb2FPRHhiUmNJUmVqeEFIa0lwdkdBTUZRZVBEZVJBQk1Rbng1cmxaTDZzQlhja3pBUVVXaFludnZuQzNIZ3Y5ZlZJZXhnc2NiRkJWX1FLVVp6ZS1rRkNhWVFUTmkwT01Cb25qeHUycnZ1dmRsWlFYQUlMLTRJS0YweVJONDZ4dk10Q0pTN3l1UmNTNmwyblAwZFRzNmQ1UFo?oc=5"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "26/08/2026",
-      "publishedAt": "2026-08-26T13:06:00+00:00",
-      "headline": "Rockstar confirma vazamento de GTA 6 após vídeos inéditos circularem na internet",
-      "desc": "Fonte: CGN",
-      "signal": 4,
-      "hook": "Pergunta de abertura: 'Rockstar confirma vazamento de GTA 6 após vídeos inéditos circularem na internet?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVmVaemQ1WW9iSkZuMllGLTVKRXZ0U2FIR3Rra2dZN1hMSUs0bTNLX0U5Qm83TTRadWxIMVpNNWNCSHBIeldxNTdVajRVak5LM1VzaVRlZzRDMVVTYmtaZEFFYTU0WTE1dS00UEpUaDc3X0djZ3pibmJrWlk4X3N1SVp6dlVwOTgwV3NqelZnTGY3eXc1Wlp4a3I0aVJYM2hmaTVCSGRKRWZXRTVsTDJKZ2NZenFUZ9IBuwFBVV95cUxQcDlCTUlaWWdCRHJDNjVYN2dJT0NrbnpVd0xlcWttWlM3dzBMYmstdllla2pkOEJFN3NrUjhCTkIyWWRqWDBnQVI3dXpIMmdmaTZtUnNIcEQzdE9JbEJGeEVWemZ5aHQwdnBoOVFFeFRCMU9MYU4tLUJocFd0RXRLN2ZTU1BhU1hKVlRwV2pSak9yeXg5MFdDOThPMm5KQ1hkLW5NNGRoUi0xSzlQbmFEQWxZRDdlRkZmX3ZN?oc=5"
     },
     {
       "cat": "viral",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCoCmiYSrkih6SMAHSSiMTHg",
+      "outlier": true,
+      "date": "13/09/2026",
+      "publishedAt": "2026-09-13T07:30:21+00:00",
+      "headline": "Bro, You Need An Eye Checkup 😭 #shorts #gta6",
+      "desc": "shorts #gta6 #memes #rockstargames.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Bro, You Need An Eye Checkup 😭 #shorts #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=UmH2T8_4zAo"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCiOkFNdJsXCOKYrHlxiwCYQ",
       "outlier": true,
       "date": "13/09/2026",
@@ -437,21 +452,6 @@
       "url": "https://youtube.com/watch?v=Ug7w1NXSfTI"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCg48OIfYWyNrUAIM2CLeWLg",
-      "outlier": true,
-      "date": "10/09/2026",
-      "publishedAt": "2026-09-10T07:30:02+00:00",
-      "headline": "This will be the 1st Country to Play GTA 6! 🔥 #shorts",
-      "desc": "Vídeo em alta sobre GTA 6 (437418 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('This will be the 1st Country to Play GTA 6! 🔥 #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=1NFF9eAkQcg"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -580,6 +580,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCg48OIfYWyNrUAIM2CLeWLg",
+      "outlier": true,
+      "date": "10/09/2026",
+      "publishedAt": "2026-09-10T07:30:02+00:00",
+      "headline": "This will be the 1st Country to Play GTA 6! 🔥 #shorts",
+      "desc": "Vídeo em alta sobre GTA 6 (437418 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('This will be the 1st Country to Play GTA 6! 🔥 #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=1NFF9eAkQcg"
     },
     {
       "cat": "viral",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Tengo MUCHAS preocupaciones sobre GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=WNtvA6hOEqQ"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCUrlnmHDGeu5HxKrWJB8u9g",
-      "outlier": true,
-      "date": "05/09/2026",
-      "publishedAt": "2026-09-05T01:21:42+00:00",
-      "headline": "Yo ya había jugado GTA 6... 💅 #gta6 #gaming #rockstargames",
-      "desc": "Vídeo em alta sobre GTA 6 (450758 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Yo ya había jugado GTA 6... 💅 #gta6 #gaming #rockstargames') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=uJVAiAN0ZEE"
     }
   ]
 }
