@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T20:15:12+00:00",
+  "updated": "2026-09-15T04:29:50+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -156,6 +156,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
+      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
+      "outlier": true,
+      "date": "14/09/2026",
+      "publishedAt": "2026-09-14T14:41:37+00:00",
+      "headline": "Everything We Know About GTA 6 So Far",
+      "desc": "Get 10% off all GamerSupps products with this link - https://gamersupps.gg/tgg CHAPTERS 00:00 Intro 00:31 My Rockstar ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Everything We Know About GTA 6 So Far') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=irzbYa_Dr2U"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
       "channelId": "UCK4vuzS4fX8qxWi5Ik7XQYA",
       "outlier": true,
       "date": "10/09/2026",
@@ -287,19 +302,34 @@
       "url": "https://youtube.com/watch?v=R8M2vO3U2hI"
     },
     {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
+      "cat": "viral",
+      "tagLabel": "Viral",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
+      "videoType": "curto",
+      "channelId": "UC95U4CxzoOG6rX_rRxW4z9Q",
       "outlier": true,
-      "date": "01/09/2026",
-      "publishedAt": "2026-09-01T15:41:34+00:00",
-      "headline": "Games EduUu vendo o trailer de GTA 6 É INCRÍVEL",
-      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA PlayStation 5 Slim Digital – Pacote ASTRO BOT e Gran ...",
+      "date": "13/09/2026",
+      "publishedAt": "2026-09-13T19:43:56+00:00",
+      "headline": "Easy Choice 😂😂😂 #gta6 #gta6memes",
+      "desc": "Second Channel https://www.youtube.com/@WillMacGameplays New merch just dropped https://willmac.store/ Socials: ...",
       "signal": 5,
-      "hook": "Abre direto com 'Games EduUu vendo o trailer de GTA 6 É INCRÍVEL' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=W15smB_c31A"
+      "hook": "Mostra o clipe/post que tá bombando ('Easy Choice 😂😂😂 #gta6 #gta6memes') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=JFTH3FUMcXk"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
+      "outlier": true,
+      "date": "13/09/2026",
+      "publishedAt": "2026-09-13T11:00:37+00:00",
+      "headline": "Miami Will Be Doing Crazy GTA 6 Marketing - Weekly Updates #gta6 #gtavi #gtaonline",
+      "desc": "USD GTA 6 Giveaway!** I'm giving *6 lucky people $1111 USD each* which is enough for a PS5 Pro + GTA 6, or whatever else ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Miami Will Be Doing Crazy GTA 6 Marketing - Weekly Updates #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=-hYcEKKEx4U"
     },
     {
       "cat": "viral",
@@ -422,34 +452,19 @@
       "url": "https://youtube.com/watch?v=zOzRShCPsBM"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
       "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCW9y5TPZV2RA-TK3D4NqBYA",
+      "videoType": "longo",
+      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
       "outlier": true,
-      "date": "09/09/2026",
-      "publishedAt": "2026-09-09T16:31:04+00:00",
-      "headline": "GTA 6 Vs Heavy Rain: $16M Vs $2B Budget",
-      "desc": "Vídeo em alta sobre GTA 6 (1788815 views).",
+      "date": "01/09/2026",
+      "publishedAt": "2026-09-01T15:41:34+00:00",
+      "headline": "Games EduUu vendo o trailer de GTA 6 É INCRÍVEL",
+      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA PlayStation 5 Slim Digital – Pacote ASTRO BOT e Gran ...",
       "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Vs Heavy Rain: $16M Vs $2B Budget') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=8xQVCH400TE"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCW9y5TPZV2RA-TK3D4NqBYA",
-      "outlier": true,
-      "date": "10/09/2026",
-      "publishedAt": "2026-09-10T18:15:05+00:00",
-      "headline": "Zelda Vs GTA 6: Water Comparison💀🤦‍♂️",
-      "desc": "Vídeo em alta sobre GTA 6 (5361922 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Zelda Vs GTA 6: Water Comparison💀🤦‍♂️') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=Ug7w1NXSfTI"
+      "hook": "Abre direto com 'Games EduUu vendo o trailer de GTA 6 É INCRÍVEL' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=W15smB_c31A"
     },
     {
       "cat": "lancamento",
@@ -580,6 +595,36 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCW9y5TPZV2RA-TK3D4NqBYA",
+      "outlier": true,
+      "date": "09/09/2026",
+      "publishedAt": "2026-09-09T16:31:04+00:00",
+      "headline": "GTA 6 Vs Heavy Rain: $16M Vs $2B Budget",
+      "desc": "Vídeo em alta sobre GTA 6 (1788815 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Vs Heavy Rain: $16M Vs $2B Budget') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=8xQVCH400TE"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCW9y5TPZV2RA-TK3D4NqBYA",
+      "outlier": true,
+      "date": "10/09/2026",
+      "publishedAt": "2026-09-10T18:15:05+00:00",
+      "headline": "Zelda Vs GTA 6: Water Comparison💀🤦‍♂️",
+      "desc": "Vídeo em alta sobre GTA 6 (5361922 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Zelda Vs GTA 6: Water Comparison💀🤦‍♂️') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Ug7w1NXSfTI"
     },
     {
       "cat": "viral",
@@ -850,51 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('FINNALY PARADE LGBT ADA DI GTA 6😹 #gta6 #grandtheftauto #ps5 #games #streamer #momenkocak #gta #gtav') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=Lh-zQRfzQEU"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCgMp1SUnfYukO1SPxKgkI6w",
-      "outlier": true,
-      "date": "05/09/2026",
-      "publishedAt": "2026-09-05T14:21:21+00:00",
-      "headline": "pov si les gens continuent de critiquer la sortie de gta 6 #humor #drôle #youtubeshorts",
-      "desc": "Vídeo em alta sobre GTA 6 (598285 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('pov si les gens continuent de critiquer la sortie de gta 6 #humor #drôle #youtubeshorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=Q7Q6oUlUzY8"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCz8SSubG8GjCL-ejKJmlV2g",
-      "outlier": true,
-      "date": "05/09/2026",
-      "publishedAt": "2026-09-05T21:53:16+00:00",
-      "headline": "GTA 6’s New Minimap Is Already Getting Criticized",
-      "desc": "Vídeo em alta sobre GTA 6 (1254456 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6’s New Minimap Is Already Getting Criticized') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=qX0W_rbFyds"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCC0WT0xvcSkTPZHH33CyIuw",
-      "outlier": true,
-      "date": "31/08/2026",
-      "publishedAt": "2026-08-31T23:42:37+00:00",
-      "headline": "Tengo MUCHAS preocupaciones sobre GTA 6",
-      "desc": "Título alternativo: \"YouTuber DESATADO Fantasea Sobre GTA 6 por 22 Minutos\". En este video El Último Círculo habla sobre sus ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Tengo MUCHAS preocupaciones sobre GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=WNtvA6hOEqQ"
     }
   ]
 }
