@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T19:29:41+00:00",
+  "updated": "2026-09-16T22:49:26+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -156,6 +156,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
+      "channelId": "UCK4vuzS4fX8qxWi5Ik7XQYA",
+      "outlier": true,
+      "date": "14/09/2026",
+      "publishedAt": "2026-09-14T20:00:33+00:00",
+      "headline": "TUDO QUE VOCÊ PRECISA SABER ANTES DE COMPRAR GTA 6!",
+      "desc": "gta6 #davyjones #gta #rockstargames TUDO QUE VOCÊ PRECISA SABER ANTES DE COMPRAR GTA 6! Neste vídeo, Davy ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('TUDO QUE VOCÊ PRECISA SABER ANTES DE COMPRAR GTA 6!') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=0yhO15vKSRs"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
       "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
       "outlier": true,
       "date": "16/09/2026",
@@ -285,21 +300,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6: 35 MORE New Details - Gang Territories, Break-Ups &amp; Fat Cops') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=81lxnmTNH_M"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UC-MGR1iYxWyFMA7yXoy_I3g",
-      "outlier": true,
-      "date": "07/09/2026",
-      "publishedAt": "2026-09-07T13:00:08+00:00",
-      "headline": "GTA 6: I Went Back Through The Extended Look Again...",
-      "desc": "GTA 6 is finally giving us more to talk about following the extended look. In this video, we're taking a closer look at every little ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: I Went Back Through The Extended Look Again...') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=SpMvM3TMHRM"
     },
     {
       "cat": "viral",
@@ -601,6 +601,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
+      "channelId": "UC-MGR1iYxWyFMA7yXoy_I3g",
+      "outlier": true,
+      "date": "07/09/2026",
+      "publishedAt": "2026-09-07T13:00:08+00:00",
+      "headline": "GTA 6: I Went Back Through The Extended Look Again...",
+      "desc": "GTA 6 is finally giving us more to talk about following the extended look. In this video, we're taking a closer look at every little ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: I Went Back Through The Extended Look Again...') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=SpMvM3TMHRM"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
       "channelId": "UCfZFwPGOpbWk0z0Fk7tU6yA",
       "outlier": true,
       "date": "05/09/2026",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Autos knacken, Geld verdienen, Überfälle: So funktioniert GTA 6!') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=gVMNHk0H6AI"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
-      "outlier": true,
-      "date": "09/09/2026",
-      "publishedAt": "2026-09-09T07:59:02+00:00",
-      "headline": "GTA 6 Players are all Moving to New Zealand?",
-      "desc": "Get 10% off all GamerSupps products with this link - https://gamersupps.gg/tgg Follow me on Twitter/X: ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Players are all Moving to New Zealand?') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=o3baSuSwuf8"
     }
   ]
 }
