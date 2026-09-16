@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T13:22:35+00:00",
+  "updated": "2026-09-16T19:29:41+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -156,6 +156,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
+      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
+      "outlier": true,
+      "date": "16/09/2026",
+      "publishedAt": "2026-09-16T05:16:12+00:00",
+      "headline": "GTA 6: Rockstar Just Starting Teasing Something Big...",
+      "desc": "Get 10% off all GamerSupps products with this link - https://gamersupps.gg/tgg 00:00 New Music & Artwork Reveals 01:13 Travis ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: Rockstar Just Starting Teasing Something Big...') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=RrZ72p_hCEU"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
       "channelId": "UC181vPr4uyc8SqXnpZAJeZQ",
       "outlier": true,
       "date": "14/09/2026",
@@ -290,16 +305,16 @@
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCfZFwPGOpbWk0z0Fk7tU6yA",
+      "videoType": "curto",
+      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
       "outlier": true,
-      "date": "05/09/2026",
-      "publishedAt": "2026-09-05T11:15:03+00:00",
-      "headline": "REAGISCO ai COMMENTI DEL MONDO su MIKESHOWSHA e GTA VI 🌍😂",
-      "desc": "Ho provato GTA 6 per 2 ore e in questo video vi racconto che gioco sarà GTA VI!! Rispondo alle vostre domande sul gioco!",
+      "date": "14/09/2026",
+      "publishedAt": "2026-09-14T17:00:37+00:00",
+      "headline": "Will Lucia Get Jealous Of Jason&#39;s Shoe Store Visits? - Weekly Updates #gta6 #gtavi #gtaonline",
+      "desc": "USD GTA 6 Giveaway!** I'm giving *6 lucky people $1111 USD each* which is enough for a PS5 Pro + GTA 6, or whatever else ...",
       "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('REAGISCO ai COMMENTI DEL MONDO su MIKESHOWSHA e GTA VI 🌍😂') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=nq2OKuP55-E"
+      "hook": "Mostra o clipe/post que tá bombando ('Will Lucia Get Jealous Of Jason&#39;s Shoe Store Visits? - Weekly Updates #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=aG4rzIkFauo"
     },
     {
       "cat": "viral",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Easy Choice 😂😂😂 #gta6 #gta6memes') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=JFTH3FUMcXk"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
-      "outlier": true,
-      "date": "13/09/2026",
-      "publishedAt": "2026-09-13T11:00:37+00:00",
-      "headline": "Miami Will Be Doing Crazy GTA 6 Marketing - Weekly Updates #gta6 #gtavi #gtaonline",
-      "desc": "USD GTA 6 Giveaway!** I'm giving *6 lucky people $1111 USD each* which is enough for a PS5 Pro + GTA 6, or whatever else ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Miami Will Be Doing Crazy GTA 6 Marketing - Weekly Updates #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=-hYcEKKEx4U"
     },
     {
       "cat": "lancamento",
@@ -595,6 +595,36 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCfZFwPGOpbWk0z0Fk7tU6yA",
+      "outlier": true,
+      "date": "05/09/2026",
+      "publishedAt": "2026-09-05T11:15:03+00:00",
+      "headline": "REAGISCO ai COMMENTI DEL MONDO su MIKESHOWSHA e GTA VI 🌍😂",
+      "desc": "Ho provato GTA 6 per 2 ore e in questo video vi racconto che gioco sarà GTA VI!! Rispondo alle vostre domande sul gioco!",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('REAGISCO ai COMMENTI DEL MONDO su MIKESHOWSHA e GTA VI 🌍😂') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=nq2OKuP55-E"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
+      "outlier": true,
+      "date": "13/09/2026",
+      "publishedAt": "2026-09-13T11:00:37+00:00",
+      "headline": "Miami Will Be Doing Crazy GTA 6 Marketing - Weekly Updates #gta6 #gtavi #gtaonline",
+      "desc": "USD GTA 6 Giveaway!** I'm giving *6 lucky people $1111 USD each* which is enough for a PS5 Pro + GTA 6, or whatever else ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Miami Will Be Doing Crazy GTA 6 Marketing - Weekly Updates #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=-hYcEKKEx4U"
     },
     {
       "cat": "viral",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Players are all Moving to New Zealand?') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=o3baSuSwuf8"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC8NDrCKZ27lPzsk8uifXgSQ",
-      "outlier": true,
-      "date": "08/09/2026",
-      "publishedAt": "2026-09-08T02:45:16+00:00",
-      "headline": "LOS PRIMEROS QUE JUGARÁN GTA 6! #gaming #gta #gta6 #rockstargames #humor #gtavi",
-      "desc": "Vídeo em alta sobre GTA 6 (471260 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('LOS PRIMEROS QUE JUGARÁN GTA 6! #gaming #gta #gta6 #rockstargames #humor #gtavi') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=wx2SbhMlKyc"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
-      "outlier": true,
-      "date": "09/09/2026",
-      "publishedAt": "2026-09-09T10:00:09+00:00",
-      "headline": "I Guess This Won&#39;t Happen In GTA 6 #gta5 #gtav #gtaonline",
-      "desc": "USD GTA 6 Giveaway!** I'm giving *6 lucky people $1111 USD each* which is enough for a PS5 Pro + GTA 6, or whatever else ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('I Guess This Won&#39;t Happen In GTA 6 #gta5 #gtav #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=-e24rTAKCqk"
     }
   ]
 }
