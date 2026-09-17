@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T04:31:10+00:00",
+  "updated": "2026-09-17T13:17:46+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -302,6 +302,21 @@
       "url": "https://youtube.com/watch?v=81lxnmTNH_M"
     },
     {
+      "cat": "vendas",
+      "tagLabel": "Vendas & Preço",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCW9y5TPZV2RA-TK3D4NqBYA",
+      "outlier": true,
+      "date": "15/09/2026",
+      "publishedAt": "2026-09-15T19:23:36+00:00",
+      "headline": "Me Back Then Vs Now: GTA 6 price",
+      "desc": "Vídeo em alta sobre GTA 6 (698037 views).",
+      "signal": 5,
+      "hook": "Número na cara logo na primeira frase: 'Me Back Then Vs Now: GTA 6 price' — formato \"isso é muito ou pouco?\".",
+      "url": "https://youtube.com/watch?v=D9r7EVOIaDQ"
+    },
+    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('How im gonna be in GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=NunBuCEYq3k"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV1JLczDYt4ViQb3ibXif-w",
-      "outlier": true,
-      "date": "13/09/2026",
-      "publishedAt": "2026-09-13T03:00:37+00:00",
-      "headline": "PERKARA KACA DOANG GTA 6 DIHUJAT😹 #gta6 #grandtheftauto #ps5 #games #streamer #momenkocak #gta #gtav",
-      "desc": "Disuruh main kaca simulator ga tuh   Game: POU.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('PERKARA KACA DOANG GTA 6 DIHUJAT😹 #gta6 #grandtheftauto #ps5 #games #streamer #momenkocak #gta #gtav') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=oMRGfC3_TJc"
     },
     {
       "cat": "lancamento",
@@ -595,6 +595,36 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "17/09/2026",
+      "publishedAt": "2026-09-17T12:32:58+00:00",
+      "headline": "GTA VI The Album Launching November 19th",
+      "desc": "Grand Theft Auto VI: The Album, a collection of 34 brand-new, original tracks from a genre-defying roster of the most exciting artists in the world, is available for pre-save now on all major music streaming services here . Six debut singles are available to listen to today: - Yu",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA VI The Album Launching November 19th') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1wisq9o/gta_vi_the_album_launching_november_19th/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCV1JLczDYt4ViQb3ibXif-w",
+      "outlier": true,
+      "date": "13/09/2026",
+      "publishedAt": "2026-09-13T03:00:37+00:00",
+      "headline": "PERKARA KACA DOANG GTA 6 DIHUJAT😹 #gta6 #grandtheftauto #ps5 #games #streamer #momenkocak #gta #gtav",
+      "desc": "Disuruh main kaca simulator ga tuh   Game: POU.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('PERKARA KACA DOANG GTA 6 DIHUJAT😹 #gta6 #grandtheftauto #ps5 #games #streamer #momenkocak #gta #gtav') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=oMRGfC3_TJc"
     },
     {
       "cat": "viral",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('This will be the 1st Country to Play GTA 6! 🔥 #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=1NFF9eAkQcg"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCdFnxmnPgUApyI5dtZbni2Q",
-      "outlier": true,
-      "date": "09/09/2026",
-      "publishedAt": "2026-09-09T01:45:17+00:00",
-      "headline": "Por que vocês assistem depois de comprar? #humor #casal #gta #gta6 #playstation",
-      "desc": "Vídeo em alta sobre GTA 6 (480355 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Por que vocês assistem depois de comprar? #humor #casal #gta #gta6 #playstation') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=_oybd63rXn4"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCLipiicMQpAi1zKAzEXuzmA",
-      "outlier": true,
-      "date": "02/09/2026",
-      "publishedAt": "2026-09-02T20:08:26+00:00",
-      "headline": "GTA 6’s Map Is WAY Bigger Than We Thought",
-      "desc": "Following the latest GTA 6 gameplay reveals and developer previews from Rockstar North, we break down the true scale of Grand ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6’s Map Is WAY Bigger Than We Thought') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=ZGyKOjovCOI"
     }
   ]
 }
