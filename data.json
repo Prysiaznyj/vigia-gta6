@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T18:58:33+00:00",
+  "updated": "2026-09-18T22:26:46+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -302,6 +302,36 @@
       "url": "https://youtube.com/watch?v=IDrLPAX5qBQ"
     },
     {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCvpGyfQIzrghmPdm7KUDFmg",
+      "outlier": true,
+      "date": "17/09/2026",
+      "publishedAt": "2026-09-17T18:41:22+00:00",
+      "headline": "GTA 6: Por que a física desse pulo parece errada?",
+      "desc": "GTA6 #GTA #Games #RockstarGames #shorts.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: Por que a física desse pulo parece errada?') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=bdPXZd8PyjA"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCK7CPGf74Fpes6kKLMuAdBg",
+      "outlier": true,
+      "date": "16/09/2026",
+      "publishedAt": "2026-09-16T21:00:09+00:00",
+      "headline": "Why Troy Baker isn&#39;t in GTA 6 👀",
+      "desc": "We get to the bottom of how Troy Baker was left out of GTA 6 #gta6 #troybaker #voiceacting #grandtheftauto #grandtheftauto6 ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Why Troy Baker isn&#39;t in GTA 6 👀') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=VdbecnbHZ0M"
+    },
+    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -435,21 +465,6 @@
       "signal": 5,
       "hook": "Número na cara logo na primeira frase: 'Me Back Then Vs Now: GTA 6 price' — formato \"isso é muito ou pouco?\".",
       "url": "https://youtube.com/watch?v=D9r7EVOIaDQ"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC3jj6Yp-Te4me0tDAZFdAOg",
-      "outlier": true,
-      "date": "16/09/2026",
-      "publishedAt": "2026-09-16T02:34:14+00:00",
-      "headline": "GTA V पापा पापा ओ देखो😱 #gta5 #gta6 #gta7",
-      "desc": "GTA V पापा पापा ओ देखो   #gta5 #gta6 #gta7.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA V पापा पापा ओ देखो😱 #gta5 #gta6 #gta7') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=32_cYfLKNuU"
     },
     {
       "cat": "lancamento",
@@ -595,6 +610,36 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "18/09/2026",
+      "publishedAt": "2026-09-18T21:21:15+00:00",
+      "headline": "Release Day Flair Idea Thread",
+      "desc": "We're two months away and I'd like to start get some ideas from the community for the flair we'll offer for the release day. It may be last exclusive flair we offer for a while, but we will be adding some additional flairs near or after release for posts and users. If you have an",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Release Day Flair Idea Thread') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1wk2u9c/release_day_flair_idea_thread/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC3jj6Yp-Te4me0tDAZFdAOg",
+      "outlier": true,
+      "date": "16/09/2026",
+      "publishedAt": "2026-09-16T02:34:14+00:00",
+      "headline": "GTA V पापा पापा ओ देखो😱 #gta5 #gta6 #gta7",
+      "desc": "GTA V पापा पापा ओ देखो   #gta5 #gta6 #gta7.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA V पापा पापा ओ देखो😱 #gta5 #gta6 #gta7') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=32_cYfLKNuU"
     },
     {
       "cat": "viral",
@@ -850,51 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6: I Went Back Through The Extended Look Again...') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=SpMvM3TMHRM"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCfZFwPGOpbWk0z0Fk7tU6yA",
-      "outlier": true,
-      "date": "05/09/2026",
-      "publishedAt": "2026-09-05T11:15:03+00:00",
-      "headline": "REAGISCO ai COMMENTI DEL MONDO su MIKESHOWSHA e GTA VI 🌍😂",
-      "desc": "Ho provato GTA 6 per 2 ore e in questo video vi racconto che gioco sarà GTA VI!! Rispondo alle vostre domande sul gioco!",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('REAGISCO ai COMMENTI DEL MONDO su MIKESHOWSHA e GTA VI 🌍😂') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=nq2OKuP55-E"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
-      "outlier": true,
-      "date": "13/09/2026",
-      "publishedAt": "2026-09-13T11:00:37+00:00",
-      "headline": "Miami Will Be Doing Crazy GTA 6 Marketing - Weekly Updates #gta6 #gtavi #gtaonline",
-      "desc": "USD GTA 6 Giveaway!** I'm giving *6 lucky people $1111 USD each* which is enough for a PS5 Pro + GTA 6, or whatever else ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Miami Will Be Doing Crazy GTA 6 Marketing - Weekly Updates #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=-hYcEKKEx4U"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCoCmiYSrkih6SMAHSSiMTHg",
-      "outlier": true,
-      "date": "13/09/2026",
-      "publishedAt": "2026-09-13T07:30:21+00:00",
-      "headline": "Bro, You Need An Eye Checkup 😭 #shorts #gta6",
-      "desc": "shorts #gta6 #memes #rockstargames.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Bro, You Need An Eye Checkup 😭 #shorts #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=UmH2T8_4zAo"
     }
   ]
 }
