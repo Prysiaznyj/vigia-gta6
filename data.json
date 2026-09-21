@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T22:19:47+00:00",
+  "updated": "2026-09-21T04:29:20+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -156,6 +156,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
+      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
+      "outlier": true,
+      "date": "20/09/2026",
+      "publishedAt": "2026-09-20T10:03:43+00:00",
+      "headline": "GTA 6: 20 Questions We Still Need Answered",
+      "desc": "0:00 Heist Approaches 2:15 Weapon Customisation 2:59 Casinos and Gambling 3:48 Late Night Activities 4:56 Businesses and ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: 20 Questions We Still Need Answered') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=d8vdm4Yzuig"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
       "channelId": "UCe4LM_eKc9ywRmVuBm5pjQg",
       "outlier": true,
       "date": "17/09/2026",
@@ -285,21 +300,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Everything We Know About GTA 6 So Far') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=irzbYa_Dr2U"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCK4vuzS4fX8qxWi5Ik7XQYA",
-      "outlier": true,
-      "date": "10/09/2026",
-      "publishedAt": "2026-09-10T22:00:18+00:00",
-      "headline": "REAGINDO AO VÍDEO POLÊMICO DO GAVETA SOBRE GTA 6",
-      "desc": "gta6 #davyjones #gta REAGINDO AO VÍDEO POLÊMICO DO GAVETA SOBRE GTA 6 Vídeo Original: ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('REAGINDO AO VÍDEO POLÊMICO DO GAVETA SOBRE GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=IDrLPAX5qBQ"
     },
     {
       "cat": "viral",
@@ -630,6 +630,21 @@
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCK4vuzS4fX8qxWi5Ik7XQYA",
+      "outlier": true,
+      "date": "10/09/2026",
+      "publishedAt": "2026-09-10T22:00:18+00:00",
+      "headline": "REAGINDO AO VÍDEO POLÊMICO DO GAVETA SOBRE GTA 6",
+      "desc": "gta6 #davyjones #gta REAGINDO AO VÍDEO POLÊMICO DO GAVETA SOBRE GTA 6 Vídeo Original: ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('REAGINDO AO VÍDEO POLÊMICO DO GAVETA SOBRE GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=IDrLPAX5qBQ"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
       "videoType": "curto",
       "channelId": "UCa-CGirLOqXF1Kw2bgzQMsw",
       "outlier": true,
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('CONTROLE DO GTA 6 TÁ CARO 😱😱😱') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=s3k77qcYF8Q"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCsrWHWH8eHRjtWnY0TE3YNg",
-      "outlier": true,
-      "date": "14/09/2026",
-      "publishedAt": "2026-09-14T22:34:43+00:00",
-      "headline": "Happy Wheels before GTA 6!? 🤯",
-      "desc": "Drop a LIKE and SUBSCRIBE if you enjoyed the video! Remember To Click The Bell so you don't miss an upload   ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Happy Wheels before GTA 6!? 🤯') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=dshnuzDjDXQ"
     }
   ]
 }
