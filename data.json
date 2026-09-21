@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T15:00:47+00:00",
+  "updated": "2026-09-21T20:22:01+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -306,6 +306,36 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCmK2in-cVNbtDNhm2oDMg7w",
+      "outlier": true,
+      "date": "20/09/2026",
+      "publishedAt": "2026-09-20T11:17:43+00:00",
+      "headline": "मम्मी मुझे कोई मार रहा है #gta #gta6",
+      "desc": "मम्मी मुझे कोई मार रहा है #gta #gta6.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('मम्मी मुझे कोई मार रहा है #gta #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Fgf86HUbM30"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCQ-Ab3AzIlcLCWrPi1qK1UA",
+      "outlier": true,
+      "date": "19/09/2026",
+      "publishedAt": "2026-09-19T08:12:13+00:00",
+      "headline": "How Many PlayStations Will GTA 6 Survive?",
+      "desc": "GTA6 #GTAVI #PlayStation #PS5 #Gaming #GTA #GamingMemes #Meme #RockstarGames #Gamers.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('How Many PlayStations Will GTA 6 Survive?') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=PO0c2giJ7aQ"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCF3DxkC-lOgq9u4APBV7hgg",
       "outlier": true,
       "date": "20/09/2026",
@@ -420,36 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('This Is The Reason We Preserve Games - Weekly Updates #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=OlzTsSuHEqs"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCvpGyfQIzrghmPdm7KUDFmg",
-      "outlier": true,
-      "date": "17/09/2026",
-      "publishedAt": "2026-09-17T18:41:22+00:00",
-      "headline": "GTA 6: Por que a física desse pulo parece errada?",
-      "desc": "GTA6 #GTA #Games #RockstarGames #shorts.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: Por que a física desse pulo parece errada?') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=bdPXZd8PyjA"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC91hT-4vHJJfRIK8OsatIeQ",
-      "outlier": true,
-      "date": "16/09/2026",
-      "publishedAt": "2026-09-16T15:30:38+00:00",
-      "headline": "We Might Play GTA 6 On PC Day 1 😭🙏 #gta6 #shorts",
-      "desc": "Will we actually play GTA 6 on PC Day 1 through emulation? A massive breakthrough in PlayStation 5 emulation just shocked ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('We Might Play GTA 6 On PC Day 1 😭🙏 #gta6 #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=IXnM_2WH11s"
     },
     {
       "cat": "lancamento",
@@ -625,6 +625,36 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCvpGyfQIzrghmPdm7KUDFmg",
+      "outlier": true,
+      "date": "17/09/2026",
+      "publishedAt": "2026-09-17T18:41:22+00:00",
+      "headline": "GTA 6: Por que a física desse pulo parece errada?",
+      "desc": "GTA6 #GTA #Games #RockstarGames #shorts.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: Por que a física desse pulo parece errada?') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=bdPXZd8PyjA"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC91hT-4vHJJfRIK8OsatIeQ",
+      "outlier": true,
+      "date": "16/09/2026",
+      "publishedAt": "2026-09-16T15:30:38+00:00",
+      "headline": "We Might Play GTA 6 On PC Day 1 😭🙏 #gta6 #shorts",
+      "desc": "Will we actually play GTA 6 on PC Day 1 through emulation? A massive breakthrough in PlayStation 5 emulation just shocked ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('We Might Play GTA 6 On PC Day 1 😭🙏 #gta6 #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=IXnM_2WH11s"
     },
     {
       "cat": "viral",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Will Lucia Get Jealous Of Jason&#39;s Shoe Store Visits? - Weekly Updates #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=aG4rzIkFauo"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCmnXLf93mnMiC_UOI1eDQmg",
-      "outlier": true,
-      "date": "15/09/2026",
-      "publishedAt": "2026-09-15T10:00:20+00:00",
-      "headline": "Er wollte nicht auf GTA 6 warten 😂",
-      "desc": "shorts Er wollte nicht auf GTA 6 warten.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Er wollte nicht auf GTA 6 warten 😂') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=72olpj6EIGs"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
-      "outlier": true,
-      "date": "15/09/2026",
-      "publishedAt": "2026-09-15T02:00:19+00:00",
-      "headline": "GTA 6 But Deals Never Go Wrong #gta5 #gtav #gtaonline",
-      "desc": "USD GTA 6 Giveaway!** I'm giving *6 lucky people $1111 USD each* which is enough for a PS5 Pro + GTA 6, or whatever else ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 But Deals Never Go Wrong #gta5 #gtav #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=0TVMheamHyM"
     }
   ]
 }
