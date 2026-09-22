@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T20:22:01+00:00",
+  "updated": "2026-09-22T04:26:00+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -306,6 +306,51 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCUZfhX79dQrJvAgYefiXCCA",
+      "outlier": true,
+      "date": "19/09/2026",
+      "publishedAt": "2026-09-19T16:45:20+00:00",
+      "headline": "QUANDO CHEGA A MÍDIA FÍSICA DO GTA 6? #playstation #xbox #gta6",
+      "desc": "Vídeo em alta sobre GTA 6 (341447 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('QUANDO CHEGA A MÍDIA FÍSICA DO GTA 6? #playstation #xbox #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=bQx2JRxhrl4"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC1YCNjgcdHV_fyamCr1Qrcw",
+      "outlier": true,
+      "date": "19/09/2026",
+      "publishedAt": "2026-09-19T15:46:42+00:00",
+      "headline": "DAVY JONES COMENTA SOBRE GTA6",
+      "desc": "Aprenda a animar: https://go.hotmart.com/H95824668E?dp=1 Patreon: https://www.patreon.com/cw/digonex Contato: ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('DAVY JONES COMENTA SOBRE GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=fk1ogNrYZJw"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC9se5hEXWfcX8oAEbOdObLA",
+      "outlier": true,
+      "date": "19/09/2026",
+      "publishedAt": "2026-09-19T14:22:31+00:00",
+      "headline": "HO CALCOLATO LA DATA DI USCITA DI GTA 6 😂",
+      "desc": "Questa storia potrebbe essere basata su fatti reali, ma tutti i nomi, i dettagli e le informazioni identificative sono stati modificati o ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('HO CALCOLATO LA DATA DI USCITA DI GTA 6 😂') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=cP1C_IkRyyI"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCmK2in-cVNbtDNhm2oDMg7w",
       "outlier": true,
       "date": "20/09/2026",
@@ -435,21 +480,6 @@
       "signal": 5,
       "hook": "Abre direto com 'The worst time to go to jail is... #gta6 #memes #gaming' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
       "url": "https://youtube.com/watch?v=Mq43FvvTUe4"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
-      "outlier": true,
-      "date": "18/09/2026",
-      "publishedAt": "2026-09-18T04:00:16+00:00",
-      "headline": "This Is The Reason We Preserve Games - Weekly Updates #gta6 #gtavi #gtaonline",
-      "desc": "USD GTA 6 Giveaway!** I'm giving *6 lucky people $1111 USD each* which is enough for a PS5 Pro + GTA 6, or whatever else ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('This Is The Reason We Preserve Games - Weekly Updates #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=OlzTsSuHEqs"
     },
     {
       "cat": "lancamento",
@@ -625,6 +655,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
+      "outlier": true,
+      "date": "18/09/2026",
+      "publishedAt": "2026-09-18T04:00:16+00:00",
+      "headline": "This Is The Reason We Preserve Games - Weekly Updates #gta6 #gtavi #gtaonline",
+      "desc": "USD GTA 6 Giveaway!** I'm giving *6 lucky people $1111 USD each* which is enough for a PS5 Pro + GTA 6, or whatever else ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('This Is The Reason We Preserve Games - Weekly Updates #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=OlzTsSuHEqs"
     },
     {
       "cat": "viral",
@@ -850,51 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('JAMÁS ENCUENTRES AL MEGALODÓN en GTA 5!  #gta5 #gta6 #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=5Pto6CMAEKA"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCn7xknPbWDjGQCzBLhtubiA",
-      "outlier": true,
-      "date": "09/09/2026",
-      "publishedAt": "2026-09-09T05:00:32+00:00",
-      "headline": "GTA 6 is straks alleen nog maar te downloaden | LUBACH",
-      "desc": "Op 19 november verschijnt GTA6: naar verwachting het grootste entertainment product uit de geschiedenis. Ze stoppen alleen ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 is straks alleen nog maar te downloaden | LUBACH') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=u3yvQuFvRBI"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
-      "outlier": true,
-      "date": "08/09/2026",
-      "publishedAt": "2026-09-08T07:15:28+00:00",
-      "headline": "GTA 6: 35 MORE New Details - Gang Territories, Break-Ups &amp; Fat Cops",
-      "desc": "Get 10% off all GamerSupps products with this link - https://gamersupps.gg/tgg Follow me on Twitter/X: ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: 35 MORE New Details - Gang Territories, Break-Ups &amp; Fat Cops') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=81lxnmTNH_M"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
-      "outlier": true,
-      "date": "14/09/2026",
-      "publishedAt": "2026-09-14T17:00:37+00:00",
-      "headline": "Will Lucia Get Jealous Of Jason&#39;s Shoe Store Visits? - Weekly Updates #gta6 #gtavi #gtaonline",
-      "desc": "USD GTA 6 Giveaway!** I'm giving *6 lucky people $1111 USD each* which is enough for a PS5 Pro + GTA 6, or whatever else ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Will Lucia Get Jealous Of Jason&#39;s Shoe Store Visits? - Weekly Updates #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=aG4rzIkFauo"
     }
   ]
 }
