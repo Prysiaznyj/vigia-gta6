@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T13:27:39+00:00",
+  "updated": "2026-09-24T19:55:31+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -659,6 +659,21 @@
     {
       "cat": "viral",
       "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "24/09/2026",
+      "publishedAt": "2026-09-24T18:13:43+00:00",
+      "headline": "Collectors Box FAQ's",
+      "desc": "There are a lot of questions about the Collectors Box, and a lot of opinions for sure. Regardless, feel free to ask any questions about the Collectors Box in this thread. Here's what we know: Official Collectors Box Website Announcement Thread Included Items What the box will loo",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Collectors Box FAQ's') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1wp960q/collectors_box_faqs/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
       "channelId": "UC2fIoxpCWkK4pXrFIp2UKqA",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('EL SIGNIFICADO DE LAS ESTRELLAS EN GTA 6⭐  #gta  #gta5 #gtav #gtarp#espacio #humor #gtaonline #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=E8rbwzwxaf4"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
-      "outlier": true,
-      "date": "14/09/2026",
-      "publishedAt": "2026-09-14T14:41:37+00:00",
-      "headline": "Everything We Know About GTA 6 So Far",
-      "desc": "Get 10% off all GamerSupps products with this link - https://gamersupps.gg/tgg CHAPTERS 00:00 Intro 00:31 My Rockstar ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Everything We Know About GTA 6 So Far') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=irzbYa_Dr2U"
     }
   ]
 }
