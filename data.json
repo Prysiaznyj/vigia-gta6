@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T19:57:00+00:00",
+  "updated": "2026-09-25T23:14:27+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
+      "outlier": true,
+      "date": "24/09/2026",
+      "publishedAt": "2026-09-24T11:00:13+00:00",
+      "headline": "Rockstar&#39;s Weird Approach To Physical Media - Weekly Updates #gta6 #gtavi #gtaonline",
+      "desc": "USD GTA 6 Giveaway!** I'm giving *6 lucky people $1111 USD each* which is enough for a PS5 Pro + GTA 6, or whatever else ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Rockstar&#39;s Weird Approach To Physical Media - Weekly Updates #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=fDaqtFAHufw"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCjVmQP4XD2WqjYQWPIVMarA",
       "outlier": true,
       "date": "24/09/2026",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6 EM FAMÍLIA?? QUEM É O IMPOSTOR??') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=n4Fp-MUxFjY"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCiTMGtzWe25y3rehG0bIpsg",
-      "outlier": true,
-      "date": "21/09/2026",
-      "publishedAt": "2026-09-21T12:15:37+00:00",
-      "headline": "Car Crashes in Top Games 🤔🤯🔥 GTA 6?",
-      "desc": "Hope You Enjoy Video : ) Don't Forget To Subscribe #gta6 #gta6leaks #gaming #shorts #beamngdrive. ✓ Follow Me On ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Car Crashes in Top Games 🤔🤯🔥 GTA 6?') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=LohGhSQFSXU"
     },
     {
       "cat": "lancamento",
@@ -655,6 +655,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCiTMGtzWe25y3rehG0bIpsg",
+      "outlier": true,
+      "date": "21/09/2026",
+      "publishedAt": "2026-09-21T12:15:37+00:00",
+      "headline": "Car Crashes in Top Games 🤔🤯🔥 GTA 6?",
+      "desc": "Hope You Enjoy Video : ) Don't Forget To Subscribe #gta6 #gta6leaks #gaming #shorts #beamngdrive. ✓ Follow Me On ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Car Crashes in Top Games 🤔🤯🔥 GTA 6?') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=LohGhSQFSXU"
     },
     {
       "cat": "viral",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6 : Le jeu qui va briser des couples') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=jAV15HKhrzU"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC9se5hEXWfcX8oAEbOdObLA",
-      "outlier": true,
-      "date": "19/09/2026",
-      "publishedAt": "2026-09-19T14:22:31+00:00",
-      "headline": "HO CALCOLATO LA DATA DI USCITA DI GTA 6 😂",
-      "desc": "Questa storia potrebbe essere basata su fatti reali, ma tutti i nomi, i dettagli e le informazioni identificative sono stati modificati o ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('HO CALCOLATO LA DATA DI USCITA DI GTA 6 😂') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=cP1C_IkRyyI"
     }
   ]
 }
