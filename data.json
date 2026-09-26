@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T19:09:17+00:00",
+  "updated": "2026-09-26T22:37:23+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -156,6 +156,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
+      "channelId": "UCq6VFHwMzcMXbuKyG7SQYIg",
+      "outlier": false,
+      "date": "26/09/2026",
+      "publishedAt": "2026-09-26T17:30:09+00:00",
+      "headline": "GTA 6 Collector&#39;s Edition is Pathetic",
+      "desc": "Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Use Cheeky ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Collector&#39;s Edition is Pathetic') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=5Z7IZa-fGCc"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
       "channelId": "UC5Pi8DHUItNgbGVhjh4kVgQ",
       "outlier": true,
       "date": "22/09/2026",
@@ -180,21 +195,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('ILLOJUAN habla del ÁLBUM OFICIAL de GTA 6, las ÚLTIMAS FILTRACIONES y el MOD que NO USARÁ') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=T0LSmHVY5Fw"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCuM98BwdxBtyId7GtMmIDvw",
-      "outlier": true,
-      "date": "23/09/2026",
-      "publishedAt": "2026-09-23T09:29:46+00:00",
-      "headline": "GTA 5 Live Parkour | MRRAJAPLAY #gtalive #gtaonline #gta5 #gtav #gaming #gta6",
-      "desc": "GTA 5 Live Parkour | MRRAJAPLAY #gtalive #gtaonline #gta5 #gtav #gaming #gta6 Welcome to MRRAJAPLAY LIVE – where ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 5 Live Parkour | MRRAJAPLAY #gtalive #gtaonline #gta5 #gtav #gaming #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=R-KBelG-ptc"
     },
     {
       "cat": "viral",
@@ -300,6 +300,21 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Travis Scott – RHYNO (prod. by Guy-Manuel de Homem-Christo) (From Grand Theft Auto VI: The Album)') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=3Ev1PQEm7ns"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCa5JccUsgUgEnfe4oqGDOTw",
+      "outlier": true,
+      "date": "25/09/2026",
+      "publishedAt": "2026-09-25T19:59:04+00:00",
+      "headline": "can I play gta 6 on ts",
+      "desc": "can I play? #fyp​​​​​ #viral​​​​​ #trending​​​​​ #foryou​​​​​ #foryoupage​​​​​ #funny​​​​​ #meme​​​​​ ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('can I play gta 6 on ts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=SG4pIGXiLfc"
     },
     {
       "cat": "viral",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('There’s NO way😭 #gaming #gta6 #gamingnews #gta #skit') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=O6eB2I8bFPs"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCkq8pLPNfKICwiL_pUnVSpA",
-      "outlier": true,
-      "date": "24/09/2026",
-      "publishedAt": "2026-09-24T17:00:08+00:00",
-      "headline": "Deadly Ants Before GTA 6",
-      "desc": "shorts #ants #gta6.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Deadly Ants Before GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=7d054Dw7spI"
     },
     {
       "cat": "lancamento",
@@ -655,6 +655,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCkq8pLPNfKICwiL_pUnVSpA",
+      "outlier": true,
+      "date": "24/09/2026",
+      "publishedAt": "2026-09-24T17:00:08+00:00",
+      "headline": "Deadly Ants Before GTA 6",
+      "desc": "shorts #ants #gta6.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Deadly Ants Before GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=7d054Dw7spI"
     },
     {
       "cat": "viral",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Collectors Box FAQ's') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://www.reddit.com/r/GTA6/comments/1wp960q/collectors_box_faqs/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC2fIoxpCWkK4pXrFIp2UKqA",
-      "outlier": true,
-      "date": "20/09/2026",
-      "publishedAt": "2026-09-20T03:36:11+00:00",
-      "headline": "I Found GTA 6 in GTA 5 🤣 #shorts",
-      "desc": "Funny gta 5 24 hour challenge Gaming shorts funny gameplay in hindi short video part 4 like gamerfleet shorts and techno gamer ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('I Found GTA 6 in GTA 5 🤣 #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=OqOwzlE1E_k"
     }
   ]
 }
