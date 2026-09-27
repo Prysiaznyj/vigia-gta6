@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T22:37:23+00:00",
+  "updated": "2026-09-27T04:53:55+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -156,21 +156,6 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
-      "channelId": "UCq6VFHwMzcMXbuKyG7SQYIg",
-      "outlier": false,
-      "date": "26/09/2026",
-      "publishedAt": "2026-09-26T17:30:09+00:00",
-      "headline": "GTA 6 Collector&#39;s Edition is Pathetic",
-      "desc": "Starforge PC https://starforgepc.com/moist-yt Get Goof Juice and use code MOIST https://gamersupps.gg/moist Use Cheeky ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 Collector&#39;s Edition is Pathetic') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=5Z7IZa-fGCc"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
       "channelId": "UC5Pi8DHUItNgbGVhjh4kVgQ",
       "outlier": true,
       "date": "22/09/2026",
@@ -300,6 +285,21 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Travis Scott – RHYNO (prod. by Guy-Manuel de Homem-Christo) (From Grand Theft Auto VI: The Album)') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=3Ev1PQEm7ns"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
+      "outlier": true,
+      "date": "01/09/2026",
+      "publishedAt": "2026-09-01T15:41:34+00:00",
+      "headline": "Games EduUu vendo o trailer de GTA 6 É INCRÍVEL",
+      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA PlayStation 5 Slim Digital – Pacote ASTRO BOT e Gran ...",
+      "signal": 5,
+      "hook": "Abre direto com 'Games EduUu vendo o trailer de GTA 6 É INCRÍVEL' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=W15smB_c31A"
     },
     {
       "cat": "viral",
@@ -510,21 +510,6 @@
       "signal": 5,
       "hook": "Número na cara logo na primeira frase: 'Me Back Then Vs Now: GTA 6 price' — formato \"isso é muito ou pouco?\".",
       "url": "https://youtube.com/watch?v=D9r7EVOIaDQ"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
-      "outlier": true,
-      "date": "01/09/2026",
-      "publishedAt": "2026-09-01T15:41:34+00:00",
-      "headline": "Games EduUu vendo o trailer de GTA 6 É INCRÍVEL",
-      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA PlayStation 5 Slim Digital – Pacote ASTRO BOT e Gran ...",
-      "signal": 5,
-      "hook": "Abre direto com 'Games EduUu vendo o trailer de GTA 6 É INCRÍVEL' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=W15smB_c31A"
     },
     {
       "cat": "lancamento",
@@ -895,6 +880,21 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Collectors Box FAQ's') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://www.reddit.com/r/GTA6/comments/1wp960q/collectors_box_faqs/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "27/09/2026",
+      "publishedAt": "2026-09-27T00:22:27+00:00",
+      "headline": "We can expect TONS of random encounters in GTA VI",
+      "desc": "MikeShowSha, a content creator who also visited Rockstar North for an exclusive preview talked about one random encounter that occurred whilst watching Rob Nelson play. It was about two female robbers who were trapped inside a jewellery store they were robbing after triggering th",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('We can expect TONS of random encounters in GTA VI') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1wr5xmr/we_can_expect_tons_of_random_encounters_in_gta_vi/"
     }
   ]
 }
