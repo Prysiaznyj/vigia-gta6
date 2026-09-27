@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T19:41:39+00:00",
+  "updated": "2026-09-27T22:56:29+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCmK2in-cVNbtDNhm2oDMg7w",
+      "outlier": true,
+      "date": "25/09/2026",
+      "publishedAt": "2026-09-25T11:11:28+00:00",
+      "headline": "GTA V चिंटू का तकिया #gta #gta6",
+      "desc": "GTA V चिंटू का तकिया #gta #gta6.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA V चिंटू का तकिया #gta #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=HxHp9Qp3D9w"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCjeGsPeeCvMfa_CK2pEwMkQ",
       "outlier": true,
       "date": "25/09/2026",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('🫨 В GTA 6 работает ДАЖЕ ЭТО?! #gta6 #gtaVI #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=ElkUY5Jhzl0"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
-      "outlier": true,
-      "date": "24/09/2026",
-      "publishedAt": "2026-09-24T11:00:13+00:00",
-      "headline": "Rockstar&#39;s Weird Approach To Physical Media - Weekly Updates #gta6 #gtavi #gtaonline",
-      "desc": "USD GTA 6 Giveaway!** I'm giving *6 lucky people $1111 USD each* which is enough for a PS5 Pro + GTA 6, or whatever else ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Rockstar&#39;s Weird Approach To Physical Media - Weekly Updates #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=fDaqtFAHufw"
     },
     {
       "cat": "lancamento",
@@ -640,6 +640,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
+      "outlier": true,
+      "date": "24/09/2026",
+      "publishedAt": "2026-09-24T11:00:13+00:00",
+      "headline": "Rockstar&#39;s Weird Approach To Physical Media - Weekly Updates #gta6 #gtavi #gtaonline",
+      "desc": "USD GTA 6 Giveaway!** I'm giving *6 lucky people $1111 USD each* which is enough for a PS5 Pro + GTA 6, or whatever else ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Rockstar&#39;s Weird Approach To Physical Media - Weekly Updates #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=fDaqtFAHufw"
     },
     {
       "cat": "viral",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('#fyp #gta6 #viral #gta #youtubeshorts #meme #video') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=ALgS3n0Q4HM"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "24/09/2026",
-      "publishedAt": "2026-09-24T18:13:43+00:00",
-      "headline": "Collectors Box FAQ's",
-      "desc": "There are a lot of questions about the Collectors Box, and a lot of opinions for sure. Regardless, feel free to ask any questions about the Collectors Box in this thread. Here's what we know: Official Collectors Box Website Announcement Thread Included Items What the box will loo",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Collectors Box FAQ's') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1wp960q/collectors_box_faqs/"
     }
   ]
 }
