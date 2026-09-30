@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T23:35:57+00:00",
+  "updated": "2026-09-30T05:08:24+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -156,21 +156,6 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
-      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
-      "outlier": true,
-      "date": "29/09/2026",
-      "publishedAt": "2026-09-29T20:24:32+00:00",
-      "headline": "GTA 6: NEW INFO - 12 Screenshots, Hurricanes, Theme Parks, 170 Animals, Map Details &amp; More!",
-      "desc": "GameInformer article: https://gameinformer.com/feature/2026/09/29/grand-theft-auto-vi-welcome-to-leonida 0:00 Huge New GTA 6 ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: NEW INFO - 12 Screenshots, Hurricanes, Theme Parks, 170 Animals, Map Details &amp; More!') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=c0Com9SMv1s"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
       "channelId": "UCUZfhX79dQrJvAgYefiXCCA",
       "outlier": true,
       "date": "29/09/2026",
@@ -302,6 +287,51 @@
       "url": "https://youtube.com/watch?v=G59iOfClrVo"
     },
     {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
+      "outlier": true,
+      "date": "01/09/2026",
+      "publishedAt": "2026-09-01T15:41:34+00:00",
+      "headline": "Games EduUu vendo o trailer de GTA 6 É INCRÍVEL",
+      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA PlayStation 5 Slim Digital – Pacote ASTRO BOT e Gran ...",
+      "signal": 5,
+      "hook": "Abre direto com 'Games EduUu vendo o trailer de GTA 6 É INCRÍVEL' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=W15smB_c31A"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCyTJNHImtw3Vfz3Z2AReXAw",
+      "outlier": true,
+      "date": "29/09/2026",
+      "publishedAt": "2026-09-29T05:16:48+00:00",
+      "headline": "Waiting for GTA 6 be like...",
+      "desc": "thx for watching ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Waiting for GTA 6 be like...') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=puay7K5_Sm4"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCrLzg5ygnf4yItNL7fB31rw",
+      "outlier": true,
+      "date": "27/09/2026",
+      "publishedAt": "2026-09-27T11:45:11+00:00",
+      "headline": "I opened the GTA 6 Pringles and found THIS 😱 #gta6 #pringles #surprise",
+      "desc": "I opened the GTA 6 Pringles and found THIS #gta6 #pringles #surprise This follows the same high-SEO structure: I opened the ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('I opened the GTA 6 Pringles and found THIS 😱 #gta6 #pringles #surprise') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=PoH6fPyKzM4"
+    },
+    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -381,21 +411,6 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
-      "channelId": "UCF3DxkC-lOgq9u4APBV7hgg",
-      "outlier": true,
-      "date": "28/09/2026",
-      "publishedAt": "2026-09-28T13:01:35+00:00",
-      "headline": "Valió La Pena Por GTA 6 😵",
-      "desc": "Esta historia puede estar basada en hechos reales, pero todos los nombres, detalles e información identificativa han sido ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Valió La Pena Por GTA 6 😵') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=91Ifwn3RF4U"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
       "channelId": "UCmK2in-cVNbtDNhm2oDMg7w",
       "outlier": true,
       "date": "28/09/2026",
@@ -405,21 +420,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA V इंजेक्शन लगा स्पाइडर #gta #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=oVWgIMPlKW8"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCc1IIOjybqQhcK_Ql6SRJRA",
-      "outlier": true,
-      "date": "27/09/2026",
-      "publishedAt": "2026-09-27T12:00:11+00:00",
-      "headline": "Minecraft, GTA 6 and Avengers Doomsday… | #minecraft #minecraftlive #gta6 #avengersdoomsday #marvel",
-      "desc": "Vídeo em alta sobre GTA 6 (456781 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Minecraft, GTA 6 and Avengers Doomsday… | #minecraft #minecraftlive #gta6 #avengersdoomsday #marvel') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=03JbqmdwGI0"
     },
     {
       "cat": "viral",
@@ -450,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Gta 6 destroyed Techno gamer&#39;s career') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=BFzNkSe7rFc"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
-      "outlier": true,
-      "date": "01/09/2026",
-      "publishedAt": "2026-09-01T15:41:34+00:00",
-      "headline": "Games EduUu vendo o trailer de GTA 6 É INCRÍVEL",
-      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA PlayStation 5 Slim Digital – Pacote ASTRO BOT e Gran ...",
-      "signal": 5,
-      "hook": "Abre direto com 'Games EduUu vendo o trailer de GTA 6 É INCRÍVEL' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=W15smB_c31A"
     },
     {
       "cat": "lancamento",
@@ -895,6 +880,21 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('There’s NO way😭 #gaming #gta6 #gamingnews #gta #skit') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=O6eB2I8bFPs"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "30/09/2026",
+      "publishedAt": "2026-09-30T02:51:50+00:00",
+      "headline": "Found the Same place IRL as Mount Kalaga (Amicalola Falls State Park in Georgia)",
+      "desc": "Post em alta no r/GTA6 — ver fonte.",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('Found the Same place IRL as Mount Kalaga (Amicalola Falls State Park in Georgia)') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1wttrx9/found_the_same_place_irl_as_mount_kalaga/"
     }
   ]
 }
