@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T05:11:21+00:00",
+  "updated": "2026-10-02T14:39:19+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -306,6 +306,36 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCmK2in-cVNbtDNhm2oDMg7w",
+      "outlier": true,
+      "date": "01/10/2026",
+      "publishedAt": "2026-10-01T11:17:05+00:00",
+      "headline": "GTA V मम्मी का कोल्ड ड्रिंक #gta #gta6",
+      "desc": "Vídeo em alta sobre GTA 6 (2124122 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA V मम्मी का कोल्ड ड्रिंक #gta #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=QjbqYzLvZ-k"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCTeSFqKjAJZuxMyvMFGkklA",
+      "outlier": true,
+      "date": "30/09/2026",
+      "publishedAt": "2026-09-30T11:19:45+00:00",
+      "headline": "GTA 6 is gonna break my PS5 😭 | #marvel Television #loki (2021-2023) #edit",
+      "desc": "Yo do y'all even have cockroaches in you Playstations?? If so you gotta clean that ish out ABOUT LOKI (via Wikipedia) Loki ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 is gonna break my PS5 😭 | #marvel Television #loki (2021-2023) #edit') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=BaEssM1WZXI"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
       "outlier": true,
       "date": "30/09/2026",
@@ -366,21 +396,6 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
-      "channelId": "UCmK2in-cVNbtDNhm2oDMg7w",
-      "outlier": true,
-      "date": "30/09/2026",
-      "publishedAt": "2026-09-30T11:13:34+00:00",
-      "headline": "GTA V चिंटू को डरा दिया #gta #gta6",
-      "desc": "Vídeo em alta sobre GTA 6 (957336 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA V चिंटू को डरा दिया #gta #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=qu2WkFDlbZs"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
       "channelId": "UCXe9j5kjLNIUFvCr81b7Y_g",
       "outlier": true,
       "date": "29/09/2026",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Waiting for GTA 6 be like...') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=puay7K5_Sm4"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCrLzg5ygnf4yItNL7fB31rw",
-      "outlier": true,
-      "date": "27/09/2026",
-      "publishedAt": "2026-09-27T11:45:11+00:00",
-      "headline": "I opened the GTA 6 Pringles and found THIS 😱 #gta6 #pringles #surprise",
-      "desc": "I opened the GTA 6 Pringles and found THIS #gta6 #pringles #surprise This follows the same high-SEO structure: I opened the ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('I opened the GTA 6 Pringles and found THIS 😱 #gta6 #pringles #surprise') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=PoH6fPyKzM4"
     },
     {
       "cat": "lancamento",
@@ -675,6 +675,21 @@
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCrLzg5ygnf4yItNL7fB31rw",
+      "outlier": true,
+      "date": "27/09/2026",
+      "publishedAt": "2026-09-27T11:45:11+00:00",
+      "headline": "I opened the GTA 6 Pringles and found THIS 😱 #gta6 #pringles #surprise",
+      "desc": "I opened the GTA 6 Pringles and found THIS #gta6 #pringles #surprise This follows the same high-SEO structure: I opened the ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('I opened the GTA 6 Pringles and found THIS 😱 #gta6 #pringles #surprise') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=PoH6fPyKzM4"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
       "videoType": "longo",
       "channelId": "UCK4vuzS4fX8qxWi5Ik7XQYA",
       "outlier": true,
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('The GTA 6 collectors edition is not good. IMO.') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=1EIGS9qzLhw"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCgwmbLePv-dEjiwz1xq3S7w",
-      "outlier": true,
-      "date": "26/09/2026",
-      "publishedAt": "2026-09-26T11:19:52+00:00",
-      "headline": "😂 LES BUGS qu&#39;on va avoir au lancement de GTA 6 c&#39;est sûr ! ... #gta6 🤣🎮",
-      "desc": "Vidéos tous les jours GTA 6 humour GTA VI Vice City Jason Lucia Rockstar Games PS5 Xbox PC Gaming jeux vidéo sketch ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('😂 LES BUGS qu&#39;on va avoir au lancement de GTA 6 c&#39;est sûr ! ... #gta6 🤣🎮') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=kvbKLfTlcgw"
     }
   ]
 }
