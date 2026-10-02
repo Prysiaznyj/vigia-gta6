@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T20:56:12+00:00",
+  "updated": "2026-10-02T05:11:21+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -156,6 +156,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
+      "channelId": "UC36MGPfPwOWafAXauiV4LdA",
+      "outlier": true,
+      "date": "29/09/2026",
+      "publishedAt": "2026-09-29T23:40:01+00:00",
+      "headline": "Rockstar Games Sent Me a Surprise GTA 6 Package",
+      "desc": "Thank you Rockstar, can't believe this timeline we're in. 50 days left.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Rockstar Games Sent Me a Surprise GTA 6 Package') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=e7FkZN7QQmE"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
       "channelId": "UCp7wTrsCU7eICb5z69D3rwA",
       "outlier": true,
       "date": "29/09/2026",
@@ -285,21 +300,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6 - ALL NEW INFO In 13 Minutes!') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=Jq3n90n2hrc"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCK4vuzS4fX8qxWi5Ik7XQYA",
-      "outlier": true,
-      "date": "19/09/2026",
-      "publishedAt": "2026-09-19T20:00:10+00:00",
-      "headline": "NOSTALGIA! Reagindo ao meu PRIMEIRO VÍDEO de GTA 5",
-      "desc": "gta6 #davyjones #gta #gameplayrj NOSTALGIA! REAGINDO AO MEU PRIMEIRO VÍDEO DE GTA 5 Nesse vídeo Davy Jones ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('NOSTALGIA! Reagindo ao meu PRIMEIRO VÍDEO de GTA 5') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=X2dKXaAgIfs"
     },
     {
       "cat": "viral",
@@ -675,6 +675,21 @@
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCK4vuzS4fX8qxWi5Ik7XQYA",
+      "outlier": true,
+      "date": "19/09/2026",
+      "publishedAt": "2026-09-19T20:00:10+00:00",
+      "headline": "NOSTALGIA! Reagindo ao meu PRIMEIRO VÍDEO de GTA 5",
+      "desc": "gta6 #davyjones #gta #gameplayrj NOSTALGIA! REAGINDO AO MEU PRIMEIRO VÍDEO DE GTA 5 Nesse vídeo Davy Jones ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('NOSTALGIA! Reagindo ao meu PRIMEIRO VÍDEO de GTA 5') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=X2dKXaAgIfs"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
       "videoType": "curto",
       "channelId": "UCDFqIS5E29jTaShtIyZvpjQ",
       "outlier": true,
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('😂 LES BUGS qu&#39;on va avoir au lancement de GTA 6 c&#39;est sûr ! ... #gta6 🤣🎮') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=kvbKLfTlcgw"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCjeGsPeeCvMfa_CK2pEwMkQ",
-      "outlier": true,
-      "date": "25/09/2026",
-      "publishedAt": "2026-09-25T07:00:13+00:00",
-      "headline": "GTA6를 드론으로 불법 촬영한 유저",
-      "desc": "Vídeo em alta sobre GTA 6 (612788 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA6를 드론으로 불법 촬영한 유저') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=iuaohOjxo0M"
     }
   ]
 }
