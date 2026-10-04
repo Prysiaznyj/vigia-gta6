@@ -1,6 +1,21 @@
 {
-  "updated": "2026-10-04T13:52:12+00:00",
+  "updated": "2026-10-04T19:24:32+00:00",
   "items": [
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "04/10/2026",
+      "publishedAt": "2026-10-04T17:06:55+00:00",
+      "headline": "GTA 6: Nova atualização oficial confirmada para 5 de outubro",
+      "desc": "Fonte: Última Ficha",
+      "signal": 4,
+      "hook": "Curiosidade rápida: 'GTA 6: Nova atualização oficial confirmada para 5 de outubro' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PaGFLSDc1QmF0SUdBNHhJQ3FjZVRWb3lPUXR6QmRtTDY1YWJyVUYyY01obGNrM3piTWVuMFczN1ZTeVh1dzBwRjlJRTRnLUhRMGlkcTI1SkR2c3JEWUlvQTZhdzM4TGstWFRpS1hIODdLZw?oc=5"
+    },
     {
       "cat": "curiosidade",
       "tagLabel": "Curiosidade",
@@ -135,21 +150,6 @@
       "signal": 4,
       "hook": "Curiosidade rápida: 'Rockstar anuncia trilha sonora oficial de GTA 6 com 34 faixas e edições em vinil e CD; confira valores' — bom pra fechar um vídeo ou virar corte solto.",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaVFIYnhFWHhURDRJRVRFWUEwTm9YZGhOOXZEeHBxUmRpLXVkQzYzVTRiLWZhRDQyZ0Z2OFg2TzFNVU1CajA2U01XbFJCMlE0S1hpeHRtY0pESFdleldZcUZ5ajJDR0NENHdXTjQweEJtVE92OVBmSzV2bndzN3cxcEhoWlRDelAxVFlaeE44NF9DTkpTSVBwTHAtQ2VxUmJmQ0ZUSFNaalRfWVJWNXRMaDJHbmdFMUo5bU9PUzc5SUdVWnlFYTEyY1B6bXJnNGJhRGtGbFhPNG9zQmhH?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "16/09/2026",
-      "publishedAt": "2026-09-16T13:15:00+00:00",
-      "headline": "Phil Collins, Travis Scott e mais! Confira os artistas confirmados nas rádios de GTA 6 até agora",
-      "desc": "Fonte: Estadão",
-      "signal": 4,
-      "hook": "Curiosidade rápida: 'Phil Collins, Travis Scott e mais! Confira os artistas confirmados nas rádios de GTA 6 até agora' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcVZza0JzMVdNRkFqcmhMODM2OFgzZlpTY2pUTVRnOXV3N2FaRDNPQlk4R1hwNGp3SWhxR29QN1E5VzFEY3R6TnZibzJZaEg1UHR3OWFCbVZjUnItQ3llZmZDVk54TW5NcWRMQzdaNTg4bjlkTDRDbGpldDVJRUhzaUN4enc4ek1tbnU4T3VET3pvUFFQdVQ5MkJnMDl6VnlKQmgxeDJPLWxBSHFIcWtrMms5cnBPZjhMSlhwX1RyQXpENVM1eGlBakVGSTFrb0YxTGxz0gHYAUFVX3lxTFBPYlZRMHFLSVhjWk9uZ2pkSC1Zd1djQWcxME5LdlVDTHlEZWU2OVNndTFSZmpQTmNUS2FOeGVzbFVqcFlrQWpjWklndDZUWi1BOGRNZ0FTV0NlTzEzM1Q0STdiS2d3bk9wYThJN09RQmRFNTJ6NUhIR1IxU2g3RUJvUzVrQ1phZ0lHX3ViY3M0ZXFZMnNpT0d1d1NsZk1nOTF6MkRrV1FMTk9wTkRQZzBCVm9Teld4U2JxU25HcWFoM3VRQTd0NzM4RVMtSUJ1RmdySm5ZVjVSdQ?oc=5"
     },
     {
       "cat": "viral",
