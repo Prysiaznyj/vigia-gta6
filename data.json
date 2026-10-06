@@ -1,6 +1,21 @@
 {
-  "updated": "2026-10-05T17:02:15+00:00",
+  "updated": "2026-10-06T01:15:28+00:00",
   "items": [
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "05/10/2026",
+      "publishedAt": "2026-10-05T22:38:37+00:00",
+      "headline": "Rockstar confirma o tamanho do mapa ‘GTA 6’; confira",
+      "desc": "Fonte: Rolling Stone Brasil",
+      "signal": 4,
+      "hook": "Curiosidade rápida: 'Rockstar confirma o tamanho do mapa ‘GTA 6’; confira' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTkFyYXBwWGd4X3BhYWZCa0lWQ1BTTW1RQUNJaS1LVWVyMjhoMGlGcEowX2JQWE9IZ0xlcFBobzBoUFV1RkREQ000Ym5jQ3I1RmNEaHlzTXp0ZkVsUlZRNXFJd0RJVUlqNVM3VmoyMUU2VkkxcTRSYU9JWGNteXFNSEM2TTAweUtieDJxc3Zpa2JqUQ?oc=5"
+    },
     {
       "cat": "curiosidade",
       "tagLabel": "Curiosidade",
@@ -137,21 +152,6 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYRklySEFJamtsOFpaR3BXOTJlQ09MZ3RjdlJiSk9HR1NjZXpXbURPdnF1YWNKRHZpUm1zblFEVXFiRDRPTEdRMkh2WHZYVlB6Zm4tekxILU1uSnRaTXlFcGM3QVdwLS1EN2ZfcEF1cUdIQklRREJ6SF9R?oc=5"
     },
     {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "17/09/2026",
-      "publishedAt": "2026-09-17T19:17:00+00:00",
-      "headline": "Rockstar anuncia trilha sonora oficial de GTA 6 com 34 faixas e edições em vinil e CD; confira valores",
-      "desc": "Fonte: Times Brasil | CNBC",
-      "signal": 4,
-      "hook": "Curiosidade rápida: 'Rockstar anuncia trilha sonora oficial de GTA 6 com 34 faixas e edições em vinil e CD; confira valores' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaVFIYnhFWHhURDRJRVRFWUEwTm9YZGhOOXZEeHBxUmRpLXVkQzYzVTRiLWZhRDQyZ0Z2OFg2TzFNVU1CajA2U01XbFJCMlE0S1hpeHRtY0pESFdleldZcUZ5ajJDR0NENHdXTjQweEJtVE92OVBmSzV2bndzN3cxcEhoWlRDelAxVFlaeE44NF9DTkpTSVBwTHAtQ2VxUmJmQ0ZUSFNaalRfWVJWNXRMaDJHbmdFMUo5bU9PUzc5SUdVWnlFYTEyY1B6bXJnNGJhRGtGbFhPNG9zQmhH?oc=5"
-    },
-    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -210,21 +210,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6 NEWS: Rockstar Isn&#39;t Censoring ANYTHING This Time...') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=WqKxCjL8OVs"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
-      "outlier": true,
-      "date": "03/10/2026",
-      "publishedAt": "2026-10-03T03:21:49+00:00",
-      "headline": "GTA 6&#39;s Age Rating Reveals Some Interesting Gameplay Mechanics...",
-      "desc": "I have a NEW Twitch Channel: DarkViperAU 24/7! https://www.twitch.tv/darkviperau247 Do you ever want to watch a random ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6&#39;s Age Rating Reveals Some Interesting Gameplay Mechanics...') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=t2-Rqb91fJk"
     },
     {
       "cat": "viral",
@@ -300,6 +285,51 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6: Hurricanes &amp; Severe Weather, Disney World, Fishing, Hunting &amp; 12 New Screenshots') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=z3bwDv-n7eY"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
+      "outlier": true,
+      "date": "01/09/2026",
+      "publishedAt": "2026-09-01T15:41:34+00:00",
+      "headline": "Games EduUu vendo o trailer de GTA 6 É INCRÍVEL",
+      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA PlayStation 5 Slim Digital – Pacote ASTRO BOT e Gran ...",
+      "signal": 5,
+      "hook": "Abre direto com 'Games EduUu vendo o trailer de GTA 6 É INCRÍVEL' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=W15smB_c31A"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
+      "outlier": true,
+      "date": "04/10/2026",
+      "publishedAt": "2026-10-04T15:00:29+00:00",
+      "headline": "谁被关起来了？！#gta #gta6#shorts",
+      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('谁被关起来了？！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=XND6YThe9cI"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC6pGvqj5xtZS4DY_9cGin_Q",
+      "outlier": true,
+      "date": "04/10/2026",
+      "publishedAt": "2026-10-04T09:03:24+00:00",
+      "headline": "400 EURO GTA 6 COLLECTOR&#39;S EDITION??",
+      "desc": "Mehr Videos Mainchannel: https://www.youtube.com/@zarbex Stream-Content: https://www.youtube.com/@zarbexlive ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('400 EURO GTA 6 COLLECTOR&#39;S EDITION??') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=V1Rq_LF15Lw"
     },
     {
       "cat": "viral",
@@ -420,51 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA V मम्मी का कोल्ड ड्रिंक #gta #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=QjbqYzLvZ-k"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCTeSFqKjAJZuxMyvMFGkklA",
-      "outlier": true,
-      "date": "30/09/2026",
-      "publishedAt": "2026-09-30T11:19:45+00:00",
-      "headline": "GTA 6 is gonna break my PS5 😭 | #marvel Television #loki (2021-2023) #edit",
-      "desc": "Yo do y'all even have cockroaches in you Playstations?? If so you gotta clean that ish out ABOUT LOKI (via Wikipedia) Loki ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 is gonna break my PS5 😭 | #marvel Television #loki (2021-2023) #edit') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=BaEssM1WZXI"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
-      "outlier": true,
-      "date": "30/09/2026",
-      "publishedAt": "2026-09-30T00:45:19+00:00",
-      "headline": "SINUCA, ZOOLÓGICO E PARAQUEDAS CONFIRMADOS NO GTA 6!",
-      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA GCM GAMES GIFT CARDS - CARTÃO DA PSN, XBOX, ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('SINUCA, ZOOLÓGICO E PARAQUEDAS CONFIRMADOS NO GTA 6!') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=63jOPnq2KKU"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
-      "outlier": true,
-      "date": "01/09/2026",
-      "publishedAt": "2026-09-01T15:41:34+00:00",
-      "headline": "Games EduUu vendo o trailer de GTA 6 É INCRÍVEL",
-      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA PlayStation 5 Slim Digital – Pacote ASTRO BOT e Gran ...",
-      "signal": 5,
-      "hook": "Abre direto com 'Games EduUu vendo o trailer de GTA 6 É INCRÍVEL' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=W15smB_c31A"
     },
     {
       "cat": "lancamento",
@@ -675,6 +660,36 @@
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCTeSFqKjAJZuxMyvMFGkklA",
+      "outlier": true,
+      "date": "30/09/2026",
+      "publishedAt": "2026-09-30T11:19:45+00:00",
+      "headline": "GTA 6 is gonna break my PS5 😭 | #marvel Television #loki (2021-2023) #edit",
+      "desc": "Yo do y'all even have cockroaches in you Playstations?? If so you gotta clean that ish out ABOUT LOKI (via Wikipedia) Loki ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 is gonna break my PS5 😭 | #marvel Television #loki (2021-2023) #edit') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=BaEssM1WZXI"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
+      "outlier": true,
+      "date": "30/09/2026",
+      "publishedAt": "2026-09-30T00:45:19+00:00",
+      "headline": "SINUCA, ZOOLÓGICO E PARAQUEDAS CONFIRMADOS NO GTA 6!",
+      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA GCM GAMES GIFT CARDS - CARTÃO DA PSN, XBOX, ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('SINUCA, ZOOLÓGICO E PARAQUEDAS CONFIRMADOS NO GTA 6!') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=63jOPnq2KKU"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
       "videoType": "longo",
       "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
       "outlier": true,
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Waiting for GTA 6 be like...') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=puay7K5_Sm4"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCrLzg5ygnf4yItNL7fB31rw",
-      "outlier": true,
-      "date": "27/09/2026",
-      "publishedAt": "2026-09-27T11:45:11+00:00",
-      "headline": "I opened the GTA 6 Pringles and found THIS 😱 #gta6 #pringles #surprise",
-      "desc": "I opened the GTA 6 Pringles and found THIS #gta6 #pringles #surprise This follows the same high-SEO structure: I opened the ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('I opened the GTA 6 Pringles and found THIS 😱 #gta6 #pringles #surprise') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=PoH6fPyKzM4"
     }
   ]
 }
