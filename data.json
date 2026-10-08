@@ -1,6 +1,36 @@
 {
-  "updated": "2026-10-08T15:28:35+00:00",
+  "updated": "2026-10-08T21:15:33+00:00",
   "items": [
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "08/10/2026",
+      "publishedAt": "2026-10-08T19:32:46+00:00",
+      "headline": "GTA 6: Novas imagens de Vice City e rádio oficial revelados",
+      "desc": "Fonte: Última Ficha",
+      "signal": 4,
+      "hook": "Curiosidade rápida: 'GTA 6: Novas imagens de Vice City e rádio oficial revelados' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDdGOVJQaGpGOUU2akpFN3VhQmFRUmwtQVgwcnpzcU1PWllISzNCRXBRZllJd2VHSmE5eEFqRG1DOFZUZGc3RmoweVl6RjhXWFVNT3I0RGh1TTFDQnhqenBsdXRicmFxYkRQdWp1MU1kMHFxWHBqOE1scEdsRzdVMEZSLUM?oc=5"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "08/10/2026",
+      "publishedAt": "2026-10-08T17:30:02+00:00",
+      "headline": "Rockstar confirma Flash FM em GTA 6 e revela primeiras estações de rádio; conheça",
+      "desc": "Fonte: Canaltech",
+      "signal": 4,
+      "hook": "Curiosidade rápida: 'Rockstar confirma Flash FM em GTA 6 e revela primeiras estações de rádio; conheça' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMm1rMzJ4MkxIYTloXzJBYlBtM0YtdXpzOUJfaUdQYVBpZkpwRzl2YWtnN1B6UEVyN3FIbTNBX0JrcnBJUzJhbzRFVmdMLUxLd3g3MVRtXzNjRm92d0ZaLUFhQzRPNnBnZGE0T182cnV3OFlfanQ5bUdTbXpyRjFEWkRxRUJTVUVoMTF1MW1lTkRzcGlQWXpQU25fNmY4M2JVZHNwOG5SaWNiRzBXTGNmS1BR?oc=5"
+    },
     {
       "cat": "curiosidade",
       "tagLabel": "Curiosidade",
@@ -122,34 +152,19 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxWjBDbi02NWR3VHo3b3BpaHdaOUlLMjMzc2lzUjBfVzdLTUZVd05Na1JRU2xmMERBQmhiT05XX0x3Y3FFYzAxclBnR2Rjem5tOUkxTEo3T21tc1ZnSXpWVUdXRkl1R05tR2t2RWdXelg1aHdwRUdjMNIBfkFVX3lxTE12RlYxcUJmTFNQRnBfejRaTUdEQ2huVTBGMk91bXROeVBubUdzZTNMOEEzUlB1bmkzZmlLVU1SdlhBRDlzcmJ5Q2FnSlhQRzk5aW05WFpzODc2eW5PUUZGS0NMa1IxbHJoUlNVQzhHX3lxSmQzdkc0QWdLYlAzZw?oc=5"
     },
     {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "01/10/2026",
-      "publishedAt": "2026-10-01T09:24:43+00:00",
-      "headline": "Modder de GTA 5 provoca Rockstar com versão não oficial para Switch e recebe uma notificação da Take-Two",
-      "desc": "Fonte: IGN Brasil",
-      "signal": 4,
-      "hook": "Curiosidade rápida: 'Modder de GTA 5 provoca Rockstar com versão não oficial para Switch e recebe uma notificação da Take-Two' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUFRLdVZleWVMM0hOUHB0U1hLQ2p0dnQyejRXS3ZUZDFud0RjS2hadHByUmVtMVJESlpqOEVpWE1VQ1FDZFRIM2pSdUlmYktQd3FBTlBJNXh1YjJlNGtVanh5Sldkcmk1UEVDemIyMlhaZ0tRSHhDbXZYcUw4dGFaMzQ0dlJuS1VFa3prY0Iwai1ibnpiaDNMMWNJSm5YbTlxSzZ3dXg3cFA3M0NyNnFGbEttTlBueTRyVWJQZjZ1RE9PZG1QNEM4cng1UDRQN2dHLWVNYWdja1J0SnpFLVE?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "29/09/2026",
-      "publishedAt": "2026-09-29T13:49:33+00:00",
-      "headline": "Fim do sonho: Take-Two derruba projeto não oficial de GTA 5 para Android e Nintendo Switch",
-      "desc": "Fonte: TudoCelular.com",
-      "signal": 4,
-      "hook": "Curiosidade rápida: 'Fim do sonho: Take-Two derruba projeto não oficial de GTA 5 para Android e Nintendo Switch' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRDd4X2tuMHFzeFp0Xy1VRjYtZHd4cHNWWVU1djhpbUsxdUNGblZlSHRfSmtBZXZlWVlma1VtNllDbVh0SWJGTTZNSWxxY1NuSFpZVHREenZKN0xHaFNodlB3OW5pdUw2WmMtME02NGFrVk5sSC1zaGN2LVJ5RnFGMmRXNk9nc0Q3OHNpWHZUNDJlYkNsNEp6RXBEQVZLWUxQdHFn?oc=5"
+      "cat": "boatos",
+      "tagLabel": "Boatos",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
+      "outlier": true,
+      "date": "08/10/2026",
+      "publishedAt": "2026-10-08T15:28:03+00:00",
+      "headline": "GTA 6&#39;S BIGGEST LEAK EVER JUST HAPPENED...",
+      "desc": "I have a NEW Twitch Channel: DarkViperAU 24/7! https://www.twitch.tv/darkviperau247 Do you ever want to watch a random ...",
+      "signal": 5,
+      "hook": "Pergunta de abertura: 'GTA 6&#39;S BIGGEST LEAK EVER JUST HAPPENED...?' — deixa claro que é especulação, mas prende pela dúvida.",
+      "url": "https://youtube.com/watch?v=hma6VytnSA0"
     },
     {
       "cat": "viral",
@@ -285,21 +300,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Rockstar Games Sent Me a Surprise GTA 6 Package') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=e7FkZN7QQmE"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCp7wTrsCU7eICb5z69D3rwA",
-      "outlier": true,
-      "date": "29/09/2026",
-      "publishedAt": "2026-09-29T21:45:25+00:00",
-      "headline": "La PRIMERA MEGA RAMPA de GTA 6 🚗😱",
-      "desc": "Hoy jugamos la primera mega rampa de Gta 6 con illojuan y el xocas -Descarga Wondershare Filmora aquí ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('La PRIMERA MEGA RAMPA de GTA 6 🚗😱') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=YcXxC8KSY_4"
     },
     {
       "cat": "viral",
@@ -691,6 +691,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
+      "channelId": "UCp7wTrsCU7eICb5z69D3rwA",
+      "outlier": true,
+      "date": "29/09/2026",
+      "publishedAt": "2026-09-29T21:45:25+00:00",
+      "headline": "La PRIMERA MEGA RAMPA de GTA 6 🚗😱",
+      "desc": "Hoy jugamos la primera mega rampa de Gta 6 con illojuan y el xocas -Descarga Wondershare Filmora aquí ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('La PRIMERA MEGA RAMPA de GTA 6 🚗😱') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=YcXxC8KSY_4"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
       "channelId": "UC36MGPfPwOWafAXauiV4LdA",
       "outlier": true,
       "date": "29/09/2026",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('SINUCA, ZOOLÓGICO E PARAQUEDAS CONFIRMADOS NO GTA 6!') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=63jOPnq2KKU"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
-      "outlier": true,
-      "date": "29/09/2026",
-      "publishedAt": "2026-09-29T20:24:32+00:00",
-      "headline": "GTA 6: NEW INFO - 12 Screenshots, Hurricanes, Theme Parks, 170 Animals, Map Details &amp; More!",
-      "desc": "GameInformer article: https://gameinformer.com/feature/2026/09/29/grand-theft-auto-vi-welcome-to-leonida 0:00 Huge New GTA 6 ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: NEW INFO - 12 Screenshots, Hurricanes, Theme Parks, 170 Animals, Map Details &amp; More!') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=c0Com9SMv1s"
     }
   ]
 }
