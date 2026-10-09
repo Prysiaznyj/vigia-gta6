@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T21:15:33+00:00",
+  "updated": "2026-10-09T05:42:36+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -287,19 +287,34 @@
       "url": "https://youtube.com/watch?v=w-WjtpGeWDA"
     },
     {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
+      "outlier": true,
+      "date": "01/09/2026",
+      "publishedAt": "2026-09-01T15:41:34+00:00",
+      "headline": "Games EduUu vendo o trailer de GTA 6 É INCRÍVEL",
+      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA PlayStation 5 Slim Digital – Pacote ASTRO BOT e Gran ...",
+      "signal": 5,
+      "hook": "Abre direto com 'Games EduUu vendo o trailer de GTA 6 É INCRÍVEL' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=W15smB_c31A"
+    },
+    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UC36MGPfPwOWafAXauiV4LdA",
+      "videoType": "curto",
+      "channelId": "UCMfHm6qfas7zAss2bNuYzSA",
       "outlier": true,
-      "date": "29/09/2026",
-      "publishedAt": "2026-09-29T23:40:01+00:00",
-      "headline": "Rockstar Games Sent Me a Surprise GTA 6 Package",
-      "desc": "Thank you Rockstar, can't believe this timeline we're in. 50 days left.",
+      "date": "07/10/2026",
+      "publishedAt": "2026-10-07T05:44:14+00:00",
+      "headline": "Stealing Different Vehicles In GTA 6! 😱 🏍️",
+      "desc": "rockstar #gta #parkour #funny #viral #gta6 #challenge #emoji #fyp #crazy #rockstargames.",
       "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Rockstar Games Sent Me a Surprise GTA 6 Package') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=e7FkZN7QQmE"
+      "hook": "Mostra o clipe/post que tá bombando ('Stealing Different Vehicles In GTA 6! 😱 🏍️') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=NJJY2K20RoE"
     },
     {
       "cat": "viral",
@@ -437,21 +452,6 @@
       "url": "https://youtube.com/watch?v=GKJsTEY6pRI"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
-      "outlier": true,
-      "date": "05/10/2026",
-      "publishedAt": "2026-10-05T16:00:17+00:00",
-      "headline": "杰森怎么越狱的？！#gta #gta6#shorts",
-      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('杰森怎么越狱的？！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=grYFjHRoSZo"
-    },
-    {
       "cat": "vendas",
       "tagLabel": "Vendas & Preço",
       "source": "youtube",
@@ -465,21 +465,6 @@
       "signal": 5,
       "hook": "Número na cara logo na primeira frase: 'I preordered the wrong GTA 6😭 #gta6 #gtavi' — formato \"isso é muito ou pouco?\".",
       "url": "https://youtube.com/watch?v=l6UUP1JLgUw"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
-      "outlier": true,
-      "date": "01/09/2026",
-      "publishedAt": "2026-09-01T15:41:34+00:00",
-      "headline": "Games EduUu vendo o trailer de GTA 6 É INCRÍVEL",
-      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA PlayStation 5 Slim Digital – Pacote ASTRO BOT e Gran ...",
-      "signal": 5,
-      "hook": "Abre direto com 'Games EduUu vendo o trailer de GTA 6 É INCRÍVEL' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=W15smB_c31A"
     },
     {
       "cat": "lancamento",
@@ -685,6 +670,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
+      "outlier": true,
+      "date": "05/10/2026",
+      "publishedAt": "2026-10-05T16:00:17+00:00",
+      "headline": "杰森怎么越狱的？！#gta #gta6#shorts",
+      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('杰森怎么越狱的？！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=grYFjHRoSZo"
     },
     {
       "cat": "viral",
