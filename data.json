@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T05:26:24+00:00",
+  "updated": "2026-10-10T14:24:12+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -152,6 +152,21 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxWjBDbi02NWR3VHo3b3BpaHdaOUlLMjMzc2lzUjBfVzdLTUZVd05Na1JRU2xmMERBQmhiT05XX0x3Y3FFYzAxclBnR2Rjem5tOUkxTEo3T21tc1ZnSXpWVUdXRkl1R05tR2t2RWdXelg1aHdwRUdjMNIBfkFVX3lxTE12RlYxcUJmTFNQRnBfejRaTUdEQ2huVTBGMk91bXROeVBubUdzZTNMOEEzUlB1bmkzZmlLVU1SdlhBRDlzcmJ5Q2FnSlhQRzk5aW05WFpzODc2eW5PUUZGS0NMa1IxbHJoUlNVQzhHX3lxSmQzdkc0QWdLYlAzZw?oc=5"
     },
     {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCYBetkejPxK8t_41zueazcA",
+      "outlier": true,
+      "date": "08/10/2026",
+      "publishedAt": "2026-10-08T21:21:23+00:00",
+      "headline": "GTA 6 - BIGGEST ANNOUNCEMENT YET!",
+      "desc": "GTA 6 - BIGGEST ANNOUNCEMENT YET! For more gta 6 videos subscribe Video Sources birntoutstudio ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 - BIGGEST ANNOUNCEMENT YET!') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=0eAOyE4hnbs"
+    },
+    {
       "cat": "boatos",
       "tagLabel": "Boatos",
       "source": "youtube",
@@ -287,19 +302,19 @@
       "url": "https://youtube.com/watch?v=w-WjtpGeWDA"
     },
     {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
+      "cat": "viral",
+      "tagLabel": "Viral",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
+      "videoType": "curto",
+      "channelId": "UC13SWLCzKODS7KznIGkJc3Q",
       "outlier": true,
-      "date": "01/09/2026",
-      "publishedAt": "2026-09-01T15:41:34+00:00",
-      "headline": "Games EduUu vendo o trailer de GTA 6 É INCRÍVEL",
-      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA PlayStation 5 Slim Digital – Pacote ASTRO BOT e Gran ...",
+      "date": "07/10/2026",
+      "publishedAt": "2026-10-07T16:00:24+00:00",
+      "headline": "PLAYSATION devient un ANTAGONISTE #playstation  #silenthill #gta6",
+      "desc": "Vídeo em alta sobre GTA 6 (452801 views).",
       "signal": 5,
-      "hook": "Abre direto com 'Games EduUu vendo o trailer de GTA 6 É INCRÍVEL' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=W15smB_c31A"
+      "hook": "Mostra o clipe/post que tá bombando ('PLAYSATION devient un ANTAGONISTE #playstation  #silenthill #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=4G6aEt6ZMac"
     },
     {
       "cat": "viral",
@@ -437,19 +452,19 @@
       "url": "https://youtube.com/watch?v=WtpAANisL2s"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
       "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCiOkFNdJsXCOKYrHlxiwCYQ",
+      "videoType": "longo",
+      "channelId": "UCJAbkIY17zAmCTNQHH0bQoQ",
       "outlier": true,
-      "date": "06/10/2026",
-      "publishedAt": "2026-10-06T07:18:55+00:00",
-      "headline": "Éramos demasiado jóvenes para entender a Trevor en GTA 5 #gta #gta5 #gta6 #shorts",
-      "desc": "gta #gta6 #gta5 #gtaonline #gtav #trashudo #trashudogames #shorts #fyp #foryou #viralvideo Suscríbete, dale like y activa la ...",
+      "date": "01/09/2026",
+      "publishedAt": "2026-09-01T15:41:34+00:00",
+      "headline": "Games EduUu vendo o trailer de GTA 6 É INCRÍVEL",
+      "desc": "CANAL NOVO - youtube.com/channel/UCK4vuzS4fX8qxWi5Ik7XQYA PlayStation 5 Slim Digital – Pacote ASTRO BOT e Gran ...",
       "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Éramos demasiado jóvenes para entender a Trevor en GTA 5 #gta #gta5 #gta6 #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=Dd1D1JMGIJ8"
+      "hook": "Abre direto com 'Games EduUu vendo o trailer de GTA 6 É INCRÍVEL' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=W15smB_c31A"
     },
     {
       "cat": "vendas",
@@ -672,6 +687,21 @@
       "url": null
     },
     {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCiOkFNdJsXCOKYrHlxiwCYQ",
+      "outlier": true,
+      "date": "06/10/2026",
+      "publishedAt": "2026-10-06T07:18:55+00:00",
+      "headline": "Éramos demasiado jóvenes para entender a Trevor en GTA 5 #gta #gta5 #gta6 #shorts",
+      "desc": "gta #gta6 #gta5 #gtaonline #gtav #trashudo #trashudogames #shorts #fyp #foryou #viralvideo Suscríbete, dale like y activa la ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Éramos demasiado jóvenes para entender a Trevor en GTA 5 #gta #gta5 #gta6 #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Dd1D1JMGIJ8"
+    },
+    {
       "cat": "boatos",
       "tagLabel": "Boatos",
       "source": "youtube",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA V लाल टंकी से पानी #gta5 #gta6 #gta7') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=f1zJ0bV3y-A"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV1JLczDYt4ViQb3ibXif-w",
-      "outlier": true,
-      "date": "01/10/2026",
-      "publishedAt": "2026-10-01T11:00:25+00:00",
-      "headline": "KITA DAPAT GTA 5,5 SEBELUM GTA 6😹 #gta6 #grandtheftauto #ps5 #games #streamer #gta #gtav #nopixelv",
-      "desc": "Player PC nunda gta 6 dulu,main gta 5,5   Game: GTA V.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('KITA DAPAT GTA 5,5 SEBELUM GTA 6😹 #gta6 #grandtheftauto #ps5 #games #streamer #gta #gtav #nopixelv') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=6o8Z_JUGjeU"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCUatUzPH6WbskaIl1W6Hx8g",
-      "outlier": true,
-      "date": "01/10/2026",
-      "publishedAt": "2026-10-01T20:00:07+00:00",
-      "headline": "Bro Got GTA 6 Early😭",
-      "desc": "Vídeo em alta sobre GTA 6 (349194 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Bro Got GTA 6 Early😭') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=hlhU1Ri34NM"
     }
   ]
 }
