@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T23:26:14+00:00",
+  "updated": "2026-10-11T05:19:25+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCMo3BoI5HvncUDfyYDt2zDw",
+      "outlier": true,
+      "date": "09/10/2026",
+      "publishedAt": "2026-10-09T12:23:38+00:00",
+      "headline": "GTA 6 nella Vita Reale È Assurdo 🤯",
+      "desc": "Vídeo em alta sobre GTA 6 (610038 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 nella Vita Reale È Assurdo 🤯') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=dKetTFHuzkU"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UC_q0y1-lUoX0H4ElZRk5u_A",
       "outlier": true,
       "date": "09/10/2026",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('汤米和杰森怎么越狱？！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=fhnqey6XWSY"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
-      "outlier": true,
-      "date": "07/10/2026",
-      "publishedAt": "2026-10-07T14:00:24+00:00",
-      "headline": "杰森救了金克丝！#gta #gta6#shorts",
-      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('杰森救了金克丝！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=BvXOhAO6oyA"
     },
     {
       "cat": "lancamento",
@@ -689,6 +689,21 @@
     {
       "cat": "viral",
       "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
+      "outlier": true,
+      "date": "07/10/2026",
+      "publishedAt": "2026-10-07T14:00:24+00:00",
+      "headline": "杰森救了金克丝！#gta #gta6#shorts",
+      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('杰森救了金克丝！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=BvXOhAO6oyA"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
       "source": "reddit",
       "videoType": null,
       "channelId": null,
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('谁被关起来了？！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=XND6YThe9cI"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC6pGvqj5xtZS4DY_9cGin_Q",
-      "outlier": true,
-      "date": "04/10/2026",
-      "publishedAt": "2026-10-04T09:03:24+00:00",
-      "headline": "400 EURO GTA 6 COLLECTOR&#39;S EDITION??",
-      "desc": "Mehr Videos Mainchannel: https://www.youtube.com/@zarbex Stream-Content: https://www.youtube.com/@zarbexlive ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('400 EURO GTA 6 COLLECTOR&#39;S EDITION??') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=V1Rq_LF15Lw"
     }
   ]
 }
