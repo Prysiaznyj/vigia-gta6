@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T05:30:44+00:00",
+  "updated": "2026-10-12T17:41:48+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -302,6 +302,36 @@
       "url": "https://youtube.com/watch?v=5ZHTscvuQTQ"
     },
     {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
+      "outlier": true,
+      "date": "11/10/2026",
+      "publishedAt": "2026-10-11T17:00:16+00:00",
+      "headline": "杰森为什么这么做？！#gta #gta6#shorts",
+      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('杰森为什么这么做？！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=bcHL7a9VfV0"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC_485Ao_SxlCaBlOZORVsVQ",
+      "outlier": true,
+      "date": "10/10/2026",
+      "publishedAt": "2026-10-10T14:39:19+00:00",
+      "headline": "Jason Did NOT Like That Hug in GTA 6 💀🙏",
+      "desc": "Funny GTA 6 meme post \"You can tell Jason didn't appreciate this guy hugging his girl like that\", with a gameplay clip of a guy ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Jason Did NOT Like That Hug in GTA 6 💀🙏') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=REbgFgBs_9U"
+    },
+    {
       "cat": "boatos",
       "tagLabel": "Boatos",
       "source": "youtube",
@@ -420,36 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6 nella Vita Reale È Assurdo 🤯') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=dKetTFHuzkU"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC_q0y1-lUoX0H4ElZRk5u_A",
-      "outlier": true,
-      "date": "09/10/2026",
-      "publishedAt": "2026-10-09T20:47:05+00:00",
-      "headline": "Esse homem está vivendo dentro do GTA 6... 😱",
-      "desc": "curiosidades #engraçado #gta5 #gta6.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Esse homem está vivendo dentro do GTA 6... 😱') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=z_F6qq_epNw"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCvcZRsZdR2lzgeZcABkwCSA",
-      "outlier": true,
-      "date": "08/10/2026",
-      "publishedAt": "2026-10-08T21:32:57+00:00",
-      "headline": "O Cyberleek vazou o mastodonte do Jason? #jason #polemicas #cyberleek #gta6 #rockstar",
-      "desc": "Vídeo em alta sobre GTA 6 (672832 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('O Cyberleek vazou o mastodonte do Jason? #jason #polemicas #cyberleek #gta6 #rockstar') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=h6n2od2NyYY"
     },
     {
       "cat": "lancamento",
@@ -691,6 +691,36 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UC_q0y1-lUoX0H4ElZRk5u_A",
+      "outlier": true,
+      "date": "09/10/2026",
+      "publishedAt": "2026-10-09T20:47:05+00:00",
+      "headline": "Esse homem está vivendo dentro do GTA 6... 😱",
+      "desc": "curiosidades #engraçado #gta5 #gta6.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Esse homem está vivendo dentro do GTA 6... 😱') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=z_F6qq_epNw"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCvcZRsZdR2lzgeZcABkwCSA",
+      "outlier": true,
+      "date": "08/10/2026",
+      "publishedAt": "2026-10-08T21:32:57+00:00",
+      "headline": "O Cyberleek vazou o mastodonte do Jason? #jason #polemicas #cyberleek #gta6 #rockstar",
+      "desc": "Vídeo em alta sobre GTA 6 (672832 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('O Cyberleek vazou o mastodonte do Jason? #jason #polemicas #cyberleek #gta6 #rockstar') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=h6n2od2NyYY"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UC13SWLCzKODS7KznIGkJc3Q",
       "outlier": true,
       "date": "07/10/2026",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('This is bad… #ps5 #gta6 #playstation') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=WtpAANisL2s"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCiOkFNdJsXCOKYrHlxiwCYQ",
-      "outlier": true,
-      "date": "06/10/2026",
-      "publishedAt": "2026-10-06T07:18:55+00:00",
-      "headline": "Éramos demasiado jóvenes para entender a Trevor en GTA 5 #gta #gta5 #gta6 #shorts",
-      "desc": "gta #gta6 #gta5 #gtaonline #gtav #trashudo #trashudogames #shorts #fyp #foryou #viralvideo Suscríbete, dale like y activa la ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Éramos demasiado jóvenes para entender a Trevor en GTA 5 #gta #gta5 #gta6 #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=Dd1D1JMGIJ8"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCTxGBu8_dfxq7UnBRAWkk8w",
-      "outlier": true,
-      "date": "04/10/2026",
-      "publishedAt": "2026-10-04T18:59:07+00:00",
-      "headline": "YOU CAN&#39;T PLAY GTA 6 ON PLAYSTATION..?",
-      "desc": "Your PS5 Might NOT Be Able To Play Grand Theft Auto VI On Release..?   Gaming News, Clips & Leaks! Basically, YouTube's ...",
-      "signal": 5,
-      "hook": "Pergunta de abertura: 'YOU CAN&#39;T PLAY GTA 6 ON PLAYSTATION..??' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://youtube.com/watch?v=nMToCiqRJfg"
     }
   ]
 }
