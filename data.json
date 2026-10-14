@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T23:42:19+00:00",
+  "updated": "2026-10-14T04:30:04+00:00",
   "items": [
     {
       "cat": "boatos",
@@ -156,15 +156,15 @@
       "tagLabel": "Lançamento",
       "source": "youtube",
       "videoType": "longo",
-      "channelId": "UC0PMQXAwF6O6aeTpv962miA",
-      "outlier": false,
-      "date": "13/10/2026",
-      "publishedAt": "2026-10-13T19:13:03+00:00",
-      "headline": "This Is Going To Be HUGE For GTA 6 - Launch Trailer, PC Release Date, NEW Artwork Revealed &amp; MORE!",
-      "desc": "In today's Grand Theft Auto 6 video – GTA 6 on PC could be arriving as early as Spring 2027, according to new insider reports!",
+      "channelId": "UCqFxTO3kiOaKtDGoFt7HimQ",
+      "outlier": true,
+      "date": "12/10/2026",
+      "publishedAt": "2026-10-12T19:00:12+00:00",
+      "headline": "The World Isn&#39;t Ready For GTA 6",
+      "desc": "How GTA 6 will change the world, from 30 million people skipping work on launch day to Miami turning into Vice City. And my ...",
       "signal": 5,
-      "hook": "Abre direto com 'This Is Going To Be HUGE For GTA 6 - Launch Trailer, PC Release Date, NEW Artwork Revealed &amp; MORE!' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=l6RnZ4Fb2mc"
+      "hook": "Abre direto com 'The World Isn&#39;t Ready For GTA 6' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=UpNCw7eWOng"
     },
     {
       "cat": "viral",
