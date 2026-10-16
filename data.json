@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T22:59:00+00:00",
+  "updated": "2026-10-16T04:08:36+00:00",
   "items": [
     {
       "cat": "lancamento",
@@ -152,6 +152,21 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTkFyYXBwWGd4X3BhYWZCa0lWQ1BTTW1RQUNJaS1LVWVyMjhoMGlGcEowX2JQWE9IZ0xlcFBobzBoUFV1RkREQ000Ym5jQ3I1RmNEaHlzTXp0ZkVsUlZRNXFJd0RJVUlqNVM3VmoyMUU2VkkxcTRSYU9JWGNteXFNSEM2TTAweUtieDJxc3Zpa2JqUQ?oc=5"
     },
     {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCQ5Ssrs48yJBfOesfDqXUeA",
+      "outlier": true,
+      "date": "15/10/2026",
+      "publishedAt": "2026-10-15T13:39:06+00:00",
+      "headline": "Justice - Flower In A Hurricane (ft Tame Impala, SZA, King Gizzard &amp; the Lizard Wizard) [from GTAVI]",
+      "desc": "Listen to 'Flower In A Hurricane': https://justice.lnk.to/flowerinahurricane Sign up to learn more about Justice's upcoming Grand ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Justice - Flower In A Hurricane (ft Tame Impala, SZA, King Gizzard &amp; the Lizard Wizard) [from GTAVI]') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=5dPwBWvmcbQ"
+    },
+    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -285,21 +300,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6: NEW INFO - Money, Lucia&#39;s Backstory, New Screenshot, NPCs &amp; More...') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=0VhNvKNUcuc"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCK4vuzS4fX8qxWi5Ik7XQYA",
-      "outlier": true,
-      "date": "03/10/2026",
-      "publishedAt": "2026-10-03T16:53:20+00:00",
-      "headline": "ROCKSTAR CONFIRMOU VÁRIAS MECÂNICAS NOVAS PRO GTA 6",
-      "desc": "gta6 #davyjones #gta #rockstar ROCKSTAR CONFIRMOU VÁRIAS MECÂNICAS NOVAS PRO GTA 6 ------------------ Bem-vindo ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('ROCKSTAR CONFIRMOU VÁRIAS MECÂNICAS NOVAS PRO GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=prEn1RSkFZk"
     },
     {
       "cat": "viral",
@@ -661,6 +661,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
+      "channelId": "UCK4vuzS4fX8qxWi5Ik7XQYA",
+      "outlier": true,
+      "date": "03/10/2026",
+      "publishedAt": "2026-10-03T16:53:20+00:00",
+      "headline": "ROCKSTAR CONFIRMOU VÁRIAS MECÂNICAS NOVAS PRO GTA 6",
+      "desc": "gta6 #davyjones #gta #rockstar ROCKSTAR CONFIRMOU VÁRIAS MECÂNICAS NOVAS PRO GTA 6 ------------------ Bem-vindo ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('ROCKSTAR CONFIRMOU VÁRIAS MECÂNICAS NOVAS PRO GTA 6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=prEn1RSkFZk"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
       "channelId": "UCf3hEJGWPmf9FqFs-PCFONQ",
       "outlier": true,
       "date": "03/10/2026",
@@ -873,28 +888,13 @@
       "videoType": null,
       "channelId": null,
       "outlier": false,
-      "date": "15/10/2026",
-      "publishedAt": "2026-10-15T22:45:51+00:00",
-      "headline": "Story and Character Speculation Thread",
-      "desc": "Now that we're getting more footage the number of speculation posts have increased a lot, so as not to flood the timeline we'll have this dedicated thread so everyone can log their theories of the story, the characters, and possible missions. https://preview.redd.it/r4705jlvnpvh1",
+      "date": "16/10/2026",
+      "publishedAt": "2026-10-16T03:45:58+00:00",
+      "headline": "Real-life versions of GTA 6 cars have been spotted in Miami",
+      "desc": "Cars featured, in order: Manana , Buccaneer , Tempesta , Cheetah , Coquette D10 , Emerus",
       "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('Story and Character Speculation Thread') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1x6zxgv/story_and_character_speculation_thread/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "15/10/2026",
-      "publishedAt": "2026-10-15T20:41:16+00:00",
-      "headline": "Rockstar is going all out! The Vice City blimp has been circling over Miami all day",
-      "desc": "Is this the best video game marketing ever?",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('Rockstar is going all out! The Vice City blimp has been circling over Miami all day') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1x6wzti/rockstar_is_going_all_out_the_vice_city_blimp_has/"
+      "hook": "Mostra o clipe/post que tá bombando ('Real-life versions of GTA 6 cars have been spotted in Miami') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1x7609v/reallife_versions_of_gta_6_cars_have_been_spotted/"
     }
   ]
 }
