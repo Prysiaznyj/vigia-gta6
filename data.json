@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T13:09:34+00:00",
+  "updated": "2026-10-16T19:30:02+00:00",
   "items": [
     {
       "cat": "lancamento",
@@ -309,6 +309,21 @@
       "channelId": "UC2xFKdG6sG0C68mP11wMbng",
       "outlier": true,
       "date": "15/10/2026",
+      "publishedAt": "2026-10-15T14:00:35+00:00",
+      "headline": "杰森失去了露西娅！#gta #gta6#shorts",
+      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('杰森失去了露西娅！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Yxk3Ctnbjjw"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
+      "outlier": true,
+      "date": "15/10/2026",
       "publishedAt": "2026-10-15T15:00:30+00:00",
       "headline": "汤米想干什么？！#gta #gta6#shorts",
       "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('露西亚为什么不理杰森？！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=EgM5tyLmzbA"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCXyWOyppwv9Gpyg2ZrveFvQ",
-      "outlier": true,
-      "date": "11/10/2026",
-      "publishedAt": "2026-10-11T19:50:33+00:00",
-      "headline": "What It Takes to Play GTA… Then vs Now #gta5 #gta6 #gta",
-      "desc": "What It Takes to Play GTA… Then vs Now #gta #gta5 #gta6 Same gamer. Different eras. One question: “What do I need to play ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('What It Takes to Play GTA… Then vs Now #gta5 #gta6 #gta') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=Lcjra-seZvk"
     },
     {
       "cat": "vendas",
@@ -690,6 +690,21 @@
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCXyWOyppwv9Gpyg2ZrveFvQ",
+      "outlier": true,
+      "date": "11/10/2026",
+      "publishedAt": "2026-10-11T19:50:33+00:00",
+      "headline": "What It Takes to Play GTA… Then vs Now #gta5 #gta6 #gta",
+      "desc": "What It Takes to Play GTA… Then vs Now #gta #gta5 #gta6 Same gamer. Different eras. One question: “What do I need to play ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('What It Takes to Play GTA… Then vs Now #gta5 #gta6 #gta') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Lcjra-seZvk"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
       "videoType": "longo",
       "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
       "outlier": true,
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Pergunta de abertura: 'Cyberleek Returns, The Leaks Are Crazy... - Weekly Updates #gta6 #gtavi #gtaonline?' — deixa claro que é especulação, mas prende pela dúvida.",
       "url": "https://youtube.com/watch?v=BsahSi5JTok"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCV6mNrW8CrmWtcxWfQXy11g",
-      "outlier": true,
-      "date": "09/10/2026",
-      "publishedAt": "2026-10-09T19:00:05+00:00",
-      "headline": "Can You Skip Work For GTA 6? - Weekly Updates #gta6 #gtavi #gtaonline",
-      "desc": "I have a NEW Twitch Channel: DarkViperAU 24/7! https://www.twitch.tv/darkviperau247 Do you ever want to watch a random ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Can You Skip Work For GTA 6? - Weekly Updates #gta6 #gtavi #gtaonline') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=rNwE-LD2770"
     }
   ]
 }
