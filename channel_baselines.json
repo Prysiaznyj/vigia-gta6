@@ -1900,13 +1900,18 @@
     "calculadoEm": "2026-10-17T03:57:37+00:00"
   },
   "UCQ5Ssrs48yJBfOesfDqXUeA": {
-    "medianViews": 19324,
+    "medianViews": 19401,
     "amostra": 15,
-    "calculadoEm": "2026-10-16T04:07:31+00:00"
+    "calculadoEm": "2026-10-17T08:28:53+00:00"
   },
   "UCu_9Ypm6npz5QiQOO7j2ffw": {
     "medianViews": 45159.5,
     "amostra": 10,
     "calculadoEm": "2026-10-16T13:08:29+00:00"
+  },
+  "UCCQi3X-PJGmd6DrPN9Rb6iw": {
+    "medianViews": 555059,
+    "amostra": 15,
+    "calculadoEm": "2026-10-17T08:29:05+00:00"
   }
 }
