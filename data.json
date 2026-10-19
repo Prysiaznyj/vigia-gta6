@@ -1,6 +1,21 @@
 {
-  "updated": "2026-10-19T04:14:54+00:00",
+  "updated": "2026-10-19T15:27:29+00:00",
   "items": [
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "19/10/2026",
+      "publishedAt": "2026-10-19T11:05:09+00:00",
+      "headline": "GTA 6: Rockstar confirma centenas de locais para exploração livre no mapa do jogo",
+      "desc": "Fonte: TudoCelular.com",
+      "signal": 4,
+      "hook": "Curiosidade rápida: 'GTA 6: Rockstar confirma centenas de locais para exploração livre no mapa do jogo' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMUVrbzB5RTJ5NnZwY1JhUlQzbW82WjFFUHE1Yk9tSlYyZW0wQlBqb1dsVFNCUVlUWGl6a1pzWkNUdnR3TFpuXzlONEJPWUlfWXMwdklzRGZPUm51M3Z6MGgzSGxSYUFTSFQ4M0pDNExqdVFISXNBckV3d0hyRnp4WXhMOVFVa3BMYlFXaVc2SGVaNXFlMnFSVC15WF9adDRzc2ZaQ3lQN2NaN2pkQUZ1QQ?oc=5"
+    },
     {
       "cat": "curiosidade",
       "tagLabel": "Curiosidade",
@@ -135,21 +150,6 @@
       "signal": 4,
       "hook": "Curiosidade rápida: 'GTA 6 confirma sistema de moral, mecânica de relacionamento e Jason pelado em nova entrevista' — bom pra fechar um vídeo ou virar corte solto.",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbl9TVUpzZXBfVThKMmNSU1NpQ3pBNV9qV04tc2FaaEZNX1hJMGI5TFByc3ppSWF4dkpkR19xUUVXN2NUWHlHc1FwYXBSMXpkR0VpX3ZaaFVncjFSYmdxMnVfLU05aWR2c1hTS0xOT2xwZEphNF9ZOUk1dkRkRzVQMklYcHJrLWF3N3E4VXhHaVdvalNqZWI1SldDVmZFT09ycWZuTUhPOHpDcGJTM3FDbG1Mb2U2S3IzQWpXazJBU0VSRmswX2R0YWFrRjVzLVpW0gHWAUFVX3lxTE5GZnVNd0lrQ09vSXk2VXExUkt5V1VCY0pxaVlFWUM5ZUVMUVpDb1JoTl9JNUNBczZFYlR6WG9vR1JDUXdOU1JlX0E1VW5aZ3dJSmFWaklMSnl1MVJlMzkwMGlFV3hjeXNPd2VlN3VmMDFIRm5mZTVQS3BySFZsaDN0UC1FWU4tYkF1VUNSWjF3Y0x2Nm9OZWZfWXFKcThwYkRFQ3dmcm9zQjBYSnZjbmJLWjRFTTU2RGl4SmltRVR5akE1RnhMdW1TWmZ4dGNOTXBCQ1dvZmc?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "07/10/2026",
-      "publishedAt": "2026-10-07T15:57:00+00:00",
-      "headline": "GTA 6 não poderá ser jogado no PC via Xbox Cloud Gaming, confirma executivo",
-      "desc": "Fonte: Adrenaline",
-      "signal": 4,
-      "hook": "Curiosidade rápida: 'GTA 6 não poderá ser jogado no PC via Xbox Cloud Gaming, confirma executivo' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT1ZFRi00YWFwaDVjaDU5eXVPbEJkVnJNbFlXMDVBeUltRFJScUJ3TlVZV1l1T1lva0toY2VnZXJqYVo2VVFKUi1fZUxDZV80VzQ4SldSeHN6R1RTYVhWMVQxek50bWVmVzlHYkVKWUplSlB2NklobFBwUXZEQlhVenFKNkNLVkRCaFlELXhTS1RZRXJvWEU5a3pobmtXd0piTy10NXVSYld0aGlfWERJMld5dGc?oc=5"
     },
     {
       "cat": "viral",
@@ -306,6 +306,51 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
+      "outlier": true,
+      "date": "18/10/2026",
+      "publishedAt": "2026-10-18T17:00:30+00:00",
+      "headline": "女孩为什么这么做？！#gta #gta6#shorts",
+      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('女孩为什么这么做？！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=lwMo3B2Eaxs"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
+      "outlier": true,
+      "date": "18/10/2026",
+      "publishedAt": "2026-10-18T15:00:17+00:00",
+      "headline": "杰森和露西亚的配合！#gta #gta6#shorts",
+      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('杰森和露西亚的配合！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=IBbNHdXDOxc"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCnNQB-rVjaOCNSBhKXqXuMg",
+      "outlier": true,
+      "date": "17/10/2026",
+      "publishedAt": "2026-10-17T15:45:25+00:00",
+      "headline": "在劫难逃#GTA #GTA6",
+      "desc": "欢迎加入【GTA6冒险】频道～ 在这里，我们将用心创作每一个视频，通过精心设计的角色扮演、剧情演绎、开放世界趣味玩法！",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('在劫难逃#GTA #GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=J9nIQFYCsdM"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCnNQB-rVjaOCNSBhKXqXuMg",
       "outlier": true,
       "date": "18/10/2026",
@@ -405,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('杰森失去了露西亚！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=yIcwab3zXsA"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
-      "outlier": true,
-      "date": "16/10/2026",
-      "publishedAt": "2026-10-16T15:00:00+00:00",
-      "headline": "杰森救下他们了吗？！#gta #gta6#shorts",
-      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('杰森救下他们了吗？！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=q62n1Jtu74k"
     },
     {
       "cat": "lancamento",
@@ -659,6 +689,21 @@
     {
       "cat": "viral",
       "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
+      "outlier": true,
+      "date": "16/10/2026",
+      "publishedAt": "2026-10-16T15:00:00+00:00",
+      "headline": "杰森救下他们了吗？！#gta #gta6#shorts",
+      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('杰森救下他们了吗？！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=q62n1Jtu74k"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
       "source": "reddit",
       "videoType": null,
       "channelId": null,
@@ -850,51 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA 6: October 15 and the Latest Marketing Clues') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=o1Wx0TNLPWo"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCN3tPtdDDeIeYXnWpcb3vDA",
-      "outlier": true,
-      "date": "11/10/2026",
-      "publishedAt": "2026-10-11T11:15:35+00:00",
-      "headline": "😨 ХАКЕР GTA 6 совсем АХУ*Л - НОВЫЙ СЛИВ С ЛЮСИЕЙ",
-      "desc": "Телеграм - https://t.me/okrestn TikTok -https://www.tiktok.com/@okrestnyy_yt ______ Разбираемся в последних интересных ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('😨 ХАКЕР GTA 6 совсем АХУ*Л - НОВЫЙ СЛИВ С ЛЮСИЕЙ') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=IJR-9UHZKOI"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
-      "outlier": true,
-      "date": "12/10/2026",
-      "publishedAt": "2026-10-12T16:00:35+00:00",
-      "headline": "露西亚为什么不理杰森？！#gta #gta6#shorts",
-      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('露西亚为什么不理杰森？！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=EgM5tyLmzbA"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCXyWOyppwv9Gpyg2ZrveFvQ",
-      "outlier": true,
-      "date": "11/10/2026",
-      "publishedAt": "2026-10-11T19:50:33+00:00",
-      "headline": "What It Takes to Play GTA… Then vs Now #gta5 #gta6 #gta",
-      "desc": "What It Takes to Play GTA… Then vs Now #gta #gta5 #gta6 Same gamer. Different eras. One question: “What do I need to play ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('What It Takes to Play GTA… Then vs Now #gta5 #gta6 #gta') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=Lcjra-seZvk"
     }
   ]
 }
