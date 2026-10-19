@@ -1,6 +1,21 @@
 {
-  "updated": "2026-10-19T15:27:29+00:00",
+  "updated": "2026-10-19T20:58:38+00:00",
   "items": [
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "19/10/2026",
+      "publishedAt": "2026-10-19T15:38:25+00:00",
+      "headline": "GTA VI trará centenas de interiores exploráveis, confirma Rockstar",
+      "desc": "Fonte: O Vício",
+      "signal": 4,
+      "hook": "Curiosidade rápida: 'GTA VI trará centenas de interiores exploráveis, confirma Rockstar' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVlo4SUhXRXNkeExiaHRXNHhac04wd2tCNHYzZWhHM0tYMEZrU2xyNTViVGlCMFVIT0doMXpRV29wdm1SR29OXzl0bzV4WGdXbFB6NzNoWXo1azNldGNZUVBmTDZNdlFxTmdZSVlkeV9LLXlxaUlLRTFPWmdwczluRG5tQmgxRUNVSlJCUXliWE90Z9IBlwFBVV95cUxPX3NFQnB1cVF0RUVrX3lhdld0SVI3RXJOYXVRN1lpOXN4bHlLa1BqYUNyTFdzZU84Qk90UDFuYjdJNWFXdy1pY1FtWlgzenFMNWRTTkhNWHAzekZES1E2VURKcEJzb2dzX3ZWd3BsV2dIVjR0dHlScVg3clNhekZWMWhCdDdmUUtvc2xfb0JiQVNNd3hoVjU4?oc=5"
+    },
     {
       "cat": "curiosidade",
       "tagLabel": "Curiosidade",
@@ -137,21 +152,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLVU2UVc0WUFSM0t0OFh6SlRHYVIyYzA3UGVLOFRHdXdRLWI0VWpFc2dyWWxRZFJmcnRUUVpwOTJMUjdiajdNb2pYdWFpY0Q2eVlxZXM2Unh0WVZXTUN2eEgxcXdITlEzRWh0SlpHWGxHeDNaVFBvUk5yZUVmbW1MeGs4VkpnSUNhUUJIZ0h5RzE1a2NXZGZBVk9yS2NyRVpHbWNOeTlCbHZoNXR5cXE5TUFQczM4WGZwQmZQTHI0QXlmZw?oc=5"
     },
     {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "07/10/2026",
-      "publishedAt": "2026-10-07T16:07:00+00:00",
-      "headline": "GTA 6 confirma sistema de moral, mecânica de relacionamento e Jason pelado em nova entrevista",
-      "desc": "Fonte: Estadão",
-      "signal": 4,
-      "hook": "Curiosidade rápida: 'GTA 6 confirma sistema de moral, mecânica de relacionamento e Jason pelado em nova entrevista' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbl9TVUpzZXBfVThKMmNSU1NpQ3pBNV9qV04tc2FaaEZNX1hJMGI5TFByc3ppSWF4dkpkR19xUUVXN2NUWHlHc1FwYXBSMXpkR0VpX3ZaaFVncjFSYmdxMnVfLU05aWR2c1hTS0xOT2xwZEphNF9ZOUk1dkRkRzVQMklYcHJrLWF3N3E4VXhHaVdvalNqZWI1SldDVmZFT09ycWZuTUhPOHpDcGJTM3FDbG1Mb2U2S3IzQWpXazJBU0VSRmswX2R0YWFrRjVzLVpW0gHWAUFVX3lxTE5GZnVNd0lrQ09vSXk2VXExUkt5V1VCY0pxaVlFWUM5ZUVMUVpDb1JoTl9JNUNBczZFYlR6WG9vR1JDUXdOU1JlX0E1VW5aZ3dJSmFWaklMSnl1MVJlMzkwMGlFV3hjeXNPd2VlN3VmMDFIRm5mZTVQS3BySFZsaDN0UC1FWU4tYkF1VUNSWjF3Y0x2Nm9OZWZfWXFKcThwYkRFQ3dmcm9zQjBYSnZjbmJLWjRFTTU2RGl4SmltRVR5akE1RnhMdW1TWmZ4dGNOTXBCQ1dvZmc?oc=5"
-    },
-    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -165,21 +165,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('[긴급] GTA6 청불 심의통과! 이를 뒤집으려는 대한민국 국회') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=I1xGsYtr09c"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCZA9N53owvsm_7j2BOtpYww",
-      "outlier": true,
-      "date": "17/10/2026",
-      "publishedAt": "2026-10-17T05:11:40+00:00",
-      "headline": "GTA VI LIVE WITH [ RJ IS LIVE ] #gta #gta6 #gta5 #gtalive",
-      "desc": "GTA VI LIVE WITH [ RJ IS LIVE ] #gta #gta6 #gta5 #gtalive.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA VI LIVE WITH [ RJ IS LIVE ] #gta #gta6 #gta5 #gtalive') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=y6Iivwnu4kI"
     },
     {
       "cat": "lancamento",
@@ -300,6 +285,36 @@
       "signal": 5,
       "hook": "Abre direto com 'Games EduUu vendo o trailer de GTA 6 É INCRÍVEL' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
       "url": "https://youtube.com/watch?v=W15smB_c31A"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCQeRaTukNYft1_6AZPACnog",
+      "outlier": true,
+      "date": "27/08/2026",
+      "publishedAt": "2026-08-27T19:50:01+00:00",
+      "headline": "GTA 6 trailer just broke the internet..",
+      "desc": "Asmongold watches Grand Theft Auto VI: An Extended Look, the new GTA 6 gameplay reveal that dropped on Netflix. His full ...",
+      "signal": 5,
+      "hook": "Abre direto com 'GTA 6 trailer just broke the internet..' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=yV9RVJgTbx8"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCEC6HIEokfzYFOyf05chauA",
+      "outlier": true,
+      "date": "17/10/2026",
+      "publishedAt": "2026-10-17T12:00:12+00:00",
+      "headline": "#gta6  #kpop #kpopdemonhunters #shorts",
+      "desc": "欢迎来到本频道！ 频道主打两大创作内容：猎魔女团主线剧情+ GTA6辅助剪辑核心主线｜猎魔女团（双主角） 本剧男主：秦宇、女 ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('#gta6  #kpop #kpopdemonhunters #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=qtaOnjMS25w"
     },
     {
       "cat": "viral",
@@ -437,21 +452,6 @@
       "url": "https://youtube.com/watch?v=XafmApi8DaI"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
-      "outlier": true,
-      "date": "16/10/2026",
-      "publishedAt": "2026-10-16T17:00:20+00:00",
-      "headline": "杰森失去了露西亚！#gta #gta6#shorts",
-      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('杰森失去了露西亚！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=yIcwab3zXsA"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -555,21 +555,6 @@
       "signal": 5,
       "hook": "Número na cara logo na primeira frase: 'Me Back Then Vs Now: GTA 6 price' — formato \"isso é muito ou pouco?\".",
       "url": "https://youtube.com/watch?v=D9r7EVOIaDQ"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCQeRaTukNYft1_6AZPACnog",
-      "outlier": true,
-      "date": "27/08/2026",
-      "publishedAt": "2026-08-27T19:50:01+00:00",
-      "headline": "GTA 6 trailer just broke the internet..",
-      "desc": "Asmongold watches Grand Theft Auto VI: An Extended Look, the new GTA 6 gameplay reveal that dropped on Netflix. His full ...",
-      "signal": 5,
-      "hook": "Abre direto com 'GTA 6 trailer just broke the internet..' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=yV9RVJgTbx8"
     },
     {
       "cat": "lancamento",
@@ -685,6 +670,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
+      "outlier": true,
+      "date": "16/10/2026",
+      "publishedAt": "2026-10-16T17:00:20+00:00",
+      "headline": "杰森失去了露西亚！#gta #gta6#shorts",
+      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('杰森失去了露西亚！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=yIcwab3zXsA"
     },
     {
       "cat": "viral",
