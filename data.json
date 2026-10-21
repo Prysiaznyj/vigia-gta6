@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T04:17:36+00:00",
+  "updated": "2026-10-21T13:38:47+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -306,6 +306,36 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UC0slcUuaAUaHh4vAtBRTcJA",
+      "outlier": true,
+      "date": "20/10/2026",
+      "publishedAt": "2026-10-20T04:53:07+00:00",
+      "headline": "GTA VI One Play Music #gta #gta6",
+      "desc": "GTA VI One Play Music #gta #gta6.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA VI One Play Music #gta #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=S9amKaLaTNE"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCUQlo2Xe-DCcYcDST132e_w",
+      "outlier": true,
+      "date": "18/10/2026",
+      "publishedAt": "2026-10-18T17:32:34+00:00",
+      "headline": "Flying cars before GTA6 #satire #funny #comedy #jokes #memes #usa #darkhumor",
+      "desc": "Vídeo em alta sobre GTA 6 (1093186 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Flying cars before GTA6 #satire #funny #comedy #jokes #memes #usa #darkhumor') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=5DxCDwZ6tPc"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCnNQB-rVjaOCNSBhKXqXuMg",
       "outlier": true,
       "date": "18/10/2026",
@@ -354,21 +384,6 @@
       "channelId": "UC2xFKdG6sG0C68mP11wMbng",
       "outlier": true,
       "date": "18/10/2026",
-      "publishedAt": "2026-10-18T17:00:30+00:00",
-      "headline": "女孩为什么这么做？！#gta #gta6#shorts",
-      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('女孩为什么这么做？！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=lwMo3B2Eaxs"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
-      "outlier": true,
-      "date": "18/10/2026",
       "publishedAt": "2026-10-18T15:00:17+00:00",
       "headline": "杰森和露西亚的配合！#gta #gta6#shorts",
       "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
@@ -405,21 +420,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('她们在害怕什么？#GTA #GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=U_lz46YZsO4"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
-      "outlier": true,
-      "date": "17/10/2026",
-      "publishedAt": "2026-10-17T17:00:07+00:00",
-      "headline": "杰森表白成功了吗？！#gta #gta6#shorts",
-      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('杰森表白成功了吗？！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=u8aG4NXEi5M"
     },
     {
       "cat": "viral",
