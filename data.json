@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T13:40:44+00:00",
+  "updated": "2026-10-22T19:54:20+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCLlYA9UQwHKnri33vPQpuMw",
+      "outlier": true,
+      "date": "21/10/2026",
+      "publishedAt": "2026-10-21T04:41:16+00:00",
+      "headline": "Do GTA 5 Planes Go To GTA 6 ?",
+      "desc": "Vídeo em alta sobre GTA 6 (1852202 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Do GTA 5 Planes Go To GTA 6 ?') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=n3Q2R14vf2w"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCdQt1IZnsFcerkLbZley7ZA",
       "outlier": true,
       "date": "21/10/2026",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('杰森和露西亚的配合！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=IBbNHdXDOxc"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCnNQB-rVjaOCNSBhKXqXuMg",
-      "outlier": true,
-      "date": "17/10/2026",
-      "publishedAt": "2026-10-17T15:45:25+00:00",
-      "headline": "在劫难逃#GTA #GTA6",
-      "desc": "欢迎加入【GTA6冒险】频道～ 在这里，我们将用心创作每一个视频，通过精心设计的角色扮演、剧情演绎、开放世界趣味玩法！",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('在劫难逃#GTA #GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=J9nIQFYCsdM"
     },
     {
       "cat": "lancamento",
@@ -678,6 +678,21 @@
       "videoType": "curto",
       "channelId": "UCnNQB-rVjaOCNSBhKXqXuMg",
       "outlier": true,
+      "date": "17/10/2026",
+      "publishedAt": "2026-10-17T15:45:25+00:00",
+      "headline": "在劫难逃#GTA #GTA6",
+      "desc": "欢迎加入【GTA6冒险】频道～ 在这里，我们将用心创作每一个视频，通过精心设计的角色扮演、剧情演绎、开放世界趣味玩法！",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('在劫难逃#GTA #GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=J9nIQFYCsdM"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCnNQB-rVjaOCNSBhKXqXuMg",
+      "outlier": true,
       "date": "18/10/2026",
       "publishedAt": "2026-10-18T14:15:16+00:00",
       "headline": "她们在害怕什么？#GTA #GTA6",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "O relógio tá correndo e muita gente nem sabe quando vai poder baixar GTA 6 no console.",
       "url": "https://www.reddit.com/r/GTA6/comments/1x993gk/countdown_gta_vi_preload_countdown_timer/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
-      "outlier": true,
-      "date": "07/10/2026",
-      "publishedAt": "2026-10-07T23:54:53+00:00",
-      "headline": "GTA 6: IGN &amp; Rockstar Reveals New Gameplay Details",
-      "desc": "IGN article: https://www.ign.com/articles/gta-6-the-big-interview Follow me on Twitter/X: https://twitter.com/TGGonYT Twitch: ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: IGN &amp; Rockstar Reveals New Gameplay Details') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=UskLh1DPE-U"
     }
   ]
 }
