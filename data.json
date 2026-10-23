@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T23:10:32+00:00",
+  "updated": "2026-10-23T04:21:33+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -152,21 +152,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLVU2UVc0WUFSM0t0OFh6SlRHYVIyYzA3UGVLOFRHdXdRLWI0VWpFc2dyWWxRZFJmcnRUUVpwOTJMUjdiajdNb2pYdWFpY0Q2eVlxZXM2Unh0WVZXTUN2eEgxcXdITlEzRWh0SlpHWGxHeDNaVFBvUk5yZUVmbW1MeGs4VkpnSUNhUUJIZ0h5RzE1a2NXZGZBVk9yS2NyRVpHbWNOeTlCbHZoNXR5cXE5TUFQczM4WGZwQmZQTHI0QXlmZw?oc=5"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCZ0bi2aVJngKLwFTU5g_fLQ",
-      "outlier": true,
-      "date": "16/10/2026",
-      "publishedAt": "2026-10-16T11:06:35+00:00",
-      "headline": "[긴급] GTA6 청불 심의통과! 이를 뒤집으려는 대한민국 국회",
-      "desc": "본 영상은 19세 미만 시청자의 시청을 권장하지 않습니다. ✔️2026.10.16 GTA6는 한국 게임콘텐츠 등급분류위원회의 19세 이상 ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('[긴급] GTA6 청불 심의통과! 이를 뒤집으려는 대한민국 국회') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=I1xGsYtr09c"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -300,6 +285,21 @@
       "signal": 5,
       "hook": "Abre direto com 'GTA 6 trailer just broke the internet..' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
       "url": "https://youtube.com/watch?v=yV9RVJgTbx8"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCUZfhX79dQrJvAgYefiXCCA",
+      "outlier": true,
+      "date": "27/08/2026",
+      "publishedAt": "2026-08-27T13:36:39+00:00",
+      "headline": "GTA 6, o NOVO TRAILER, Extended Look Oficial",
+      "desc": "MANDE SUA MENSAGEM COM VOZ PERSONALIZADA! https://livepix.gg/flowgamestv Confira com o Flow Games o Olhar ...",
+      "signal": 5,
+      "hook": "Abre direto com 'GTA 6, o NOVO TRAILER, Extended Look Oficial' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=Q3UCebTDBy8"
     },
     {
       "cat": "viral",
@@ -606,21 +606,6 @@
       "tagLabel": "Lançamento",
       "source": "youtube",
       "videoType": "longo",
-      "channelId": "UCUZfhX79dQrJvAgYefiXCCA",
-      "outlier": true,
-      "date": "27/08/2026",
-      "publishedAt": "2026-08-27T13:36:39+00:00",
-      "headline": "GTA 6, o NOVO TRAILER, Extended Look Oficial",
-      "desc": "MANDE SUA MENSAGEM COM VOZ PERSONALIZADA! https://livepix.gg/flowgamestv Confira com o Flow Games o Olhar ...",
-      "signal": 5,
-      "hook": "Abre direto com 'GTA 6, o NOVO TRAILER, Extended Look Oficial' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=Q3UCebTDBy8"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "youtube",
-      "videoType": "longo",
       "channelId": "UCVeqvNw1vgm57w2XsVx57zQ",
       "outlier": true,
       "date": "10/08/2026",
@@ -888,13 +873,28 @@
       "videoType": null,
       "channelId": null,
       "outlier": false,
-      "date": "22/10/2026",
-      "publishedAt": "2026-10-22T21:13:26+00:00",
-      "headline": "Spotted at La Defense, the business district of Paris",
-      "desc": "Post em alta no r/GTA6 — ver fonte.",
+      "date": "23/10/2026",
+      "publishedAt": "2026-10-23T02:20:50+00:00",
+      "headline": "Favorite memory/theory in the last few years on this Reddit?",
+      "desc": "One month feels like a dream,we have seen it all in this sub Reddit. I don’t think this app has ever had a community like the one that was built here. We’ve all suffered, cried , shed blood and celebrated when that extended look was announced we have all grown so much. With that",
       "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('Spotted at La Defense, the business district of Paris') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1xcv0fi/spotted_at_la_defense_the_business_district_of/"
+      "hook": "Mostra o clipe/post que tá bombando ('Favorite memory/theory in the last few years on this Reddit?') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1xd1t26/favorite_memorytheory_in_the_last_few_years_on/"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "22/10/2026",
+      "publishedAt": "2026-10-22T23:15:35+00:00",
+      "headline": "Has GTA ever had a flashback mission?",
+      "desc": "One of the theories from the launch trailer is that this shot is a flashback from Jason's military past. But has GTA, or even Red Dead Redemption, ever had a flashback mission? I'm not counting the opening mission from GTA 5 because I don't think that mission can be considered a",
+      "signal": 4,
+      "hook": "Abre direto com 'Has GTA ever had a flashback mission?' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1xcxvmb/has_gta_ever_had_a_flashback_mission/"
     }
   ]
 }
