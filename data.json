@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T18:51:14+00:00",
+  "updated": "2026-10-25T22:24:51+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -156,6 +156,21 @@
       "tagLabel": "Lançamento",
       "source": "youtube",
       "videoType": "longo",
+      "channelId": "UC6C1dyHHOMVIBAze8dWfqCw",
+      "outlier": true,
+      "date": "23/10/2026",
+      "publishedAt": "2026-10-23T15:24:39+00:00",
+      "headline": "Kurz vor Release sieht GTA 6 plötzlich ganz anders aus!",
+      "desc": "Spiele für Steam, Uplay und Co. jetzt digital bei Gamesplanet.com kaufen: http://bit.ly/2of1MR0 (WERBUNG*) Der Launch Trailer ...",
+      "signal": 5,
+      "hook": "Abre direto com 'Kurz vor Release sieht GTA 6 plötzlich ganz anders aus!' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=d_2mHTSaYRs"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
       "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
       "outlier": true,
       "date": "15/10/2026",
@@ -287,19 +302,19 @@
       "url": "https://youtube.com/watch?v=yV9RVJgTbx8"
     },
     {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
+      "cat": "viral",
+      "tagLabel": "Viral",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCUZfhX79dQrJvAgYefiXCCA",
+      "videoType": "curto",
+      "channelId": "UCcrpxUHX7Z0ezQL96mSPD6g",
       "outlier": true,
-      "date": "27/08/2026",
-      "publishedAt": "2026-08-27T13:36:39+00:00",
-      "headline": "GTA 6, o NOVO TRAILER, Extended Look Oficial",
-      "desc": "MANDE SUA MENSAGEM COM VOZ PERSONALIZADA! https://livepix.gg/flowgamestv Confira com o Flow Games o Olhar ...",
+      "date": "24/10/2026",
+      "publishedAt": "2026-10-24T09:18:35+00:00",
+      "headline": "😭 Trevor Crying Over GTA 5 Posters 💔 GTA 6 #trading#viral#viral#short",
+      "desc": "Trevor Cries as People Tear Down GTA 5 Posters! | GTA 5 vs GTA 6 Trevor Philips is heartbroken when he sees people tearing ...",
       "signal": 5,
-      "hook": "Abre direto com 'GTA 6, o NOVO TRAILER, Extended Look Oficial' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=Q3UCebTDBy8"
+      "hook": "Mostra o clipe/post que tá bombando ('😭 Trevor Crying Over GTA 5 Posters 💔 GTA 6 #trading#viral#viral#short') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=tpOqtW9VIPU"
     },
     {
       "cat": "viral",
@@ -437,19 +452,19 @@
       "url": "https://youtube.com/watch?v=vIDVY1jcO64"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
       "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
+      "videoType": "longo",
+      "channelId": "UCUZfhX79dQrJvAgYefiXCCA",
       "outlier": true,
-      "date": "23/10/2026",
-      "publishedAt": "2026-10-23T17:00:37+00:00",
-      "headline": "杰森和汤米的爱恨情仇！#gta #gta6#shorts",
-      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
+      "date": "27/08/2026",
+      "publishedAt": "2026-08-27T13:36:39+00:00",
+      "headline": "GTA 6, o NOVO TRAILER, Extended Look Oficial",
+      "desc": "MANDE SUA MENSAGEM COM VOZ PERSONALIZADA! https://livepix.gg/flowgamestv Confira com o Flow Games o Olhar ...",
       "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('杰森和汤米的爱恨情仇！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=Pp7bGmeVtWs"
+      "hook": "Abre direto com 'GTA 6, o NOVO TRAILER, Extended Look Oficial' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=Q3UCebTDBy8"
     },
     {
       "cat": "lancamento",
@@ -664,6 +679,21 @@
       "channelId": "UC2xFKdG6sG0C68mP11wMbng",
       "outlier": true,
       "date": "23/10/2026",
+      "publishedAt": "2026-10-23T17:00:37+00:00",
+      "headline": "杰森和汤米的爱恨情仇！#gta #gta6#shorts",
+      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('杰森和汤米的爱恨情仇！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Pp7bGmeVtWs"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
+      "outlier": true,
+      "date": "23/10/2026",
       "publishedAt": "2026-10-23T16:00:01+00:00",
       "headline": "杰森的真实身份！#gta #gta6#shorts",
       "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('杰森救了女孩！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=u8CwLz6sDYA"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCdQt1IZnsFcerkLbZley7ZA",
-      "outlier": true,
-      "date": "19/10/2026",
-      "publishedAt": "2026-10-19T13:05:53+00:00",
-      "headline": "GTA 5 TO GTA 6 GOING SECRET DOOR LOCATION MICHAEL HOUSE CHALLENGE 😱",
-      "desc": "Vídeo em alta sobre GTA 6 (1237847 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 5 TO GTA 6 GOING SECRET DOOR LOCATION MICHAEL HOUSE CHALLENGE 😱') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=4CyBvdIayt0"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC0slcUuaAUaHh4vAtBRTcJA",
-      "outlier": true,
-      "date": "20/10/2026",
-      "publishedAt": "2026-10-20T04:53:07+00:00",
-      "headline": "GTA VI One Play Music #gta #gta6",
-      "desc": "GTA VI One Play Music #gta #gta6.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA VI One Play Music #gta #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=S9amKaLaTNE"
     }
   ]
 }
