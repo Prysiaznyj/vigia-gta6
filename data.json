@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T04:37:44+00:00",
+  "updated": "2026-10-27T14:17:22+00:00",
   "items": [
     {
       "cat": "lancamento",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCiOkFNdJsXCOKYrHlxiwCYQ",
+      "outlier": true,
+      "date": "26/10/2026",
+      "publishedAt": "2026-10-26T03:48:24+00:00",
+      "headline": "Nunca imaginé escuchar este mensaje en GTA 5 💔 #gta #gta5 #gta6 #shorts",
+      "desc": "gta #gta6 #gta5 #gtaonline #gtav #trashudo #trashudogames #shorts #fyp #foryou #viralvideo Suscríbete, dale like y activa la ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Nunca imaginé escuchar este mensaje en GTA 5 💔 #gta #gta5 #gta6 #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=ZyNXvcBa4DM"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCnNQB-rVjaOCNSBhKXqXuMg",
       "outlier": true,
       "date": "26/10/2026",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('How to Play the Last Drive in GTA 5 Before GTA 6 😄') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=dSP_qWdhNso"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCZnbeTpagpCX526eYxlN-AA",
-      "outlier": true,
-      "date": "23/10/2026",
-      "publishedAt": "2026-10-23T15:30:37+00:00",
-      "headline": "万圣节之夜#GTA6 #露西亚卡米诺斯 #LuciaCaminos #罪恶城 #GTA短片",
-      "desc": "生活像拳头一样挥过来，但我学会了怎么接住。” —— 露西亚·卡米诺斯这里是专为GTA 短视频打造的频道。主角露西亚，刚出狱的 ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('万圣节之夜#GTA6 #露西亚卡米诺斯 #LuciaCaminos #罪恶城 #GTA短片') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=Tp30Eq0otEQ"
     },
     {
       "cat": "lancamento",
@@ -676,6 +676,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCZnbeTpagpCX526eYxlN-AA",
+      "outlier": true,
+      "date": "23/10/2026",
+      "publishedAt": "2026-10-23T15:30:37+00:00",
+      "headline": "万圣节之夜#GTA6 #露西亚卡米诺斯 #LuciaCaminos #罪恶城 #GTA短片",
+      "desc": "生活像拳头一样挥过来，但我学会了怎么接住。” —— 露西亚·卡米诺斯这里是专为GTA 短视频打造的频道。主角露西亚，刚出狱的 ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('万圣节之夜#GTA6 #露西亚卡米诺斯 #LuciaCaminos #罪恶城 #GTA短片') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Tp30Eq0otEQ"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCnNQB-rVjaOCNSBhKXqXuMg",
       "outlier": true,
       "date": "24/10/2026",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('恶人自有恶人磨#GTA #GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=_0S7LpRj6ds"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCW9y5TPZV2RA-TK3D4NqBYA",
-      "outlier": true,
-      "date": "22/10/2026",
-      "publishedAt": "2026-10-22T00:00:46+00:00",
-      "headline": "GTA 5 vs GTA 6: Driving Over a Bush 🌳",
-      "desc": "Vídeo em alta sobre GTA 6 (1035017 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 5 vs GTA 6: Driving Over a Bush 🌳') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=thH5-Qf0oMw"
     }
   ]
 }
