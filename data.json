@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T05:11:17+00:00",
+  "updated": "2026-10-28T14:59:47+00:00",
   "items": [
     {
       "cat": "lancamento",
@@ -300,6 +300,36 @@
       "signal": 5,
       "hook": "Abre direto com 'GTA 6 trailer just broke the internet..' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
       "url": "https://youtube.com/watch?v=yV9RVJgTbx8"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC1dNe7FrJ9L911BQkybie5Q",
+      "outlier": true,
+      "date": "27/10/2026",
+      "publishedAt": "2026-10-27T19:21:54+00:00",
+      "headline": "GTA 6&#39;s file size is MASSIVE 🫪",
+      "desc": "GTA 6's file size is MASSIVE #gta6 #gta5 #gta.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6&#39;s file size is MASSIVE 🫪') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Sa2K2mg5rv8"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCnNQB-rVjaOCNSBhKXqXuMg",
+      "outlier": true,
+      "date": "26/10/2026",
+      "publishedAt": "2026-10-26T13:00:10+00:00",
+      "headline": "露西娅该选择谁？#GTA #GTA6",
+      "desc": "欢迎加入【GTA6冒险】频道～ 在这里，我们将用心创作每一个视频，通过精心设计的角色扮演、剧情演绎、开放世界趣味玩法！",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('露西娅该选择谁？#GTA #GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=SzgnTLvpHh0"
     },
     {
       "cat": "viral",
@@ -839,62 +869,32 @@
     {
       "cat": "viral",
       "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "28/10/2026",
-      "publishedAt": "2026-10-28T01:18:44+00:00",
-      "headline": "Hand Painted GTA 6 Jason PS5 Faceplate",
-      "desc": "I finished the companion piece to the Lucia plate but the original post was removed so here it is again. I had gotten a ton of ppl asking about getting custom plates for themselves so I was just trying to let those folks know where I had landed on that. Not trying to sell anythin",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('Hand Painted GTA 6 Jason PS5 Faceplate') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1xhason/hand_painted_gta_6_jason_ps5_faceplate/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "28/10/2026",
-      "publishedAt": "2026-10-28T00:49:48+00:00",
-      "headline": "Couldn't make it to the GTA 6 Burger Shot pop up, so I improvised…",
-      "desc": "The GTA 6 Burger Shot pop up in Miami looked so cool, but we weren't about to spend $1,000 on flights… so I recreated it at home for my boyfriend instead",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('Couldn't make it to the GTA 6 Burger Shot pop up, so I improvised…') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1xha661/couldnt_make_it_to_the_gta_6_burger_shot_pop_up/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
       "channelId": "UC2xFKdG6sG0C68mP11wMbng",
-      "outlier": false,
+      "outlier": true,
       "date": "27/10/2026",
       "publishedAt": "2026-10-27T14:00:16+00:00",
       "headline": "杰森总能帮露西娅避免危险！#gta #gta6#shorts",
       "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
-      "signal": 4,
+      "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('杰森总能帮露西娅避免危险！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=NALL-ke81mg"
     },
     {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "reddit",
       "videoType": null,
       "channelId": null,
       "outlier": false,
-      "date": "27/10/2026",
-      "publishedAt": "2026-10-27T22:00:00+00:00",
-      "headline": "Prepare seu SSD: instalação de GTA VI pode ocupar mais de 200 GB no PS5, segundo informação não oficial",
-      "desc": "Fonte: Arkade",
-      "signal": 3,
-      "hook": "Curiosidade rápida: 'Prepare seu SSD: instalação de GTA VI pode ocupar mais de 200 GB no PS5, segundo informação não oficial' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc2xHN2NpTWlBTmIwMnphRHI4NF9jUElSMHR4VWtNNGEtSVh5VkNuMGtscnZrTFIwSmd0Vzl0d3RXdHdIcjJGR1JDVWV0b2lEUDJ0WjI0eUM1RDJoY2lQNHdsQVU0TzFGOElNWU9SbGx6QVNzQ0U1SHdTY2tnbHotd1FWZmcxLUM2MjNpemRYUW9TU3M0aDBwb2Z1T0hKejB4MkF5NVJQdm5Td095WFlkRkVqdWctR1N0QlZOcGt4YWl5dw?oc=5"
+      "date": "28/10/2026",
+      "publishedAt": "2026-10-28T14:09:12+00:00",
+      "headline": "Every time explosions appear in the gta 6 trailers",
+      "desc": "Post em alta no r/GTA6 — ver fonte.",
+      "signal": 4,
+      "hook": "Mostra o clipe/post que tá bombando ('Every time explosions appear in the gta 6 trailers') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1xhp3tq/every_time_explosions_appear_in_the_gta_6_trailers/"
     }
   ]
 }
