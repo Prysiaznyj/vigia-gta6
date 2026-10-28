@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T14:59:47+00:00",
+  "updated": "2026-10-28T20:55:45+00:00",
   "items": [
     {
       "cat": "lancamento",
@@ -889,12 +889,12 @@
       "channelId": null,
       "outlier": false,
       "date": "28/10/2026",
-      "publishedAt": "2026-10-28T14:09:12+00:00",
-      "headline": "Every time explosions appear in the gta 6 trailers",
-      "desc": "Post em alta no r/GTA6 — ver fonte.",
+      "publishedAt": "2026-10-28T20:34:49+00:00",
+      "headline": "How it feels to be a Miami resident",
+      "desc": "gta.wiki/GTA_6_Marketing",
       "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('Every time explosions appear in the gta 6 trailers') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1xhp3tq/every_time_explosions_appear_in_the_gta_6_trailers/"
+      "hook": "Mostra o clipe/post que tá bombando ('How it feels to be a Miami resident') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1xhzqpj/how_it_feels_to_be_a_miami_resident/"
     }
   ]
 }
