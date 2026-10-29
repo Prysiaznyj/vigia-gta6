@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T05:22:58+00:00",
+  "updated": "2026-10-29T15:07:04+00:00",
   "items": [
     {
       "cat": "lancamento",
@@ -152,6 +152,21 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMm1rMzJ4MkxIYTloXzJBYlBtM0YtdXpzOUJfaUdQYVBpZkpwRzl2YWtnN1B6UEVyN3FIbTNBX0JrcnBJUzJhbzRFVmdMLUxLd3g3MVRtXzNjRm92d0ZaLUFhQzRPNnBnZGE0T182cnV3OFlfanQ5bUdTbXpyRjFEWkRxRUJTVUVoMTF1MW1lTkRzcGlQWXpQU25fNmY4M2JVZHNwOG5SaWNiRzBXTGNmS1BR?oc=5"
     },
     {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
+      "outlier": true,
+      "date": "27/10/2026",
+      "publishedAt": "2026-10-27T06:01:32+00:00",
+      "headline": "GTA 6: Early Review Copies are Out &amp; How This Channel Will Handle Spoilers",
+      "desc": "Joel Franco's video: https://www.youtube.com/watch?v=Zj64q207YRE DCA's video: ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: Early Review Copies are Out &amp; How This Channel Will Handle Spoilers') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=Soo5WCxPvYA"
+    },
+    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -287,19 +302,34 @@
       "url": "https://youtube.com/watch?v=W15smB_c31A"
     },
     {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
+      "cat": "viral",
+      "tagLabel": "Viral",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCQeRaTukNYft1_6AZPACnog",
+      "videoType": "curto",
+      "channelId": "UCmYs3NUBSDzfX33rOi-hghg",
       "outlier": true,
-      "date": "27/08/2026",
-      "publishedAt": "2026-08-27T19:50:01+00:00",
-      "headline": "GTA 6 trailer just broke the internet..",
-      "desc": "Asmongold watches Grand Theft Auto VI: An Extended Look, the new GTA 6 gameplay reveal that dropped on Netflix. His full ...",
+      "date": "28/10/2026",
+      "publishedAt": "2026-10-28T11:39:30+00:00",
+      "headline": "Playing GTA 6 All Night 🥹❤️‍🩹",
+      "desc": "meme #memes #fyp #viral #funny #funnymemes #despicableme #minions #wonder #gta #gta6 #trend #shorts Me (38 autism) ...",
       "signal": 5,
-      "hook": "Abre direto com 'GTA 6 trailer just broke the internet..' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=yV9RVJgTbx8"
+      "hook": "Mostra o clipe/post que tá bombando ('Playing GTA 6 All Night 🥹❤️‍🩹') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=AWGdKiqT-bU"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCvTZhiPzR9oV2LKpcYXKlzA",
+      "outlier": true,
+      "date": "28/10/2026",
+      "publishedAt": "2026-10-28T11:00:22+00:00",
+      "headline": "What Happens When a GTA 5 Train Enters GTA 6? 😱",
+      "desc": "Vídeo em alta sobre GTA 6 (1057193 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('What Happens When a GTA 5 Train Enters GTA 6? 😱') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=TsI3qN1Nzd0"
     },
     {
       "cat": "viral",
@@ -422,34 +452,19 @@
       "url": "https://youtube.com/watch?v=_dh7WdgYTjk"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
       "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
+      "videoType": "longo",
+      "channelId": "UCQeRaTukNYft1_6AZPACnog",
       "outlier": true,
-      "date": "25/10/2026",
-      "publishedAt": "2026-10-25T16:00:24+00:00",
-      "headline": "谁游过去了？！#gta #gta6#shorts",
-      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
+      "date": "27/08/2026",
+      "publishedAt": "2026-08-27T19:50:01+00:00",
+      "headline": "GTA 6 trailer just broke the internet..",
+      "desc": "Asmongold watches Grand Theft Auto VI: An Extended Look, the new GTA 6 gameplay reveal that dropped on Netflix. His full ...",
       "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('谁游过去了？！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=ODpirXsHQjc"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCcrpxUHX7Z0ezQL96mSPD6g",
-      "outlier": true,
-      "date": "24/10/2026",
-      "publishedAt": "2026-10-24T09:18:35+00:00",
-      "headline": "😭 Trevor Crying Over GTA 5 Posters 💔 GTA 6 #trading#viral#viral#short",
-      "desc": "Trevor Cries as People Tear Down GTA 5 Posters! | GTA 5 vs GTA 6 Trevor Philips is heartbroken when he sees people tearing ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('😭 Trevor Crying Over GTA 5 Posters 💔 GTA 6 #trading#viral#viral#short') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=tpOqtW9VIPU"
+      "hook": "Abre direto com 'GTA 6 trailer just broke the internet..' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=yV9RVJgTbx8"
     },
     {
       "cat": "lancamento",
@@ -659,6 +674,36 @@
     {
       "cat": "viral",
       "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
+      "outlier": true,
+      "date": "25/10/2026",
+      "publishedAt": "2026-10-25T16:00:24+00:00",
+      "headline": "谁游过去了？！#gta #gta6#shorts",
+      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('谁游过去了？！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=ODpirXsHQjc"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCcrpxUHX7Z0ezQL96mSPD6g",
+      "outlier": true,
+      "date": "24/10/2026",
+      "publishedAt": "2026-10-24T09:18:35+00:00",
+      "headline": "😭 Trevor Crying Over GTA 5 Posters 💔 GTA 6 #trading#viral#viral#short",
+      "desc": "Trevor Cries as People Tear Down GTA 5 Posters! | GTA 5 vs GTA 6 Trevor Philips is heartbroken when he sees people tearing ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('😭 Trevor Crying Over GTA 5 Posters 💔 GTA 6 #trading#viral#viral#short') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=tpOqtW9VIPU"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
       "source": "reddit",
       "videoType": null,
       "channelId": null,
@@ -850,51 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('到底什么才是真的？！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=BDeNfnCCl6w"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCnNQB-rVjaOCNSBhKXqXuMg",
-      "outlier": true,
-      "date": "21/10/2026",
-      "publishedAt": "2026-10-21T12:00:15+00:00",
-      "headline": "露西娅变成什么了#GTA #GTA6",
-      "desc": "欢迎加入【GTA6冒险】频道～ 在这里，我们将用心创作每一个视频，通过精心设计的角色扮演、剧情演绎、开放世界趣味玩法！",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('露西娅变成什么了#GTA #GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=1TSAUK2MqPM"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
-      "outlier": true,
-      "date": "27/10/2026",
-      "publishedAt": "2026-10-27T14:00:16+00:00",
-      "headline": "杰森总能帮露西娅避免危险！#gta #gta6#shorts",
-      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('杰森总能帮露西娅避免危险！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=NALL-ke81mg"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "29/10/2026",
-      "publishedAt": "2026-10-29T02:42:42+00:00",
-      "headline": "New Footage via South Park",
-      "desc": "Post em alta no r/GTA6 — ver fonte.",
-      "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('New Footage via South Park') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1xi8bzy/new_footage_via_south_park/"
     }
   ]
 }
