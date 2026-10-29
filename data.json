@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T20:55:45+00:00",
+  "updated": "2026-10-29T05:22:58+00:00",
   "items": [
     {
       "cat": "lancamento",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCSNtpMLqJsJ0Yuf-1mnPc0Q",
+      "outlier": true,
+      "date": "28/10/2026",
+      "publishedAt": "2026-10-28T02:15:37+00:00",
+      "headline": "Tital - Work vs GTA 6 🎮 #shortvideo",
+      "desc": "Vídeo em alta sobre GTA 6 (1027748 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Tital - Work vs GTA 6 🎮 #shortvideo') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=CVfzWsoKrV0"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UC1dNe7FrJ9L911BQkybie5Q",
       "outlier": true,
       "date": "27/10/2026",
@@ -437,21 +452,6 @@
       "url": "https://youtube.com/watch?v=tpOqtW9VIPU"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCnNQB-rVjaOCNSBhKXqXuMg",
-      "outlier": true,
-      "date": "25/10/2026",
-      "publishedAt": "2026-10-25T13:00:31+00:00",
-      "headline": "万圣节快乐。#GTA #GTA6",
-      "desc": "欢迎加入【GTA6冒险】频道～ 在这里，我们将用心创作每一个视频，通过精心设计的角色扮演、剧情演绎、开放世界趣味玩法！",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('万圣节快乐。#GTA #GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=e1h3R9HhPMI"
-    },
-    {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
       "source": "youtube",
@@ -510,21 +510,6 @@
       "signal": 5,
       "hook": "Abre direto com 'Ned Luke Reveals Deleted GTA 5 Scene' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
       "url": "https://youtube.com/watch?v=RE-PHdgcOt8"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCb0XWaQxh12XHy5_j_6jpCg",
-      "outlier": true,
-      "date": "18/09/2026",
-      "publishedAt": "2026-09-18T00:51:54+00:00",
-      "headline": "GTA 6 Soundtrack, Billboards &amp; Multiplayer Release Date Dropped 👀👀",
-      "desc": "GTA 6 Soundtrack & Multiplayer Release Date Dropped sub for more!!!",
-      "signal": 5,
-      "hook": "Abre direto com 'GTA 6 Soundtrack, Billboards &amp; Multiplayer Release Date Dropped 👀👀' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=7nZVaNIUSmE"
     },
     {
       "cat": "lancamento",
@@ -674,6 +659,36 @@
     {
       "cat": "viral",
       "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "29/10/2026",
+      "publishedAt": "2026-10-29T01:12:07+00:00",
+      "headline": "Grand Theft Auto VI exclusive – The state that never sleeps",
+      "desc": "Post em alta no r/GTA6 — ver fonte.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Grand Theft Auto VI exclusive – The state that never sleeps') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1xi6fb6/grand_theft_auto_vi_exclusive_the_state_that/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCnNQB-rVjaOCNSBhKXqXuMg",
+      "outlier": true,
+      "date": "25/10/2026",
+      "publishedAt": "2026-10-25T13:00:31+00:00",
+      "headline": "万圣节快乐。#GTA #GTA6",
+      "desc": "欢迎加入【GTA6冒险】频道～ 在这里，我们将用心创作每一个视频，通过精心设计的角色扮演、剧情演绎、开放世界趣味玩法！",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('万圣节快乐。#GTA #GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=e1h3R9HhPMI"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
       "channelId": "UCxcGZPFl_5XdBQeT-iwBrww",
@@ -796,21 +811,6 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
-      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
-      "outlier": true,
-      "date": "23/10/2026",
-      "publishedAt": "2026-10-23T16:00:01+00:00",
-      "headline": "杰森的真实身份！#gta #gta6#shorts",
-      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('杰森的真实身份！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=F7qfmMj4XEo"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
       "channelId": "UCnNQB-rVjaOCNSBhKXqXuMg",
       "outlier": true,
       "date": "22/10/2026",
@@ -888,13 +888,13 @@
       "videoType": null,
       "channelId": null,
       "outlier": false,
-      "date": "28/10/2026",
-      "publishedAt": "2026-10-28T20:34:49+00:00",
-      "headline": "How it feels to be a Miami resident",
-      "desc": "gta.wiki/GTA_6_Marketing",
+      "date": "29/10/2026",
+      "publishedAt": "2026-10-29T02:42:42+00:00",
+      "headline": "New Footage via South Park",
+      "desc": "Post em alta no r/GTA6 — ver fonte.",
       "signal": 4,
-      "hook": "Mostra o clipe/post que tá bombando ('How it feels to be a Miami resident') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1xhzqpj/how_it_feels_to_be_a_miami_resident/"
+      "hook": "Mostra o clipe/post que tá bombando ('New Footage via South Park') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1xi8bzy/new_footage_via_south_park/"
     }
   ]
 }
