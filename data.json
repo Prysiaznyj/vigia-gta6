@@ -1,6 +1,21 @@
 {
-  "updated": "2026-11-03T11:47:45+00:00",
+  "updated": "2026-11-03T19:21:58+00:00",
   "items": [
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "03/11/2026",
+      "publishedAt": "2026-11-03T16:50:48+00:00",
+      "headline": "Quais consoles vão rodar GTA 6? Veja plataformas confirmadas para o lançamento",
+      "desc": "Fonte: Quero Bolsa",
+      "signal": 4,
+      "hook": "Abre direto com 'Quais consoles vão rodar GTA 6? Veja plataformas confirmadas para o lançamento' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12c0FJNnRGM292RHAxUVZMVmdneEc3dnlvV3ZJa2x4bmxxTDJnNXEwYk1wdTFVUnhxbG8xY0l0R1lsRFpMOGowZUU5UUFhdE5yT1QwSS1jd29lUXZhVjktNEx5ek4xYzNBQ3pxYw?oc=5"
+    },
     {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
@@ -135,21 +150,6 @@
       "signal": 4,
       "hook": "Curiosidade rápida: 'GTA 6: Novas imagens de Vice City e rádio oficial revelados' — bom pra fechar um vídeo ou virar corte solto.",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbDdGOVJQaGpGOUU2akpFN3VhQmFRUmwtQVgwcnpzcU1PWllISzNCRXBRZllJd2VHSmE5eEFqRG1DOFZUZGc3RmoweVl6RjhXWFVNT3I0RGh1TTFDQnhqenBsdXRicmFxYkRQdWp1MU1kMHFxWHBqOE1scEdsRzdVMEZSLUM?oc=5"
-    },
-    {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "08/10/2026",
-      "publishedAt": "2026-10-08T17:30:02+00:00",
-      "headline": "Rockstar confirma Flash FM em GTA 6 e revela primeiras estações de rádio; conheça",
-      "desc": "Fonte: Canaltech",
-      "signal": 4,
-      "hook": "Curiosidade rápida: 'Rockstar confirma Flash FM em GTA 6 e revela primeiras estações de rádio; conheça' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMm1rMzJ4MkxIYTloXzJBYlBtM0YtdXpzOUJfaUdQYVBpZkpwRzl2YWtnN1B6UEVyN3FIbTNBX0JrcnBJUzJhbzRFVmdMLUxLd3g3MVRtXzNjRm92d0ZaLUFhQzRPNnBnZGE0T182cnV3OFlfanQ5bUdTbXpyRjFEWkRxRUJTVUVoMTF1MW1lTkRzcGlQWXpQU25fNmY4M2JVZHNwOG5SaWNiRzBXTGNmS1BR?oc=5"
     },
     {
       "cat": "viral",
@@ -302,19 +302,19 @@
       "url": "https://youtube.com/watch?v=yV9RVJgTbx8"
     },
     {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
+      "cat": "viral",
+      "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
-      "channelId": "UCt59681zjcwtSJzAIVip93w",
-      "outlier": false,
+      "channelId": "UCnNQB-rVjaOCNSBhKXqXuMg",
+      "outlier": true,
       "date": "03/11/2026",
-      "publishedAt": "2026-11-03T06:30:37+00:00",
-      "headline": "Me vs My Brother: Who Can Deliver the GTA 6 Trailer to Michael, Franklin &amp; Trevor First 😱",
-      "desc": "gta5 #gtav #gtashorts #gta5challenge #gta6 #gta6trailer #michael #franklin #trevor #deliverychallenge #brothervsbrother ...",
+      "publishedAt": "2026-11-03T13:00:15+00:00",
+      "headline": "文明看电影。#GTA #GTA6",
+      "desc": "欢迎加入【GTA6冒险】频道～ 在这里，我们将用心创作每一个视频，通过精心设计的角色扮演、剧情演绎、开放世界趣味玩法！",
       "signal": 5,
-      "hook": "Abre direto com 'Me vs My Brother: Who Can Deliver the GTA 6 Trailer to Michael, Franklin &amp; Trevor First 😱' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=BVTspBH_B5A"
+      "hook": "Mostra o clipe/post que tá bombando ('文明看电影。#GTA #GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=aXkxiHC4RA4"
     },
     {
       "cat": "viral",
@@ -674,6 +674,21 @@
     {
       "cat": "viral",
       "tagLabel": "Viral",
+      "source": "reddit",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "03/11/2026",
+      "publishedAt": "2026-11-03T15:53:54+00:00",
+      "headline": "[Countdown] GTA VI Preload Countdown Timer.",
+      "desc": "This post contains content not supported on old Reddit. Click here to view the full post",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('[Countdown] GTA VI Preload Countdown Timer.') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://www.reddit.com/r/GTA6/comments/1xmwmss/countdown_gta_vi_preload_countdown_timer/"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
       "channelId": "UCnNQB-rVjaOCNSBhKXqXuMg",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('What Happens When a GTA 5 Train Enters GTA 6? 😱') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=TsI3qN1Nzd0"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCSNtpMLqJsJ0Yuf-1mnPc0Q",
-      "outlier": true,
-      "date": "28/10/2026",
-      "publishedAt": "2026-10-28T02:15:37+00:00",
-      "headline": "Tital - Work vs GTA 6 🎮 #shortvideo",
-      "desc": "Vídeo em alta sobre GTA 6 (1027748 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Tital - Work vs GTA 6 🎮 #shortvideo') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=CVfzWsoKrV0"
     }
   ]
 }
