@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T00:32:19+00:00",
+  "updated": "2026-11-04T11:59:47+00:00",
   "items": [
     {
       "cat": "lancamento",
@@ -156,6 +156,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
+      "channelId": "UCKvoBRFqMNqvuSvFBiNadgw",
+      "outlier": true,
+      "date": "01/11/2026",
+      "publishedAt": "2026-11-01T20:56:03+00:00",
+      "headline": "Rockstar ha transformado Miami para GTA VI 🌴 - Miami Stories #1",
+      "desc": "Lo prometido es deuda. Hemos cruzado medio mundo para venir a Miami a hacer la serie más friki que podáis imaginar. Miami ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Rockstar ha transformado Miami para GTA VI 🌴 - Miami Stories #1') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=r38HzMkc2PM"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
       "channelId": "UCI1-J45WXprOQQ_m9pmfW9A",
       "outlier": true,
       "date": "30/10/2026",
@@ -287,34 +302,34 @@
       "url": "https://youtube.com/watch?v=W15smB_c31A"
     },
     {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
+      "cat": "viral",
+      "tagLabel": "Viral",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCQeRaTukNYft1_6AZPACnog",
+      "videoType": "curto",
+      "channelId": "UC0slcUuaAUaHh4vAtBRTcJA",
       "outlier": true,
-      "date": "27/08/2026",
-      "publishedAt": "2026-08-27T19:50:01+00:00",
-      "headline": "GTA 6 trailer just broke the internet..",
-      "desc": "Asmongold watches Grand Theft Auto VI: An Extended Look, the new GTA 6 gameplay reveal that dropped on Netflix. His full ...",
+      "date": "03/11/2026",
+      "publishedAt": "2026-11-03T15:45:30+00:00",
+      "headline": "GTA VI One Play Music #gta #gta6",
+      "desc": "GTA VI One Play Music #gta #gta6.",
       "signal": 5,
-      "hook": "Abre direto com 'GTA 6 trailer just broke the internet..' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=yV9RVJgTbx8"
+      "hook": "Mostra o clipe/post que tá bombando ('GTA VI One Play Music #gta #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=9bkMoZcZT6E"
     },
     {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
-      "channelId": "UCnNQB-rVjaOCNSBhKXqXuMg",
+      "channelId": "UCVtCWzGIbspjfH3rAnW2bGw",
       "outlier": true,
-      "date": "03/11/2026",
-      "publishedAt": "2026-11-03T13:00:15+00:00",
-      "headline": "文明看电影。#GTA #GTA6",
-      "desc": "欢迎加入【GTA6冒险】频道～ 在这里，我们将用心创作每一个视频，通过精心设计的角色扮演、剧情演绎、开放世界趣味玩法！",
+      "date": "01/11/2026",
+      "publishedAt": "2026-11-01T20:30:38+00:00",
+      "headline": "How to Play GTA 6 Early",
+      "desc": "Vídeo em alta sobre GTA 6 (1102560 views).",
       "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('文明看电影。#GTA #GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=aXkxiHC4RA4"
+      "hook": "Mostra o clipe/post que tá bombando ('How to Play GTA 6 Early') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=xfCUA2Ee6Gc"
     },
     {
       "cat": "viral",
@@ -437,19 +452,19 @@
       "url": "https://youtube.com/watch?v=i73vNGo4BKc"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
       "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCvTZhiPzR9oV2LKpcYXKlzA",
+      "videoType": "longo",
+      "channelId": "UCQeRaTukNYft1_6AZPACnog",
       "outlier": true,
-      "date": "30/10/2026",
-      "publishedAt": "2026-10-30T08:00:17+00:00",
-      "headline": "Can a GTA 5 Plane Land in GTA 6? ✈️😱",
-      "desc": "Credit - @fantizgaming.",
+      "date": "27/08/2026",
+      "publishedAt": "2026-08-27T19:50:01+00:00",
+      "headline": "GTA 6 trailer just broke the internet..",
+      "desc": "Asmongold watches Grand Theft Auto VI: An Extended Look, the new GTA 6 gameplay reveal that dropped on Netflix. His full ...",
       "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Can a GTA 5 Plane Land in GTA 6? ✈️😱') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=UZlYentpnZk"
+      "hook": "Abre direto com 'GTA 6 trailer just broke the internet..' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=yV9RVJgTbx8"
     },
     {
       "cat": "lancamento",
@@ -674,6 +689,21 @@
     {
       "cat": "viral",
       "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCvTZhiPzR9oV2LKpcYXKlzA",
+      "outlier": true,
+      "date": "30/10/2026",
+      "publishedAt": "2026-10-30T08:00:17+00:00",
+      "headline": "Can a GTA 5 Plane Land in GTA 6? ✈️😱",
+      "desc": "Credit - @fantizgaming.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Can a GTA 5 Plane Land in GTA 6? ✈️😱') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=UZlYentpnZk"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
       "source": "reddit",
       "videoType": null,
       "channelId": null,
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Arbeit Oder GTA 6? 🎮') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=KRNmWwbCFoA"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCmYs3NUBSDzfX33rOi-hghg",
-      "outlier": true,
-      "date": "28/10/2026",
-      "publishedAt": "2026-10-28T11:39:30+00:00",
-      "headline": "Playing GTA 6 All Night 🥹❤️‍🩹",
-      "desc": "meme #memes #fyp #viral #funny #funnymemes #despicableme #minions #wonder #gta #gta6 #trend #shorts Me (38 autism) ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Playing GTA 6 All Night 🥹❤️‍🩹') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=AWGdKiqT-bU"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCvTZhiPzR9oV2LKpcYXKlzA",
-      "outlier": true,
-      "date": "28/10/2026",
-      "publishedAt": "2026-10-28T11:00:22+00:00",
-      "headline": "What Happens When a GTA 5 Train Enters GTA 6? 😱",
-      "desc": "Vídeo em alta sobre GTA 6 (1057193 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('What Happens When a GTA 5 Train Enters GTA 6? 😱') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=TsI3qN1Nzd0"
     }
   ]
 }
