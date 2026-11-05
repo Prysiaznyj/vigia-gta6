@@ -1,6 +1,21 @@
 {
-  "updated": "2026-11-04T19:41:16+00:00",
+  "updated": "2026-11-05T00:49:47+00:00",
   "items": [
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "05/11/2026",
+      "publishedAt": "2026-11-05T00:10:00+00:00",
+      "headline": "GTA 6 físico poderá receber upgrade Ultimate, confirma Rockstar",
+      "desc": "Fonte: Game Overdrive",
+      "signal": 4,
+      "hook": "Curiosidade rápida: 'GTA 6 físico poderá receber upgrade Ultimate, confirma Rockstar' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON1NDNTZfY1NrQ0Z1cmx1RDlnQ25XN0xaMzZDRjk3TlUtRkN1WkNyZ3BMUnFoWkZfdVpiMFh2My13Y1UyT3k4cnA5dmlMZmo5c1hyZDZTbEY4eTNTbUJwbHhZdkMyeTBKbzA5RjFsUjRQTG93UEpiVVc4a0l0RWxieEhMRU50dDQtVDhJR2pXc2FNZTQ1U1F3?oc=5"
+    },
     {
       "cat": "curiosidade",
       "tagLabel": "Curiosidade",
@@ -135,21 +150,6 @@
       "signal": 4,
       "hook": "Número na cara logo na primeira frase: 'GTA 6: novidades confirmadas, preço e o que saber antes do lançamento' — formato \"isso é muito ou pouco?\".",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVWN1aFVST05LRk5wSllCR3pvNkRJRjF2aHhTS1pTNVkzS1IyQzZ2VXJwY21XalAzdlpkdndhVmRjQ2xyekxVSE1aTWV3WnVUbnVmZTViOEdLMjVRT1pEb2NZMGhKdHlBOFdXZTh1VEQyUXU0NE9kSVl1MHhLSXBMOTRscTdZcVM3RlhxR3dCMUMwc0ZnUV9MQTFNZ1B1NWo4VVlzVkNCd2lRT1lmUU9ldFQ5VTVVblV3RWw3Zy1MZ1FhNTJES2UxRllObXUtNWVabFM1Qg?oc=5"
-    },
-    {
-      "cat": "boatos",
-      "tagLabel": "Boatos",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "13/10/2026",
-      "publishedAt": "2026-10-13T17:24:23+00:00",
-      "headline": "GTA 6 no PC no início de 2027, rumor da GamesBeat sem confirmação",
-      "desc": "Fonte: Pasquale Pillitteri",
-      "signal": 4,
-      "hook": "Pergunta de abertura: 'GTA 6 no PC no início de 2027, rumor da GamesBeat sem confirmação?' — deixa claro que é especulação, mas prende pela dúvida.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdzB3YkM5c21GYXNoT3NScDBLcHVVLXNnSTRtQWxUNHlqSjVhdWpna1R4c0N1aVhYVGk3cm96c1NKZllTb0J6RHNLczltTWcybEZIN1JlSllCWjVNYjFwUFRkZWZvWXJiY0JjQ0RvYngzRGo0NGRhRm5PeGExc0dnTGQ1eTRENjZFbHVlWVBwdVFVZG8?oc=5"
     },
     {
       "cat": "viral",
