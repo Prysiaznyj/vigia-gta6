@@ -250,9 +250,9 @@
     "calculadoEm": "2026-08-16T04:41:44+00:00"
   },
   "UCjVmQP4XD2WqjYQWPIVMarA": {
-    "medianViews": 413620,
+    "medianViews": 212558,
     "amostra": 15,
-    "calculadoEm": "2026-09-30T14:48:51+00:00"
+    "calculadoEm": "2026-11-06T21:24:46+00:00"
   },
   "UCfyaRL_uNz34GenfD5hMUkg": {
     "medianViews": 38825,
@@ -1970,9 +1970,9 @@
     "calculadoEm": "2026-10-24T22:22:17+00:00"
   },
   "UCLlYA9UQwHKnri33vPQpuMw": {
-    "medianViews": 3646836,
+    "medianViews": 3202231,
     "amostra": 15,
-    "calculadoEm": "2026-11-02T05:32:50+00:00"
+    "calculadoEm": "2026-11-06T21:24:46+00:00"
   },
   "UCdQt1IZnsFcerkLbZley7ZA": {
     "medianViews": 31529,
@@ -2133,5 +2133,15 @@
     "medianViews": 10591,
     "amostra": 15,
     "calculadoEm": "2026-11-06T15:50:15+00:00"
+  },
+  "UCgBgIlI8F_VJczCT-z-nakw": {
+    "medianViews": 2513,
+    "amostra": 15,
+    "calculadoEm": "2026-11-06T21:24:47+00:00"
+  },
+  "UC4BtoPpW5BkTO4J21-KAgsg": {
+    "medianViews": 96754,
+    "amostra": 15,
+    "calculadoEm": "2026-11-06T21:24:47+00:00"
   }
 }
