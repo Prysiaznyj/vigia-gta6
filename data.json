@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T05:35:55+00:00",
+  "updated": "2026-11-07T14:50:06+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -306,21 +306,6 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
-      "channelId": "UCvCfpQXRXdJdL07pzTIA6Cw",
-      "outlier": true,
-      "date": "06/11/2026",
-      "publishedAt": "2026-11-06T20:37:17+00:00",
-      "headline": "🎮PLAYING EVERY GTA UNTIL I BEAT IT: Grand Theft Auto SAN ANDREAS🎮",
-      "desc": "FOLLOW ME ON TWITCH: https://www.twitch.tv/kaicenat JOIN THE REDDIT  : https://www.reddit.com/r/TheKM/ Follow My ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('🎮PLAYING EVERY GTA UNTIL I BEAT IT: Grand Theft Auto SAN ANDREAS🎮') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=jmRH9uvgPNk"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
       "channelId": "UCzfV5AQ2vRhN4lfGkR4UwRg",
       "outlier": true,
       "date": "05/11/2026",
@@ -454,6 +439,21 @@
     {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+      "outlier": true,
+      "date": "15/10/2026",
+      "publishedAt": "2026-10-15T13:13:38+00:00",
+      "headline": "GTA 6 (Grand Theft Auto 6) - Official Launch Trailer",
+      "desc": "Don't miss the Launch Trailer for GTA 6, the latest entry in the third-person open-world action-adventure Grand Theft Auto ...",
+      "signal": 5,
+      "hook": "Abre direto com 'GTA 6 (Grand Theft Auto 6) - Official Launch Trailer' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=oFwB6gZLRmc"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
       "source": "reddit",
       "videoType": null,
       "channelId": null,
@@ -510,21 +510,6 @@
       "signal": 5,
       "hook": "Abre direto com 'Release Day Plan Regarding Spoilers/NSFW' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
       "url": "https://www.reddit.com/r/GTA6/comments/1xisug9/release_day_plan_regarding_spoilersnsfw/"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
-      "outlier": true,
-      "date": "15/10/2026",
-      "publishedAt": "2026-10-15T13:13:38+00:00",
-      "headline": "GTA 6 (Grand Theft Auto 6) - Official Launch Trailer",
-      "desc": "Don't miss the Launch Trailer for GTA 6, the latest entry in the third-person open-world action-adventure Grand Theft Auto ...",
-      "signal": 5,
-      "hook": "Abre direto com 'GTA 6 (Grand Theft Auto 6) - Official Launch Trailer' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=oFwB6gZLRmc"
     },
     {
       "cat": "vendas",
@@ -715,6 +700,21 @@
       "signal": 5,
       "hook": "Abre contando \"GTA 6 mudou de data de novo\" e mostra a linha do tempo de todos os adiamentos em 15 segundos — funciona bem com contador visual.",
       "url": null
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCvCfpQXRXdJdL07pzTIA6Cw",
+      "outlier": true,
+      "date": "06/11/2026",
+      "publishedAt": "2026-11-06T20:37:17+00:00",
+      "headline": "🎮PLAYING EVERY GTA UNTIL I BEAT IT: Grand Theft Auto SAN ANDREAS🎮",
+      "desc": "FOLLOW ME ON TWITCH: https://www.twitch.tv/kaicenat JOIN THE REDDIT  : https://www.reddit.com/r/TheKM/ Follow My ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('🎮PLAYING EVERY GTA UNTIL I BEAT IT: Grand Theft Auto SAN ANDREAS🎮') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=jmRH9uvgPNk"
     },
     {
       "cat": "viral",
