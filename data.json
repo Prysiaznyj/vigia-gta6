@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T20:20:37+00:00",
+  "updated": "2026-11-09T05:47:54+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCDI3E07f-OTKNYYm_KUgVOg",
+      "outlier": true,
+      "date": "08/11/2026",
+      "publishedAt": "2026-11-08T01:11:44+00:00",
+      "headline": "GTA 6 AYUDA 🤣👁️ #mrrelevante #videojuegos",
+      "desc": "MOMENTOS ÉPICOS DE INTERNET! ¡GTA 6 ESTÁ A SOLAMENTE 12 DÍAS! ¡SEÑORES, ESTO YA NO ES UN SIMULACRO!",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 AYUDA 🤣👁️ #mrrelevante #videojuegos') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=JcGoUAmRSZc"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCGHqUDTxllmPmQJm4IJXcqw",
       "outlier": true,
       "date": "06/11/2026",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('不要随便欺负他人。#GTA #GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=oqpXq8dgUxM"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC4BtoPpW5BkTO4J21-KAgsg",
-      "outlier": true,
-      "date": "03/11/2026",
-      "publishedAt": "2026-11-03T23:13:17+00:00",
-      "headline": "Su ÚLTIMO deseo era jugar GTA 6 💔",
-      "desc": "Vídeo em alta sobre GTA 6 (644683 views).",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Su ÚLTIMO deseo era jugar GTA 6 💔') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=JwoLmwSzV2E"
     },
     {
       "cat": "lancamento",
@@ -719,6 +719,21 @@
     {
       "cat": "viral",
       "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UC4BtoPpW5BkTO4J21-KAgsg",
+      "outlier": true,
+      "date": "03/11/2026",
+      "publishedAt": "2026-11-03T23:13:17+00:00",
+      "headline": "Su ÚLTIMO deseo era jugar GTA 6 💔",
+      "desc": "Vídeo em alta sobre GTA 6 (644683 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Su ÚLTIMO deseo era jugar GTA 6 💔') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=JwoLmwSzV2E"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
       "source": "reddit",
       "videoType": null,
       "channelId": null,
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Asking Mom To Buy Us PS5 For GTA 6 😍') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=fzvtyRSaLX4"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCik4YDQazp-EIr8heaY096w",
-      "outlier": true,
-      "date": "02/11/2026",
-      "publishedAt": "2026-11-02T12:25:57+00:00",
-      "headline": "Can i go GTA 6 from N point of GTA 5 ?",
-      "desc": "Can i go GTA 6 from N point of GTA 5 ? #gta #franklin #gta5 #gtav #gta5gameplay #technogamerz #gtaonline #supercars #zoo ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Can i go GTA 6 from N point of GTA 5 ?') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=GtWLu_89n-s"
     }
   ]
 }
