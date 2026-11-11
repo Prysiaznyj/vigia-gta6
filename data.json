@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T05:44:53+00:00",
+  "updated": "2026-11-11T16:01:07+00:00",
   "items": [
     {
       "cat": "lancamento",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCjBz-SDpfjRWZ-5Wc5Tj4kw",
+      "outlier": true,
+      "date": "10/11/2026",
+      "publishedAt": "2026-11-10T09:00:27+00:00",
+      "headline": "Kai Was About To Buy GTA 6 For His Young Fan But His Father Declined 💖",
+      "desc": "Kai Was About To Buy GTA 6 For His Young Fan But His Father Declined Subscribe For More!",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Kai Was About To Buy GTA 6 For His Young Fan But His Father Declined 💖') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=eJyfu6Aetag"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCdFhdWnY4JZH047gZ4fgxeA",
       "outlier": true,
       "date": "09/11/2026",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Coughing 2 Weeks Before GTA 6 #gta6 #rockstar #comedy #gaming') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=yoYZO1lONSg"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCWQrSQ0wJ3oZshXsZcl_Srg",
-      "outlier": true,
-      "date": "06/11/2026",
-      "publishedAt": "2026-11-06T01:45:52+00:00",
-      "headline": "😭📉 GTA 6 will crash the economy?",
-      "desc": "Credit: ABC news, Rockstar Games, @jacobweeby, @therealpapashady, Disney, EsDeeKid, N0ID Song: EsDeeKid - Mist ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('😭📉 GTA 6 will crash the economy?') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=nSufqO_bzOM"
     },
     {
       "cat": "lancamento",
@@ -721,6 +721,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCWQrSQ0wJ3oZshXsZcl_Srg",
+      "outlier": true,
+      "date": "06/11/2026",
+      "publishedAt": "2026-11-06T01:45:52+00:00",
+      "headline": "😭📉 GTA 6 will crash the economy?",
+      "desc": "Credit: ABC news, Rockstar Games, @jacobweeby, @therealpapashady, Disney, EsDeeKid, N0ID Song: EsDeeKid - Mist ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('😭📉 GTA 6 will crash the economy?') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=nSufqO_bzOM"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCzLFIPtShz979JQsJGOof0Q",
       "outlier": true,
       "date": "06/11/2026",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('杰森保护露西娅。#GTA #GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=IV0fp-OnBzo"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCiOkFNdJsXCOKYrHlxiwCYQ",
-      "outlier": true,
-      "date": "04/11/2026",
-      "publishedAt": "2026-11-04T01:33:40+00:00",
-      "headline": "El día que salga GTA 6 estos mundos quedarán vacíos #gta #gta5 #gta6 #shorts",
-      "desc": "gta #gta6 #gta5 #gtaonline #gtav #trashudo #trashudogames #shorts #fyp #foryou #viralvideo Suscríbete, dale like y activa la ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('El día que salga GTA 6 estos mundos quedarán vacíos #gta #gta5 #gta6 #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=1_A0v-iMVTo"
     }
   ]
 }
