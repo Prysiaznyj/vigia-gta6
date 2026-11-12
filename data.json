@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T06:50:25+00:00",
+  "updated": "2026-11-12T16:43:39+00:00",
   "items": [
     {
       "cat": "lancamento",
@@ -156,6 +156,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
+      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
+      "outlier": true,
+      "date": "10/11/2026",
+      "publishedAt": "2026-11-10T03:38:01+00:00",
+      "headline": "GTA 6: Game Files DATAMINED &amp; GTA 6 Online Hints...",
+      "desc": "Get 10% off all GamerSupps products with this link - https://gamersupps.gg/tgg Follow me on Twitter/X: ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: Game Files DATAMINED &amp; GTA 6 Online Hints...') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=kqGKEVdC5k4"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
       "channelId": "UCNvzD7Z-g64bPXxGzaQaa4g",
       "outlier": true,
       "date": "03/11/2026",
@@ -287,19 +302,19 @@
       "url": "https://youtube.com/watch?v=5dPwBWvmcbQ"
     },
     {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
+      "cat": "viral",
+      "tagLabel": "Viral",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCqFxTO3kiOaKtDGoFt7HimQ",
+      "videoType": "curto",
+      "channelId": "UC8NDrCKZ27lPzsk8uifXgSQ",
       "outlier": true,
-      "date": "12/10/2026",
-      "publishedAt": "2026-10-12T19:00:12+00:00",
-      "headline": "The World Isn&#39;t Ready For GTA 6",
-      "desc": "How GTA 6 will change the world, from 30 million people skipping work on launch day to Miami turning into Vice City. And my ...",
+      "date": "09/11/2026",
+      "publishedAt": "2026-11-09T22:48:19+00:00",
+      "headline": "Los que faltarán por GTA 6 #gaming #gta6 #rockstargames #humor #gta #gta5",
+      "desc": "Vídeo em alta sobre GTA 6 (1553170 views).",
       "signal": 5,
-      "hook": "Abre direto com 'The World Isn&#39;t Ready For GTA 6' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=UpNCw7eWOng"
+      "hook": "Mostra o clipe/post que tá bombando ('Los que faltarán por GTA 6 #gaming #gta6 #rockstargames #humor #gta #gta5') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=1Oi1xrIHJ38"
     },
     {
       "cat": "viral",
@@ -437,19 +452,19 @@
       "url": "https://youtube.com/watch?v=ZdIQRi88TU4"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
       "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCGjDdKgCdE1EpsSl5CjIzqA",
+      "videoType": "longo",
+      "channelId": "UCqFxTO3kiOaKtDGoFt7HimQ",
       "outlier": true,
-      "date": "08/11/2026",
-      "publishedAt": "2026-11-08T03:00:08+00:00",
-      "headline": "He Acting Like Real Life GTA 6 With Car Whell #shorts #facts",
-      "desc": "car cars wheel like turns into tyre wheel.",
+      "date": "12/10/2026",
+      "publishedAt": "2026-10-12T19:00:12+00:00",
+      "headline": "The World Isn&#39;t Ready For GTA 6",
+      "desc": "How GTA 6 will change the world, from 30 million people skipping work on launch day to Miami turning into Vice City. And my ...",
       "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('He Acting Like Real Life GTA 6 With Car Whell #shorts #facts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=G9syiUURpF0"
+      "hook": "Abre direto com 'The World Isn&#39;t Ready For GTA 6' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=UpNCw7eWOng"
     },
     {
       "cat": "lancamento",
@@ -721,6 +736,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCGjDdKgCdE1EpsSl5CjIzqA",
+      "outlier": true,
+      "date": "08/11/2026",
+      "publishedAt": "2026-11-08T03:00:08+00:00",
+      "headline": "He Acting Like Real Life GTA 6 With Car Whell #shorts #facts",
+      "desc": "car cars wheel like turns into tyre wheel.",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('He Acting Like Real Life GTA 6 With Car Whell #shorts #facts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=G9syiUURpF0"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UCiLheImv1DkPWvua5UBk0Ig",
       "outlier": true,
       "date": "07/11/2026",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('A GTA6 ALLIGATOR XBOX?! 👀') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=NfM6QeZhusI"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "reddit",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "09/11/2026",
-      "publishedAt": "2026-11-09T16:04:50+00:00",
-      "headline": "[Countdown] GTA VI Release Begins",
-      "desc": "This post contains content not supported on old Reddit. Click here to view the full post",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('[Countdown] GTA VI Release Begins') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://www.reddit.com/r/GTA6/comments/1xrvkxj/countdown_gta_vi_release_begins/"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCnNQB-rVjaOCNSBhKXqXuMg",
-      "outlier": true,
-      "date": "04/11/2026",
-      "publishedAt": "2026-11-04T13:00:18+00:00",
-      "headline": "不要随便欺负他人。#GTA #GTA6",
-      "desc": "欢迎加入【GTA6冒险】频道～ 在这里，我们将用心创作每一个视频，通过精心设计的角色扮演、剧情演绎、开放世界趣味玩法！",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('不要随便欺负他人。#GTA #GTA6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=oqpXq8dgUxM"
     }
   ]
 }
