@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T12:02:42+00:00",
+  "updated": "2026-11-13T21:53:17+00:00",
   "items": [
     {
       "cat": "lancamento",
@@ -152,6 +152,36 @@
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcjlGLWk0VUNsU0VrbG9aek1wZ0lWeHRwT3J0alV5SXozakxIOHhid1ZHSGQya0c5bk42RkFMTjVrMjNtUzlnUktmczZNU1VSUmFuZ2luVVlDcUlONjZtMzA2R0tEZnZEd0RnRnpJd3J1QVMwNE1UbGttX2JGLVVrYnE0aF9qU1pJemN2enNmcVdZbHRFaUN1ZWF3MG1wLXBxSGtpMkNOWHdOZ0ZLanNaZVpJaFVxVWFJVmg5Y05Vci1sQ0o1b0I1OEpuZndGMkxrRUYxTkZERjRQdjdmNC13?oc=5"
     },
     {
+      "cat": "vendas",
+      "tagLabel": "Vendas & Preço",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UC83iGbaOhZR8AWNYYNzSNjg",
+      "outlier": true,
+      "date": "13/11/2026",
+      "publishedAt": "2026-11-13T18:00:11+00:00",
+      "headline": "GTA 6 Makes $1 Billion Before Launch: Why Is the World Obsessed? | The Palki Sharma Show | IGR",
+      "desc": "GTA 6 hasn't even been released, but it has already generated over $1 billion in pre-order sales, with more than 11 million copies ...",
+      "signal": 5,
+      "hook": "Número na cara logo na primeira frase: 'GTA 6 Makes $1 Billion Before Launch: Why Is the World Obsessed? | The Palki Sharma Show | IGR' — formato \"isso é muito ou pouco?\".",
+      "url": "https://youtube.com/watch?v=xp8BuGbHXro"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCI1-J45WXprOQQ_m9pmfW9A",
+      "outlier": true,
+      "date": "12/11/2026",
+      "publishedAt": "2026-11-12T22:04:49+00:00",
+      "headline": "GTA 6 in 1 WEEK - The Complete Guide Before You Play",
+      "desc": "GTA 6 in 1 WEEK - The Complete Guide Before You Play SUBSCRIBE and DROP A LIKE! GTA 6 is bringing some MASSIVE ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 in 1 WEEK - The Complete Guide Before You Play') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=7s0H46Kc8aw"
+    },
+    {
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
@@ -270,36 +300,6 @@
       "signal": 5,
       "hook": "Abre direto com 'Kurz vor Release sieht GTA 6 plötzlich ganz anders aus!' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
       "url": "https://youtube.com/watch?v=d_2mHTSaYRs"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
-      "outlier": true,
-      "date": "15/10/2026",
-      "publishedAt": "2026-10-15T17:27:23+00:00",
-      "headline": "GTA 6 Launch Trailer: Everything New YOU MISSED",
-      "desc": "Get 10% off all GamerSupps products with this link - https://gamersupps.gg/tgg Follow me on Twitter/X: ...",
-      "signal": 5,
-      "hook": "Abre direto com 'GTA 6 Launch Trailer: Everything New YOU MISSED' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=FV93IVwJP_4"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCQ5Ssrs48yJBfOesfDqXUeA",
-      "outlier": true,
-      "date": "15/10/2026",
-      "publishedAt": "2026-10-15T13:39:06+00:00",
-      "headline": "Justice - Flower In A Hurricane (ft Tame Impala, SZA, King Gizzard &amp; the Lizard Wizard) [from GTAVI]",
-      "desc": "Listen to 'Flower In A Hurricane': https://justice.lnk.to/flowerinahurricane Sign up to learn more about Justice's upcoming Grand ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Justice - Flower In A Hurricane (ft Tame Impala, SZA, King Gizzard &amp; the Lizard Wizard) [from GTAVI]') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=5dPwBWvmcbQ"
     },
     {
       "cat": "viral",
@@ -450,6 +450,21 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Do NOT vandalize GTA 6 art 😭') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=ax1HLZGWXXI"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
+      "outlier": true,
+      "date": "15/10/2026",
+      "publishedAt": "2026-10-15T17:27:23+00:00",
+      "headline": "GTA 6 Launch Trailer: Everything New YOU MISSED",
+      "desc": "Get 10% off all GamerSupps products with this link - https://gamersupps.gg/tgg Follow me on Twitter/X: ...",
+      "signal": 5,
+      "hook": "Abre direto com 'GTA 6 Launch Trailer: Everything New YOU MISSED' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=FV93IVwJP_4"
     },
     {
       "cat": "lancamento",
@@ -735,6 +750,21 @@
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UCQ5Ssrs48yJBfOesfDqXUeA",
+      "outlier": true,
+      "date": "15/10/2026",
+      "publishedAt": "2026-10-15T13:39:06+00:00",
+      "headline": "Justice - Flower In A Hurricane (ft Tame Impala, SZA, King Gizzard &amp; the Lizard Wizard) [from GTAVI]",
+      "desc": "Listen to 'Flower In A Hurricane': https://justice.lnk.to/flowerinahurricane Sign up to learn more about Justice's upcoming Grand ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Justice - Flower In A Hurricane (ft Tame Impala, SZA, King Gizzard &amp; the Lizard Wizard) [from GTAVI]') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=5dPwBWvmcbQ"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
       "videoType": "curto",
       "channelId": "UCjBz-SDpfjRWZ-5Wc5Tj4kw",
       "outlier": true,
@@ -841,21 +871,6 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
-      "channelId": "UCDI3E07f-OTKNYYm_KUgVOg",
-      "outlier": true,
-      "date": "08/11/2026",
-      "publishedAt": "2026-11-08T01:11:44+00:00",
-      "headline": "GTA 6 AYUDA 🤣👁️ #mrrelevante #videojuegos",
-      "desc": "MOMENTOS ÉPICOS DE INTERNET! ¡GTA 6 ESTÁ A SOLAMENTE 12 DÍAS! ¡SEÑORES, ESTO YA NO ES UN SIMULACRO!",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 AYUDA 🤣👁️ #mrrelevante #videojuegos') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=JcGoUAmRSZc"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
       "channelId": "UCGHqUDTxllmPmQJm4IJXcqw",
       "outlier": true,
       "date": "06/11/2026",
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Coughing 2 Weeks Before GTA 6 #gta6 #rockstar #comedy #gaming') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=yoYZO1lONSg"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCWQrSQ0wJ3oZshXsZcl_Srg",
-      "outlier": true,
-      "date": "06/11/2026",
-      "publishedAt": "2026-11-06T01:45:52+00:00",
-      "headline": "😭📉 GTA 6 will crash the economy?",
-      "desc": "Credit: ABC news, Rockstar Games, @jacobweeby, @therealpapashady, Disney, EsDeeKid, N0ID Song: EsDeeKid - Mist ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('😭📉 GTA 6 will crash the economy?') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=nSufqO_bzOM"
     }
   ]
 }
