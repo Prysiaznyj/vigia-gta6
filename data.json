@@ -1,6 +1,21 @@
 {
-  "updated": "2026-11-15T15:33:43+00:00",
+  "updated": "2026-11-15T20:57:01+00:00",
   "items": [
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "15/11/2026",
+      "publishedAt": "2026-11-15T16:46:30+00:00",
+      "headline": "Trilha oficial de GTA 6 inclui faixas inéditas de Keith Richards, Justice e outros artistas",
+      "desc": "Fonte: Espaço do Povo",
+      "signal": 4,
+      "hook": "Curiosidade rápida: 'Trilha oficial de GTA 6 inclui faixas inéditas de Keith Richards, Justice e outros artistas' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PdUFTMzduaHh1clZxUjFsLUtkZHk0Q3QtdC1QWjZLZTNWY2xYYlhBbDVYeXpFZlBJWWE2cFAxOFRlX3ZmTU5tY3UzdXhJd2FTSm9TbVJqTXMtQlM2ZTFYTUlEOA?oc=5"
+    },
     {
       "cat": "lancamento",
       "tagLabel": "Lançamento",
@@ -137,19 +152,19 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMUVrbzB5RTJ5NnZwY1JhUlQzbW82WjFFUHE1Yk9tSlYyZW0wQlBqb1dsVFNCUVlUWGl6a1pzWkNUdnR3TFpuXzlONEJPWUlfWXMwdklzRGZPUm51M3Z6MGgzSGxSYUFTSFQ4M0pDNExqdVFISXNBckV3d0hyRnp4WXhMOVFVa3BMYlFXaVc2SGVaNXFlMnFSVC15WF9adDRzc2ZaQ3lQN2NaN2pkQUZ1QQ?oc=5"
     },
     {
-      "cat": "curiosidade",
-      "tagLabel": "Curiosidade",
-      "source": "news",
-      "videoType": null,
-      "channelId": null,
-      "outlier": false,
-      "date": "17/10/2026",
-      "publishedAt": "2026-10-17T13:05:09+00:00",
-      "headline": "Não termine GTA 6 apenas uma vez! A Rockstar confirma que seu jogo foi projetado para ser jogado várias vezes, assim como Red Dead Redemption 2",
-      "desc": "Fonte: IGN Brasil",
-      "signal": 4,
-      "hook": "Curiosidade rápida: 'Não termine GTA 6 apenas uma vez! A Rockstar confirma que seu jogo foi projetado para ser jogado várias vezes, assim como Red Dead Redemption 2' — bom pra fechar um vídeo ou virar corte solto.",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcjlGLWk0VUNsU0VrbG9aek1wZ0lWeHRwT3J0alV5SXozakxIOHhid1ZHSGQya0c5bk42RkFMTjVrMjNtUzlnUktmczZNU1VSUmFuZ2luVVlDcUlONjZtMzA2R0tEZnZEd0RnRnpJd3J1QVMwNE1UbGttX2JGLVVrYnE0aF9qU1pJemN2enNmcVdZbHRFaUN1ZWF3MG1wLXBxSGtpMkNOWHdOZ0ZLanNaZVpJaFVxVWFJVmg5Y05Vci1sQ0o1b0I1OEpuZndGMkxrRUYxTkZERjRQdjdmNC13?oc=5"
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
+      "outlier": true,
+      "date": "15/11/2026",
+      "publishedAt": "2026-11-15T07:15:33+00:00",
+      "headline": "GTA 6: Everything You NEED To Know (3 Days Left)",
+      "desc": "Get 10% off all GamerSupps products with this link - https://gamersupps.gg/tgg Follow me on Twitter/X: ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: Everything You NEED To Know (3 Days Left)') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=wEGdTkRL-uI"
     },
     {
       "cat": "vendas",
@@ -287,19 +302,19 @@
       "url": "https://youtube.com/watch?v=iNzi8lRzV_Y"
     },
     {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
+      "cat": "viral",
+      "tagLabel": "Viral",
       "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UC6C1dyHHOMVIBAze8dWfqCw",
+      "videoType": "curto",
+      "channelId": "UCiLheImv1DkPWvua5UBk0Ig",
       "outlier": true,
-      "date": "23/10/2026",
-      "publishedAt": "2026-10-23T15:24:39+00:00",
-      "headline": "Kurz vor Release sieht GTA 6 plötzlich ganz anders aus!",
-      "desc": "Spiele für Steam, Uplay und Co. jetzt digital bei Gamesplanet.com kaufen: http://bit.ly/2of1MR0 (WERBUNG*) Der Launch Trailer ...",
+      "date": "14/11/2026",
+      "publishedAt": "2026-11-14T17:39:35+00:00",
+      "headline": "We Bought a NEW TV For GTA 6 😎",
+      "desc": "We Bought a NEW TV For GTA 6 #gta6 #tv #gtavi GTA 6, GTA VI, GTA 6 India, GTA 6 Hindi, new TV, buying new TV, bought a ...",
       "signal": 5,
-      "hook": "Abre direto com 'Kurz vor Release sieht GTA 6 plötzlich ganz anders aus!' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=d_2mHTSaYRs"
+      "hook": "Mostra o clipe/post que tá bombando ('We Bought a NEW TV For GTA 6 😎') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=6lpyJUyu2kk"
     },
     {
       "cat": "viral",
@@ -437,19 +452,19 @@
       "url": "https://youtube.com/watch?v=9VQCQmab6l0"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
       "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCga6uMv6x1mMOwolhD9cXAA",
+      "videoType": "longo",
+      "channelId": "UC6C1dyHHOMVIBAze8dWfqCw",
       "outlier": true,
-      "date": "10/11/2026",
-      "publishedAt": "2026-11-10T15:42:34+00:00",
-      "headline": "When Electricity is Important 🥲 #gta6",
-      "desc": "Vídeo em alta sobre GTA 6 (6453099 views).",
+      "date": "23/10/2026",
+      "publishedAt": "2026-10-23T15:24:39+00:00",
+      "headline": "Kurz vor Release sieht GTA 6 plötzlich ganz anders aus!",
+      "desc": "Spiele für Steam, Uplay und Co. jetzt digital bei Gamesplanet.com kaufen: http://bit.ly/2of1MR0 (WERBUNG*) Der Launch Trailer ...",
       "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('When Electricity is Important 🥲 #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=f8tl2MenR-E"
+      "hook": "Abre direto com 'Kurz vor Release sieht GTA 6 plötzlich ganz anders aus!' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=d_2mHTSaYRs"
     },
     {
       "cat": "lancamento",
@@ -751,6 +766,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCga6uMv6x1mMOwolhD9cXAA",
+      "outlier": true,
+      "date": "10/11/2026",
+      "publishedAt": "2026-11-10T15:42:34+00:00",
+      "headline": "When Electricity is Important 🥲 #gta6",
+      "desc": "Vídeo em alta sobre GTA 6 (6453099 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('When Electricity is Important 🥲 #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=f8tl2MenR-E"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UC8NDrCKZ27lPzsk8uifXgSQ",
       "outlier": true,
       "date": "09/11/2026",
@@ -865,36 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('The GTA 6 Ferrari spotted driving around Miami is now in Londons biggest stores Selfridges 🌴 #gta6') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=8EsgowDBUTE"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UC2xFKdG6sG0C68mP11wMbng",
-      "outlier": true,
-      "date": "09/11/2026",
-      "publishedAt": "2026-11-09T13:00:26+00:00",
-      "headline": "露西亚离开时候发生了什么？！#gta #gta6#shorts",
-      "desc": "这里是GTA的专属解说、同人混剪、cos实拍专属频道，聚焦《GTA》全系列内容，深度解析第一季剧情伏笔，持续追踪第二季最新 ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('露西亚离开时候发生了什么？！#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=Bhw-u0TVErY"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCyLJyetGleLEx-3IwgUIqtQ",
-      "outlier": true,
-      "date": "09/11/2026",
-      "publishedAt": "2026-11-09T11:00:26+00:00",
-      "headline": "When Lil Bro Tries To Buy GTA 6!  #roblox #robloxanimation #gta6 #gtavi",
-      "desc": "roblox #robloxanimation #robloxedit #robloxmeme #robloxcutestory #cutestory #cute #gta6 #gtavi.",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('When Lil Bro Tries To Buy GTA 6!  #roblox #robloxanimation #gta6 #gtavi') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=fK5MOejbbvE"
     }
   ]
 }
