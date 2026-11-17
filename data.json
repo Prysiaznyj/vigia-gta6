@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T13:00:23+00:00",
+  "updated": "2026-11-17T23:26:44+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -231,21 +231,6 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "longo",
-      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
-      "outlier": true,
-      "date": "03/11/2026",
-      "publishedAt": "2026-11-03T16:50:36+00:00",
-      "headline": "BREAKING: GTA 6 Pre-Load Beginning EARLY &amp; FREE MAP FOR EVERYONE!",
-      "desc": "Time converter: https://www.timeanddate.com/worldclock/converter.html?iso=20261110T000000&p1=tz_gmt Get 10% off all ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('BREAKING: GTA 6 Pre-Load Beginning EARLY &amp; FREE MAP FOR EVERYONE!') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=_Y3ioycfWzc"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
       "channelId": "UCKvoBRFqMNqvuSvFBiNadgw",
       "outlier": true,
       "date": "01/11/2026",
@@ -287,19 +272,49 @@
       "url": "https://youtube.com/watch?v=gzOPNM6I7tY"
     },
     {
-      "cat": "viral",
-      "tagLabel": "Viral",
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
+      "source": "youtube",
+      "videoType": "longo",
+      "channelId": "UC6C1dyHHOMVIBAze8dWfqCw",
+      "outlier": true,
+      "date": "23/10/2026",
+      "publishedAt": "2026-10-23T15:24:39+00:00",
+      "headline": "Kurz vor Release sieht GTA 6 plötzlich ganz anders aus!",
+      "desc": "Spiele für Steam, Uplay und Co. jetzt digital bei Gamesplanet.com kaufen: http://bit.ly/2of1MR0 (WERBUNG*) Der Launch Trailer ...",
+      "signal": 5,
+      "hook": "Abre direto com 'Kurz vor Release sieht GTA 6 plötzlich ganz anders aus!' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=d_2mHTSaYRs"
+    },
+    {
+      "cat": "lancamento",
+      "tagLabel": "Lançamento",
       "source": "youtube",
       "videoType": "longo",
       "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
       "outlier": true,
-      "date": "29/10/2026",
-      "publishedAt": "2026-10-29T04:01:20+00:00",
-      "headline": "GTA 6: NEW INFO - 12 New Screenshots, K-9 Units, Weather, Seasons, Interiors &amp; More!",
+      "date": "15/10/2026",
+      "publishedAt": "2026-10-15T17:27:23+00:00",
+      "headline": "GTA 6 Launch Trailer: Everything New YOU MISSED",
       "desc": "Get 10% off all GamerSupps products with this link - https://gamersupps.gg/tgg Follow me on Twitter/X: ...",
       "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6: NEW INFO - 12 New Screenshots, K-9 Units, Weather, Seasons, Interiors &amp; More!') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=iNzi8lRzV_Y"
+      "hook": "Abre direto com 'GTA 6 Launch Trailer: Everything New YOU MISSED' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
+      "url": "https://youtube.com/watch?v=FV93IVwJP_4"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCnYKRFQRndE3Wq1eLRQLfWw",
+      "outlier": true,
+      "date": "15/11/2026",
+      "publishedAt": "2026-11-15T14:56:24+00:00",
+      "headline": "Every GTA 6 Lover in India 😉🎮 | Kuldeep Singhaniaa #shorts",
+      "desc": "Vídeo em alta sobre GTA 6 (7572080 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Every GTA 6 Lover in India 😉🎮 | Kuldeep Singhaniaa #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=M8yn2PbAgB8"
     },
     {
       "cat": "viral",
@@ -435,51 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('杰森遇上露西亚#gta #gta6#shorts') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=Fseeon6JxrU"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCp1WLdyf-HyM5umAkVyWtIw",
-      "outlier": true,
-      "date": "14/11/2026",
-      "publishedAt": "2026-11-14T17:10:01+00:00",
-      "headline": "Мир остановится в день выхода GTA 6?",
-      "desc": "новости, новости сегодня, новости дня, главные новости сегодня, главные новости, свежие новости, сегодняшнего дня, ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('Мир остановится в день выхода GTA 6?') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=ZOj9xB-WFts"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UC6C1dyHHOMVIBAze8dWfqCw",
-      "outlier": true,
-      "date": "23/10/2026",
-      "publishedAt": "2026-10-23T15:24:39+00:00",
-      "headline": "Kurz vor Release sieht GTA 6 plötzlich ganz anders aus!",
-      "desc": "Spiele für Steam, Uplay und Co. jetzt digital bei Gamesplanet.com kaufen: http://bit.ly/2of1MR0 (WERBUNG*) Der Launch Trailer ...",
-      "signal": 5,
-      "hook": "Abre direto com 'Kurz vor Release sieht GTA 6 plötzlich ganz anders aus!' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=d_2mHTSaYRs"
-    },
-    {
-      "cat": "lancamento",
-      "tagLabel": "Lançamento",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
-      "outlier": true,
-      "date": "15/10/2026",
-      "publishedAt": "2026-10-15T17:27:23+00:00",
-      "headline": "GTA 6 Launch Trailer: Everything New YOU MISSED",
-      "desc": "Get 10% off all GamerSupps products with this link - https://gamersupps.gg/tgg Follow me on Twitter/X: ...",
-      "signal": 5,
-      "hook": "Abre direto com 'GTA 6 Launch Trailer: Everything New YOU MISSED' e mostra a fonte na tela — bom gancho de atualização de linha do tempo.",
-      "url": "https://youtube.com/watch?v=FV93IVwJP_4"
     },
     {
       "cat": "lancamento",
@@ -895,6 +865,36 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('GTA IV vs GTA V  Can GTA 6 Defeat GTA 5  Help GTA IV') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=Y4ZhxOPu0x8"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "17/11/2026",
+      "publishedAt": "2026-11-17T22:33:44+00:00",
+      "headline": "Miami Heat revela quadra da NBA em parceria com o GTA VI; confira",
+      "desc": "Fonte: Rádio Itatiaia",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'Miami Heat revela quadra da NBA em parceria com o GTA VI; confira' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc3JaTllFVWVpOFlySldURDhqREM0Z2VqcUhHdUtlT0psQXp0WVlaWklJU0x4cFBzWVpYQU11SkcwOVJ3Sk9vTlY5blhrakZyaDVIWlphODdUSzhaMFd2NlRvSndaRThNbGxUSWJ3OTBUTl9IODJPakRkelNhbDd0QkcxVnNJVVFjdE0xQXJ6YnpPV0pLcDlJUmF1WTNRRm1VNHgtRUFZbDlFNHJ0ODRTRUt2VjYwQQ?oc=5"
+    },
+    {
+      "cat": "curiosidade",
+      "tagLabel": "Curiosidade",
+      "source": "news",
+      "videoType": null,
+      "channelId": null,
+      "outlier": false,
+      "date": "17/11/2026",
+      "publishedAt": "2026-11-17T22:06:00+00:00",
+      "headline": "Rockstar revela novas imagens de GTA 6 em parceria com The Weather Channel e mostra tempestades, neblina e chuvas que mudam conforme a região do mapa de Leonida",
+      "desc": "Fonte: Terra",
+      "signal": 3,
+      "hook": "Curiosidade rápida: 'Rockstar revela novas imagens de GTA 6 em parceria com The Weather Channel e mostra tempestades, neblina e chuvas que mudam conforme a região do mapa de Leonida' — bom pra fechar um vídeo ou virar corte solto.",
+      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNcGVIUzhvMUFxNkFCcUp3dlpScDNMQ01Tcjh0UGQ2YzJDU0NqaV9Vb1BLbUFJM2xIMWMzVGF2Z01CY010QmZwUllLaFJpWkxGaHZqT2VfYlIzNkMzajBhckxXUldaTW9uczBsdldEWkI1OThBZFlycXJSblVGaGF3czYwWjhjQ3FhRDdPU1FURlRlNGNNbUU2WDdNNDcybFQ5Um4yVTNxdk9WXy1BODFkczZKc2hNMGVoZDR5SjRQaHJYZFJYbENXZTlfQzdEcW84ZHMwWmI1QUZET0dLU2kzZURENkZyUFZzX2pvaVpIVDFtemd3TGFMSGtfUno3YjFWRFVPRTFtRFlMUGtpcXBueGNLVndBWUlnOHhXOXpCemNBek5GNTlYbXpJUVVDRkRsaGgyeXVPLXVOemd4TURlMU5kR1Yxa1hVTlRuVEMweXpNYVJXWElXamlWaw?oc=5"
     }
   ]
 }
