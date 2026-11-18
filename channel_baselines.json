@@ -2100,9 +2100,9 @@
     "calculadoEm": "2026-11-07T20:05:11+00:00"
   },
   "UCiLheImv1DkPWvua5UBk0Ig": {
-    "medianViews": 30215,
+    "medianViews": 32014,
     "amostra": 15,
-    "calculadoEm": "2026-11-17T02:51:23+00:00"
+    "calculadoEm": "2026-11-18T06:55:59+00:00"
   },
   "UCik4YDQazp-EIr8heaY096w": {
     "medianViews": 426077,
@@ -2270,34 +2270,34 @@
     "calculadoEm": "2026-11-17T23:26:18+00:00"
   },
   "UC0x6S18IiuQnyRPDdYSfRjg": {
-    "medianViews": 70075,
+    "medianViews": 71112,
     "amostra": 15,
-    "calculadoEm": "2026-11-17T02:51:32+00:00"
+    "calculadoEm": "2026-11-18T06:55:56+00:00"
   },
   "UCPQ6oQvj3ucc05axFBMQsTA": {
-    "medianViews": 82486,
-    "amostra": 9,
-    "calculadoEm": "2026-11-17T02:51:32+00:00"
+    "medianViews": 90198,
+    "amostra": 13,
+    "calculadoEm": "2026-11-18T06:55:57+00:00"
   },
   "UCy9yHWyHltiWyIrg-TScdYw": {
-    "medianViews": 34112,
+    "medianViews": 36695,
     "amostra": 15,
-    "calculadoEm": "2026-11-17T02:51:33+00:00"
+    "calculadoEm": "2026-11-18T06:55:57+00:00"
   },
   "UCiC2jDavSEr50tMVNG9q3Jg": {
-    "medianViews": 23965,
+    "medianViews": 25667,
     "amostra": 15,
-    "calculadoEm": "2026-11-17T02:51:33+00:00"
+    "calculadoEm": "2026-11-18T06:55:57+00:00"
   },
   "UCMYqdOZAuSjZsKOYA6egoTg": {
-    "medianViews": 16368,
+    "medianViews": 16416,
     "amostra": 15,
-    "calculadoEm": "2026-11-17T02:51:34+00:00"
+    "calculadoEm": "2026-11-18T06:55:58+00:00"
   },
   "UCssN5MGaXaLah2ES60qGHMA": {
-    "medianViews": 166582,
+    "medianViews": 86050,
     "amostra": 15,
-    "calculadoEm": "2026-11-17T02:51:34+00:00"
+    "calculadoEm": "2026-11-18T06:55:58+00:00"
   },
   "UCrb6wKFr-Zgrm8V2rLEFS-Q": {
     "medianViews": 12170.5,
@@ -2318,5 +2318,15 @@
     "medianViews": 3133356,
     "amostra": 15,
     "calculadoEm": "2026-11-17T23:26:32+00:00"
+  },
+  "UChEkE9e8zXMgmNNoTUTiHJg": {
+    "medianViews": 2948595,
+    "amostra": 15,
+    "calculadoEm": "2026-11-18T06:56:08+00:00"
+  },
+  "UCX8pnu3DYUnx8qy8V_c6oHg": {
+    "medianViews": 8661564,
+    "amostra": 15,
+    "calculadoEm": "2026-11-18T06:56:08+00:00"
   }
 }
