@@ -2145,9 +2145,9 @@
     "calculadoEm": "2026-11-11T15:59:42+00:00"
   },
   "UCvCfpQXRXdJdL07pzTIA6Cw": {
-    "medianViews": 784389,
+    "medianViews": 857676,
     "amostra": 15,
-    "calculadoEm": "2026-11-20T16:52:55+00:00"
+    "calculadoEm": "2026-11-21T21:32:59+00:00"
   },
   "UC78mJyZPMa_OG08KLHjhODw": {
     "medianViews": 426493,
@@ -2270,19 +2270,19 @@
     "calculadoEm": "2026-11-19T01:49:07+00:00"
   },
   "UC0x6S18IiuQnyRPDdYSfRjg": {
-    "medianViews": 162992,
+    "medianViews": 163446,
     "amostra": 15,
-    "calculadoEm": "2026-11-20T16:52:55+00:00"
+    "calculadoEm": "2026-11-21T21:32:48+00:00"
   },
   "UCPQ6oQvj3ucc05axFBMQsTA": {
-    "medianViews": 99942,
+    "medianViews": 106860,
     "amostra": 15,
-    "calculadoEm": "2026-11-20T16:52:55+00:00"
+    "calculadoEm": "2026-11-21T21:32:48+00:00"
   },
   "UCy9yHWyHltiWyIrg-TScdYw": {
-    "medianViews": 37339,
+    "medianViews": 25224,
     "amostra": 15,
-    "calculadoEm": "2026-11-20T16:52:55+00:00"
+    "calculadoEm": "2026-11-21T21:32:49+00:00"
   },
   "UCiC2jDavSEr50tMVNG9q3Jg": {
     "medianViews": 860,
@@ -2370,9 +2370,9 @@
     "calculadoEm": "2026-11-21T12:21:41+00:00"
   },
   "UCMNEVbszv8ZyvSXoTn3yhpQ": {
-    "medianViews": 186636,
+    "medianViews": 110482,
     "amostra": 15,
-    "calculadoEm": "2026-11-20T16:53:06+00:00"
+    "calculadoEm": "2026-11-21T21:32:48+00:00"
   },
   "UCIPPMRA040LQr5QPyJEbmXA": {
     "medianViews": 60080007,
@@ -2393,5 +2393,25 @@
     "medianViews": 176682,
     "amostra": 15,
     "calculadoEm": "2026-11-21T12:21:57+00:00"
+  },
+  "UC2u04hrt9sUTwaHUWlVPdKA": {
+    "medianViews": 187760,
+    "amostra": 15,
+    "calculadoEm": "2026-11-21T21:32:58+00:00"
+  },
+  "UCi7TVXyvrIwqeS9tfYD8UDA": {
+    "medianViews": 115906,
+    "amostra": 15,
+    "calculadoEm": "2026-11-21T21:32:59+00:00"
+  },
+  "UCdj4tDUy8z5fxrdm3cPXvPQ": {
+    "medianViews": 579749,
+    "amostra": 15,
+    "calculadoEm": "2026-11-21T21:32:59+00:00"
+  },
+  "UCgSeIWlJSDs5XjODclT-jAw": {
+    "medianViews": 67250,
+    "amostra": 15,
+    "calculadoEm": "2026-11-21T21:32:59+00:00"
   }
 }
