@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T16:53:39+00:00",
+  "updated": "2026-11-21T01:18:22+00:00",
   "items": [
     {
       "cat": "curiosidade",
@@ -306,6 +306,21 @@
       "tagLabel": "Viral",
       "source": "youtube",
       "videoType": "curto",
+      "channelId": "UCoJkyVrTmUGpQrnwqwjCwfA",
+      "outlier": true,
+      "date": "18/11/2026",
+      "publishedAt": "2026-11-18T17:13:05+00:00",
+      "headline": "Aapne download kia kya gta6 #shorts #gta #gta6 #funny #couple #shortvideo",
+      "desc": "Vídeo em alta sobre GTA 6 (13045461 views).",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('Aapne download kia kya gta6 #shorts #gta #gta6 #funny #couple #shortvideo') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=S3g3ooJARP8"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
+      "videoType": "curto",
       "channelId": "UC9tYJpGCSkzDt4HkPC4BtkA",
       "outlier": true,
       "date": "18/11/2026",
@@ -435,21 +450,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('Robbing Stores in GTA 6 Works Differently To GTA 5') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=wEzia71RXCo"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "curto",
-      "channelId": "UCy9yHWyHltiWyIrg-TScdYw",
-      "outlier": true,
-      "date": "15/11/2026",
-      "publishedAt": "2026-11-15T06:00:07+00:00",
-      "headline": "30 FPS ON PS5 IS NOT YOUR AVERAGE 30 FPS 💀 #gta6 #shorts",
-      "desc": "GTA 6 at 30 FPS on PS5 vs 30 FPS on PC! Same frame rate, but a different visual experience? Compare the GTA 6 graphics, ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('30 FPS ON PS5 IS NOT YOUR AVERAGE 30 FPS 💀 #gta6 #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=LoYS75VOvg8"
     },
     {
       "cat": "lancamento",
@@ -765,6 +765,21 @@
       "cat": "viral",
       "tagLabel": "Viral",
       "source": "youtube",
+      "videoType": "curto",
+      "channelId": "UCy9yHWyHltiWyIrg-TScdYw",
+      "outlier": true,
+      "date": "15/11/2026",
+      "publishedAt": "2026-11-15T06:00:07+00:00",
+      "headline": "30 FPS ON PS5 IS NOT YOUR AVERAGE 30 FPS 💀 #gta6 #shorts",
+      "desc": "GTA 6 at 30 FPS on PS5 vs 30 FPS on PC! Same frame rate, but a different visual experience? Compare the GTA 6 graphics, ...",
+      "signal": 5,
+      "hook": "Mostra o clipe/post que tá bombando ('30 FPS ON PS5 IS NOT YOUR AVERAGE 30 FPS 💀 #gta6 #shorts') e reage em cima — aproveita o algoritmo já aquecido.",
+      "url": "https://youtube.com/watch?v=LoYS75VOvg8"
+    },
+    {
+      "cat": "viral",
+      "tagLabel": "Viral",
+      "source": "youtube",
       "videoType": "longo",
       "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
       "outlier": true,
@@ -880,21 +895,6 @@
       "signal": 5,
       "hook": "Mostra o clipe/post que tá bombando ('🔴GTA 6 LIVE - Free Roam Gameplay & Exploring the Map! (No Spoilers)') e reage em cima — aproveita o algoritmo já aquecido.",
       "url": "https://youtube.com/watch?v=2EaoIgWAW5g"
-    },
-    {
-      "cat": "viral",
-      "tagLabel": "Viral",
-      "source": "youtube",
-      "videoType": "longo",
-      "channelId": "UCdlJx-w37viXFNq__qZ7ARQ",
-      "outlier": true,
-      "date": "18/11/2026",
-      "publishedAt": "2026-11-18T10:35:29+00:00",
-      "headline": "GTA 6 O ÍNICIO! 🔴 Paulinho o LOKO",
-      "desc": "Hoje, 18/11/2026, começa uma nova jornada no GTA 6! Depois de anos de espera, chegou a hora de viver novas histórias e ...",
-      "signal": 5,
-      "hook": "Mostra o clipe/post que tá bombando ('GTA 6 O ÍNICIO! 🔴 Paulinho o LOKO') e reage em cima — aproveita o algoritmo já aquecido.",
-      "url": "https://youtube.com/watch?v=cxuF5siTUQw"
     }
   ]
 }
